@@ -1,0 +1,20 @@
+{
+  "id": "noise-white",
+  "file": "noise-white.mp3",
+  "title": "Белый шум — 10 минут",
+  "title_original": "White Noise (10 minutes)",
+  "composer_id": "tone-generator",
+  "performer_id": null,
+  "year_composed": 2012,
+  "year_recorded": 2012,
+  "era": "contemporary",
+  "style": [
+    "noise"
+  ],
+  "duration_sec": 600,
+  "description_md": "Белый шум — звуковой сигнал с равной амплитудой во всём слышимом диапазоне (от 20 Hz до 20 kHz). Название от аналогии с белым светом, в котором также равномерно представлены все частоты видимого спектра. Используется как маскер отвлекающих звуков (особенно в офисах с открытой планировкой), для засыпания младенцев (имитирует утробный фон) и как тестовый сигнал в аудиотехнике.\n\nЭта запись синтезирована Sound Forge 9.0e в стерео 24-bit/48 kHz и сжата до 96 kbps mp3. Десять минут чистого белого шума — звучит как ровное «шипение» без выделенных частот. Для использования: фоновый плеер, любой выходной уровень — приём адаптируется автоматически.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/TenMinutesOfWhiteNoisePinkNoiseAndBrownianNoise",
+  "credit": "Public Domain · Internet Archive · CC0"
+}

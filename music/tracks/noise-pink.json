@@ -1,0 +1,20 @@
+{
+  "id": "noise-pink",
+  "file": "noise-pink.mp3",
+  "title": "Розовый шум — 10 минут",
+  "title_original": "Pink Noise (10 minutes)",
+  "composer_id": "tone-generator",
+  "performer_id": null,
+  "year_composed": 2012,
+  "year_recorded": 2012,
+  "era": "contemporary",
+  "style": [
+    "noise"
+  ],
+  "duration_sec": 600,
+  "description_md": "Розовый шум — звуковой сигнал, амплитуда которого убывает на 3 dB на октаву (то есть равная мощность на октаву). Для слуха человека звучит ровнее и приятнее белого шума, потому что человеческое восприятие громкости логарифмическое. Часто рекомендуется вместо белого как более «природный».\n\nИсследования показывают, что розовый шум во время сна может усиливать глубокие фазы и улучшать память (Northwestern University, 2017). Десять минут синтезированного розового шума — стерео, 96 kbps. Для использования: тихий фон при чтении или работе.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/TenMinutesOfWhiteNoisePinkNoiseAndBrownianNoise",
+  "credit": "Public Domain · Internet Archive · CC0"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "binaural-flower-life",
+  "file": "binaural-flower-life.mp3",
+  "title": "«Flower of Life» — Alpha-бинаурал с музыкальным фоном",
+  "title_original": "Flower of Life — Alpha binaural with ambient music",
+  "composer_id": "tone-generator",
+  "performer_id": null,
+  "year_composed": 2012,
+  "year_recorded": 2012,
+  "era": "contemporary",
+  "style": [
+    "binaural",
+    "isochronic",
+    "ambient"
+  ],
+  "duration_sec": 284,
+  "description_md": "Композиция Baker Beltz «Flower of Life» — комбинация бинаурального ритма в alpha-диапазоне (8–13 Hz, состояние расслабленного бодрствования) с амбиентной музыкальной подложкой. В отличие от чистых тонов delta и theta, здесь синусоиды интегрированы в музыкальную текстуру — слушать можно и без наушников (тогда работает как обычная амбиентная музыка).\n\nЧетыре минуты сорок четыре секунды. Композитор сам выпустил трек под CC0, без условий использования. Подходит как короткая медитативная пауза в течение дня.",
+  "trivia": "Baker Beltz — современный композитор, целенаправленно выпускающий ambient/binaural music в общественное достояние через свой сайт bakerbeltz.com.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/FlowerOfLifeSongWithBinauralBeatsAndIsochronicTones",
+  "credit": "Public Domain · Internet Archive · CC0"
+}

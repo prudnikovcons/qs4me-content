@@ -1,0 +1,20 @@
+{
+  "id": "nature-rain",
+  "file": "nature-rain.mp3",
+  "title": "Лёгкий дождь — 10 минут",
+  "title_original": "Light Rain — 10 minutes",
+  "composer_id": "field-recording",
+  "performer_id": null,
+  "year_composed": 2012,
+  "year_recorded": 2012,
+  "era": "contemporary",
+  "style": [
+    "nature"
+  ],
+  "duration_sec": 600,
+  "description_md": "Полевая запись лёгкого дождя — равномерные капли средней интенсивности на листву и почву, без грома и сильных порывов ветра. Дождь — один из самых эффективных природных маскеров: его широкополосный шум (близкий к розовому) перекрывает диапазон человеческой речи и устраняет отвлекающие звуки.\n\nПо исследованиям (например, Brain & Behavior 2020), шум дождя снижает кортизол и активирует парасимпатическую нервную систему. Десять минут (обрезано из 36 минут оригинала). Используется для фона при работе, чтении, медитации, засыпании.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/naturesounds-soundtheraphy",
+  "credit": "Public Domain · Internet Archive · CC0"
+}

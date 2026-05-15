@@ -4,6 +4,7 @@
   "borodin",
   "brahms",
   "dvorak",
+  "field-recording",
   "grieg",
   "haydn",
   "mendelssohn",
@@ -12,5 +13,6 @@
   "schubert",
   "smetana",
   "suk",
-  "tchaikovsky"
+  "tchaikovsky",
+  "tone-generator"
 ]

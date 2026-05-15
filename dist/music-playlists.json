@@ -1,5 +1,18 @@
 [
   {
+    "slug": "brain-states",
+    "name_ru": "Состояния мозга",
+    "description_ru": "Три бинауральных ритма от глубокого сна до бодрого внимания: delta (2 Hz, глубокий сон), theta (4 Hz, медитация), alpha (8–13 Hz, с амбиентным фоном — расслабленное бодрствование). Слушать только в наушниках. Эффект entrainment научно спорен, но субъективно ощутим у многих.",
+    "mood": "introspective",
+    "best_time": "evening",
+    "track_ids": [
+      "binaural-delta-2hz",
+      "binaural-theta-4hz",
+      "binaural-flower-life"
+    ],
+    "cover_track_id": "binaural-theta-4hz"
+  },
+  {
     "slug": "deep-work",
     "name_ru": "Глубокая работа",
     "description_ru": "Семь треков для часов сосредоточенной работы — полифонические Гольдберг-вариации Баха, фугетта 10-я и канон 9-й, Менуэт из Сорок симфонии Моцарта, финал «Жаворонка» Гайдна. Ровная пульсация, имитационная техника, без резких всплесков.",
@@ -15,6 +28,19 @@
       "haydn-lark-4-finale"
     ],
     "cover_track_id": "bach-goldberg-var-10"
+  },
+  {
+    "slug": "focus-noise",
+    "name_ru": "Фокус: цветной шум",
+    "description_ru": "Три типа шума для маскировки отвлечений: белый (равная амплитуда во всех частотах), розовый (мягче, ровнее для слуха), коричневый (самый низкочастотный, гулкий). По 10 минут каждый. Для офисов с открытой планировкой, ADHD, маскировки тиннитуса.",
+    "mood": "focused",
+    "best_time": "work",
+    "track_ids": [
+      "noise-pink",
+      "noise-brown",
+      "noise-white"
+    ],
+    "cover_track_id": "noise-pink"
   },
   {
     "slug": "goldberg-canons",

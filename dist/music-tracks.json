@@ -908,6 +908,75 @@
     "_fileUrl": "/music/tracks/beethoven-quartet-6-op18-4-malinconia.mp3"
   },
   {
+    "id": "binaural-delta-2hz",
+    "file": "binaural-delta-2hz.mp3",
+    "title": "Бинауральный ритм Delta 2 Hz — для глубокого сна",
+    "title_original": "Binaural Beats Delta 2 Hz — for deep sleep",
+    "composer_id": "tone-generator",
+    "performer_id": null,
+    "year_composed": 2012,
+    "year_recorded": 2012,
+    "era": "contemporary",
+    "style": [
+      "binaural",
+      "isochronic"
+    ],
+    "duration_sec": 600,
+    "description_md": "Бинауральный ритм в диапазоне дельта-волн (0.5–4 Hz), специфическая частота 2 Hz. Дельта-волны — самые медленные ритмы мозга, доминируют в фазах глубокого сна без сновидений (NREM 3-4 стадии). Идея бинаурального entrainment: предлагая мозгу внешний ритм соответствующей частоты, можно стимулировать переход в это состояние.\n\nВНИМАНИЕ: работает ТОЛЬКО в наушниках. В каждое ухо подаются два чистых тона с разницей в 2 Hz; мозг воспринимает разностную частоту как пульсацию. Десять минут (исходная запись 20 минут, обрезана до 10). Стерео, 96 kbps.\n\nНаучные доказательства специфических эффектов entrainment остаются предметом споров — эффект subjektивно ощутим у части пользователей.",
+    "trivia": "Эффект бинауральных ритмов впервые описан в 1839 году прусским физиком Генрихом Дове, но публику он привлёк только в 1973 году после исследований Гэвина Гладмена.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/delta2hz_ms_delta",
+    "credit": "Public Domain · Internet Archive · CC0",
+    "_fileUrl": "/music/tracks/binaural-delta-2hz.mp3"
+  },
+  {
+    "id": "binaural-flower-life",
+    "file": "binaural-flower-life.mp3",
+    "title": "«Flower of Life» — Alpha-бинаурал с музыкальным фоном",
+    "title_original": "Flower of Life — Alpha binaural with ambient music",
+    "composer_id": "tone-generator",
+    "performer_id": null,
+    "year_composed": 2012,
+    "year_recorded": 2012,
+    "era": "contemporary",
+    "style": [
+      "binaural",
+      "isochronic",
+      "ambient"
+    ],
+    "duration_sec": 284,
+    "description_md": "Композиция Baker Beltz «Flower of Life» — комбинация бинаурального ритма в alpha-диапазоне (8–13 Hz, состояние расслабленного бодрствования) с амбиентной музыкальной подложкой. В отличие от чистых тонов delta и theta, здесь синусоиды интегрированы в музыкальную текстуру — слушать можно и без наушников (тогда работает как обычная амбиентная музыка).\n\nЧетыре минуты сорок четыре секунды. Композитор сам выпустил трек под CC0, без условий использования. Подходит как короткая медитативная пауза в течение дня.",
+    "trivia": "Baker Beltz — современный композитор, целенаправленно выпускающий ambient/binaural music в общественное достояние через свой сайт bakerbeltz.com.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/FlowerOfLifeSongWithBinauralBeatsAndIsochronicTones",
+    "credit": "Public Domain · Internet Archive · CC0",
+    "_fileUrl": "/music/tracks/binaural-flower-life.mp3"
+  },
+  {
+    "id": "binaural-theta-4hz",
+    "file": "binaural-theta-4hz.mp3",
+    "title": "Бинауральный ритм Theta 4 Hz — для медитации",
+    "title_original": "Binaural Beats Theta 4 Hz — for meditation",
+    "composer_id": "tone-generator",
+    "performer_id": null,
+    "year_composed": 2012,
+    "year_recorded": 2012,
+    "era": "contemporary",
+    "style": [
+      "binaural",
+      "isochronic"
+    ],
+    "duration_sec": 600,
+    "description_md": "Бинауральный ритм в диапазоне тета-волн (4–8 Hz), специфическая частота 4 Hz. Тета-волны связывают с состоянием глубокой релаксации, медитации, гипнотической раскрепощённости, REM-фазой сна и творческими инсайтами. По исследованиям ЭЭГ, тета-активность нарастает у опытных медитаторов с многолетней практикой.\n\nИдея бинаурального entrainment: подавая мозгу внешний 4 Hz ритм, попытаться спровоцировать соответствующее состояние сознания. Работает ТОЛЬКО в наушниках. Десять минут (обрезано из 20). Стерео, 96 kbps.\n\nИспользуется в практиках медитации, мягком засыпании, для гипнотерапии. Эффект entrainment остаётся научно спорным.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/theta4hz_ms_theta",
+    "credit": "Public Domain · Internet Archive · CC0",
+    "_fileUrl": "/music/tracks/binaural-theta-4hz.mp3"
+  },
+  {
     "id": "borodin-in-the-steppes",
     "file": "borodin-in-the-steppes.mp3",
     "title": "«В Средней Азии», симфоническая картина",
@@ -2367,6 +2436,111 @@
     "source": "https://archive.org/details/MusopenCollectionAsFlac",
     "credit": "Musopen Kickstarter Project · 2012 · PD",
     "_fileUrl": "/music/tracks/mozart-symphony-40-4-allegro.mp3"
+  },
+  {
+    "id": "nature-ocean",
+    "file": "nature-ocean.mp3",
+    "title": "Океан — мягкие волны (10 минут)",
+    "title_original": "Gentle Ocean Waves — 10 minutes",
+    "composer_id": "field-recording",
+    "performer_id": null,
+    "year_composed": 2012,
+    "year_recorded": 2012,
+    "era": "contemporary",
+    "style": [
+      "nature"
+    ],
+    "duration_sec": 600,
+    "description_md": "Полевая запись океанских волн — медленный ритмичный накат и отступление воды, без криков чаек и других нарушителей фона. Шум волн имеет характерную циклическую структуру с периодом 8–12 секунд, что близко к частоте спокойного дыхания взрослого человека — это причина «синхронизирующего» успокаивающего эффекта.\n\nПо одному из исследований (Marine Biology, 2018), даже короткое прослушивание океанских звуков снижает измеренные показатели стресса. Десять минут (обрезано из 19:48). Стерео, 96 kbps. Используется для засыпания, медитации, фокусной работы.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/ocean-sea-sounds",
+    "credit": "Public Domain · Internet Archive · CC0",
+    "_fileUrl": "/music/tracks/nature-ocean.mp3"
+  },
+  {
+    "id": "nature-rain",
+    "file": "nature-rain.mp3",
+    "title": "Лёгкий дождь — 10 минут",
+    "title_original": "Light Rain — 10 minutes",
+    "composer_id": "field-recording",
+    "performer_id": null,
+    "year_composed": 2012,
+    "year_recorded": 2012,
+    "era": "contemporary",
+    "style": [
+      "nature"
+    ],
+    "duration_sec": 600,
+    "description_md": "Полевая запись лёгкого дождя — равномерные капли средней интенсивности на листву и почву, без грома и сильных порывов ветра. Дождь — один из самых эффективных природных маскеров: его широкополосный шум (близкий к розовому) перекрывает диапазон человеческой речи и устраняет отвлекающие звуки.\n\nПо исследованиям (например, Brain & Behavior 2020), шум дождя снижает кортизол и активирует парасимпатическую нервную систему. Десять минут (обрезано из 36 минут оригинала). Используется для фона при работе, чтении, медитации, засыпании.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/naturesounds-soundtheraphy",
+    "credit": "Public Domain · Internet Archive · CC0",
+    "_fileUrl": "/music/tracks/nature-rain.mp3"
+  },
+  {
+    "id": "noise-brown",
+    "file": "noise-brown.mp3",
+    "title": "Коричневый шум — 10 минут",
+    "title_original": "Brown/Brownian Noise (10 minutes)",
+    "composer_id": "tone-generator",
+    "performer_id": null,
+    "year_composed": 2012,
+    "year_recorded": 2012,
+    "era": "contemporary",
+    "style": [
+      "noise"
+    ],
+    "duration_sec": 600,
+    "description_md": "Коричневый шум (он же Brownian noise — назван по Броуновскому движению, а не цвету) — амплитуда убывает на 6 dB на октаву. Звучит самым мягким из трёх классических шумов: гулкий, низкочастотный, как далёкий водопад или ровный шум океана. По субъективным отзывам пользователей TikTok 2022 года — наиболее «успокаивающий» из всех типов шума.\n\nИспользуется для маскировки тиннитуса (шума в ушах), фокуса при ADHD, засыпания. Десять минут синтезированного коричневого шума, стерео, 96 kbps. Не путать с «brown noise» как метафорой для определённой акустической частоты — это городская легенда без доказательств.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/TenMinutesOfWhiteNoisePinkNoiseAndBrownianNoise",
+    "credit": "Public Domain · Internet Archive · CC0",
+    "_fileUrl": "/music/tracks/noise-brown.mp3"
+  },
+  {
+    "id": "noise-pink",
+    "file": "noise-pink.mp3",
+    "title": "Розовый шум — 10 минут",
+    "title_original": "Pink Noise (10 minutes)",
+    "composer_id": "tone-generator",
+    "performer_id": null,
+    "year_composed": 2012,
+    "year_recorded": 2012,
+    "era": "contemporary",
+    "style": [
+      "noise"
+    ],
+    "duration_sec": 600,
+    "description_md": "Розовый шум — звуковой сигнал, амплитуда которого убывает на 3 dB на октаву (то есть равная мощность на октаву). Для слуха человека звучит ровнее и приятнее белого шума, потому что человеческое восприятие громкости логарифмическое. Часто рекомендуется вместо белого как более «природный».\n\nИсследования показывают, что розовый шум во время сна может усиливать глубокие фазы и улучшать память (Northwestern University, 2017). Десять минут синтезированного розового шума — стерео, 96 kbps. Для использования: тихий фон при чтении или работе.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/TenMinutesOfWhiteNoisePinkNoiseAndBrownianNoise",
+    "credit": "Public Domain · Internet Archive · CC0",
+    "_fileUrl": "/music/tracks/noise-pink.mp3"
+  },
+  {
+    "id": "noise-white",
+    "file": "noise-white.mp3",
+    "title": "Белый шум — 10 минут",
+    "title_original": "White Noise (10 minutes)",
+    "composer_id": "tone-generator",
+    "performer_id": null,
+    "year_composed": 2012,
+    "year_recorded": 2012,
+    "era": "contemporary",
+    "style": [
+      "noise"
+    ],
+    "duration_sec": 600,
+    "description_md": "Белый шум — звуковой сигнал с равной амплитудой во всём слышимом диапазоне (от 20 Hz до 20 kHz). Название от аналогии с белым светом, в котором также равномерно представлены все частоты видимого спектра. Используется как маскер отвлекающих звуков (особенно в офисах с открытой планировкой), для засыпания младенцев (имитирует утробный фон) и как тестовый сигнал в аудиотехнике.\n\nЭта запись синтезирована Sound Forge 9.0e в стерео 24-bit/48 kHz и сжата до 96 kbps mp3. Десять минут чистого белого шума — звучит как ровное «шипение» без выделенных частот. Для использования: фоновый плеер, любой выходной уровень — приём адаптируется автоматически.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/TenMinutesOfWhiteNoisePinkNoiseAndBrownianNoise",
+    "credit": "Public Domain · Internet Archive · CC0",
+    "_fileUrl": "/music/tracks/noise-white.mp3"
   },
   {
     "id": "rimsky-korsakov-russian-easter",

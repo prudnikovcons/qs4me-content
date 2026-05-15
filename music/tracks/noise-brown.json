@@ -1,0 +1,20 @@
+{
+  "id": "noise-brown",
+  "file": "noise-brown.mp3",
+  "title": "Коричневый шум — 10 минут",
+  "title_original": "Brown/Brownian Noise (10 minutes)",
+  "composer_id": "tone-generator",
+  "performer_id": null,
+  "year_composed": 2012,
+  "year_recorded": 2012,
+  "era": "contemporary",
+  "style": [
+    "noise"
+  ],
+  "duration_sec": 600,
+  "description_md": "Коричневый шум (он же Brownian noise — назван по Броуновскому движению, а не цвету) — амплитуда убывает на 6 dB на октаву. Звучит самым мягким из трёх классических шумов: гулкий, низкочастотный, как далёкий водопад или ровный шум океана. По субъективным отзывам пользователей TikTok 2022 года — наиболее «успокаивающий» из всех типов шума.\n\nИспользуется для маскировки тиннитуса (шума в ушах), фокуса при ADHD, засыпания. Десять минут синтезированного коричневого шума, стерео, 96 kbps. Не путать с «brown noise» как метафорой для определённой акустической частоты — это городская легенда без доказательств.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/TenMinutesOfWhiteNoisePinkNoiseAndBrownianNoise",
+  "credit": "Public Domain · Internet Archive · CC0"
+}

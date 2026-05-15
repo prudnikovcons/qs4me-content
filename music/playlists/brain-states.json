@@ -1,0 +1,13 @@
+{
+  "slug": "brain-states",
+  "name_ru": "Состояния мозга",
+  "description_ru": "Три бинауральных ритма от глубокого сна до бодрого внимания: delta (2 Hz, глубокий сон), theta (4 Hz, медитация), alpha (8–13 Hz, с амбиентным фоном — расслабленное бодрствование). Слушать только в наушниках. Эффект entrainment научно спорен, но субъективно ощутим у многих.",
+  "mood": "introspective",
+  "best_time": "evening",
+  "track_ids": [
+    "binaural-delta-2hz",
+    "binaural-theta-4hz",
+    "binaural-flower-life"
+  ],
+  "cover_track_id": "binaural-theta-4hz"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nature-ocean",
+  "file": "nature-ocean.mp3",
+  "title": "Океан — мягкие волны (10 минут)",
+  "title_original": "Gentle Ocean Waves — 10 minutes",
+  "composer_id": "field-recording",
+  "performer_id": null,
+  "year_composed": 2012,
+  "year_recorded": 2012,
+  "era": "contemporary",
+  "style": [
+    "nature"
+  ],
+  "duration_sec": 600,
+  "description_md": "Полевая запись океанских волн — медленный ритмичный накат и отступление воды, без криков чаек и других нарушителей фона. Шум волн имеет характерную циклическую структуру с периодом 8–12 секунд, что близко к частоте спокойного дыхания взрослого человека — это причина «синхронизирующего» успокаивающего эффекта.\n\nПо одному из исследований (Marine Biology, 2018), даже короткое прослушивание океанских звуков снижает измеренные показатели стресса. Десять минут (обрезано из 19:48). Стерео, 96 kbps. Используется для засыпания, медитации, фокусной работы.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/ocean-sea-sounds",
+  "credit": "Public Domain · Internet Archive · CC0"
+}

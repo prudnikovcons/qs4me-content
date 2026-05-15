@@ -1,0 +1,22 @@
+{
+  "id": "binaural-delta-2hz",
+  "file": "binaural-delta-2hz.mp3",
+  "title": "Бинауральный ритм Delta 2 Hz — для глубокого сна",
+  "title_original": "Binaural Beats Delta 2 Hz — for deep sleep",
+  "composer_id": "tone-generator",
+  "performer_id": null,
+  "year_composed": 2012,
+  "year_recorded": 2012,
+  "era": "contemporary",
+  "style": [
+    "binaural",
+    "isochronic"
+  ],
+  "duration_sec": 600,
+  "description_md": "Бинауральный ритм в диапазоне дельта-волн (0.5–4 Hz), специфическая частота 2 Hz. Дельта-волны — самые медленные ритмы мозга, доминируют в фазах глубокого сна без сновидений (NREM 3-4 стадии). Идея бинаурального entrainment: предлагая мозгу внешний ритм соответствующей частоты, можно стимулировать переход в это состояние.\n\nВНИМАНИЕ: работает ТОЛЬКО в наушниках. В каждое ухо подаются два чистых тона с разницей в 2 Hz; мозг воспринимает разностную частоту как пульсацию. Десять минут (исходная запись 20 минут, обрезана до 10). Стерео, 96 kbps.\n\nНаучные доказательства специфических эффектов entrainment остаются предметом споров — эффект subjektивно ощутим у части пользователей.",
+  "trivia": "Эффект бинауральных ритмов впервые описан в 1839 году прусским физиком Генрихом Дове, но публику он привлёк только в 1973 году после исследований Гэвина Гладмена.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/delta2hz_ms_delta",
+  "credit": "Public Domain · Internet Archive · CC0"
+}

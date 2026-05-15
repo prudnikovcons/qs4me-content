@@ -75,6 +75,21 @@
     "_photoUrl": "/music/composers/dvorak.jpg"
   },
   {
+    "id": "field-recording",
+    "full_name_ru": "Полевая запись (Sonorum naturae)",
+    "full_name_en": "Field Recording (in honor of T. A. Edison)",
+    "birth": 1877,
+    "death": null,
+    "country": "—",
+    "era": "contemporary",
+    "summary_ru": "Условный «композитор» для записей природы и шумов окружения. Первый фонограф для записи звуков Эдисон представил в 1877 году. Все треки этой категории — анонимные публичные записи природных явлений (дождь, океан, лес) и шумов окружения, в общественном достоянии.",
+    "photo": "field-recording.jpg",
+    "photo_credit": "Томас Эдисон · ~1922 · фотография · PD",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Thomas_Edison",
+    "_photoUrl": "/music/composers/field-recording.jpg"
+  },
+  {
     "id": "grieg",
     "full_name_ru": "Эдвард Григ",
     "full_name_en": "Edvard Grieg",
@@ -208,5 +223,20 @@
     "photo_license": "PD",
     "source": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
     "_photoUrl": "/music/composers/tchaikovsky.jpg"
+  },
+  {
+    "id": "tone-generator",
+    "full_name_ru": "Генератор тонов (Genitor binauralis)",
+    "full_name_en": "Tone Generator (in honor of H. W. Dove)",
+    "birth": 1839,
+    "death": null,
+    "country": "—",
+    "era": "contemporary",
+    "summary_ru": "Условный «композитор» для бинауральных и изохронных тонов: чистые синусоидальные сигналы, сгенерированные программно. Эффект бинауральных ритмов впервые описал прусский физик и метеоролог Генрих Вильгельм Дове в 1839 году. Все треки этой категории — синтезированные, без авторских прав, в общественном достоянии.",
+    "photo": "tone-generator.jpg",
+    "photo_credit": "Генрих Вильгельм Дове · 1857 · фотография · PD",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Heinrich_Wilhelm_Dove",
+    "_photoUrl": "/music/composers/tone-generator.jpg"
   }
 ]
