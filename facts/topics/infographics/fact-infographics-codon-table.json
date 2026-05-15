@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-codon-table",
+  "topic": "infographics",
+  "title": "Таблица генетического кода",
+  "caption": "64 кодона (3 нуклеотида) → 20 аминокислот + 3 стоп-сигнала. Универсальна для всей жизни Земли. Расшифрована к 1968 (Нобель Ниренберг).",
+  "image": "fact-infographics-codon-table.webp",
+  "image_width": 1280,
+  "image_height": 1811,
+  "alt": "Таблица генетического кода",
+  "credit": "The original uploader was Sverdrup at English Wikipedia. Vectorized by: User:Vec",
+  "source": "https://en.wikipedia.org/wiki/Genetic_code",
+  "license": "PD",
+  "year": 1968
+}

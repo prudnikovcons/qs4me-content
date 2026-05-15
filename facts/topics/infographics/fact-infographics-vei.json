@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-vei",
+  "topic": "infographics",
+  "title": "Шкала VEI",
+  "caption": "Индекс вулканической эксплозивности, 1982. От 0 (Килауэа) до 8 (супервулкан Йеллоустоун 640 000 лет назад). Каждый балл — ×10 объёма.",
+  "image": "fact-infographics-vei.webp",
+  "image_width": 1280,
+  "image_height": 1549,
+  "alt": "Шкала VEI",
+  "credit": "chris · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Volcanic_explosivity_index",
+  "license": "PD",
+  "year": 1982
+}

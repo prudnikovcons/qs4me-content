@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-nuclear-reactor",
+  "topic": "infographics",
+  "title": "Ядерный реактор",
+  "caption": "Деление урана-235 → теплота → пар → турбина. В мире 440 реакторов, дают 10% электроэнергии. Франция — 70%, Россия — 19%.",
+  "image": "fact-infographics-nuclear-reactor.webp",
+  "image_width": 1280,
+  "image_height": 695,
+  "alt": "Схема ядерного реактора",
+  "credit": "Unknown authorUnknown author or not provided · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Nuclear_reactor",
+  "license": "PD",
+  "year": 1957
+}

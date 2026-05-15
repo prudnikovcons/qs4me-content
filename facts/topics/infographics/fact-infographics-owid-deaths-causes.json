@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-deaths-causes",
+  "topic": "infographics",
+  "title": "Причины смерти в мире",
+  "caption": "Ежегодно умирает 67 млн человек. Сердечно-сосудистые — 18 млн (28%), рак — 10 млн (15%), болезни лёгких — 4 млн, диабет — 2 млн.",
+  "image": "fact-infographics-owid-deaths-causes.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Причины смерти",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/annual-number-of-deaths-by-cause",
+  "license": "CC-BY",
+  "year": 2023
+}

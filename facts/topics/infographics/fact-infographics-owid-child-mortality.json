@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-child-mortality",
+  "topic": "infographics",
+  "title": "Детская смертность",
+  "caption": "В 1800 умирал 1 из 2 детей до 5 лет. К 1950 — 1 из 4. В 2020 — 1 из 27 (3,7%). Прогресс продолжается каждый год.",
+  "image": "fact-infographics-owid-child-mortality.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "График детской смертности",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/child-mortality",
+  "license": "CC-BY",
+  "year": 2020
+}

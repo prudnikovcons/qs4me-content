@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-literacy",
+  "topic": "infographics",
+  "title": "Грамотность мира",
+  "caption": "В 1820 умели читать 12% взрослых. К 1950 — 56%. В 2024 — 87%. Самые грамотные: Норвегия 100%, Афганистан 37%.",
+  "image": "fact-infographics-owid-literacy.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "График грамотности с 1820",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/cross-country-literacy-rates",
+  "license": "CC-BY",
+  "year": 2024
+}

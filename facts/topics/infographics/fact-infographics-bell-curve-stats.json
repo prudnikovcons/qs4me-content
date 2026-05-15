@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-bell-curve-stats",
+  "topic": "infographics",
+  "title": "Эмпирическое правило",
+  "caption": "Правило 68-95-99,7 для нормального распределения. 68% значений в ±σ, 95% в ±2σ, 99,7% в ±3σ. Базис статистики и контроля качества.",
+  "image": "fact-infographics-bell-curve-stats.webp",
+  "image_width": 1280,
+  "image_height": 1269,
+  "alt": "Эмпирическое правило 68-95-99.7",
+  "credit": "Melikamp · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule",
+  "license": "CC-BY-SA",
+  "year": 2017
+}

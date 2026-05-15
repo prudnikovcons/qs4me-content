@@ -1,0 +1,419 @@
+[
+  {
+    "id": "fact-infographics-bohr-model",
+    "topic": "infographics",
+    "title": "Боровская модель атома",
+    "caption": "Нильс Бор, 1913. Электроны вращаются по фиксированным орбитам вокруг ядра. Уровень K (2 e⁻), L (8), M (18), N (32). Нобель 1922.",
+    "alt": "Модель атома Бора",
+    "year": 1913,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bohr_model"
+  },
+  {
+    "id": "fact-infographics-phase-diagram",
+    "topic": "infographics",
+    "title": "Фазовая диаграмма воды",
+    "caption": "Тройная точка — 0,01 °C и 611 Па: лёд, вода и пар одновременно. Критическая — 374 °C и 22 МПа: газ и жидкость неотличимы.",
+    "alt": "Фазовая диаграмма воды",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Phase_diagram"
+  },
+  {
+    "id": "fact-infographics-stellar-classification",
+    "topic": "infographics",
+    "title": "Спектральные классы звёзд",
+    "caption": "OBAFGKM — от голубых-горячих (30 000 К) до красных-холодных (3 000 К). Солнце — G2V. Мнемоника: «Oh Be A Fine Girl Kiss Me».",
+    "alt": "Спектральные классы звёзд",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stellar_classification"
+  },
+  {
+    "id": "fact-infographics-vei",
+    "topic": "infographics",
+    "title": "Шкала VEI",
+    "caption": "Индекс вулканической эксплозивности, 1982. От 0 (Килауэа) до 8 (супервулкан Йеллоустоун 640 000 лет назад). Каждый балл — ×10 объёма.",
+    "alt": "Шкала VEI",
+    "year": 1982,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Volcanic_explosivity_index"
+  },
+  {
+    "id": "fact-infographics-sea-level",
+    "topic": "infographics",
+    "title": "Рост уровня моря",
+    "caption": "С 1880 уровень моря поднялся на 21 см, темп — 3,4 мм/год сегодня. К 2100 IPCC прогнозирует +0,4–0,8 м.",
+    "alt": "Рост уровня моря",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sea_level_rise"
+  },
+  {
+    "id": "fact-infographics-magnetic-field-earth",
+    "topic": "infographics",
+    "title": "Магнитное поле Земли",
+    "caption": "Создаётся жидким железом во внешнем ядре. Защищает от солнечного ветра. Магнитные полюса блуждают: северный движется на 50 км/год.",
+    "alt": "Схема магнитного поля Земли",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Earth's_magnetic_field"
+  },
+  {
+    "id": "fact-infographics-particle-standard-model",
+    "topic": "infographics",
+    "title": "Стандартная модель",
+    "caption": "17 частиц: 6 кварков, 6 лептонов, 4 калибровочных бозона, 1 Хиггс. Описывает 3 из 4 фундаментальных взаимодействий (без гравитации).",
+    "alt": "Стандартная модель частиц",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Standard_Model"
+  },
+  {
+    "id": "fact-infographics-radioactive-decay",
+    "topic": "infographics",
+    "title": "Радиоактивный распад",
+    "caption": "α-распад (ядро He), β-распад (электрон или позитрон), γ-излучение (фотон). Период полураспада урана-238 — 4,5 млрд лет.",
+    "alt": "Виды радиоактивного распада",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Radioactive_decay"
+  },
+  {
+    "id": "fact-infographics-richter-vs-mercalli",
+    "topic": "infographics",
+    "title": "Шкалы землетрясений",
+    "caption": "Рихтер — энергия в очаге, логарифм. Меркалли — разрушения на поверхности, 12 баллов. Магнитуда 5 — слабое, 9 — катастрофа.",
+    "alt": "Сравнение шкал землетрясений",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Seismic_magnitude_scales"
+  },
+  {
+    "id": "fact-infographics-snowflake",
+    "topic": "infographics",
+    "title": "Кристалл снежинки",
+    "caption": "6-лучевая симметрия от структуры льда (гексагональная). Уилсон Бентли с 1885 заснял 5000 снежинок — все разные.",
+    "alt": "Кристаллы снежинок",
+    "year": 1885,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Snowflake"
+  },
+  {
+    "id": "fact-infographics-hurricane",
+    "topic": "infographics",
+    "title": "Тропический циклон",
+    "caption": "Глаз (10–65 км, штиль) → стенка глаза (max ветры) → спиральные рукава. Диаметр 500–1500 км. Энергия — 200× мировое электропотребление.",
+    "alt": "Структура тропического циклона",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tropical_cyclone"
+  },
+  {
+    "id": "fact-infographics-lightning",
+    "topic": "infographics",
+    "title": "Молния",
+    "caption": "Разряд напряжением 100 млн В, ток до 30 000 А. Канал плазмы +27 000 °C — горячее поверхности Солнца. На Земле 8,6 млн молний в сутки.",
+    "alt": "Схема молнии",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lightning"
+  },
+  {
+    "id": "fact-infographics-rainbow",
+    "topic": "infographics",
+    "title": "Радуга",
+    "caption": "Свет преломляется в каплях дождя, отражается изнутри. Углы: красный 42°, фиолетовый 40°. Двойная радуга — двойное отражение.",
+    "alt": "Схема образования радуги",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rainbow"
+  },
+  {
+    "id": "fact-infographics-food-chain",
+    "topic": "infographics",
+    "title": "Пищевая цепь",
+    "caption": "Продуценты (растения) → консументы 1-го порядка (травоядные) → 2-го (хищники) → редуценты. КПД передачи энергии — ~10% на ступень.",
+    "alt": "Пищевая цепь и трофические уровни",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Food_chain"
+  },
+  {
+    "id": "fact-infographics-mitochondria",
+    "topic": "infographics",
+    "title": "Митохондрия",
+    "caption": "«Электростанция клетки». Производит АТФ. Имеет собственное ДНК — наследуется от матери. Гипотеза: эндосимбиоз бактерии 1,5 млрд лет назад.",
+    "alt": "Строение митохондрии",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mitochondrion"
+  },
+  {
+    "id": "fact-infographics-immune-system",
+    "topic": "infographics",
+    "title": "Иммунная система",
+    "caption": "Врождённый (быстрый, неспецифический) + приобретённый (медленный, точный). В 1 капле крови — 7500 лейкоцитов 5 типов.",
+    "alt": "Иммунная система — схема",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Immune_system"
+  },
+  {
+    "id": "fact-infographics-respiratory",
+    "topic": "infographics",
+    "title": "Дыхательная система",
+    "caption": "Лёгкие — 300 миллионов альвеол, общая поверхность 70 м² (теннисный корт). Взрослый делает 12–20 вдохов в минуту в покое.",
+    "alt": "Дыхательная система человека",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Respiratory_system"
+  },
+  {
+    "id": "fact-infographics-digestive",
+    "topic": "infographics",
+    "title": "Пищеварительная система",
+    "caption": "Длина ЖКТ — 9 м. Желудок до 1 л, тонкий кишечник 6 м, толстый — 1,5 м. Полный цикл переваривания — 24–72 часа.",
+    "alt": "Пищеварительная система",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Human_digestive_system"
+  },
+  {
+    "id": "fact-infographics-circulatory",
+    "topic": "infographics",
+    "title": "Кровеносная система",
+    "caption": "100 000 км сосудов — 2,5 раза вокруг Земли. Сердце прокачивает 7000 л крови в сутки. Полный круг — 1 минута.",
+    "alt": "Кровеносная система человека",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Circulatory_system"
+  },
+  {
+    "id": "fact-infographics-nervous",
+    "topic": "infographics",
+    "title": "Нервная система",
+    "caption": "100 миллиардов нейронов. Сигнал по нерву — до 120 м/с (быстрее звука). Длиннейший нейрон у жирафа — 5 м, шейный.",
+    "alt": "Нервная система",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nervous_system"
+  },
+  {
+    "id": "fact-infographics-newton-cradle",
+    "topic": "infographics",
+    "title": "Маятник Ньютона",
+    "caption": "Демонстрация законов сохранения импульса и энергии. 5 шариков на нитях. Удар крайнего → отскок противоположного.",
+    "alt": "Маятник Ньютона",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Newton's_cradle"
+  },
+  {
+    "id": "fact-infographics-pulley",
+    "topic": "infographics",
+    "title": "Блок и полиспаст",
+    "caption": "Простая машина: Архимед, ~250 до н.э. Кратность n снижает усилие в n раз. С 4 блоков можно поднять 1 тонну усилием 25 кг.",
+    "alt": "Полиспаст",
+    "year": -250,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pulley"
+  },
+  {
+    "id": "fact-infographics-lever",
+    "topic": "infographics",
+    "title": "Рычаг",
+    "caption": "Архимед: «Дайте мне точку опоры — поверну Землю». 3 рода: разная длина плеч. Ножницы, щипцы, гаечный ключ — все рычаги.",
+    "alt": "Виды рычагов",
+    "year": -250,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lever"
+  },
+  {
+    "id": "fact-infographics-doppler-medical",
+    "topic": "infographics",
+    "title": "Эхокардиография",
+    "caption": "Ультразвук в кардиологии с 1953. УЗИ 2,5–10 МГц видит структуры сердца. Допплер — мерит скорость крови по сдвигу частоты.",
+    "alt": "Эхокардиография",
+    "year": 1953,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Echocardiography"
+  },
+  {
+    "id": "fact-infographics-x-ray-spectrum",
+    "topic": "infographics",
+    "title": "Спектр рентгена",
+    "caption": "Мягкий рентген — 0,1–10 нм, жёсткий — <0,1 нм. Энергия 100 эВ – 100 кэВ. Медицинский — 30–150 кВ напряжения.",
+    "alt": "Спектр рентгеновского излучения",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "X-ray"
+  },
+  {
+    "id": "fact-infographics-mri-physics",
+    "topic": "infographics",
+    "title": "Принцип МРТ",
+    "caption": "Магнит 1,5–3 Тл выстраивает протоны воды. Радиоволны меняют их направление, эхо записывается. Без ионизирующей радиации.",
+    "alt": "Принцип МРТ",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Magnetic_resonance_imaging"
+  },
+  {
+    "id": "fact-infographics-ct-scan",
+    "topic": "infographics",
+    "title": "Компьютерная томография",
+    "caption": "КТ — Хаунсфилд, 1971, Нобель 1979. 360° рентгена реконструируются в срезы. Современная — 0,5 мм точность, 5 секунд на грудную клетку.",
+    "alt": "КТ-снимок",
+    "year": 1971,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "CT_scan"
+  },
+  {
+    "id": "fact-infographics-pet-scan",
+    "topic": "infographics",
+    "title": "ПЭТ-сканер",
+    "caption": "Позитронно-эмиссионная томография. Введённый изотоп (F-18) излучает позитроны → 2 гамма-фотона в 511 кэВ под 180°. Так находят опухоли.",
+    "alt": "ПЭТ-сканер",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Positron_emission_tomography"
+  },
+  {
+    "id": "fact-infographics-coral-bleaching",
+    "topic": "infographics",
+    "title": "Обесцвечивание кораллов",
+    "caption": "При нагреве воды на 1–2 °C кораллы изгоняют симбиотические водоросли — белеют и могут погибнуть. С 1985 потеряно 50% коралловых рифов.",
+    "alt": "Обесцвечивание кораллов",
+    "year": 1985,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Coral_bleaching"
+  },
+  {
+    "id": "fact-infographics-cmb-map",
+    "topic": "infographics",
+    "title": "Карта реликтового излучения",
+    "caption": "Снимок Вселенной в возрасте 380 000 лет. WMAP (2001) и Planck (2009) дали разрешение 5 угл. минут. Температура 2,725 К, флуктуации в 10⁻⁵.",
+    "alt": "Карта реликтового излучения",
+    "year": 2009,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cosmic_microwave_background"
+  },
+  {
+    "id": "fact-infographics-co2-history",
+    "topic": "infographics",
+    "title": "CO₂ за 800 000 лет",
+    "caption": "По ледяным кернам Антарктиды: до промышленной революции — 180–290 ppm. Сегодня 420 — выше за всю историю Homo sapiens.",
+    "alt": "CO₂ за 800 000 лет",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Carbon_dioxide_in_Earth's_atmosphere"
+  },
+  {
+    "id": "fact-infographics-ph-scale",
+    "topic": "infographics",
+    "title": "Шкала pH",
+    "caption": "Сёрен Сёренсен, 1909. От 0 (соляная кислота) до 14 (щёлочь). 7 — нейтрально (вода). Кровь человека — 7,4, желудочный сок — 1,5.",
+    "alt": "Шкала pH",
+    "year": 1909,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "PH"
+  },
+  {
+    "id": "fact-infographics-decibel",
+    "topic": "infographics",
+    "title": "Шкала децибел",
+    "caption": "Логарифмическая. Шёпот 30 дБ, разговор 60, концерт 110, болевой порог 130. Каждые 10 дБ — энергия звука растёт в 10 раз.",
+    "alt": "Шкала громкости в децибелах",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Decibel"
+  },
+  {
+    "id": "fact-infographics-iso-arrows",
+    "topic": "infographics",
+    "title": "Знаки переработки",
+    "caption": "Треугольник Мёбиуса, Гэри Андерсон, 1970. К 1988 ASTM добавил цифры 1-7 для типов пластика. Реально перерабатывается только ~9% мирового пластика.",
+    "alt": "Символы переработки пластика",
+    "year": 1970,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Recycling_symbol"
+  },
+  {
+    "id": "fact-infographics-blood-types",
+    "topic": "infographics",
+    "title": "Группы крови",
+    "caption": "Карл Ландштейнер, 1901. Система AB0: 4 группы. Резус (+/−): ещё × 2. О− — универсальный донор, AB+ — универсальный реципиент.",
+    "alt": "Совместимость групп крови",
+    "year": 1901,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Blood_type"
+  },
+  {
+    "id": "fact-terms-cellular-automaton",
+    "topic": "terms",
+    "title": "Клеточный автомат",
+    "caption": "Джон Конвей, 1970 — «Игра жизни». Простые правила рождают сложное поведение. Доказан Тьюринг-полным — может вычислить что угодно.",
+    "alt": "Клетки игры Жизни Конвея",
+    "year": 1970,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Conway's_Game_of_Life"
+  },
+  {
+    "id": "fact-terms-halting-problem",
+    "topic": "terms",
+    "title": "Проблема остановки",
+    "caption": "Алан Тьюринг, 1936. Доказал: не существует алгоритма, который для любой программы определит, остановится она или зациклится.",
+    "alt": "Иллюстрация проблемы остановки",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Halting_problem"
+  },
+  {
+    "id": "fact-terms-penrose-tiling",
+    "topic": "terms",
+    "title": "Мозаика Пенроуза",
+    "caption": "Роджер Пенроуз, 1974. Непериодическая мозаика из 2 ромбов. Полностью замощает плоскость, но без повторений. Нобель 2020 за чёрные дыры.",
+    "alt": "Мозаика Пенроуза",
+    "year": 1974,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Penrose_tiling"
+  },
+  {
+    "id": "fact-terms-voronoi",
+    "topic": "terms",
+    "title": "Диаграмма Вороного",
+    "caption": "Георгий Вороной, 1908. Разбиение плоскости по «ближайшему центру». Применяется от сотовой связи до жилкования листьев.",
+    "alt": "Диаграмма Вороного",
+    "year": 1908,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Voronoi_diagram"
+  },
+  {
+    "id": "fact-terms-birthday-problem",
+    "topic": "terms",
+    "title": "Парадокс дней рождения",
+    "caption": "Вероятность совпадения дней рождения в группе из 23 человек — 50%. В 70 — 99,9%. Контринтуитивно низкое число.",
+    "alt": "График парадокса дней рождения",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Birthday_problem"
+  },
+  {
+    "id": "fact-terms-mandelbrot-zoom",
+    "topic": "terms",
+    "title": "Зум Мандельброта",
+    "caption": "Бенуа Мандельброт, 1980. Бесконечно увеличивая фрактал, видишь те же узоры. Применение: антенны, сжатие данных, моделирование облаков.",
+    "alt": "Зум множества Мандельброта",
+    "year": 1980,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mandelbrot_set"
+  },
+  {
+    "id": "fact-terms-l-system",
+    "topic": "terms",
+    "title": "L-системы",
+    "caption": "Аристид Линденмайер, 1968. Грамматики, описывающие рост растений рекурсивно. Реалистичные деревья в компьютерной графике — отсюда.",
+    "alt": "L-система — дерево",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "L-system"
+  },
+  {
+    "id": "fact-terms-tessellation",
+    "topic": "terms",
+    "title": "Тесселяция",
+    "caption": "Замощение плоскости фигурами без зазоров. 3 правильных: треугольник, квадрат, шестиугольник. Эшер сделал из тесселяций искусство.",
+    "alt": "Тесселяции Эшера",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tessellation"
+  },
+  {
+    "id": "fact-terms-knot-theory",
+    "topic": "terms",
+    "title": "Теория узлов",
+    "caption": "Раздел топологии. Лорд Кельвин в 1867 думал, что атомы — узлы эфира. Сегодня — модель ДНК, квантовые вычисления.",
+    "alt": "Математические узлы",
+    "year": 1867,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Knot_theory"
+  }
+]

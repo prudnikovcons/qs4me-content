@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-laffer-curve",
+  "topic": "infographics",
+  "title": "Кривая Лаффера",
+  "caption": "Артур Лаффер, 1974. При нулевом и 100% налоге дохода казны нет. Максимум где-то посередине. Точка максимума — спор экономистов 50 лет.",
+  "image": "fact-infographics-laffer-curve.webp",
+  "image_width": 1280,
+  "image_height": 945,
+  "alt": "Кривая Лаффера",
+  "credit": "Bastianowa · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Laffer_curve",
+  "license": "CC-BY-SA",
+  "year": 1974
+}

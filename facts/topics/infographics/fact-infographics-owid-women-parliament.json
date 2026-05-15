@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-women-parliament",
+  "topic": "infographics",
+  "title": "Женщины в парламенте",
+  "caption": "В 1990 женщины занимали 12% мест в парламентах мира. К 2024 — 27%. Руанда — 61% (рекорд), Йемен — 0%.",
+  "image": "fact-infographics-owid-women-parliament.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Доля женщин в парламентах",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/share-of-women-in-parliament",
+  "license": "CC-BY",
+  "year": 2024
+}

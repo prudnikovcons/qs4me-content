@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-blood-types",
+  "topic": "infographics",
+  "title": "Группы крови",
+  "caption": "Карл Ландштейнер, 1901. Система AB0: 4 группы. Резус (+/−): ещё × 2. О− — универсальный донор, AB+ — универсальный реципиент.",
+  "image": "fact-infographics-blood-types.webp",
+  "image_width": 1280,
+  "image_height": 823,
+  "alt": "Совместимость групп крови",
+  "credit": "InvictaHOG · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Blood_type",
+  "license": "PD",
+  "year": 1901
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-co2-per-capita",
+  "topic": "infographics",
+  "title": "CO₂ на душу населения",
+  "caption": "В среднем в мире 4,8 тонн CO₂ на человека/год. Катар — 38, США — 14, Россия — 11, Китай — 8, ЕС — 6, Индия — 2, Чад — 0,1.",
+  "image": "fact-infographics-owid-co2-per-capita.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "CO₂ на душу населения",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/co-emissions-per-capita",
+  "license": "CC-BY",
+  "year": 2023
+}

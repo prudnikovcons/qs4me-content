@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-steam-engine",
+  "topic": "infographics",
+  "title": "Паровая машина",
+  "caption": "Джеймс Уатт, 1769. Усовершенствовал машину Ньюкомена 1712 года. Запустил промышленную революцию. КПД 6%, но достаточно для эпохи.",
+  "image": "fact-infographics-steam-engine.webp",
+  "image_width": 1280,
+  "image_height": 875,
+  "alt": "Схема паровой машины Уатта",
+  "credit": "Petar Milošević · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Steam_engine",
+  "license": "CC-BY-SA",
+  "year": 1769
+}

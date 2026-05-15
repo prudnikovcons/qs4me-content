@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-hurricane",
+  "topic": "infographics",
+  "title": "Тропический циклон",
+  "caption": "Глаз (10–65 км, штиль) → стенка глаза (max ветры) → спиральные рукава. Диаметр 500–1500 км. Энергия — 200× мировое электропотребление.",
+  "image": "fact-infographics-hurricane.webp",
+  "image_width": 1280,
+  "image_height": 876,
+  "alt": "Структура тропического циклона",
+  "credit": "NASA/Goddard Space Flight Center · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "license": "CC-BY",
+  "year": 2018
+}

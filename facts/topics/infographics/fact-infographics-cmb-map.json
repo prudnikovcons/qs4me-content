@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-cmb-map",
+  "topic": "infographics",
+  "title": "Карта реликтового излучения",
+  "caption": "Снимок Вселенной в возрасте 380 000 лет. WMAP (2001) и Planck (2009) дали разрешение 5 угл. минут. Температура 2,725 К, флуктуации в 10⁻⁵.",
+  "image": "fact-infographics-cmb-map.webp",
+  "image_width": 1280,
+  "image_height": 640,
+  "alt": "Карта реликтового излучения",
+  "credit": "ESA and the Planck Collaboration · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+  "license": "CC-BY",
+  "year": 2009
+}

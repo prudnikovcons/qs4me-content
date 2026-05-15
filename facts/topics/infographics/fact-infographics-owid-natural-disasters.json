@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-natural-disasters",
+  "topic": "infographics",
+  "title": "Смерти от стихийных бедствий",
+  "caption": "В среднем в год от наводнений, ураганов, землетрясений гибнет 60 000 человек. Снижение в 10 раз за 100 лет — благодаря раннему предупреждению.",
+  "image": "fact-infographics-owid-natural-disasters.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Смерти от стихийных бедствий",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/decadal-deaths-disasters-type",
+  "license": "CC-BY",
+  "year": 2023
+}

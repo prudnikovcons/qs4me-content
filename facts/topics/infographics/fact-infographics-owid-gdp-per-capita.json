@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-gdp-per-capita",
+  "topic": "infographics",
+  "title": "ВВП на душу населения",
+  "caption": "Великая дивергенция: к 1820 разница между богатыми и бедными странами была 3:1, сегодня — 100:1. Люксембург vs Бурунди.",
+  "image": "fact-infographics-owid-gdp-per-capita.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "ВВП на душу — историческая динамика",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/gdp-per-capita-worldbank",
+  "license": "CC-BY",
+  "year": 2023
+}

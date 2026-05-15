@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-permafrost",
+  "topic": "infographics",
+  "title": "Вечная мерзлота",
+  "caption": "Грунт, замёрзший >2 лет. 15% суши Земли (24 млн км²), в основном в России и Канаде. Тает по 3% в десятилетие, выпуская метан.",
+  "image": "fact-infographics-permafrost.webp",
+  "image_width": 683,
+  "image_height": 766,
+  "alt": "Распространение вечной мерзлоты",
+  "credit": "Brown, J., O.J. Ferrians, Jr., J.A. Heginbottom, and E.S. Melnikov. 1998, revise",
+  "source": "https://en.wikipedia.org/wiki/Permafrost",
+  "license": "PD",
+  "year": 1998
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-skeleton",
+  "topic": "infographics",
+  "title": "Скелет человека",
+  "caption": "Взрослый человек — 206 костей. Младенец рождается с 270 — часть срастается. Бедренная — длиннейшая (~48 см), стремечко в ухе — 3 мм.",
+  "image": "fact-infographics-skeleton.webp",
+  "image_width": 900,
+  "image_height": 1510,
+  "alt": "Скелет человека",
+  "credit": "Sklmsta · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Human_skeleton",
+  "license": "CC0",
+  "year": 2010
+}

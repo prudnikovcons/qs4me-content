@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-phase-diagram",
+  "topic": "infographics",
+  "title": "Фазовая диаграмма воды",
+  "caption": "Тройная точка — 0,01 °C и 611 Па: лёд, вода и пар одновременно. Критическая — 374 °C и 22 МПа: газ и жидкость неотличимы.",
+  "image": "fact-infographics-phase-diagram.webp",
+  "image_width": 1280,
+  "image_height": 949,
+  "alt": "Фазовая диаграмма воды",
+  "credit": "Original work: Cmglee. Simplified version and Catalan translation: Manlleus. · C",
+  "source": "https://en.wikipedia.org/wiki/Phase_diagram",
+  "license": "CC-BY-SA",
+  "year": 2025
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-polarization",
+  "topic": "infographics",
+  "title": "Поляризация света",
+  "caption": "Свет — поперечная волна. Поляроид пропускает только определённое направление колебаний. Применение: 3D-кино, антибликовые очки, ЖК-экраны.",
+  "image": "fact-infographics-polarization.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Принцип поляризации света",
+  "credit": "Zátonyi Sándor, (ifj.) Fizped · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Polarization_(waves)",
+  "license": "CC-BY-SA",
+  "year": 2012
+}

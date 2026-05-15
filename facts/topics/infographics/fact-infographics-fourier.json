@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-fourier",
+  "topic": "infographics",
+  "title": "Преобразование Фурье",
+  "caption": "Жозеф Фурье, 1822. Любой сигнал — сумма синусоид. Базис обработки звука, изображений (JPEG), радио, томографии (MRI).",
+  "image": "fact-infographics-fourier.webp",
+  "image_width": 784,
+  "image_height": 556,
+  "alt": "Преобразование Фурье — разложение на синусоиды",
+  "credit": "Em3rgent0rdr · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Fourier_transform",
+  "license": "CC-BY-SA",
+  "year": 1822
+}

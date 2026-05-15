@@ -1,0 +1,457 @@
+[
+  {
+    "id": "fact-infographics-atomic-orbital",
+    "topic": "infographics",
+    "title": "Атомные орбитали",
+    "caption": "Электронное облако: s (сфера), p (гантель, 3 шт.), d (5 шт.), f (7 шт.). Заполняются по принципу Паули.",
+    "alt": "Формы атомных орбиталей",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Atomic_orbital"
+  },
+  {
+    "id": "fact-infographics-quark",
+    "topic": "infographics",
+    "title": "Кварки",
+    "caption": "6 типов: up, down, charm, strange, top, bottom. Заряды +2/3 или −1/3. Никогда не существуют изолированно — это конфайнмент.",
+    "alt": "Кварки и их связи",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quark"
+  },
+  {
+    "id": "fact-infographics-lagrange-points",
+    "topic": "infographics",
+    "title": "Точки Лагранжа",
+    "caption": "5 гравитационных «парковочных мест» в системе двух тел (например, Земля-Солнце). Телескоп Уэбб стоит в L2 на 1,5 млн км от Земли.",
+    "alt": "Точки Лагранжа системы Земля-Солнце",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lagrange_point"
+  },
+  {
+    "id": "fact-infographics-hohmann-transfer",
+    "topic": "infographics",
+    "title": "Гомановский переход",
+    "caption": "Вальтер Гоман, 1925. Минимально-энергозатратная траектория между двумя орбитами. Курс на Марс по нему — 8,5 месяцев.",
+    "alt": "Гомановская траектория к Марсу",
+    "year": 1925,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hohmann_transfer_orbit"
+  },
+  {
+    "id": "fact-infographics-prism-dispersion",
+    "topic": "infographics",
+    "title": "Дисперсия в призме",
+    "caption": "Призма разлагает белый свет на спектр — разные длины волн преломляются под разными углами. Ньютон, 1666 — революция оптики.",
+    "alt": "Дисперсия света в стеклянной призме",
+    "year": 1666,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Prism"
+  },
+  {
+    "id": "fact-infographics-double-slit",
+    "topic": "infographics",
+    "title": "Эксперимент с двумя щелями",
+    "caption": "Томас Юнг, 1801. Свет проходит через 2 щели — на экране интерференция. Доказательство волновой природы. Электроны тоже дают узор.",
+    "alt": "Интерференция в эксперименте с двумя щелями",
+    "year": 1801,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Double-slit_experiment"
+  },
+  {
+    "id": "fact-infographics-diffraction-grating",
+    "topic": "infographics",
+    "title": "Дифракционная решётка",
+    "caption": "Йозеф Фраунгофер, 1821. Параллельные щели с шагом ~1 мкм разлагают свет в высоком разрешении. Основа спектроскопии.",
+    "alt": "Дифракция на решётке",
+    "year": 1821,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Diffraction_grating"
+  },
+  {
+    "id": "fact-infographics-polarization",
+    "topic": "infographics",
+    "title": "Поляризация света",
+    "caption": "Свет — поперечная волна. Поляроид пропускает только определённое направление колебаний. Применение: 3D-кино, антибликовые очки, ЖК-экраны.",
+    "alt": "Принцип поляризации света",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Polarization_(waves)"
+  },
+  {
+    "id": "fact-infographics-snells-law",
+    "topic": "infographics",
+    "title": "Закон Снелля",
+    "caption": "Виллеброрд Снелл, 1621. n₁·sin(θ₁) = n₂·sin(θ₂). Свет преломляется при переходе сред. У воды показатель преломления 1,33, у алмаза — 2,42.",
+    "alt": "Закон Снелля — преломление",
+    "year": 1621,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Snell's_law"
+  },
+  {
+    "id": "fact-infographics-blackbody",
+    "topic": "infographics",
+    "title": "Спектр чёрного тела",
+    "caption": "Макс Планк, 1900. Распределение излучения от температуры. У Солнца (5800 К) пик в зелёном, у красного гиганта (3000 К) — в инфракрасном.",
+    "alt": "Кривые излучения чёрного тела",
+    "year": 1900,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Black-body_radiation"
+  },
+  {
+    "id": "fact-infographics-osi-model",
+    "topic": "infographics",
+    "title": "Модель OSI",
+    "caption": "ISO, 1984. 7 уровней сетевого взаимодействия: физический, канальный, сетевой, транспортный, сеансовый, представления, прикладной.",
+    "alt": "Модель OSI — 7 уровней",
+    "year": 1984,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "OSI_model"
+  },
+  {
+    "id": "fact-infographics-tcp-handshake",
+    "topic": "infographics",
+    "title": "Тройное рукопожатие TCP",
+    "caption": "3 пакета: SYN → SYN-ACK → ACK. Устанавливает надёжный канал. RFC 793 (1981). Каждый HTTPS-запрос начинается с этого.",
+    "alt": "Тройное рукопожатие TCP",
+    "year": 1981,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Transmission_Control_Protocol"
+  },
+  {
+    "id": "fact-infographics-public-key",
+    "topic": "infographics",
+    "title": "Криптография с открытым ключом",
+    "caption": "Диффи и Хеллман, 1976. Пара ключей: публичный шифрует, приватный расшифровывает. Основа TLS, цифровых подписей, биткоина.",
+    "alt": "Схема асимметричной криптографии",
+    "year": 1976,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Public-key_cryptography"
+  },
+  {
+    "id": "fact-infographics-blockchain",
+    "topic": "infographics",
+    "title": "Блокчейн",
+    "caption": "Цепочка блоков. Каждый содержит хеш предыдущего. Изменение одного блока ломает все следующие. Биткоин использует с 2009.",
+    "alt": "Схема блокчейна",
+    "year": 2009,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Blockchain"
+  },
+  {
+    "id": "fact-infographics-neural-network",
+    "topic": "infographics",
+    "title": "Нейронная сеть",
+    "caption": "Слой за слоем перцептронов. Розенблатт, 1958 — Mark I Perceptron. AlexNet 2012 (62M параметров) запустил эру глубокого обучения.",
+    "alt": "Схема нейронной сети",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Artificial_neural_network"
+  },
+  {
+    "id": "fact-infographics-rock-cycle",
+    "topic": "infographics",
+    "title": "Круговорот пород",
+    "caption": "Изверженные → выветривание → осадочные → температура и давление → метаморфические → плавление → обратно изверженные. Полный цикл — миллионы лет.",
+    "alt": "Круговорот горных пород",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rock_cycle"
+  },
+  {
+    "id": "fact-infographics-soil-profile",
+    "topic": "infographics",
+    "title": "Почвенный профиль",
+    "caption": "Горизонты: O (подстилка) → A (гумус) → B (накопление) → C (выветренная порода) → R (материнская порода). Чернозём — слой A до 1,5 м.",
+    "alt": "Почвенный профиль",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Soil_horizon"
+  },
+  {
+    "id": "fact-infographics-subduction",
+    "topic": "infographics",
+    "title": "Зона субдукции",
+    "caption": "Океаническая плита уходит под континентальную → плавится → магма поднимается → вулканы. Тихоокеанское «огненное кольцо» — 75% мировых вулканов.",
+    "alt": "Зона субдукции — схема",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Subduction"
+  },
+  {
+    "id": "fact-infographics-mid-ocean-ridge",
+    "topic": "infographics",
+    "title": "Срединно-океанический хребет",
+    "caption": "Граница расходящихся плит на дне океана. Общая длина 65 000 км. Дно расходится со скоростью 2–18 см/год.",
+    "alt": "Срединно-океанический хребет",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mid-ocean_ridge"
+  },
+  {
+    "id": "fact-infographics-permafrost",
+    "topic": "infographics",
+    "title": "Вечная мерзлота",
+    "caption": "Грунт, замёрзший >2 лет. 15% суши Земли (24 млн км²), в основном в России и Канаде. Тает по 3% в десятилетие, выпуская метан.",
+    "alt": "Распространение вечной мерзлоты",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Permafrost"
+  },
+  {
+    "id": "fact-infographics-aquifer",
+    "topic": "infographics",
+    "title": "Водоносный горизонт",
+    "caption": "Подземный слой пористой породы с водой. Огалла под Великими равнинами США — 174 000 км², орошает 27% сельского хозяйства США.",
+    "alt": "Схема водоносного горизонта",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aquifer"
+  },
+  {
+    "id": "fact-infographics-evolution-tree",
+    "topic": "infographics",
+    "title": "Эволюционное древо",
+    "caption": "Все 8,7 млн видов — потомки общего предка LUCA (3,5–3,9 млрд лет назад). Дарвин нарисовал первую схему в 1837 в записной книжке.",
+    "alt": "Эволюционное древо",
+    "year": 1837,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Phylogenetic_tree"
+  },
+  {
+    "id": "fact-infographics-cambrian",
+    "topic": "infographics",
+    "title": "Кембрийский взрыв",
+    "caption": "541–530 млн лет назад. За 10 миллионов лет появились все основные типы животных. Самый быстрый период эволюции жизни на Земле.",
+    "alt": "Кембрийская фауна",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cambrian_explosion"
+  },
+  {
+    "id": "fact-infographics-mass-extinctions",
+    "topic": "infographics",
+    "title": "Массовые вымирания",
+    "caption": "5 крупнейших: ордовик (440 млн), девон (375), пермь-триас (252, погибло 95% видов), триас-юра (200), мел-палеоген (66, динозавры).",
+    "alt": "Шкала массовых вымираний",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Extinction_event"
+  },
+  {
+    "id": "fact-infographics-pn-junction",
+    "topic": "infographics",
+    "title": "p-n переход",
+    "caption": "Граница полупроводников p-типа (дырки) и n-типа (электроны). Основа диода, транзистора, солнечной батареи. Открыт в 1939.",
+    "alt": "p-n переход",
+    "year": 1939,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "P–n_junction"
+  },
+  {
+    "id": "fact-infographics-logic-gates",
+    "topic": "infographics",
+    "title": "Логические вентили",
+    "caption": "Базовые: AND, OR, NOT, NAND, NOR, XOR. На NAND или NOR можно построить ЛЮБУЮ цифровую схему. Транзисторов в ЦПУ — миллиарды NAND.",
+    "alt": "Логические вентили",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Logic_gate"
+  },
+  {
+    "id": "fact-infographics-fourier",
+    "topic": "infographics",
+    "title": "Преобразование Фурье",
+    "caption": "Жозеф Фурье, 1822. Любой сигнал — сумма синусоид. Базис обработки звука, изображений (JPEG), радио, томографии (MRI).",
+    "alt": "Преобразование Фурье — разложение на синусоиды",
+    "year": 1822,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fourier_transform"
+  },
+  {
+    "id": "fact-infographics-sine-wave",
+    "topic": "infographics",
+    "title": "Синусоида",
+    "caption": "y = A·sin(ωt+φ). Базовая форма периодического сигнала. Любая периодическая функция раскладывается в ряд Фурье из синусоид.",
+    "alt": "Синусоидальная волна",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sine_wave"
+  },
+  {
+    "id": "fact-infographics-pareto-curve",
+    "topic": "infographics",
+    "title": "Распределение Парето",
+    "caption": "Степенной закон. Описывает «80/20» — где малое подмножество даёт большой эффект. Применяется к доходам, размерам городов, частоте слов.",
+    "alt": "Распределение Парето",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pareto_distribution"
+  },
+  {
+    "id": "fact-infographics-power-law",
+    "topic": "infographics",
+    "title": "Степенной закон",
+    "caption": "y = c·xᵏ. На лог-лог графике — прямая. Встречается всюду: размеры городов, землетрясения, виральность твитов, длина файлов.",
+    "alt": "Степенной закон",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Power_law"
+  },
+  {
+    "id": "fact-infographics-zipfs-law",
+    "topic": "infographics",
+    "title": "Закон Ципфа",
+    "caption": "Самое частое слово встречается в 2 раза чаще второго, в 3 раза чаще третьего и т.д. Открыт Джорджем Ципфом, 1935. Работает на всех языках.",
+    "alt": "Закон Ципфа — график частот слов",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Zipf's_law"
+  },
+  {
+    "id": "fact-infographics-gini",
+    "topic": "infographics",
+    "title": "Коэффициент Джини",
+    "caption": "Коррадо Джини, 1912. 0 — полное равенство, 1 — все деньги у одного. Норвегия — 0,28, Россия — 0,36, США — 0,42, ЮАР — 0,63.",
+    "alt": "Шкала Джини",
+    "year": 1912,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gini_coefficient"
+  },
+  {
+    "id": "fact-infographics-supply-demand",
+    "topic": "infographics",
+    "title": "Спрос и предложение",
+    "caption": "Альфред Маршалл, 1890. Кривые пересекаются в точке равновесной цены. Кривая «X-крест Маршалла» — базовая схема микроэкономики.",
+    "alt": "Кривые спроса и предложения",
+    "year": 1890,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Supply_and_demand"
+  },
+  {
+    "id": "fact-infographics-laffer-curve",
+    "topic": "infographics",
+    "title": "Кривая Лаффера",
+    "caption": "Артур Лаффер, 1974. При нулевом и 100% налоге дохода казны нет. Максимум где-то посередине. Точка максимума — спор экономистов 50 лет.",
+    "alt": "Кривая Лаффера",
+    "year": 1974,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Laffer_curve"
+  },
+  {
+    "id": "fact-infographics-bell-curve-stats",
+    "topic": "infographics",
+    "title": "Эмпирическое правило",
+    "caption": "Правило 68-95-99,7 для нормального распределения. 68% значений в ±σ, 95% в ±2σ, 99,7% в ±3σ. Базис статистики и контроля качества.",
+    "alt": "Эмпирическое правило 68-95-99.7",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "68–95–99.7_rule"
+  },
+  {
+    "id": "fact-infographics-mendel-square",
+    "topic": "infographics",
+    "title": "Решётка Пеннета",
+    "caption": "Реджинальд Пеннет, 1905. Таблица для предсказания генотипов потомства. Базовый инструмент менделевской генетики.",
+    "alt": "Решётка Пеннета",
+    "year": 1905,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Punnett_square"
+  },
+  {
+    "id": "fact-infographics-codon-table",
+    "topic": "infographics",
+    "title": "Таблица генетического кода",
+    "caption": "64 кодона (3 нуклеотида) → 20 аминокислот + 3 стоп-сигнала. Универсальна для всей жизни Земли. Расшифрована к 1968 (Нобель Ниренберг).",
+    "alt": "Таблица генетического кода",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Genetic_code"
+  },
+  {
+    "id": "fact-infographics-cell-anatomy",
+    "topic": "infographics",
+    "title": "Эукариотическая клетка",
+    "caption": "Ядро + органеллы (митохондрии, рибосомы, ЭПР, аппарат Гольджи). Размер 10–100 мкм. 37 триллионов клеток в теле человека.",
+    "alt": "Эукариотическая клетка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cell_(biology)"
+  },
+  {
+    "id": "fact-infographics-protein-folding",
+    "topic": "infographics",
+    "title": "Сворачивание белков",
+    "caption": "4 уровня: первичная (последовательность) → вторичная (α-спирали, β-листы) → третичная (3D форма) → четвертичная (комплекс). AlphaFold предсказал 200M белков в 2022.",
+    "alt": "Уровни структуры белка",
+    "year": 2022,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Protein_folding"
+  },
+  {
+    "id": "fact-infographics-symbiosis",
+    "topic": "infographics",
+    "title": "Типы симбиоза",
+    "caption": "Мутуализм (+/+), комменсализм (+/0), паразитизм (+/−). Пчёлы и цветы — мутуализм. Микрофлора кишечника — 100 триллионов бактерий-партнёров.",
+    "alt": "Типы симбиотических связей",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Symbiosis"
+  },
+  {
+    "id": "fact-infographics-keystone",
+    "topic": "infographics",
+    "title": "Ключевые виды",
+    "caption": "Роберт Пейн, 1969. Один вид непропорционально удерживает экосистему. Морская выдра ест ежей → не дают съесть водоросли → подводные леса.",
+    "alt": "Ключевые виды в экосистеме",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Keystone_species"
+  },
+  {
+    "id": "fact-infographics-shark-evolution",
+    "topic": "infographics",
+    "title": "Эволюция акул",
+    "caption": "Акулы существуют 450 миллионов лет — старше деревьев (350). Пережили 4 из 5 массовых вымираний. Карта плана тела почти не изменилась.",
+    "alt": "Эволюционное древо акул",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Shark"
+  },
+  {
+    "id": "fact-infographics-human-evolution",
+    "topic": "infographics",
+    "title": "Эволюция человека",
+    "caption": "Australopithecus (3 млн лет) → Homo erectus (1,9 млн) → Homo sapiens (300 тыс. лет). С неандертальцами разошлись 600 000 лет назад.",
+    "alt": "Эволюция человека",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Human_evolution"
+  },
+  {
+    "id": "fact-infographics-dinosaur-ages",
+    "topic": "infographics",
+    "title": "Эпохи динозавров",
+    "caption": "Триас (252–201 млн) — появились. Юра (201–145) — гиганты-зауроподы. Мел (145–66) — T-rex. Все вымерли 66 млн назад от астероида (Чикшулуб).",
+    "alt": "Эры динозавров",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dinosaur"
+  },
+  {
+    "id": "fact-infographics-chicxulub",
+    "topic": "infographics",
+    "title": "Кратер Чикшулуб",
+    "caption": "Юкатан, 66 миллионов лет назад. Диаметр 180 км. Астероид 10–15 км врезался под углом 60°, вызвав «ядерную зиму» и вымирание динозавров.",
+    "alt": "Кратер Чикшулуб",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Chicxulub_crater"
+  },
+  {
+    "id": "fact-infographics-grand-canyon-layers",
+    "topic": "infographics",
+    "title": "Слои Гранд-Каньона",
+    "caption": "От верха к низу: 270 млн лет (Каибаб) → 1,84 млрд лет (Виштну). 1,8 миллиарда лет геологии видны в одном разрезе.",
+    "alt": "Геологические слои Гранд-Каньона",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Geology_of_the_Grand_Canyon_area"
+  },
+  {
+    "id": "fact-infographics-exoplanet-types",
+    "topic": "infographics",
+    "title": "Типы экзопланет",
+    "caption": "Земноподобные, Супер-Земли, Нептуноподобные, Газовые гиганты. К 2024 подтверждено 5800+ экзопланет. Большинство — Super-Earths.",
+    "alt": "Типы экзопланет",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Exoplanet"
+  },
+  {
+    "id": "fact-infographics-nebula-types",
+    "topic": "infographics",
+    "title": "Типы туманностей",
+    "caption": "Эмиссионная (горячий газ), отражающая (рассеивает свет звезды), планетарная (остаток умершей звезды), тёмная (поглощает свет за собой).",
+    "alt": "Типы туманностей",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nebula"
+  }
+]

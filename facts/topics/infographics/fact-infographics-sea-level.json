@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-sea-level",
+  "topic": "infographics",
+  "title": "Рост уровня моря",
+  "caption": "С 1880 уровень моря поднялся на 21 см, темп — 3,4 мм/год сегодня. К 2100 IPCC прогнозирует +0,4–0,8 м.",
+  "image": "fact-infographics-sea-level.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Рост уровня моря",
+  "credit": "RCraig09 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Sea_level_rise",
+  "license": "CC-BY-SA",
+  "year": 2024
+}

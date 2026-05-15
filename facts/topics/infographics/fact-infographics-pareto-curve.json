@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-pareto-curve",
+  "topic": "infographics",
+  "title": "Распределение Парето",
+  "caption": "Степенной закон. Описывает «80/20» — где малое подмножество даёт большой эффект. Применяется к доходам, размерам городов, частоте слов.",
+  "image": "fact-infographics-pareto-curve.webp",
+  "image_width": 1280,
+  "image_height": 863,
+  "alt": "Распределение Парето",
+  "credit": "Danvildanvil · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pareto_distribution",
+  "license": "CC-BY-SA",
+  "year": 2014
+}

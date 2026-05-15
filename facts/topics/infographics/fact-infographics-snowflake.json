@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-snowflake",
+  "topic": "infographics",
+  "title": "Кристалл снежинки",
+  "caption": "6-лучевая симметрия от структуры льда (гексагональная). Уилсон Бентли с 1885 заснял 5000 снежинок — все разные.",
+  "image": "fact-infographics-snowflake.webp",
+  "image_width": 1280,
+  "image_height": 1024,
+  "alt": "Кристаллы снежинок",
+  "credit": "Janek Lass · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Snowflake",
+  "license": "CC-BY",
+  "year": 1885
+}

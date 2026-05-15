@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-pulley",
+  "topic": "infographics",
+  "title": "Блок и полиспаст",
+  "caption": "Простая машина: Архимед, ~250 до н.э. Кратность n снижает усилие в n раз. С 4 блоков можно поднять 1 тонну усилием 25 кг.",
+  "image": "fact-infographics-pulley.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Полиспаст",
+  "credit": "GK Bloemsma · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pulley",
+  "license": "CC-BY-SA",
+  "year": -250
+}

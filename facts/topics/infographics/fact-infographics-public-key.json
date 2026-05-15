@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-public-key",
+  "topic": "infographics",
+  "title": "Криптография с открытым ключом",
+  "caption": "Диффи и Хеллман, 1976. Пара ключей: публичный шифрует, приватный расшифровывает. Основа TLS, цифровых подписей, биткоина.",
+  "image": "fact-infographics-public-key.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Схема асимметричной криптографии",
+  "credit": "KohanX (talk) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Public-key_cryptography",
+  "license": "PD",
+  "year": 1976
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-energy-substitution",
+  "topic": "infographics",
+  "title": "Замещение источников энергии",
+  "caption": "200 лет назад 95% энергии — биотопливо (дрова). К 2024 — нефть 30%, уголь 27%, газ 23%, низкоуглеродные 18%.",
+  "image": "fact-infographics-owid-energy-substitution.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Глобальная замена источников энергии",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/global-energy-substitution",
+  "license": "CC-BY",
+  "year": 2024
+}

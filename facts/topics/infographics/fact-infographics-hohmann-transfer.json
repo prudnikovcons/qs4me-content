@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-hohmann-transfer",
+  "topic": "infographics",
+  "title": "Гомановский переход",
+  "caption": "Вальтер Гоман, 1925. Минимально-энергозатратная траектория между двумя орбитами. Курс на Марс по нему — 8,5 месяцев.",
+  "image": "fact-infographics-hohmann-transfer.webp",
+  "image_width": 1280,
+  "image_height": 1536,
+  "alt": "Гомановская траектория к Марсу",
+  "credit": "Leafnode · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Hohmann_transfer_orbit",
+  "license": "CC-BY-SA",
+  "year": 1925
+}

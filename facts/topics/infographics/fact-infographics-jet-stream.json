@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-jet-stream",
+  "topic": "infographics",
+  "title": "Струйные течения",
+  "caption": "Высокоскоростные ветра в верхней тропосфере, 9–16 км. Скорость 100–200 км/ч (до 400 в максимуме). Самолёты используют для экономии топлива.",
+  "image": "fact-infographics-jet-stream.webp",
+  "image_width": 960,
+  "image_height": 540,
+  "alt": "Карта струйных течений",
+  "credit": "NASA/Goddard Space Flight Center · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Jet_stream",
+  "license": "PD",
+  "year": 2012
+}

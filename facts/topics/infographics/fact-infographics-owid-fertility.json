@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-fertility",
+  "topic": "infographics",
+  "title": "Коэффициент рождаемости",
+  "caption": "В 1950 мировой коэффициент был 5,0 ребёнка на женщину. В 2024 — 2,2 (ровно на границе замещения). Южная Корея — 0,7, Нигер — 6,9.",
+  "image": "fact-infographics-owid-fertility.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Коэффициент рождаемости",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/children-per-woman-un",
+  "license": "CC-BY",
+  "year": 2024
+}

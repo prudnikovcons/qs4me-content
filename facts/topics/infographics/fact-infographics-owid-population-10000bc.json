@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-population-10000bc",
+  "topic": "infographics",
+  "title": "Население с 10 000 до н.э.",
+  "caption": "10 000 до н.э. — 4 миллиона. К 1804 году — 1 миллиард. К 2022 — 8 миллиардов. Экспоненциальный взлёт с 1800-х.",
+  "image": "fact-infographics-owid-population-10000bc.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "График населения Земли за 12 000 лет",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/population",
+  "license": "CC-BY",
+  "year": 2024
+}

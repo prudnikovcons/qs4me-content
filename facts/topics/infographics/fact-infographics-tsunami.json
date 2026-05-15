@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-tsunami",
+  "topic": "infographics",
+  "title": "Цунами",
+  "caption": "В открытом океане высота 1 м, длина 200 км, скорость 800 км/ч (как самолёт). У берега вырастает до 30 м, замедляясь до 80 км/ч.",
+  "image": "fact-infographics-tsunami.webp",
+  "image_width": 1280,
+  "image_height": 928,
+  "alt": "Образование цунами",
+  "credit": "David Rydevik (email: david.rydevikgmail.com), Stockholm, Sweden. · PD · Wikimed",
+  "source": "https://en.wikipedia.org/wiki/Tsunami",
+  "license": "PD",
+  "year": 2004
+}

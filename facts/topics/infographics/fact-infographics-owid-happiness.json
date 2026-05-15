@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-happiness",
+  "topic": "infographics",
+  "title": "Индекс счастья",
+  "caption": "Опрос Cantril Ladder. Топ-3: Финляндия (7,7), Дания (7,6), Исландия (7,5). Низ: Афганистан 1,7. Россия — 5,4.",
+  "image": "fact-infographics-owid-happiness.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Индекс счастья по странам",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/happiness-cantril-ladder",
+  "license": "CC-BY",
+  "year": 2024
+}

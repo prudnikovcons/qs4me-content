@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-glacier",
+  "topic": "infographics",
+  "title": "Анатомия ледника",
+  "caption": "Зона аккумуляции (накопление снега) → зона абляции (таяние). 10% суши Земли покрыто ледниками — 99% льда в Антарктиде и Гренландии.",
+  "image": "fact-infographics-glacier.webp",
+  "image_width": 1024,
+  "image_height": 768,
+  "alt": "Схема ледника",
+  "credit": "NASA / Christy Hansen · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Glacier",
+  "license": "PD",
+  "year": 2013
+}

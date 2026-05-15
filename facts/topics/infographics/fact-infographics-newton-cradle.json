@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-newton-cradle",
+  "topic": "infographics",
+  "title": "Маятник Ньютона",
+  "caption": "Демонстрация законов сохранения импульса и энергии. 5 шариков на нитях. Удар крайнего → отскок противоположного.",
+  "image": "fact-infographics-newton-cradle.webp",
+  "image_width": 480,
+  "image_height": 360,
+  "alt": "Маятник Ньютона",
+  "credit": "DemonDeLuxe (Dominique Toussaint) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Newton's_cradle",
+  "license": "CC-BY-SA",
+  "year": 2006
+}

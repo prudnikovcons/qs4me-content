@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-mendel-square",
+  "topic": "infographics",
+  "title": "Решётка Пеннета",
+  "caption": "Реджинальд Пеннет, 1905. Таблица для предсказания генотипов потомства. Базовый инструмент менделевской генетики.",
+  "image": "fact-infographics-mendel-square.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Решётка Пеннета",
+  "credit": "Wikimedia author Pbrks originally drew the picture. Modified to indicate that gr",
+  "source": "https://en.wikipedia.org/wiki/Punnett_square",
+  "license": "CC-BY-SA",
+  "year": 1905
+}

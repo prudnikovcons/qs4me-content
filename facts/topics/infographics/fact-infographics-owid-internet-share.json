@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-internet-share",
+  "topic": "infographics",
+  "title": "Пользователи интернета мира",
+  "caption": "В 1995 был интернет у 0,4% людей. В 2010 — 30%. В 2024 — 67%. Каждый день подключаются 900 000 новых.",
+  "image": "fact-infographics-owid-internet-share.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Доля пользователей интернета",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/share-of-individuals-using-the-internet",
+  "license": "CC-BY",
+  "year": 2024
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-ev-sales",
+  "topic": "infographics",
+  "title": "Доля электромобилей",
+  "caption": "Доля EV в продажах новых машин: Норвегия 90%, Швеция 60%, Китай 40%, Германия 25%, США 10%, Россия <1%. 2024 год.",
+  "image": "fact-infographics-owid-ev-sales.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Доля EV в продажах",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/electric-car-sales-share",
+  "license": "CC-BY",
+  "year": 2024
+}

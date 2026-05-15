@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-lunar-phases",
+  "topic": "infographics",
+  "title": "Фазы Луны",
+  "caption": "8 фаз за 29,5 дней — синодический месяц. Новолуние, растущий серп, первая четверть, прибывающая, полнолуние и обратно.",
+  "image": "fact-infographics-lunar-phases.webp",
+  "image_width": 598,
+  "image_height": 491,
+  "alt": "8 фаз Луны",
+  "credit": "Andonee · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Lunar_phase",
+  "license": "CC-BY-SA",
+  "year": 2015
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-snells-law",
+  "topic": "infographics",
+  "title": "Закон Снелля",
+  "caption": "Виллеброрд Снелл, 1621. n₁·sin(θ₁) = n₂·sin(θ₂). Свет преломляется при переходе сред. У воды показатель преломления 1,33, у алмаза — 2,42.",
+  "image": "fact-infographics-snells-law.webp",
+  "image_width": 1280,
+  "image_height": 2302,
+  "alt": "Закон Снелля — преломление",
+  "credit": "Oleg Alexandrov — I just tweaked the original · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Snell's_law",
+  "license": "PD",
+  "year": 1621
+}

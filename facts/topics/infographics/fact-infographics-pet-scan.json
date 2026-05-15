@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-pet-scan",
+  "topic": "infographics",
+  "title": "ПЭТ-сканер",
+  "caption": "Позитронно-эмиссионная томография. Введённый изотоп (F-18) излучает позитроны → 2 гамма-фотона в 511 кэВ под 180°. Так находят опухоли.",
+  "image": "fact-infographics-pet-scan.webp",
+  "image_width": 1050,
+  "image_height": 736,
+  "alt": "ПЭТ-сканер",
+  "credit": "Spacecoastcreative · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Positron_emission_tomography",
+  "license": "CC0",
+  "year": 2024
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-birthday-problem",
+  "topic": "terms",
+  "title": "Парадокс дней рождения",
+  "caption": "Вероятность совпадения дней рождения в группе из 23 человек — 50%. В 70 — 99,9%. Контринтуитивно низкое число.",
+  "image": "fact-terms-birthday-problem.webp",
+  "image_width": 1280,
+  "image_height": 825,
+  "alt": "График парадокса дней рождения",
+  "credit": "Rajkiran g · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Birthday_problem",
+  "license": "CC-BY-SA",
+  "year": 2010
+}

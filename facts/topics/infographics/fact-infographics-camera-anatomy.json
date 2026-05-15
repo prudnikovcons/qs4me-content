@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-camera-anatomy",
+  "topic": "infographics",
+  "title": "Анатомия фотоаппарата",
+  "caption": "Объектив → диафрагма → затвор → матрица/плёнка. Первая 35-мм Leica I — 1925. Цифровая Mavica — 1981. iPhone камера — 12 МП в 2017.",
+  "image": "fact-infographics-camera-anatomy.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Схема фотоаппарата",
+  "credit": "Kameraprojekt Graz 2015 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Camera",
+  "license": "CC-BY-SA",
+  "year": 1925
+}

@@ -1,0 +1,410 @@
+[
+  {
+    "id": "fact-infographics-heart-anatomy",
+    "topic": "infographics",
+    "title": "Анатомия сердца",
+    "caption": "4 камеры: 2 предсердия + 2 желудочка. Бьётся 100 000 раз в день, перекачивает 7000 литров крови. Вес 250–350 г.",
+    "alt": "Схема анатомии сердца",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Heart"
+  },
+  {
+    "id": "fact-infographics-human-eye",
+    "topic": "infographics",
+    "title": "Анатомия глаза",
+    "caption": "Зрачок, хрусталик, сетчатка. 6 миллионов колбочек (цвет), 120 миллионов палочек (свет). Угол обзора одного глаза — 200°.",
+    "alt": "Строение человеческого глаза",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Human_eye"
+  },
+  {
+    "id": "fact-infographics-human-brain",
+    "topic": "infographics",
+    "title": "Отделы мозга",
+    "caption": "86 миллиардов нейронов, 100 триллионов синапсов. Кора — 2,3 м² если расправить. Потребляет 20% энергии тела при массе 2%.",
+    "alt": "Отделы человеческого мозга",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Human_brain"
+  },
+  {
+    "id": "fact-infographics-skeleton",
+    "topic": "infographics",
+    "title": "Скелет человека",
+    "caption": "Взрослый человек — 206 костей. Младенец рождается с 270 — часть срастается. Бедренная — длиннейшая (~48 см), стремечко в ухе — 3 мм.",
+    "alt": "Скелет человека",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Human_skeleton"
+  },
+  {
+    "id": "fact-infographics-mitosis",
+    "topic": "infographics",
+    "title": "Митоз",
+    "caption": "Деление клетки на 2 идентичные. 5 фаз: профаза, прометафаза, метафаза, анафаза, телофаза. У человека идёт 1 час в среднем.",
+    "alt": "Фазы митоза",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mitosis"
+  },
+  {
+    "id": "fact-infographics-meiosis",
+    "topic": "infographics",
+    "title": "Мейоз",
+    "caption": "Деление половой клетки с уменьшением хромосом вдвое (с 46 до 23 у человека). Кроссинговер создаёт уникальные комбинации генов.",
+    "alt": "Схема мейоза",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Meiosis"
+  },
+  {
+    "id": "fact-infographics-photosynthesis",
+    "topic": "infographics",
+    "title": "Фотосинтез",
+    "caption": "6 CO₂ + 6 H₂O + свет → C₆H₁₂O₆ + 6 O₂. Запасает 130 тераватт энергии в год — в 8 раз больше всего, что потребляет человечество.",
+    "alt": "Схема фотосинтеза",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Photosynthesis"
+  },
+  {
+    "id": "fact-infographics-cellular-respiration",
+    "topic": "infographics",
+    "title": "Клеточное дыхание",
+    "caption": "C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O + 30 АТФ. Происходит в митохондриях. КПД ~40% — энергия глюкозы → АТФ.",
+    "alt": "Схема клеточного дыхания",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cellular_respiration"
+  },
+  {
+    "id": "fact-infographics-krebs-cycle",
+    "topic": "infographics",
+    "title": "Цикл Кребса",
+    "caption": "Ханс Кребс, 1937, Нобель 1953. 8 реакций окисления ацетил-КоА с выходом 2 CO₂, 3 NADH, 1 FADH₂, 1 ATP за цикл.",
+    "alt": "Схема цикла Кребса",
+    "year": 1937,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Citric_acid_cycle"
+  },
+  {
+    "id": "fact-infographics-volcano-anatomy",
+    "topic": "infographics",
+    "title": "Анатомия вулкана",
+    "caption": "Магматический очаг → канал → жерло → кратер. На Земле 1500 активных вулканов, 50 извергаются каждый год.",
+    "alt": "Схема строения вулкана",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Volcano"
+  },
+  {
+    "id": "fact-infographics-earthquake",
+    "topic": "infographics",
+    "title": "Землетрясение",
+    "caption": "Гипоцентр в коре, эпицентр на поверхности. 500 000 землетрясений в год (приборы), 100 000 ощутимые, ~100 разрушительные.",
+    "alt": "Схема возникновения землетрясения",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Earthquake"
+  },
+  {
+    "id": "fact-infographics-glacier",
+    "topic": "infographics",
+    "title": "Анатомия ледника",
+    "caption": "Зона аккумуляции (накопление снега) → зона абляции (таяние). 10% суши Земли покрыто ледниками — 99% льда в Антарктиде и Гренландии.",
+    "alt": "Схема ледника",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Glacier"
+  },
+  {
+    "id": "fact-infographics-tsunami",
+    "topic": "infographics",
+    "title": "Цунами",
+    "caption": "В открытом океане высота 1 м, длина 200 км, скорость 800 км/ч (как самолёт). У берега вырастает до 30 м, замедляясь до 80 км/ч.",
+    "alt": "Образование цунами",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tsunami"
+  },
+  {
+    "id": "fact-infographics-hydrothermal-vent",
+    "topic": "infographics",
+    "title": "Гидротермальный источник",
+    "caption": "«Чёрные курильщики» на дне океана. Температура воды 400 °C. Открыты в 1977. Жизнь возможна без солнца — на хемосинтезе.",
+    "alt": "Чёрный курильщик на дне океана",
+    "year": 1977,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hydrothermal_vent"
+  },
+  {
+    "id": "fact-infographics-lunar-phases",
+    "topic": "infographics",
+    "title": "Фазы Луны",
+    "caption": "8 фаз за 29,5 дней — синодический месяц. Новолуние, растущий серп, первая четверть, прибывающая, полнолуние и обратно.",
+    "alt": "8 фаз Луны",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lunar_phase"
+  },
+  {
+    "id": "fact-infographics-tidal-force",
+    "topic": "infographics",
+    "title": "Приливы и отливы",
+    "caption": "Гравитация Луны притягивает воду — 2 прилива и 2 отлива в сутки. Самые сильные: залив Фанди — 16,3 м перепад.",
+    "alt": "Схема приливных сил",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tide"
+  },
+  {
+    "id": "fact-infographics-coriolis",
+    "topic": "infographics",
+    "title": "Сила Кориолиса",
+    "caption": "Гаспар Кориолис, 1835. Из-за вращения Земли движущиеся тела отклоняются: вправо в северном полушарии, влево — в южном.",
+    "alt": "Эффект Кориолиса",
+    "year": 1835,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Coriolis_force"
+  },
+  {
+    "id": "fact-infographics-pendulum",
+    "topic": "infographics",
+    "title": "Маятник",
+    "caption": "Галилей, 1602. Период колебаний зависит только от длины и гравитации (T = 2π√(L/g)). Базис механических часов.",
+    "alt": "Маятник",
+    "year": 1602,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pendulum"
+  },
+  {
+    "id": "fact-infographics-em-spectrum-detail",
+    "topic": "infographics",
+    "title": "Видимый спектр",
+    "caption": "380–750 нм — окно, в котором видит глаз. Красный (700), оранжевый (620), жёлтый (580), зелёный (530), синий (470), фиолетовый (420).",
+    "alt": "Видимый спектр света",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Visible_spectrum"
+  },
+  {
+    "id": "fact-infographics-jet-engine",
+    "topic": "infographics",
+    "title": "Турбореактивный двигатель",
+    "caption": "Фрэнк Уиттл, 1937. Воздух → компрессор → камера сгорания → турбина → реактивная струя. Тяга до 500 кН (Boeing 777).",
+    "alt": "Схема турбореактивного двигателя",
+    "year": 1937,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jet_engine"
+  },
+  {
+    "id": "fact-infographics-ice-combustion",
+    "topic": "infographics",
+    "title": "ДВС с 4 тактами",
+    "caption": "Никола Отто, 1876. 4 такта: впуск, сжатие, рабочий ход, выпуск. КПД 25–30%. Доминировал 150 лет, теперь уступает электромотору.",
+    "alt": "4 такта двигателя внутреннего сгорания",
+    "year": 1876,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Four-stroke_engine"
+  },
+  {
+    "id": "fact-infographics-steam-engine",
+    "topic": "infographics",
+    "title": "Паровая машина",
+    "caption": "Джеймс Уатт, 1769. Усовершенствовал машину Ньюкомена 1712 года. Запустил промышленную революцию. КПД 6%, но достаточно для эпохи.",
+    "alt": "Схема паровой машины Уатта",
+    "year": 1769,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Steam_engine"
+  },
+  {
+    "id": "fact-infographics-suspension-bridge",
+    "topic": "infographics",
+    "title": "Висячий мост",
+    "caption": "Главный кабель → подвески → дорожное полотно. Рекорд пролёта — Чанаккале (Турция), 2023, пролёт 2023 м.",
+    "alt": "Схема висячего моста",
+    "year": 2023,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Suspension_bridge"
+  },
+  {
+    "id": "fact-infographics-hydro-dam",
+    "topic": "infographics",
+    "title": "Гидроэлектростанция",
+    "caption": "Энергия воды → турбина → генератор. Самая крупная — «Три ущелья» в Китае, 2003: мощность 22,5 ГВт, 32 турбины.",
+    "alt": "Схема гидроэлектростанции",
+    "year": 2003,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hydroelectricity"
+  },
+  {
+    "id": "fact-infographics-nuclear-reactor",
+    "topic": "infographics",
+    "title": "Ядерный реактор",
+    "caption": "Деление урана-235 → теплота → пар → турбина. В мире 440 реакторов, дают 10% электроэнергии. Франция — 70%, Россия — 19%.",
+    "alt": "Схема ядерного реактора",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nuclear_reactor"
+  },
+  {
+    "id": "fact-infographics-solar-panel",
+    "topic": "infographics",
+    "title": "Фотоэлемент",
+    "caption": "Чарлз Фриттс, 1883 — первая ячейка из селена. Современные кремниевые — КПД до 26%, теоретический предел Шокли-Квайсера — 33%.",
+    "alt": "Схема солнечного фотоэлемента",
+    "year": 1883,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Solar_cell"
+  },
+  {
+    "id": "fact-infographics-camera-anatomy",
+    "topic": "infographics",
+    "title": "Анатомия фотоаппарата",
+    "caption": "Объектив → диафрагма → затвор → матрица/плёнка. Первая 35-мм Leica I — 1925. Цифровая Mavica — 1981. iPhone камера — 12 МП в 2017.",
+    "alt": "Схема фотоаппарата",
+    "year": 1925,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Camera"
+  },
+  {
+    "id": "fact-infographics-radio-spectrum",
+    "topic": "infographics",
+    "title": "Радиочастоты",
+    "caption": "От ELF (3 Гц) до EHF (300 ГГц). FM-радио — 88–108 МГц, Wi-Fi — 2,4 и 5 ГГц, 5G — до 39 ГГц. Регулирует МСЭ с 1865.",
+    "alt": "Схема радиочастот",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Radio_spectrum"
+  },
+  {
+    "id": "fact-infographics-pangea",
+    "topic": "infographics",
+    "title": "Пангея",
+    "caption": "Суперконтинент 335–175 млн лет назад. Окружён океаном Панталасса. Раскололся на Лавразию и Гондвану — современные континенты разъезжаются до сих пор.",
+    "alt": "Реконструкция Пангеи",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pangaea"
+  },
+  {
+    "id": "fact-infographics-planet-sizes",
+    "topic": "infographics",
+    "title": "Размеры планет",
+    "caption": "Юпитер в 11 раз шире Земли. Меркурий — 0,38. Сатурн — 9,5 (плотность 0,7 — плавал бы в воде). Уран и Нептун — 4×.",
+    "alt": "Сравнение размеров планет Солнечной",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Planet"
+  },
+  {
+    "id": "fact-infographics-star-sizes",
+    "topic": "infographics",
+    "title": "Размеры звёзд",
+    "caption": "Солнце — карлик. UY Щита — в 1700 раз больше. Если бы UY был на месте Солнца, поглотил бы орбиту Юпитера.",
+    "alt": "Сравнение размеров звёзд",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Solar_radius"
+  },
+  {
+    "id": "fact-infographics-galaxy-rotation",
+    "topic": "infographics",
+    "title": "Кривая вращения галактики",
+    "caption": "По законам Ньютона звёзды на краю Млечного Пути должны вращаться медленнее. Они вращаются быстро — отсюда гипотеза тёмной материи (1970-е, Вера Рубин).",
+    "alt": "Кривая вращения галактики",
+    "year": 1970,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Galaxy_rotation_curve"
+  },
+  {
+    "id": "fact-infographics-redshift",
+    "topic": "infographics",
+    "title": "Красное смещение",
+    "caption": "Свет удаляющихся галактик смещается в красный спектр (эффект Доплера). Эдвин Хаббл доказал расширение Вселенной в 1929.",
+    "alt": "Иллюстрация красного смещения",
+    "year": 1929,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Redshift"
+  },
+  {
+    "id": "fact-infographics-jet-stream",
+    "topic": "infographics",
+    "title": "Струйные течения",
+    "caption": "Высокоскоростные ветра в верхней тропосфере, 9–16 км. Скорость 100–200 км/ч (до 400 в максимуме). Самолёты используют для экономии топлива.",
+    "alt": "Карта струйных течений",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jet_stream"
+  },
+  {
+    "id": "fact-infographics-el-nino",
+    "topic": "infographics",
+    "title": "Эль-Ниньо",
+    "caption": "Прогревание поверхностных вод Тихого океана каждые 2–7 лет. Меняет климат по всему миру: засухи в Австралии, дожди в Перу.",
+    "alt": "Схема Эль-Ниньо",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "El_Niño"
+  },
+  {
+    "id": "fact-terms-kardashev-scale",
+    "topic": "terms",
+    "title": "Шкала Кардашёва",
+    "caption": "Николай Кардашёв, 1964. 3 типа цивилизаций по потреблению энергии. Тип I — планета, II — звезда, III — галактика. Земля — 0,73.",
+    "alt": "Шкала Кардашёва",
+    "year": 1964,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kardashev_scale"
+  },
+  {
+    "id": "fact-terms-gaia-hypothesis",
+    "topic": "terms",
+    "title": "Гипотеза Геи",
+    "caption": "Джеймс Лавлок, 1970-е. Биосфера Земли — единый саморегулирующийся организм. Поддерживает температуру и состав атмосферы для жизни.",
+    "alt": "Иллюстрация гипотезы Геи",
+    "year": 1972,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gaia_hypothesis"
+  },
+  {
+    "id": "fact-terms-anthropocene",
+    "topic": "terms",
+    "title": "Антропоцен",
+    "caption": "Пол Крутцен, 2000. Новая геологическая эпоха — с момента, когда человечество стало главной силой изменения планеты. Старт спорят: 1610, 1950, 2000.",
+    "alt": "Иллюстрация антропоцена",
+    "year": 2000,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Anthropocene"
+  },
+  {
+    "id": "fact-terms-doomsday-clock",
+    "topic": "terms",
+    "title": "Часы Судного дня",
+    "caption": "Bulletin of Atomic Scientists, 1947. Метафора близости к катастрофе. К 2024 — 90 секунд до полуночи, ближе всего за 77 лет существования.",
+    "alt": "Часы Судного дня",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Doomsday_Clock"
+  },
+  {
+    "id": "fact-terms-planck-units",
+    "topic": "terms",
+    "title": "Планковские единицы",
+    "caption": "Макс Планк, 1899. Базовые константы природы. Длина — 1,6×10⁻³⁵ м, время — 5,4×10⁻⁴⁴ с. Меньше масштабов физика «не работает».",
+    "alt": "Планковская длина — сравнение",
+    "year": 1899,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Planck_units"
+  },
+  {
+    "id": "fact-terms-speed-of-light",
+    "topic": "terms",
+    "title": "Скорость света",
+    "caption": "Точно 299 792 458 м/с в вакууме. С 1983 — определение метра. Свет от Солнца до Земли идёт 8 минут 20 секунд.",
+    "alt": "Иллюстрация скорости света",
+    "year": 1983,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Speed_of_light"
+  },
+  {
+    "id": "fact-terms-avogadro",
+    "topic": "terms",
+    "title": "Число Авогадро",
+    "caption": "6,02214076 × 10²³ — частиц в моле вещества. Точное определение с 2019. Связывает микро и макромир в химии.",
+    "alt": "Число Авогадро",
+    "year": 2019,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Avogadro_constant"
+  },
+  {
+    "id": "fact-terms-nash-equilibrium",
+    "topic": "terms",
+    "title": "Равновесие Нэша",
+    "caption": "Джон Нэш, 1950. Состояние игры, где никому невыгодно менять стратегию в одиночку. Нобель по экономике 1994 за этот концепт.",
+    "alt": "Иллюстрация равновесия Нэша",
+    "year": 1950,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nash_equilibrium"
+  }
+]

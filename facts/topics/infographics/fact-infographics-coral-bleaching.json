@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-coral-bleaching",
+  "topic": "infographics",
+  "title": "Обесцвечивание кораллов",
+  "caption": "При нагреве воды на 1–2 °C кораллы изгоняют симбиотические водоросли — белеют и могут погибнуть. С 1985 потеряно 50% коралловых рифов.",
+  "image": "fact-infographics-coral-bleaching.webp",
+  "image_width": 1024,
+  "image_height": 768,
+  "alt": "Обесцвечивание кораллов",
+  "credit": "Acropora at English Wikipedia · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Coral_bleaching",
+  "license": "CC-BY-SA",
+  "year": 1985
+}

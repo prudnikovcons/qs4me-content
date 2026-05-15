@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-radioactive-decay",
+  "topic": "infographics",
+  "title": "Радиоактивный распад",
+  "caption": "α-распад (ядро He), β-распад (электрон или позитрон), γ-излучение (фотон). Период полураспада урана-238 — 4,5 млрд лет.",
+  "image": "fact-infographics-radioactive-decay.webp",
+  "image_width": 1280,
+  "image_height": 815,
+  "alt": "Виды радиоактивного распада",
+  "credit": "Kjerish · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Radioactive_decay",
+  "license": "CC-BY-SA",
+  "year": 2016
+}

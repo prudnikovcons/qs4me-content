@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-lightning",
+  "topic": "infographics",
+  "title": "Молния",
+  "caption": "Разряд напряжением 100 млн В, ток до 30 000 А. Канал плазмы +27 000 °C — горячее поверхности Солнца. На Земле 8,6 млн молний в сутки.",
+  "image": "fact-infographics-lightning.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Схема молнии",
+  "credit": "Maxime Raynal from France · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Lightning",
+  "license": "CC-BY",
+  "year": 2014
+}

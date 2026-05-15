@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-osi-model",
+  "topic": "infographics",
+  "title": "Модель OSI",
+  "caption": "ISO, 1984. 7 уровней сетевого взаимодействия: физический, канальный, сетевой, транспортный, сеансовый, представления, прикладной.",
+  "image": "fact-infographics-osi-model.webp",
+  "image_width": 1280,
+  "image_height": 767,
+  "alt": "Модель OSI — 7 уровней",
+  "credit": "Runtux · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/OSI_model",
+  "license": "PD",
+  "year": 1984
+}

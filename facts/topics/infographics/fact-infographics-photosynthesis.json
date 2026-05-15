@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-photosynthesis",
+  "topic": "infographics",
+  "title": "Фотосинтез",
+  "caption": "6 CO₂ + 6 H₂O + свет → C₆H₁₂O₆ + 6 O₂. Запасает 130 тераватт энергии в год — в 8 раз больше всего, что потребляет человечество.",
+  "image": "fact-infographics-photosynthesis.webp",
+  "image_width": 1280,
+  "image_height": 1281,
+  "alt": "Схема фотосинтеза",
+  "credit": "At09kg, Wattcle, Nefronus At09kg: original Wattcle: vector graphics Nefronus: re",
+  "source": "https://en.wikipedia.org/wiki/Photosynthesis",
+  "license": "CC-BY-SA",
+  "year": 2016
+}

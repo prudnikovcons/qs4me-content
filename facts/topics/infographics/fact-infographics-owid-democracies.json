@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-democracies",
+  "topic": "infographics",
+  "title": "Демократии vs автократии",
+  "caption": "В 1900 в демократиях жили 12% людей. В 1989 — 38%. В 2024 — 32%. После пика 2010-х идёт «третья волна автократизации».",
+  "image": "fact-infographics-owid-democracies.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Население под разными режимами",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/world-population-by-political-regime",
+  "license": "CC-BY",
+  "year": 2024
+}

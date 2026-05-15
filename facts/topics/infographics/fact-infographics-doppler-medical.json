@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-doppler-medical",
+  "topic": "infographics",
+  "title": "Эхокардиография",
+  "caption": "Ультразвук в кардиологии с 1953. УЗИ 2,5–10 МГц видит структуры сердца. Допплер — мерит скорость крови по сдвигу частоты.",
+  "image": "fact-infographics-doppler-medical.webp",
+  "image_width": 636,
+  "image_height": 432,
+  "alt": "Эхокардиография",
+  "credit": "Kjetil Lenes · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Echocardiography",
+  "license": "CC-BY-SA",
+  "year": 1953
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-voronoi",
+  "topic": "terms",
+  "title": "Диаграмма Вороного",
+  "caption": "Георгий Вороной, 1908. Разбиение плоскости по «ближайшему центру». Применяется от сотовой связи до жилкования листьев.",
+  "image": "fact-terms-voronoi.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Диаграмма Вороного",
+  "credit": "Balu Ertl · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Voronoi_diagram",
+  "license": "CC-BY-SA",
+  "year": 1908
+}

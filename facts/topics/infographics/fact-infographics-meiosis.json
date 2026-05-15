@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-meiosis",
+  "topic": "infographics",
+  "title": "Мейоз",
+  "caption": "Деление половой клетки с уменьшением хромосом вдвое (с 46 до 23 у человека). Кроссинговер создаёт уникальные комбинации генов.",
+  "image": "fact-infographics-meiosis.webp",
+  "image_width": 1280,
+  "image_height": 805,
+  "alt": "Схема мейоза",
+  "credit": "Rdbickel · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Meiosis",
+  "license": "CC-BY-SA",
+  "year": 2016
+}

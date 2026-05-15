@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-dinosaur-ages",
+  "topic": "infographics",
+  "title": "Эпохи динозавров",
+  "caption": "Триас (252–201 млн) — появились. Юра (201–145) — гиганты-зауроподы. Мел (145–66) — T-rex. Все вымерли 66 млн назад от астероида (Чикшулуб).",
+  "image": "fact-infographics-dinosaur-ages.webp",
+  "image_width": 1280,
+  "image_height": 772,
+  "alt": "Эры динозавров",
+  "credit": "Sam / Olai Ose / Skjaervoy from Zhangjiagang, China · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Dinosaur",
+  "license": "CC-BY-SA",
+  "year": 2007
+}

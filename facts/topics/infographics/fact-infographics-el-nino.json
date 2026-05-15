@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-el-nino",
+  "topic": "infographics",
+  "title": "Эль-Ниньо",
+  "caption": "Прогревание поверхностных вод Тихого океана каждые 2–7 лет. Меняет климат по всему миру: засухи в Австралии, дожди в Перу.",
+  "image": "fact-infographics-el-nino.webp",
+  "image_width": 620,
+  "image_height": 613,
+  "alt": "Схема Эль-Ниньо",
+  "credit": "Content published by Rebecca Lindsey and reviewed by Tom Di Liberto. Image credi",
+  "source": "https://en.wikipedia.org/wiki/El_Ni%C3%B1o",
+  "license": "PD",
+  "year": 2016
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-urban-share",
+  "topic": "infographics",
+  "title": "Урбанизация",
+  "caption": "В 1800 в городах жили 7%. В 1950 — 30%. В 2007 — 50% (переломный момент). К 2050 ООН прогнозирует 68%.",
+  "image": "fact-infographics-owid-urban-share.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Урбанизация мира",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/urban-population-share-2050",
+  "license": "CC-BY",
+  "year": 2023
+}

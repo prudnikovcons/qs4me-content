@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-co2-per-country",
+  "topic": "infographics",
+  "title": "Выбросы CO₂ по странам",
+  "caption": "Глобальные выбросы CO₂ — 37,4 млрд тонн в 2023. Китай — 27%, США — 11%, ЕС — 6%. На душу: Катар 35 т, Россия 11, Индия 2.",
+  "image": "fact-infographics-owid-co2-per-country.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "График выбросов CO₂ по странам",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/annual-co2-emissions-per-country",
+  "license": "CC-BY",
+  "year": 2023
+}

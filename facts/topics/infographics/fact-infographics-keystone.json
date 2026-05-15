@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-keystone",
+  "topic": "infographics",
+  "title": "Ключевые виды",
+  "caption": "Роберт Пейн, 1969. Один вид непропорционально удерживает экосистему. Морская выдра ест ежей → не дают съесть водоросли → подводные леса.",
+  "image": "fact-infographics-keystone.webp",
+  "image_width": 1280,
+  "image_height": 1547,
+  "alt": "Ключевые виды в экосистеме",
+  "credit": "Bjørn Christian Tørrissen · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Keystone_species",
+  "license": "CC-BY-SA",
+  "year": 1969
+}

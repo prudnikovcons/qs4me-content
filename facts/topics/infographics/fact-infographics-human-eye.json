@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-human-eye",
+  "topic": "infographics",
+  "title": "Анатомия глаза",
+  "caption": "Зрачок, хрусталик, сетчатка. 6 миллионов колбочек (цвет), 120 миллионов палочек (свет). Угол обзора одного глаза — 200°.",
+  "image": "fact-infographics-human-eye.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Строение человеческого глаза",
+  "credit": "ROTFLOLEB · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Human_eye",
+  "license": "CC-BY-SA",
+  "year": 2013
+}

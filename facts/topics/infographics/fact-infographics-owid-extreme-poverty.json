@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-extreme-poverty",
+  "topic": "infographics",
+  "title": "Крайняя бедность",
+  "caption": "В 1820 жили за чертой 90% людей. К 1990 — 38%. В 2024 — 8,5% (700 миллионов). Цель ООН — 0% к 2030.",
+  "image": "fact-infographics-owid-extreme-poverty.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Снижение крайней бедности",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty",
+  "license": "CC-BY",
+  "year": 2024
+}

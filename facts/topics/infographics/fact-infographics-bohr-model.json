@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-bohr-model",
+  "topic": "infographics",
+  "title": "Боровская модель атома",
+  "caption": "Нильс Бор, 1913. Электроны вращаются по фиксированным орбитам вокруг ядра. Уровень K (2 e⁻), L (8), M (18), N (32). Нобель 1922.",
+  "image": "fact-infographics-bohr-model.webp",
+  "image_width": 1280,
+  "image_height": 1085,
+  "alt": "Модель атома Бора",
+  "credit": "JabberWok at English Wikipedia · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Bohr_model",
+  "license": "CC-BY-SA",
+  "year": 1913
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-double-slit",
+  "topic": "infographics",
+  "title": "Эксперимент с двумя щелями",
+  "caption": "Томас Юнг, 1801. Свет проходит через 2 щели — на экране интерференция. Доказательство волновой природы. Электроны тоже дают узор.",
+  "image": "fact-infographics-double-slit.webp",
+  "image_width": 1280,
+  "image_height": 640,
+  "alt": "Интерференция в эксперименте с двумя щелями",
+  "credit": "Original: NekoJaNekoJa Vector: Johannes Kalliauer · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Double-slit_experiment",
+  "license": "CC-BY-SA",
+  "year": 1801
+}

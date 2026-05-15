@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-meat-consumption",
+  "topic": "infographics",
+  "title": "Потребление мяса",
+  "caption": "США — 124 кг/человека/год, Аргентина — 109, ЕС — 80, Россия — 78, Китай — 60. Индия — 4 кг. Глобально удвоилось с 1961.",
+  "image": "fact-infographics-owid-meat-consumption.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Потребление мяса по странам",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/meat-supply-per-person",
+  "license": "CC-BY",
+  "year": 2023
+}

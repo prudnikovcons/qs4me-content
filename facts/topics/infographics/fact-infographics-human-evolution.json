@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-human-evolution",
+  "topic": "infographics",
+  "title": "Эволюция человека",
+  "caption": "Australopithecus (3 млн лет) → Homo erectus (1,9 млн) → Homo sapiens (300 тыс. лет). С неандертальцами разошлись 600 000 лет назад.",
+  "image": "fact-infographics-human-evolution.webp",
+  "image_width": 1280,
+  "image_height": 945,
+  "alt": "Эволюция человека",
+  "credit": "Homo-Stammbaum, Version Stringer.jpg: Chris Stringer derivative work: Conquistad",
+  "source": "https://en.wikipedia.org/wiki/Human_evolution",
+  "license": "CC-BY-SA",
+  "year": 2014
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-gini",
+  "topic": "infographics",
+  "title": "Коэффициент Джини",
+  "caption": "Коррадо Джини, 1912. 0 — полное равенство, 1 — все деньги у одного. Норвегия — 0,28, Россия — 0,36, США — 0,42, ЮАР — 0,63.",
+  "image": "fact-infographics-gini.webp",
+  "image_width": 1280,
+  "image_height": 649,
+  "alt": "Шкала Джини",
+  "credit": "World Bank, Poverty and Inequality Platform (PIP) · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Gini_coefficient",
+  "license": "CC-BY",
+  "year": 1912
+}

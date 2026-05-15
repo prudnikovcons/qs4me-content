@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-neural-network",
+  "topic": "infographics",
+  "title": "Нейронная сеть",
+  "caption": "Слой за слоем перцептронов. Розенблатт, 1958 — Mark I Perceptron. AlexNet 2012 (62M параметров) запустил эру глубокого обучения.",
+  "image": "fact-infographics-neural-network.webp",
+  "image_width": 1280,
+  "image_height": 1539,
+  "alt": "Схема нейронной сети",
+  "credit": "Glosser.ca · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+  "license": "CC-BY-SA",
+  "year": 2012
+}

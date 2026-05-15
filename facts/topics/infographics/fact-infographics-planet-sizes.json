@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-planet-sizes",
+  "topic": "infographics",
+  "title": "Размеры планет",
+  "caption": "Юпитер в 11 раз шире Земли. Меркурий — 0,38. Сатурн — 9,5 (плотность 0,7 — плавал бы в воде). Уран и Нептун — 4×.",
+  "image": "fact-infographics-planet-sizes.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Сравнение размеров планет Солнечной",
+  "credit": "CactiStaccingCrane · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Planet",
+  "license": "CC-BY-SA",
+  "year": 2022
+}

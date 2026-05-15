@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-rainbow",
+  "topic": "infographics",
+  "title": "Радуга",
+  "caption": "Свет преломляется в каплях дождя, отражается изнутри. Углы: красный 42°, фиолетовый 40°. Двойная радуга — двойное отражение.",
+  "image": "fact-infographics-rainbow.webp",
+  "image_width": 1280,
+  "image_height": 672,
+  "alt": "Схема образования радуги",
+  "credit": "Eric Rolph at English Wikipedia · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Rainbow",
+  "license": "CC-BY-SA",
+  "year": 2007
+}

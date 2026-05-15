@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-renewables",
+  "topic": "infographics",
+  "title": "Возобновляемая энергия",
+  "caption": "Доля ВИЭ в мировой электроэнергии: 19% в 2000, 30% в 2023. Норвегия — 99%, Уругвай — 95%, Германия — 56%.",
+  "image": "fact-infographics-owid-renewables.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Рост возобновляемой энергии",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/share-electricity-renewables",
+  "license": "CC-BY",
+  "year": 2023
+}

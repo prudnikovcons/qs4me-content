@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-earthquake",
+  "topic": "infographics",
+  "title": "Землетрясение",
+  "caption": "Гипоцентр в коре, эпицентр на поверхности. 500 000 землетрясений в год (приборы), 100 000 ощутимые, ~100 разрушительные.",
+  "image": "fact-infographics-earthquake.webp",
+  "image_width": 800,
+  "image_height": 500,
+  "alt": "Схема возникновения землетрясения",
+  "credit": "NASA, DTAM project team · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Earthquake",
+  "license": "PD",
+  "year": 2023
+}

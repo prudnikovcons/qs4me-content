@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-ph-scale",
+  "topic": "infographics",
+  "title": "Шкала pH",
+  "caption": "Сёрен Сёренсен, 1909. От 0 (соляная кислота) до 14 (щёлочь). 7 — нейтрально (вода). Кровь человека — 7,4, желудочный сок — 1,5.",
+  "image": "fact-infographics-ph-scale.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Шкала pH",
+  "credit": "Alvy16 · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/PH",
+  "license": "CC-BY",
+  "year": 1909
+}

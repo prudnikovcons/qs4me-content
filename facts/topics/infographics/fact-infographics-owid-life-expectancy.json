@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-life-expectancy",
+  "topic": "infographics",
+  "title": "Продолжительность жизни",
+  "caption": "Средняя продолжительность жизни мира выросла с 32 в 1900 до 73 в 2024. Япония и Швейцария — 84, Чад — 53.",
+  "image": "fact-infographics-owid-life-expectancy.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "График продолжительности жизни",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/life-expectancy",
+  "license": "CC-BY",
+  "year": 2024
+}

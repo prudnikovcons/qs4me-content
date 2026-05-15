@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-secondary-education",
+  "topic": "infographics",
+  "title": "Среднее образование",
+  "caption": "В 1980 закончили среднюю школу 21% взрослых мира. В 2024 — 56%. Корея — 95%, США — 91%, Россия — 95%, Мали — 9%.",
+  "image": "fact-infographics-owid-secondary-education.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Доля среднего образования",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/share-of-the-population-with-completed-tertiary-education",
+  "license": "CC-BY",
+  "year": 2024
+}
