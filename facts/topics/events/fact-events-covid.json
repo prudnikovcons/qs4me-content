@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-covid",
+  "topic": "events",
+  "title": "Пандемия COVID-19",
+  "caption": "ВОЗ объявил пандемию 11 марта 2020. К 2024 — 7 млн подтверждённых смертей, оценки реальных — до 27 млн. Вакцины созданы за 11 месяцев.",
+  "image": "fact-events-covid.webp",
+  "image_width": 1280,
+  "image_height": 855,
+  "alt": "Маска и тест на COVID",
+  "credit": "Gustavo Basso · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+  "license": "CC-BY-SA",
+  "year": 2020
+}

@@ -1,0 +1,574 @@
+[
+  {
+    "id": "fact-quote-aristotle",
+    "topic": "quote",
+    "title": "Аристотель",
+    "caption": "384–322 до н.э. Ученик Платона, учитель Александра Македонского. Заложил основы логики, биологии, этики на 2000 лет вперёд.",
+    "alt": "Бюст Аристотеля",
+    "meta": { "lifespan": "-384--322" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aristotle"
+  },
+  {
+    "id": "fact-quote-plato",
+    "topic": "quote",
+    "title": "Платон",
+    "caption": "428–348 до н.э. Ученик Сократа, основал Академию в 387 до н.э. — первый университет, просуществовала 900 лет.",
+    "alt": "Бюст Платона",
+    "year": -387,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Plato"
+  },
+  {
+    "id": "fact-quote-socrates",
+    "topic": "quote",
+    "title": "Сократ",
+    "caption": "470–399 до н.э. Не оставил ни одного письменного слова — всё известно через диалоги Платона. Казнён 399 до н.э. за «безбожие».",
+    "alt": "Бюст Сократа",
+    "year": -399,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Socrates"
+  },
+  {
+    "id": "fact-quote-galileo",
+    "topic": "quote",
+    "title": "Галилео Галилей",
+    "caption": "1564–1642. В 1610 в телескоп увидел спутники Юпитера. За поддержку Коперника осуждён инквизицией в 1633. Реабилитирован в 1992.",
+    "alt": "Портрет Галилео Галилея",
+    "year": 1633,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Galileo_Galilei"
+  },
+  {
+    "id": "fact-quote-darwin",
+    "topic": "quote",
+    "title": "Чарлз Дарвин",
+    "caption": "1809–1882. 5 лет на «Бигле» (1831–1836) дали материал на «Происхождение видов» (1859). Книга разошлась за 1 день.",
+    "alt": "Портрет Чарлза Дарвина",
+    "year": 1859,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Charles_Darwin"
+  },
+  {
+    "id": "fact-quote-lincoln",
+    "topic": "quote",
+    "title": "Авраам Линкольн",
+    "caption": "1809–1865. 16-й президент США. Отменил рабство (1865, 13-я поправка). Убит в театре 14 апреля 1865, 5 дней после конца войны.",
+    "alt": "Портрет Авраама Линкольна",
+    "year": 1865,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Abraham_Lincoln"
+  },
+  {
+    "id": "fact-quote-napoleon",
+    "topic": "quote",
+    "title": "Наполеон Бонапарт",
+    "caption": "1769–1821. Император Франции 1804–1814. Гражданский кодекс 1804 действует во Франции до сих пор, скопирован в 70+ странах.",
+    "alt": "Портрет Наполеона",
+    "year": 1804,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Napoleon"
+  },
+  {
+    "id": "fact-quote-cleopatra",
+    "topic": "quote",
+    "title": "Клеопатра",
+    "caption": "69–30 до н.э. Последняя царица Египта. Знала 9 языков, читала Гомера на греческом. Жила ближе к Луне-Apollo, чем к строительству пирамид.",
+    "alt": "Бюст Клеопатры",
+    "year": -30,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cleopatra"
+  },
+  {
+    "id": "fact-quote-caesar",
+    "topic": "quote",
+    "title": "Юлий Цезарь",
+    "caption": "100–44 до н.э. Реформировал календарь в 45 до н.э. — юлианский календарь действовал в Европе до XVI века. Убит в Иды марта.",
+    "alt": "Бюст Юлия Цезаря",
+    "year": -44,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Julius_Caesar"
+  },
+  {
+    "id": "fact-quote-confucius",
+    "topic": "quote",
+    "title": "Конфуций",
+    "caption": "551–479 до н.э. Учитель из царства Лу. Его «Беседы и суждения» в 21 веке цитируют 1,5 млрд человек ежедневно.",
+    "alt": "Изображение Конфуция",
+    "year": -551,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Confucius"
+  },
+  {
+    "id": "fact-quote-churchill",
+    "topic": "quote",
+    "title": "Уинстон Черчилль",
+    "caption": "1874–1965. Премьер Британии в две войны. Нобель по литературе 1953 за «Историю Второй мировой войны».",
+    "alt": "Уинстон Черчилль",
+    "year": 1953,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Winston_Churchill"
+  },
+  {
+    "id": "fact-quote-mandela",
+    "topic": "quote",
+    "title": "Нельсон Мандела",
+    "caption": "1918–2013. 27 лет в тюрьме за борьбу с апартеидом. Первый чернокожий президент ЮАР (1994), Нобель мира 1993.",
+    "alt": "Нельсон Мандела",
+    "year": 1994,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nelson_Mandela"
+  },
+  {
+    "id": "fact-quote-mlk",
+    "topic": "quote",
+    "title": "Мартин Лютер Кинг",
+    "caption": "1929–1968. «У меня есть мечта», 28 августа 1963 на Lincoln Memorial — 250 тысяч слушателей. Нобель мира 1964.",
+    "alt": "Мартин Лютер Кинг",
+    "year": 1963,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Martin_Luther_King_Jr."
+  },
+  {
+    "id": "fact-quote-jobs",
+    "topic": "quote",
+    "title": "Стив Джобс",
+    "caption": "1955–2011. Сооснователь Apple в 1976 (в гараже). Уволен из своей компании в 1985, вернулся в 1997 — спас от банкротства.",
+    "alt": "Стив Джобс",
+    "year": 1976,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Steve_Jobs"
+  },
+  {
+    "id": "fact-quote-hawking",
+    "topic": "quote",
+    "title": "Стивен Хокинг",
+    "caption": "1942–2018. БАС поставили в 21 год, прогноз — 2 года. Прожил 55. «Краткая история времени» (1988) — 25 млн копий.",
+    "alt": "Стивен Хокинг",
+    "year": 1988,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stephen_Hawking"
+  },
+  {
+    "id": "fact-quote-feynman",
+    "topic": "quote",
+    "title": "Ричард Фейнман",
+    "caption": "1918–1988. Нобель по физике 1965 за квантовую электродинамику. В 1986 за 30 секунд показал причину катастрофы Challenger.",
+    "alt": "Ричард Фейнман",
+    "year": 1965,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Richard_Feynman"
+  },
+  {
+    "id": "fact-quote-pasteur",
+    "topic": "quote",
+    "title": "Луи Пастер",
+    "caption": "1822–1895. Доказал микробную теорию болезней. Изобрёл пастеризацию в 1864 и вакцину от бешенства в 1885.",
+    "alt": "Луи Пастер в лаборатории",
+    "year": 1885,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Louis_Pasteur"
+  },
+  {
+    "id": "fact-quote-edison",
+    "topic": "quote",
+    "title": "Томас Эдисон",
+    "caption": "1847–1931. 1093 патента. Создал первую промышленную лабораторию в Менло-Парк, 1876. «Война токов» с Теслой — проиграл переменному.",
+    "alt": "Томас Эдисон",
+    "year": 1876,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Thomas_Edison"
+  },
+  {
+    "id": "fact-quote-franklin",
+    "topic": "quote",
+    "title": "Бенджамин Франклин",
+    "caption": "1706–1790. Опыт с воздушным змеем в грозу (1752) показал, что молния — электричество. Изобрёл громоотвод.",
+    "alt": "Бенджамин Франклин",
+    "year": 1752,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Benjamin_Franklin"
+  },
+  {
+    "id": "fact-quote-davinci",
+    "topic": "quote",
+    "title": "Леонардо да Винчи",
+    "caption": "1452–1519. Художник, инженер, анатом. В записях — чертежи парашюта, вертолёта, танка за 400 лет до их появления.",
+    "alt": "Автопортрет да Винчи",
+    "year": 1490,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Leonardo_da_Vinci"
+  },
+  {
+    "id": "fact-quote-shakespeare",
+    "topic": "quote",
+    "title": "Уильям Шекспир",
+    "caption": "1564–1616. 37 пьес и 154 сонета. Ввёл в английский 1700+ слов — «assassination», «bedroom», «dawn».",
+    "alt": "Портрет Шекспира",
+    "meta": { "lifespan": "1564-1616" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "William_Shakespeare"
+  },
+  {
+    "id": "fact-quote-voltaire",
+    "topic": "quote",
+    "title": "Вольтер",
+    "caption": "1694–1778. Написал 2000 книг и брошюр, 20 000 писем. Боролся с религиозной нетерпимостью. Изгнан из Парижа на 28 лет.",
+    "alt": "Портрет Вольтера",
+    "meta": { "lifespan": "1694-1778" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Voltaire"
+  },
+  {
+    "id": "fact-quote-freud",
+    "topic": "quote",
+    "title": "Зигмунд Фрейд",
+    "caption": "1856–1939. Основатель психоанализа. «Толкование сновидений» (1899) — 600 копий продал за 8 лет, потом стал бестселлером XX века.",
+    "alt": "Зигмунд Фрейд",
+    "year": 1899,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sigmund_Freud"
+  },
+  {
+    "id": "fact-quote-pushkin",
+    "topic": "quote",
+    "title": "Александр Пушкин",
+    "caption": "1799–1837. Написал «Евгения Онегина» — 5400 строк за 8 лет. Убит на дуэли с Дантесом 10 февраля 1837 в 37 лет.",
+    "alt": "Портрет А.С. Пушкина",
+    "year": 1837,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alexander_Pushkin"
+  },
+  {
+    "id": "fact-quote-tolstoy",
+    "topic": "quote",
+    "title": "Лев Толстой",
+    "caption": "1828–1910. «Война и мир» — 587 287 слов, писалась 6 лет. Отлучён от Церкви в 1901. Отказался от Нобеля 1906.",
+    "alt": "Портрет Льва Толстого",
+    "year": 1869,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Leo_Tolstoy"
+  },
+  {
+    "id": "fact-quote-dostoyevsky",
+    "topic": "quote",
+    "title": "Фёдор Достоевский",
+    "caption": "1821–1881. Приговорён к расстрелу в 1849, помилован за минуту до. 4 года каторги. «Преступление и наказание» — 1866.",
+    "alt": "Портрет Достоевского",
+    "year": 1866,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fyodor_Dostoevsky"
+  },
+  {
+    "id": "fact-quote-twain",
+    "topic": "quote",
+    "title": "Марк Твен",
+    "caption": "1835–1910. Родился и умер в годы пролёта кометы Галлея (76 лет). Псевдоним — крик лоцманов «mark twain!» (2 сажени).",
+    "alt": "Марк Твен",
+    "meta": { "lifespan": "1835-1910" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mark_Twain"
+  },
+  {
+    "id": "fact-quote-mother-teresa",
+    "topic": "quote",
+    "title": "Мать Тереза",
+    "caption": "1910–1997. 45 лет работала в трущобах Калькутты с больными и умирающими. Нобель мира 1979, канонизирована в 2016.",
+    "alt": "Мать Тереза",
+    "year": 1979,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mother_Teresa"
+  },
+  {
+    "id": "fact-quote-kepler",
+    "topic": "quote",
+    "title": "Иоганн Кеплер",
+    "caption": "1571–1630. 3 закона движения планет (1609–1619). Орбиты — эллипсы, а не круги, как считали 2000 лет до него.",
+    "alt": "Портрет Иоганна Кеплера",
+    "year": 1609,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Johannes_Kepler"
+  },
+  {
+    "id": "fact-quote-copernicus",
+    "topic": "quote",
+    "title": "Николай Коперник",
+    "caption": "1473–1543. «Об обращении небесных сфер» (1543) поместила Солнце в центр. Книга 300 лет была в индексе запрещённых.",
+    "alt": "Портрет Коперника",
+    "year": 1543,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nicolaus_Copernicus"
+  },
+  {
+    "id": "fact-music-bach",
+    "topic": "music",
+    "title": "Иоганн Себастьян Бах",
+    "caption": "1685–1750. Написал 1128 произведений. После смерти забыт на 80 лет, возрождён Мендельсоном в 1829 — «Страсти по Матфею».",
+    "alt": "Портрет Иоганна Себастьяна Баха",
+    "year": 1750,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Johann_Sebastian_Bach"
+  },
+  {
+    "id": "fact-music-vivaldi",
+    "topic": "music",
+    "title": "Антонио Вивальди",
+    "caption": "1678–1741. 500+ концертов. «Времена года» (1725) — самое узнаваемое классическое произведение в массовой культуре.",
+    "alt": "Портрет Вивальди",
+    "year": 1725,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Antonio_Vivaldi"
+  },
+  {
+    "id": "fact-music-chopin",
+    "topic": "music",
+    "title": "Фридерик Шопен",
+    "caption": "1810–1849. Поляк, переехал в Париж в 21 год. Написал почти всё для фортепиано — 230 произведений за 39 лет жизни.",
+    "alt": "Портрет Шопена",
+    "meta": { "lifespan": "1810-1849" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Frédéric_Chopin"
+  },
+  {
+    "id": "fact-music-tchaikovsky",
+    "topic": "music",
+    "title": "Пётр Чайковский",
+    "caption": "1840–1893. 6 симфоний, 11 опер, 3 балета. «Щелкунчик» (1892) — провал на премьере, к XX веку — самый исполняемый балет.",
+    "alt": "Портрет Чайковского",
+    "year": 1892,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pyotr_Ilyich_Tchaikovsky"
+  },
+  {
+    "id": "fact-music-wagner",
+    "topic": "music",
+    "title": "Рихард Вагнер",
+    "caption": "1813–1883. «Кольцо нибелунга» — 16 часов, 4 оперы. Писал 26 лет. В Байройте с 1876 ставят только Вагнера.",
+    "alt": "Портрет Вагнера",
+    "year": 1876,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Richard_Wagner"
+  },
+  {
+    "id": "fact-music-stravinsky",
+    "topic": "music",
+    "title": "Игорь Стравинский",
+    "caption": "1882–1971. Премьера «Весны священной» в Париже 29 мая 1913 вызвала скандал и драку в зале. Революция в музыке XX века.",
+    "alt": "Портрет Стравинского",
+    "year": 1913,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Igor_Stravinsky"
+  },
+  {
+    "id": "fact-music-schubert",
+    "topic": "music",
+    "title": "Франц Шуберт",
+    "caption": "1797–1828. Прожил 31 год, написал 600+ песен (Lieder), 9 симфоний. «Неоконченная симфония» нашлась через 37 лет после смерти.",
+    "alt": "Портрет Шуберта",
+    "meta": { "lifespan": "1797-1828" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Franz_Schubert"
+  },
+  {
+    "id": "fact-music-brahms",
+    "topic": "music",
+    "title": "Иоганнес Брамс",
+    "caption": "1833–1897. Первую симфонию писал 21 год — боялся сравнения с Бетховеном. Назвали её «Десятой Бетховена» в шутку.",
+    "alt": "Портрет Брамса",
+    "meta": { "lifespan": "1833-1897" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Johannes_Brahms"
+  },
+  {
+    "id": "fact-music-verdi",
+    "topic": "music",
+    "title": "Джузеппе Верди",
+    "caption": "1813–1901. 28 опер, в т.ч. «Аида» (1871) к открытию Суэцкого канала. «La donna è mobile» — самая знаменитая ария тенора.",
+    "alt": "Портрет Верди",
+    "year": 1871,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Giuseppe_Verdi"
+  },
+  {
+    "id": "fact-music-rachmaninoff",
+    "topic": "music",
+    "title": "Сергей Рахманинов",
+    "caption": "1873–1943. Размах ладони — 30 см, мог взять 12 белых клавиш. Прелюдия до-диез минор (1892) сделала его знаменитым в 19 лет.",
+    "alt": "Портрет Рахманинова",
+    "year": 1892,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sergei_Rachmaninoff"
+  },
+  {
+    "id": "fact-music-beatles",
+    "topic": "music",
+    "title": "The Beatles",
+    "caption": "Ливерпуль, 1960–1970. 600 млн альбомов продано. 20 № 1 в Billboard Hot 100 — рекорд. Распались на пике популярности в 1970.",
+    "alt": "Битлз — Abbey Road переход",
+    "year": 1970,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Beatles"
+  },
+  {
+    "id": "fact-music-presley",
+    "topic": "music",
+    "title": "Элвис Пресли",
+    "caption": "1935–1977. Король рок-н-ролла. Продано 500 млн+ записей. Дал 1500 концертов, ни одного — за пределами Северной Америки.",
+    "alt": "Элвис Пресли на сцене",
+    "year": 1977,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Elvis_Presley"
+  },
+  {
+    "id": "fact-music-michael-jackson",
+    "topic": "music",
+    "title": "Майкл Джексон",
+    "caption": "1958–2009. «Thriller» (1982) — самый продаваемый альбом всех времён, 70 млн копий. Лунная походка — на премии Motown 25 в 1983.",
+    "alt": "Майкл Джексон на сцене",
+    "year": 1982,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Michael_Jackson"
+  },
+  {
+    "id": "fact-music-sinatra",
+    "topic": "music",
+    "title": "Фрэнк Синатра",
+    "caption": "1915–1998. 150 млн пластинок продано за 60 лет карьеры. «My Way» (1969) стала вечным гимном собственной непохожести.",
+    "alt": "Фрэнк Синатра",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Frank_Sinatra"
+  },
+  {
+    "id": "fact-music-pavarotti",
+    "topic": "music",
+    "title": "Лучано Паваротти",
+    "caption": "1935–2007. Тенор с диапазоном до фа-диез. Концерт «Три тенора» (с Доминго и Каррерасом) к ЧМ-1990 — 1,5 млрд зрителей.",
+    "alt": "Лучано Паваротти на сцене",
+    "year": 1990,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Luciano_Pavarotti"
+  },
+  {
+    "id": "fact-music-callas",
+    "topic": "music",
+    "title": "Мария Каллас",
+    "caption": "1923–1977. Сопрано, диапазон 3 октавы. За 5 лет сбросила 36 кг, поменяв голос и образ. «La Divina» XX века.",
+    "alt": "Мария Каллас на сцене",
+    "meta": { "lifespan": "1923-1977" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Maria_Callas"
+  },
+  {
+    "id": "fact-language-latin",
+    "topic": "language",
+    "title": "Латынь",
+    "caption": "Язык Рима с VII в. до н.э. Дал начало 4 романским языкам (итальянский, испанский, французский, румынский, португальский) с 600 млн носителей.",
+    "alt": "Латинская надпись",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Latin"
+  },
+  {
+    "id": "fact-language-mandarin",
+    "topic": "language",
+    "title": "Мандаринский китайский",
+    "caption": "Самый родной язык мира — 940 млн носителей. 4 тона: «mā» (мать), «má» (конопля), «mǎ» (лошадь), «mà» (ругать).",
+    "alt": "Китайские иероглифы",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mandarin_Chinese"
+  },
+  {
+    "id": "fact-language-hieroglyphs",
+    "topic": "language",
+    "title": "Египетские иероглифы",
+    "caption": "Письменность Древнего Египта, ~3200 до н.э. — 400 г. н.э. Около 700 знаков. Расшифрованы Шампольоном в 1822 по Розеттскому камню.",
+    "alt": "Иероглифы на стене храма",
+    "year": 1822,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Egyptian_hieroglyphs"
+  },
+  {
+    "id": "fact-language-arabic",
+    "topic": "language",
+    "title": "Арабский алфавит",
+    "caption": "28 букв, пишется справа налево. Используется в 25+ языках — арабский, фарси, урду, пушту, сорани. С VI века.",
+    "alt": "Арабская каллиграфия",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Arabic_alphabet"
+  },
+  {
+    "id": "fact-language-greek",
+    "topic": "language",
+    "title": "Греческий алфавит",
+    "caption": "Создан в IX веке до н.э. Первый алфавит с гласными. От него произошли латиница, кириллица, армянский, готский.",
+    "alt": "Греческие буквы",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Greek_alphabet"
+  },
+  {
+    "id": "fact-language-devanagari",
+    "topic": "language",
+    "title": "Деванагари",
+    "caption": "Письменность хинди, санскрита, маратхи, непали. 33 согласных и 14 гласных. Развилась из брахми с VII века.",
+    "alt": "Текст на деванагари",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Devanagari"
+  },
+  {
+    "id": "fact-language-hangul",
+    "topic": "language",
+    "title": "Хангыль",
+    "caption": "Корейский алфавит, создан королём Сечжоном в 1443. 24 буквы. Единственный алфавит мира с известным автором и датой.",
+    "alt": "Корейские буквы хангыль",
+    "year": 1443,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hangul"
+  },
+  {
+    "id": "fact-language-japanese-kanji",
+    "topic": "language",
+    "title": "Японская письменность",
+    "caption": "3 системы одновременно: кандзи (китайские иероглифы), хирагана (46 знаков), катакана (46 знаков). Кандзи — 2136 базовых.",
+    "alt": "Японский каллиграфический текст",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Japanese_writing_system"
+  },
+  {
+    "id": "fact-language-sign",
+    "topic": "language",
+    "title": "Жестовые языки",
+    "caption": "В мире 300+ независимых жестовых языков. ASL и British Sign Language взаимно непонятны. Грамматика — отдельная от устной.",
+    "alt": "Алфавит американского жестового языка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sign_language"
+  },
+  {
+    "id": "fact-language-cuneiform",
+    "topic": "language",
+    "title": "Клинопись",
+    "caption": "Шумерская письменность Месопотамии, ~3200 до н.э. — древнейшая система письма. Использовалась 3000 лет до I века до н.э.",
+    "alt": "Клинописная табличка",
+    "year": -3200,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cuneiform"
+  },
+  {
+    "id": "fact-language-runes",
+    "topic": "language",
+    "title": "Руны",
+    "caption": "Старший Футарк — 24 знака, германские племена с II по VIII век. Резали на дереве и камне. Заменены латиницей при христианизации.",
+    "alt": "Рунический камень",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Runes"
+  },
+  {
+    "id": "fact-language-hebrew",
+    "topic": "language",
+    "title": "Иврит",
+    "caption": "Древний семитский. Мёртв 1700 лет (II–XIX век н.э.), оставаясь языком молитвы. Возрождён как разговорный в 1880-х.",
+    "alt": "Свиток Торы",
+    "year": 1880,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hebrew_language"
+  }
+]

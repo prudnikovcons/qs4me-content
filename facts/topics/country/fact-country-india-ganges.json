@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-india-ganges",
+  "topic": "country",
+  "title": "Индия · Ганг",
+  "caption": "Священная река длиной 2525 км. Источник питьевой воды для 400 миллионов человек — больше, чем у любой другой реки.",
+  "image": "fact-country-india-ganges.webp",
+  "image_width": 1094,
+  "image_height": 720,
+  "alt": "Гхаты Ганга в Варанаси",
+  "credit": "Babasteve · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Ganges",
+  "license": "CC-BY",
+  "year": 2005,
+  "meta": {
+    "country_code": "IN"
+  }
+}

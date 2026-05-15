@@ -1,0 +1,17 @@
+{
+  "id": "fact-math-gauss",
+  "topic": "math",
+  "title": "Карл Фридрих Гаусс",
+  "caption": "1777–1855. «Принц математиков». В 9 лет за минуту сложил числа от 1 до 100 — нашёл формулу. К 20 годам — основные открытия теории чисел.",
+  "image": "fact-math-gauss.webp",
+  "image_width": 1280,
+  "image_height": 1631,
+  "alt": "Портрет Гаусса",
+  "credit": "Christian Albrecht Jensen · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss",
+  "license": "PD",
+  "year": 1840,
+  "meta": {
+    "lifespan": "1777-1855"
+  }
+}

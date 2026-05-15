@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-tolstoy",
+  "topic": "quote",
+  "title": "Лев Толстой",
+  "caption": "1828–1910. «Война и мир» — 587 287 слов, писалась 6 лет. Отлучён от Церкви в 1901. Отказался от Нобеля 1906.",
+  "image": "fact-quote-tolstoy.webp",
+  "image_width": 1280,
+  "image_height": 1772,
+  "alt": "Портрет Льва Толстого",
+  "credit": "Sergei Prokudin-Gorskii · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+  "license": "PD",
+  "year": 1869
+}

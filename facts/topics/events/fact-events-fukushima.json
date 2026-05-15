@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-fukushima",
+  "topic": "events",
+  "title": "Фукусима",
+  "caption": "Землетрясение M9,1 у Японии, 11 марта 2011. Цунами высотой 14 м, 18 500 погибших. Авария АЭС Фукусима-1 — 7-й уровень INES.",
+  "image": "fact-events-fukushima.webp",
+  "image_width": 1280,
+  "image_height": 744,
+  "alt": "Цунами Фукусима 2011",
+  "credit": "Digital Globe · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident",
+  "license": "CC-BY-SA",
+  "year": 2011
+}

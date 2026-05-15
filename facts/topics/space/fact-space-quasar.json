@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-quasar",
+  "topic": "space",
+  "title": "Квазар",
+  "caption": "Активное ядро далёкой галактики. Яркость до 1000 галактик при размере Солнечной системы. Ближайший — 3C 273, 2,4 млрд св. лет.",
+  "image": "fact-space-quasar.webp",
+  "image_width": 1280,
+  "image_height": 759,
+  "alt": "Иллюстрация квазара",
+  "credit": "ESO/M. Kornmesser · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Quasar",
+  "license": "CC-BY",
+  "year": 2011
+}

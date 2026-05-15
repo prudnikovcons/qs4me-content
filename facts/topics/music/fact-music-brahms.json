@@ -1,0 +1,17 @@
+{
+  "id": "fact-music-brahms",
+  "topic": "music",
+  "title": "Иоганнес Брамс",
+  "caption": "1833–1897. Первую симфонию писал 21 год — боялся сравнения с Бетховеном. Назвали её «Десятой Бетховена» в шутку.",
+  "image": "fact-music-brahms.webp",
+  "image_width": 1280,
+  "image_height": 1540,
+  "alt": "Портрет Брамса",
+  "credit": "C. Brasch, Berlin (biography) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Johannes_Brahms",
+  "license": "PD",
+  "year": 1889,
+  "meta": {
+    "lifespan": "1833-1897"
+  }
+}

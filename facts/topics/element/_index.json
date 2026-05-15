@@ -1,6 +1,23 @@
 [
+  "fact-element-aluminium",
+  "fact-element-calcium",
   "fact-element-carbon",
+  "fact-element-chlorine",
+  "fact-element-copper",
   "fact-element-gold",
+  "fact-element-helium",
+  "fact-element-iodine",
+  "fact-element-lithium",
   "fact-element-mercury",
-  "fact-element-silicon"
+  "fact-element-nitrogen",
+  "fact-element-oxygen",
+  "fact-element-platinum",
+  "fact-element-potassium",
+  "fact-element-silicon",
+  "fact-element-silver",
+  "fact-element-sodium",
+  "fact-element-sulfur",
+  "fact-element-tin",
+  "fact-element-titanium",
+  "fact-element-uranium"
 ]

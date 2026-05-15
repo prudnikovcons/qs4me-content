@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-oxygen",
+  "topic": "element",
+  "title": "Кислород · O (8)",
+  "caption": "O, 8-й элемент. 21% атмосферы Земли, 89% массы воды. Открыт Шееле в 1771 и Пристли в 1774 независимо.",
+  "image": "fact-element-oxygen.webp",
+  "image_width": 1024,
+  "image_height": 1280,
+  "alt": "Молекула O2",
+  "credit": "Staff Sgt. Nika Glover, U.S. Air Force · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Oxygen",
+  "license": "PD",
+  "year": 1774,
+  "meta": {
+    "atomic_number": 8,
+    "symbol": "O"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-industrial-rev",
+  "topic": "history",
+  "title": "Промышленная революция",
+  "caption": "1760–1840. Британия. Паровая машина Уатта 1769, ткацкий станок Картрайта 1785. За 80 лет ВВП на душу вырос на 50%.",
+  "image": "fact-history-industrial-rev.webp",
+  "image_width": 1280,
+  "image_height": 827,
+  "alt": "Паровая машина XIX века",
+  "credit": "Illustrator T. Allom, Engraver J. Tingle · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+  "license": "PD",
+  "year": 1760
+}

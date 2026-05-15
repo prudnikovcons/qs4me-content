@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-chlorine",
+  "topic": "element",
+  "title": "Хлор · Cl (17)",
+  "caption": "Cl, 17-й элемент. Жёлто-зелёный ядовитый газ. Применён как химическое оружие при Ипре в 1915 — 5000 жертв за 1 атаку.",
+  "image": "fact-element-chlorine.webp",
+  "image_width": 500,
+  "image_height": 667,
+  "alt": "Хлор в колбе",
+  "credit": "W. Oelen · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Chlorine",
+  "license": "CC-BY-SA",
+  "year": 1915,
+  "meta": {
+    "atomic_number": 17,
+    "symbol": "Cl"
+  }
+}

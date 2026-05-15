@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-pasta",
+  "topic": "food",
+  "title": "Паста",
+  "caption": "Италия потребляет 23 кг на человека в год — мировой рекорд. Видов пасты — 350+. Спагетти и фарфалле имеют единую дату изготовления — XII век.",
+  "image": "fact-food-pasta.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Спагетти на тарелке",
+  "credit": "David Adam Kess · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pasta",
+  "license": "CC-BY-SA",
+  "year": 2016
+}

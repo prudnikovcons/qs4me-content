@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-hubble-launch",
+  "topic": "events",
+  "title": "Запуск «Хаббла»",
+  "caption": "24 апреля 1990. Космический телескоп на низкой орбите 540 км. Первое фото с дефектом — линза была отшлифована с ошибкой 2,2 мкм.",
+  "image": "fact-events-hubble-launch.webp",
+  "image_width": 1280,
+  "image_height": 1686,
+  "alt": "Телескоп Хаббл в космосе",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+  "license": "PD",
+  "year": 1990
+}

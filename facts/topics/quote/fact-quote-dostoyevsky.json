@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-dostoyevsky",
+  "topic": "quote",
+  "title": "Фёдор Достоевский",
+  "caption": "1821–1881. Приговорён к расстрелу в 1849, помилован за минуту до. 4 года каторги. «Преступление и наказание» — 1866.",
+  "image": "fact-quote-dostoyevsky.webp",
+  "image_width": 1280,
+  "image_height": 1600,
+  "alt": "Портрет Достоевского",
+  "credit": "Vasily Perov · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky",
+  "license": "PD",
+  "year": 1866
+}

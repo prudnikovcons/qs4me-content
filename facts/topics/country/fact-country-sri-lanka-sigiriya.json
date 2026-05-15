@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-sri-lanka-sigiriya",
+  "topic": "country",
+  "title": "Шри-Ланка · Сигирия",
+  "caption": "«Львиная скала», 200-метровый утёс с дворцом царя Кашьяпы V века. На вершине — древний бассейн и фрески «облачных дев».",
+  "image": "fact-country-sri-lanka-sigiriya.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Сигирия — Львиная скала",
+  "credit": "Wrobell · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Sigiriya",
+  "license": "CC-BY-SA",
+  "year": 500,
+  "meta": {
+    "country_code": "LK"
+  }
+}

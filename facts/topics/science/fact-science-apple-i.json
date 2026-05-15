@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-apple-i",
+  "topic": "science",
+  "title": "Apple I",
+  "caption": "Стив Возняк, 1976. Первый компьютер Apple. 200 штук собраны в гараже Джобса. Цена $666,66. Сегодня одна копия стоит $1 млн.",
+  "image": "fact-science-apple-i.webp",
+  "image_width": 1280,
+  "image_height": 736,
+  "alt": "Компьютер Apple I",
+  "credit": "Achim Baqué · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Apple_I",
+  "license": "CC-BY-SA",
+  "year": 1976
+}

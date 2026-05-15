@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-library-alexandria",
+  "topic": "history",
+  "title": "Александрийская библиотека",
+  "caption": "Основана Птолемеем I в 295 до н.э. До 400 000 свитков. Сожжена в нескольких этапах между 48 до н.э. и 391 н.э.",
+  "image": "fact-history-library-alexandria.webp",
+  "image_width": 1072,
+  "image_height": 1090,
+  "alt": "Реконструкция Александрийской библиотеки",
+  "credit": "O. Von Corven · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+  "license": "PD",
+  "year": -295
+}

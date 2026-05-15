@@ -1,0 +1,17 @@
+{
+  "id": "fact-space-neptune",
+  "topic": "space",
+  "title": "Нептун",
+  "caption": "8-я и последняя планета Солнечной. Открыта в 1846 — единственная, предсказанная математически (Леверье) до наблюдения.",
+  "image": "fact-space-neptune.webp",
+  "image_width": 1200,
+  "image_height": 1200,
+  "alt": "Нептун снятый Voyager 2",
+  "credit": "NASA / Voyager 2 / PDS / OPUS / Ardenau4 · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Neptune",
+  "license": "CC0",
+  "year": 1846,
+  "meta": {
+    "body": "Neptune"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-spain-flamenco",
+  "topic": "country",
+  "title": "Испания · фламенко",
+  "caption": "Танец родом из Андалусии XVIII века. UNESCO нематериальное наследие с 2010. 12 базовых ритмов — palos, от soleá до bulería.",
+  "image": "fact-country-spain-flamenco.webp",
+  "image_width": 376,
+  "image_height": 400,
+  "alt": "Танцовщица фламенко",
+  "credit": "Unknown · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Flamenco",
+  "license": "CC-BY",
+  "year": 2010,
+  "meta": {
+    "country_code": "ES"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-kepler",
+  "topic": "quote",
+  "title": "Иоганн Кеплер",
+  "caption": "1571–1630. 3 закона движения планет (1609–1619). Орбиты — эллипсы, а не круги, как считали 2000 лет до него.",
+  "image": "fact-quote-kepler.webp",
+  "image_width": 836,
+  "image_height": 1200,
+  "alt": "Портрет Иоганна Кеплера",
+  "credit": "August Köhler [1] · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+  "license": "PD",
+  "year": 1609
+}

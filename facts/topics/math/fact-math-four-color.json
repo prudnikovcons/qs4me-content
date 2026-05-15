@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-four-color",
+  "topic": "math",
+  "title": "Теорема о 4 красках",
+  "caption": "Любую карту на плоскости можно раскрасить в 4 цвета. Сформулирована в 1852, доказана в 1976 — первая теорема, проверенная компьютером.",
+  "image": "fact-math-four-color.webp",
+  "image_width": 1280,
+  "image_height": 1707,
+  "alt": "Карта в 4 цветах",
+  "credit": "Inductiveload · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Four_color_theorem",
+  "license": "CC-BY-SA",
+  "year": 1976
+}

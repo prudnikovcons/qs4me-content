@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-konigsberg",
+  "topic": "math",
+  "title": "Кёнигсбергские мосты",
+  "caption": "Задача о 7 мостах Кёнигсберга. Эйлер в 1736 доказал, что обойти все мосты по одному разу нельзя. Так родилась теория графов.",
+  "image": "fact-math-konigsberg.webp",
+  "image_width": 628,
+  "image_height": 437,
+  "alt": "Карта Кёнигсбергских мостов",
+  "credit": "Twotwos · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg",
+  "license": "CC-BY-SA",
+  "year": 1736
+}

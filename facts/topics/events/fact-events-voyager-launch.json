@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-voyager-launch",
+  "topic": "events",
+  "title": "Запуск «Вояджеров»",
+  "caption": "1977. Voyager-1 и Voyager-2 — самые далёкие рукотворные объекты. К 2025 — 25 млрд км от Земли. Сигнал идёт 23 часа.",
+  "image": "fact-events-voyager-launch.webp",
+  "image_width": 1280,
+  "image_height": 1573,
+  "alt": "Voyager — рисунок NASA",
+  "credit": "Don Davis · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Voyager_program",
+  "license": "PD",
+  "year": 1977
+}

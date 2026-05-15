@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-tin",
+  "topic": "element",
+  "title": "Олово · Sn (50)",
+  "caption": "Sn, 50-й элемент. Дал имя бронзовому веку (медь + олово). При −13 °C превращается в порошок — «оловянная чума».",
+  "image": "fact-element-tin.webp",
+  "image_width": 1280,
+  "image_height": 789,
+  "alt": "Чистый кусок олова",
+  "credit": "Alchemist-hp (talk) (www.pse-mendelejew.de) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Tin",
+  "license": "CC-BY-SA",
+  "year": 2005,
+  "meta": {
+    "atomic_number": 50,
+    "symbol": "Sn"
+  }
+}

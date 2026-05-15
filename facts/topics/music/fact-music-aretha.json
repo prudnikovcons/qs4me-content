@@ -1,0 +1,17 @@
+{
+  "id": "fact-music-aretha",
+  "topic": "music",
+  "title": "Арета Франклин",
+  "caption": "1942–2018. «Королева соул». 18 «Грэмми», 75 млн пластинок. Спела на инаугурациях 3 президентов США.",
+  "image": "fact-music-aretha.webp",
+  "image_width": 1019,
+  "image_height": 1200,
+  "alt": "Арета Франклин",
+  "credit": "Atlantic Records (Life time: Published before 1978 without a copyright notice) ·",
+  "source": "https://en.wikipedia.org/wiki/Aretha_Franklin",
+  "license": "PD",
+  "year": 1968,
+  "meta": {
+    "lifespan": "1942-2018"
+  }
+}

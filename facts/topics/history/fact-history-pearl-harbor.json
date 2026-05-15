@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-pearl-harbor",
+  "topic": "history",
+  "title": "Пёрл-Харбор",
+  "caption": "7 декабря 1941. Япония атаковала базу США на Гавайях. 90 минут, 2403 погибших. На следующий день США вступили во Вторую мировую.",
+  "image": "fact-history-pearl-harbor.webp",
+  "image_width": 1280,
+  "image_height": 908,
+  "alt": "Пёрл-Харбор после атаки",
+  "credit": "Imperial Japanese Navy · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+  "license": "PD",
+  "year": 1941
+}

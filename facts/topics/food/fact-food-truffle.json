@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-truffle",
+  "topic": "food",
+  "title": "Трюфель",
+  "caption": "Альба, Италия. Белый трюфель продаётся за €5000/кг. Поиск ведут с тренированными собаками — раньше свиньями, но те сами съедали.",
+  "image": "fact-food-truffle.webp",
+  "image_width": 800,
+  "image_height": 600,
+  "alt": "Белый трюфель Альба",
+  "credit": "moi-même · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Truffle",
+  "license": "PD",
+  "year": 2006
+}

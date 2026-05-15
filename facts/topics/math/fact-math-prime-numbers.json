@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-prime-numbers",
+  "topic": "math",
+  "title": "Простые числа",
+  "caption": "Делятся только на 1 и себя. Бесконечно много — доказал Евклид ~300 до н.э. Крупнейшее известное (2024) — 2^136 279 841 − 1.",
+  "image": "fact-math-prime-numbers.webp",
+  "image_width": 1280,
+  "image_height": 1799,
+  "alt": "Решето Эратосфена",
+  "credit": "David Eppstein · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Prime_number",
+  "license": "CC0",
+  "year": 2018
+}

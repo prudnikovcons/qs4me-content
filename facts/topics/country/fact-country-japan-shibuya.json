@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-japan-shibuya",
+  "topic": "country",
+  "title": "Япония · Сибуя",
+  "caption": "Перекрёсток в Токио. До 3000 человек переходят за раз в часы пик. 2 500 000 пешеходов в день — самый загруженный в мире.",
+  "image": "fact-country-japan-shibuya.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Перекрёсток Сибуя",
+  "credit": "David Kernan · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Shibuya_Crossing",
+  "license": "CC-BY",
+  "year": 2023,
+  "meta": {
+    "country_code": "JP"
+  }
+}

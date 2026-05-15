@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-printing-press",
+  "topic": "history",
+  "title": "Печатный станок",
+  "caption": "Гутенберг, ~1440. До этого книгу переписывали 1 год вручную. За первые 50 лет напечатали 20 млн книг — больше, чем за 1000 лет до того.",
+  "image": "fact-history-printing-press.webp",
+  "image_width": 1280,
+  "image_height": 1613,
+  "alt": "Печатный станок Гутенберга",
+  "credit": "vlasta2 · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Printing_press",
+  "license": "CC-BY",
+  "year": 1440
+}

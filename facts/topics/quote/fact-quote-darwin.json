@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-darwin",
+  "topic": "quote",
+  "title": "Чарлз Дарвин",
+  "caption": "1809–1882. 5 лет на «Бигле» (1831–1836) дали материал на «Происхождение видов» (1859). Книга разошлась за 1 день.",
+  "image": "fact-quote-darwin.webp",
+  "image_width": 1280,
+  "image_height": 1685,
+  "alt": "Портрет Чарлза Дарвина",
+  "credit": "Charles_Darwin_seated.jpg: Henry Maull (1829–1914) and John Fox (1832–1907) (Mau",
+  "source": "https://en.wikipedia.org/wiki/Charles_Darwin",
+  "license": "PD",
+  "year": 1859
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-transistor",
+  "topic": "science",
+  "title": "Транзистор",
+  "caption": "Bell Labs, 23 декабря 1947 — Бардин, Браттейн, Шокли. Нобель 1956. К 2024 — 13 трлн транзисторов в одном GPU, размер 3 нм.",
+  "image": "fact-science-transistor.webp",
+  "image_width": 831,
+  "image_height": 458,
+  "alt": "Первый транзистор Bell Labs",
+  "credit": "Ulfbastel · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Transistor",
+  "license": "CC-BY-SA",
+  "year": 1947
+}

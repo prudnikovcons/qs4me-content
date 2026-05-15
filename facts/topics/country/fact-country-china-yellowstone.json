@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-china-yellowstone",
+  "topic": "country",
+  "title": "США · Йеллоустон",
+  "caption": "Первый национальный парк мира, 1872. 8983 км². Под парком — супервулкан. Гейзер «Старый служака» извергается каждые 90 минут.",
+  "image": "fact-country-china-yellowstone.webp",
+  "image_width": 768,
+  "image_height": 1024,
+  "alt": "Гейзер «Старый служака»",
+  "credit": "Grastel · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Yellowstone_National_Park",
+  "license": "CC-BY-SA",
+  "year": 1872,
+  "meta": {
+    "country_code": "US"
+  }
+}

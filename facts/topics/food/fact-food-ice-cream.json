@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-ice-cream",
+  "topic": "food",
+  "title": "Мороженое",
+  "caption": "Китай, 200 до н.э. — лёд с молоком. В Европу принёс Марко Поло из Китая в 1295. Современное промышленное — 1850-е, США.",
+  "image": "fact-food-ice-cream.webp",
+  "image_width": 1280,
+  "image_height": 1676,
+  "alt": "Мороженое в рожке",
+  "credit": "Nicolas Ettlin · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Ice_cream",
+  "license": "CC-BY-SA",
+  "year": 1295
+}

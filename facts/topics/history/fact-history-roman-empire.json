@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-roman-empire",
+  "topic": "history",
+  "title": "Римская империя",
+  "caption": "27 до н.э. — 476 н.э. На пике (117 н.э.) — 5 млн км² и 70 млн жителей (25% мирового). Дороги — 400 000 км по всей империи.",
+  "image": "fact-history-roman-empire.webp",
+  "image_width": 1280,
+  "image_height": 815,
+  "alt": "Карта Римской империи",
+  "credit": "Tataryn · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Roman_Empire",
+  "license": "CC-BY-SA",
+  "year": -27
+}

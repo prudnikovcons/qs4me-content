@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-uk-stonehenge",
+  "topic": "country",
+  "title": "Великобритания · Стоунхендж",
+  "caption": "Каменный круг в Англии, ~3000–2000 до н.э. Внешние камни — 4 м высотой, 25 тонн. Назначение — до сих пор гипотезы.",
+  "image": "fact-country-uk-stonehenge.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Стоунхендж в Англии",
+  "credit": "garethwiscombe · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Stonehenge",
+  "license": "CC-BY",
+  "year": -2500,
+  "meta": {
+    "country_code": "GB"
+  }
+}

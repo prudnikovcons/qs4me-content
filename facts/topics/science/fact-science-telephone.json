@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-telephone",
+  "topic": "science",
+  "title": "Телефон",
+  "caption": "Александр Белл, 7 марта 1876 — патент за 2 часа до конкурента Грея. Первая фраза: «Mr. Watson, come here, I want to see you.»",
+  "image": "fact-science-telephone.webp",
+  "image_width": 1280,
+  "image_height": 1009,
+  "alt": "Телефонный аппарат Белла",
+  "credit": "Berthold Werner · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Telephone",
+  "license": "CC-BY-SA",
+  "year": 1876
+}

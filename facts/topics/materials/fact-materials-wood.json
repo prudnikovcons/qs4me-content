@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-wood",
+  "topic": "materials",
+  "title": "Древесина",
+  "caption": "На Земле ~3 триллиона деревьев. Дуб служит 100+ лет, секвойя — 3000+. Каждый м³ дерева забирает из воздуха ~1 тонну CO₂.",
+  "image": "fact-materials-wood.webp",
+  "image_width": 1280,
+  "image_height": 1575,
+  "alt": "Структура древесных колец",
+  "credit": "Anonimski · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Wood",
+  "license": "CC0",
+  "year": 2014
+}

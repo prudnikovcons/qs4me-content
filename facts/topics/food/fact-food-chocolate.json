@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-chocolate",
+  "topic": "food",
+  "title": "Шоколад",
+  "caption": "Из бобов какао. Майя пили его 4000 лет назад горьким. Молочный изобрёл Даниэль Петер в Швейцарии в 1875. Сегодня 5 млн тонн/год.",
+  "image": "fact-food-chocolate.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Тёмный шоколад",
+  "credit": "Lynnereal · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Chocolate",
+  "license": "CC-BY-SA",
+  "year": 1875
+}

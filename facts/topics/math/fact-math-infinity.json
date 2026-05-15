@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-infinity",
+  "topic": "math",
+  "title": "Бесконечность · ∞",
+  "caption": "Символ ∞ ввёл Уоллис в 1655. Кантор в 1874 показал: бесконечности бывают разной мощности — целых меньше, чем действительных.",
+  "image": "fact-math-infinity.webp",
+  "image_width": 1280,
+  "image_height": 1097,
+  "alt": "Символ бесконечности",
+  "credit": "PiAndWhippedCream · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Infinity",
+  "license": "PD",
+  "year": 1655
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-lemur",
+  "topic": "nature",
+  "title": "Лемуры",
+  "caption": "Эндемики Мадагаскара. Эволюционировали изолированно 65 млн лет. Все 100+ видов под угрозой — потеряно 90% леса с 1950.",
+  "image": "fact-nature-lemur.webp",
+  "image_width": 1123,
+  "image_height": 1739,
+  "alt": "Кошачий лемур",
+  "credit": "Katta család.jpg: Veszprémi Állatkert Aye-aye at night in the wild in Madagascar",
+  "source": "https://en.wikipedia.org/wiki/Lemur",
+  "license": "CC-BY-SA",
+  "year": 2013
+}

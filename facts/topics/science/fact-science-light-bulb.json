@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-light-bulb",
+  "topic": "science",
+  "title": "Лампа накаливания",
+  "caption": "Эдисон, 21 октября 1879 — 13,5 часов работы угольной нити. К 1882 — Pearl Street Station, первая центральная электростанция.",
+  "image": "fact-science-light-bulb.webp",
+  "image_width": 767,
+  "image_height": 1273,
+  "alt": "Лампа накаливания Эдисона",
+  "credit": "KMJ, alpha masking by Edokter · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Incandescent_light_bulb",
+  "license": "CC-BY-SA",
+  "year": 1879
+}

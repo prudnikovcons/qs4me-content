@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-coffee",
+  "topic": "food",
+  "title": "Кофе",
+  "caption": "В мире выпивается 2,25 миллиарда чашек в день. Первая кофейня открылась в Стамбуле в 1554. Бразилия — 1/3 мирового производства.",
+  "image": "fact-food-coffee.webp",
+  "image_width": 1280,
+  "image_height": 800,
+  "alt": "Кофейные зёрна",
+  "credit": "Bex Walton · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Coffee",
+  "license": "CC-BY",
+  "year": 1554
+}

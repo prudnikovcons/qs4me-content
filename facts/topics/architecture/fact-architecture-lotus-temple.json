@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-lotus-temple",
+  "topic": "architecture",
+  "title": "Храм Лотоса",
+  "caption": "Нью-Дели, 1986. Бахаизм. 27 мраморных лепестков по 34 м. Принимает все религии — 70 млн посетителей за 35 лет, больше Тадж-Махала.",
+  "image": "fact-architecture-lotus-temple.webp",
+  "image_width": 1014,
+  "image_height": 626,
+  "alt": "Храм Лотоса в Нью-Дели",
+  "credit": "Vandelizer · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Lotus_Temple",
+  "license": "CC-BY",
+  "year": 1986,
+  "meta": {
+    "country_code": "IN"
+  }
+}

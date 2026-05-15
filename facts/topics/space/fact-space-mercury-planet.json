@@ -1,0 +1,17 @@
+{
+  "id": "fact-space-mercury-planet",
+  "topic": "space",
+  "title": "Меркурий",
+  "caption": "Ближайшая к Солнцу планета. Год — 88 земных суток, сутки — 176 земных. Перепад: +430 °C днём, −180 °C ночью.",
+  "image": "fact-space-mercury-planet.webp",
+  "image_width": 1040,
+  "image_height": 1040,
+  "alt": "Меркурий снятый Messenger",
+  "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State Universit",
+  "source": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+  "license": "PD",
+  "year": 2008,
+  "meta": {
+    "body": "Mercury"
+  }
+}

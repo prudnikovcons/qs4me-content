@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-columbus",
+  "topic": "history",
+  "title": "Открытие Америки",
+  "caption": "Христофор Колумб, 12 октября 1492. Считал, что доплыл до Индии. Викинги Лейфа Эриксона были там за 500 лет до него.",
+  "image": "fact-history-columbus.webp",
+  "image_width": 1280,
+  "image_height": 858,
+  "alt": "Высадка Колумба в Америке",
+  "credit": "Rezza Editores · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+  "license": "CC-BY",
+  "year": 1492
+}

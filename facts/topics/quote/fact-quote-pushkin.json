@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-pushkin",
+  "topic": "quote",
+  "title": "Александр Пушкин",
+  "caption": "1799–1837. Написал «Евгения Онегина» — 5400 строк за 8 лет. Убит на дуэли с Дантесом 10 февраля 1837 в 37 лет.",
+  "image": "fact-quote-pushkin.webp",
+  "image_width": 1280,
+  "image_height": 1482,
+  "alt": "Портрет А.С. Пушкина",
+  "credit": "Orest Kiprensky · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Alexander_Pushkin",
+  "license": "PD",
+  "year": 1837
+}

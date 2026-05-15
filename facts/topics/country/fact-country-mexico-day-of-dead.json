@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-mexico-day-of-dead",
+  "topic": "country",
+  "title": "Мексика · День мёртвых",
+  "caption": "Día de los Muertos, 1–2 ноября. Корни — ацтекский праздник 3000 лет назад. UNESCO нематериальное наследие с 2008.",
+  "image": "fact-country-mexico-day-of-dead.webp",
+  "image_width": 1280,
+  "image_height": 1925,
+  "alt": "Алтарь Дня мёртвых",
+  "credit": "Paolaricaurte · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead",
+  "license": "CC-BY-SA",
+  "year": 2008,
+  "meta": {
+    "country_code": "MX"
+  }
+}

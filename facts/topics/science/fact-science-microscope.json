@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-microscope",
+  "topic": "science",
+  "title": "Микроскоп",
+  "caption": "Левенгук, 1670-е. С увеличением 270× впервые увидел бактерии и сперматозоиды. Современный электронный микроскоп — увеличение до 50 миллионов.",
+  "image": "fact-science-microscope.webp",
+  "image_width": 1280,
+  "image_height": 1285,
+  "alt": "Микроскоп Левенгука",
+  "credit": "Ann 2000 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Microscope",
+  "license": "CC-BY-SA",
+  "year": 1675
+}

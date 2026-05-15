@@ -1,0 +1,677 @@
+[
+  {
+    "id": "fact-nature-hummingbird",
+    "topic": "nature",
+    "title": "Колибри",
+    "caption": "Машет крыльями 80 раз в секунду, пульс — 1200 ударов/мин. Единственная птица, умеющая летать назад. Самые мелкие — 1,8 г, 5 см.",
+    "alt": "Колибри в полёте у цветка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hummingbird"
+  },
+  {
+    "id": "fact-nature-honeybee",
+    "topic": "nature",
+    "title": "Медоносная пчела",
+    "caption": "Чтобы сделать 1 кг мёда, пчёлы пролетают суммарно 8 раз вокруг Земли. Одна семья за лето собирает 30 кг мёда.",
+    "alt": "Медоносная пчела на цветке",
+    "meta": { "species": "Apis mellifera" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Western_honey_bee"
+  },
+  {
+    "id": "fact-nature-anaconda",
+    "topic": "nature",
+    "title": "Анаконда",
+    "caption": "Крупнейшая змея мира — до 9 м и 250 кг. Не ядовита, душит жертву. Может полтора года жить без еды после крупной добычи.",
+    "alt": "Зелёная анаконда в воде",
+    "meta": { "species": "Eunectes murinus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Green_anaconda"
+  },
+  {
+    "id": "fact-nature-saltwater-crocodile",
+    "topic": "nature",
+    "title": "Гребнистый крокодил",
+    "caption": "Крупнейшая рептилия мира — до 6 м и 1300 кг. Челюсть — сила укуса 16 460 Н, рекорд среди живущих животных.",
+    "alt": "Гребнистый крокодил у воды",
+    "meta": { "species": "Crocodylus porosus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Saltwater_crocodile"
+  },
+  {
+    "id": "fact-nature-polar-bear",
+    "topic": "nature",
+    "title": "Белый медведь",
+    "caption": "Крупнейший наземный хищник — до 800 кг. Шерсть прозрачная, кожа чёрная. Чувствует тюленя за 1 км через 1 м льда.",
+    "alt": "Белый медведь на льду",
+    "meta": { "species": "Ursus maritimus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Polar_bear"
+  },
+  {
+    "id": "fact-nature-tiger",
+    "topic": "nature",
+    "title": "Тигр",
+    "caption": "Самая крупная из больших кошек — до 320 кг. Полосы уникальны, как отпечатки пальцев. В дикой природе осталось ~4500 особей.",
+    "alt": "Бенгальский тигр",
+    "meta": { "species": "Panthera tigris" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tiger"
+  },
+  {
+    "id": "fact-nature-african-elephant",
+    "topic": "nature",
+    "title": "Африканский слон",
+    "caption": "Крупнейшее наземное животное — до 7 тонн и 4 м в холке. Хобот — 40 000 мышц. Беременность 22 месяца — рекорд млекопитающих.",
+    "alt": "Африканский слон в саванне",
+    "meta": { "species": "Loxodonta africana" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "African_bush_elephant"
+  },
+  {
+    "id": "fact-nature-giraffe",
+    "topic": "nature",
+    "title": "Жираф",
+    "caption": "Самое высокое наземное животное — до 5,5 м. Шея — 2,4 м, но в ней те же 7 шейных позвонков, что у человека. Сердце весит 11 кг.",
+    "alt": "Жираф в саванне",
+    "meta": { "species": "Giraffa camelopardalis" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Giraffe"
+  },
+  {
+    "id": "fact-nature-hippo",
+    "topic": "nature",
+    "title": "Бегемот",
+    "caption": "До 1500 кг, бегает 30 км/ч. Несмотря на «травоядность», убивает в Африке 500+ людей в год — больше, чем львы и крокодилы.",
+    "alt": "Бегемот в воде",
+    "meta": { "species": "Hippopotamus amphibius" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hippopotamus"
+  },
+  {
+    "id": "fact-nature-kangaroo",
+    "topic": "nature",
+    "title": "Кенгуру",
+    "caption": "Прыжки до 9 м в длину и 3 м в высоту. Скорость до 56 км/ч. В Австралии 50 миллионов — вдвое больше, чем людей.",
+    "alt": "Красный кенгуру в Австралии",
+    "meta": { "species": "Macropus rufus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Red_kangaroo"
+  },
+  {
+    "id": "fact-nature-platypus",
+    "topic": "nature",
+    "title": "Утконос",
+    "caption": "Млекопитающее, которое несёт яйца. Шпоры на лапах — ядовитые (один из 5 ядовитых млекопитающих). Эндемик Австралии.",
+    "alt": "Утконос плывёт под водой",
+    "meta": { "species": "Ornithorhynchus anatinus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Platypus"
+  },
+  {
+    "id": "fact-nature-sloth",
+    "topic": "nature",
+    "title": "Ленивец",
+    "caption": "Самое медленное млекопитающее — 0,24 км/ч. Спит 15–20 часов в сутки. Пища переваривается до 30 дней — медленнее всех млекопитающих.",
+    "alt": "Ленивец на ветке",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sloth"
+  },
+  {
+    "id": "fact-nature-galapagos-tortoise",
+    "topic": "nature",
+    "title": "Галапагосская черепаха",
+    "caption": "Крупнейшая сухопутная черепаха — до 250 кг. Живёт 150+ лет. На неё опирался Дарвин в теории эволюции на «Бигле» в 1835.",
+    "alt": "Галапагосская черепаха",
+    "year": 1835,
+    "meta": { "species": "Chelonoidis nigra" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Galápagos_tortoise"
+  },
+  {
+    "id": "fact-nature-bald-eagle",
+    "topic": "nature",
+    "title": "Белоголовый орлан",
+    "caption": "Национальный символ США с 1782. Зрение в 8 раз острее человеческого — видит кролика с 3 км. Размах крыльев до 2,3 м.",
+    "alt": "Белоголовый орлан в полёте",
+    "year": 1782,
+    "meta": { "species": "Haliaeetus leucocephalus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bald_eagle"
+  },
+  {
+    "id": "fact-nature-emperor-penguin",
+    "topic": "nature",
+    "title": "Императорский пингвин",
+    "caption": "До 120 см, 45 кг. Самцы 2 месяца держат яйцо на лапах в −50 °C, теряя 45% веса. Ныряют на 565 м — рекорд среди птиц.",
+    "alt": "Императорский пингвин с птенцом",
+    "meta": { "species": "Aptenodytes forsteri" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Emperor_penguin"
+  },
+  {
+    "id": "fact-nature-sperm-whale",
+    "topic": "nature",
+    "title": "Кашалот",
+    "caption": "Крупнейшее зубатое — до 20 м, 50 тонн. Мозг 9 кг (у человека 1,5). Может задерживать дыхание 2 часа, ныряет на 2200 м.",
+    "alt": "Кашалот в океане",
+    "meta": { "species": "Physeter macrocephalus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sperm_whale"
+  },
+  {
+    "id": "fact-nature-great-white-shark",
+    "topic": "nature",
+    "title": "Большая белая акула",
+    "caption": "До 6 м, 2 тонн. Чувствует кровь в 1:5 000 000 000 — капля в 25 м бассейне. Зубы меняет 30 000 раз за жизнь.",
+    "alt": "Большая белая акула",
+    "meta": { "species": "Carcharodon carcharias" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Great_white_shark"
+  },
+  {
+    "id": "fact-nature-mantis-shrimp",
+    "topic": "nature",
+    "title": "Рак-богомол",
+    "caption": "Удар клешни — 23 м/с, как пуля .22. Создаёт ударную волну, температура которой ~4700 °C (как у Солнца) в кавитационном пузырьке.",
+    "alt": "Рак-богомол",
+    "meta": { "species": "Stomatopoda" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mantis_shrimp"
+  },
+  {
+    "id": "fact-nature-great-barrier-reef",
+    "topic": "nature",
+    "title": "Большой Барьерный риф",
+    "caption": "2300 км вдоль восточной Австралии — самая большая структура из живых организмов. Виден из космоса. С 1985 потерял 50% кораллов.",
+    "alt": "Большой Барьерный риф с воздуха",
+    "meta": { "country_code": "AU" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Great_Barrier_Reef"
+  },
+  {
+    "id": "fact-nature-amazon-rainforest",
+    "topic": "nature",
+    "title": "Амазония",
+    "caption": "Крупнейший дождевой лес — 5,5 млн км². 10% всех известных видов Земли. Производит 6% кислорода планеты, не 20% (миф).",
+    "alt": "Амазонский лес с воздуха",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Amazon_rainforest"
+  },
+  {
+    "id": "fact-nature-tasmanian-devil",
+    "topic": "nature",
+    "title": "Тасманийский дьявол",
+    "caption": "Крупнейший хищный сумчатый. До 12 кг. С 1990-х вид страдает от лицевой раковой опухоли — заразный рак, передаётся при укусе.",
+    "alt": "Тасманийский дьявол",
+    "meta": { "species": "Sarcophilus harrisii" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tasmanian_devil"
+  },
+  {
+    "id": "fact-nature-honey-badger",
+    "topic": "nature",
+    "title": "Медоед",
+    "caption": "Книга рекордов Гиннесса: «самое бесстрашное животное мира». Нападает на львов, кобр, гиен. Кожа толщиной 6 мм не пробивается их клыками.",
+    "alt": "Медоед в саванне",
+    "meta": { "species": "Mellivora capensis" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Honey_badger"
+  },
+  {
+    "id": "fact-nature-lemur",
+    "topic": "nature",
+    "title": "Лемуры",
+    "caption": "Эндемики Мадагаскара. Эволюционировали изолированно 65 млн лет. Все 100+ видов под угрозой — потеряно 90% леса с 1950.",
+    "alt": "Кошачий лемур",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lemur"
+  },
+  {
+    "id": "fact-nature-vampire-bat",
+    "topic": "nature",
+    "title": "Летучая мышь-вампир",
+    "caption": "Единственное млекопитающее, питающееся только кровью. Слюна — антикоагулянт draculin, в 20 раз сильнее аналогов. Лекарство от инсульта.",
+    "alt": "Летучая мышь-вампир",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Common_vampire_bat"
+  },
+  {
+    "id": "fact-nature-puffin",
+    "topic": "nature",
+    "title": "Атлантический тупик",
+    "caption": "«Морской попугай». Может держать в клюве до 60 рыбок одновременно. Гнездится в норах на скалах, до 1500 пар на гектар.",
+    "alt": "Атлантический тупик с рыбой",
+    "meta": { "species": "Fratercula arctica" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Atlantic_puffin"
+  },
+  {
+    "id": "fact-space-sun",
+    "topic": "space",
+    "title": "Солнце",
+    "caption": "Звезда главной последовательности. Диаметр 1,4 млн км — 109 Земель. 4,6 млрд лет, проживёт ещё ~5 млрд. 99,86% массы Солнечной.",
+    "alt": "Солнце с протуберанцами",
+    "meta": { "body": "Sun" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sun"
+  },
+  {
+    "id": "fact-space-mercury-planet",
+    "topic": "space",
+    "title": "Меркурий",
+    "caption": "Ближайшая к Солнцу планета. Год — 88 земных суток, сутки — 176 земных. Перепад: +430 °C днём, −180 °C ночью.",
+    "alt": "Меркурий снятый Messenger",
+    "meta": { "body": "Mercury" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mercury_(planet)"
+  },
+  {
+    "id": "fact-space-venus",
+    "topic": "space",
+    "title": "Венера",
+    "caption": "Самая горячая планета — 462 °C даже ночью. Атмосфера на 96% из CO₂, давление 92 атмосферы. Сутки длиннее года: 243 vs 225 дней.",
+    "alt": "Венера в УФ-диапазоне",
+    "meta": { "body": "Venus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Venus"
+  },
+  {
+    "id": "fact-space-earth",
+    "topic": "space",
+    "title": "Земля",
+    "caption": "Возраст 4,54 млрд лет. Жизнь — 3,8 млрд. 71% поверхности — океан. Движемся вокруг Солнца со скоростью 107 000 км/ч.",
+    "alt": "Земля из космоса",
+    "meta": { "body": "Earth" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Earth"
+  },
+  {
+    "id": "fact-space-uranus",
+    "topic": "space",
+    "title": "Уран",
+    "caption": "Открыт Гершелем в 1781 — первая планета, найденная телескопом. Лежит на боку — наклон 98°. Ось — почти в плоскости орбиты.",
+    "alt": "Уран в видимом спектре",
+    "year": 1781,
+    "meta": { "body": "Uranus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Uranus"
+  },
+  {
+    "id": "fact-space-neptune",
+    "topic": "space",
+    "title": "Нептун",
+    "caption": "8-я и последняя планета Солнечной. Открыта в 1846 — единственная, предсказанная математически (Леверье) до наблюдения.",
+    "alt": "Нептун снятый Voyager 2",
+    "year": 1846,
+    "meta": { "body": "Neptune" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Neptune"
+  },
+  {
+    "id": "fact-space-pluto",
+    "topic": "space",
+    "title": "Плутон",
+    "caption": "Открыт Томбо в 1930. Был 9-й планетой 76 лет — до 2006, когда его «понизили» в карликовые планеты. Облёт зонда New Horizons — 2015.",
+    "alt": "Плутон, снятый New Horizons",
+    "year": 2006,
+    "meta": { "body": "Pluto" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pluto"
+  },
+  {
+    "id": "fact-space-sirius",
+    "topic": "space",
+    "title": "Сириус",
+    "caption": "Ярчайшая звезда ночного неба, видимая звёздная величина −1,46. В 25 раз ярче Солнца. Расстояние 8,6 световых лет — близкая.",
+    "alt": "Сириус и его спутник Сириус B",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sirius"
+  },
+  {
+    "id": "fact-space-polaris",
+    "topic": "space",
+    "title": "Полярная звезда",
+    "caption": "На <1° от полюса. Прецессия Земли — через 12 000 лет Полярной станет Вега. В 4000 до н.э. ею был Тубан в Драконе.",
+    "alt": "Полярная звезда и Малая Медведица",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Polaris"
+  },
+  {
+    "id": "fact-space-betelgeuse",
+    "topic": "space",
+    "title": "Бетельгейзе",
+    "caption": "Красный сверхгигант в Орионе. Радиус 887 раз больше Солнца — поместил бы Юпитер внутрь. Готов взорваться сверхновой — в ~100 000 лет.",
+    "alt": "Бетельгейзе — снимок ALMA",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Betelgeuse"
+  },
+  {
+    "id": "fact-space-sagittarius-a",
+    "topic": "space",
+    "title": "Стрелец A*",
+    "caption": "Сверхмассивная чёрная дыра в центре Млечного Пути. Масса 4,3 млн солнечных. Первый снимок EHT — 12 мая 2022.",
+    "alt": "Чёрная дыра Стрелец A* — снимок EHT",
+    "year": 2022,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sagittarius_A*"
+  },
+  {
+    "id": "fact-space-milky-way",
+    "topic": "space",
+    "title": "Млечный Путь",
+    "caption": "Наша галактика. 100 000 световых лет в диаметре. От 100 до 400 миллиардов звёзд. Солнце совершает оборот за 230 млн лет.",
+    "alt": "Млечный Путь ночью",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Milky_Way"
+  },
+  {
+    "id": "fact-space-pillars-creation",
+    "topic": "space",
+    "title": "Столпы Творения",
+    "caption": "Туманность Орла, 6500 световых лет от Земли. Снимок Hubble 1995 стал иконой астрономии. Webb пересъёмка — 2022, в ИК-диапазоне.",
+    "alt": "Столпы Творения — снимок Hubble",
+    "year": 1995,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pillars_of_Creation"
+  },
+  {
+    "id": "fact-space-halley",
+    "topic": "space",
+    "title": "Комета Галлея",
+    "caption": "Период 76 лет. Последний прилёт — 1986, следующий — 2061. Зафиксирована минимум 30 раз с 240 до н.э.",
+    "alt": "Комета Галлея 1986",
+    "year": 1986,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Halley's_Comet"
+  },
+  {
+    "id": "fact-space-big-bang",
+    "topic": "space",
+    "title": "Большой взрыв",
+    "caption": "Начало Вселенной 13,787 млрд лет назад. Подтверждение — реликтовое излучение, открытое Пензиасом и Уилсоном в 1964.",
+    "alt": "Космологическая шкала времени",
+    "year": 1964,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Big_Bang"
+  },
+  {
+    "id": "fact-space-cmb",
+    "topic": "space",
+    "title": "Реликтовое излучение",
+    "caption": "Свет от Большого взрыва, 380 000 лет после. Температура 2,725 К. Карта неоднородностей COBE/WMAP/Planck (1992–2013) — фото детства Вселенной.",
+    "alt": "Карта реликтового излучения Planck",
+    "year": 2013,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cosmic_microwave_background"
+  },
+  {
+    "id": "fact-space-pulsar",
+    "topic": "space",
+    "title": "Пульсар",
+    "caption": "Быстро вращающаяся нейтронная звезда с мощным магнитным полем. Первый — PSR B1919+21, открыт Джоселин Белл в 1967, период 1,337 сек.",
+    "alt": "Анимация вращения пульсара",
+    "year": 1967,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pulsar"
+  },
+  {
+    "id": "fact-space-quasar",
+    "topic": "space",
+    "title": "Квазар",
+    "caption": "Активное ядро далёкой галактики. Яркость до 1000 галактик при размере Солнечной системы. Ближайший — 3C 273, 2,4 млрд св. лет.",
+    "alt": "Иллюстрация квазара",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quasar"
+  },
+  {
+    "id": "fact-space-solar-eclipse",
+    "topic": "space",
+    "title": "Солнечное затмение",
+    "caption": "Луна точно покрывает Солнце — Солнце в 400 раз дальше и в 400 раз больше. Полное затмение — раз в 18 месяцев где-то на Земле.",
+    "alt": "Солнечное затмение",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Solar_eclipse"
+  },
+  {
+    "id": "fact-space-cassini",
+    "topic": "space",
+    "title": "Миссия Cassini",
+    "caption": "1997–2017. 7 лет полёта к Сатурну, 13 лет на орбите. 453 048 снимков. Сожжён в атмосфере Сатурна 15 сентября 2017.",
+    "alt": "Cassini над Сатурном",
+    "year": 2017,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cassini–Huygens"
+  },
+  {
+    "id": "fact-space-jwst",
+    "topic": "space",
+    "title": "Телескоп Уэбба",
+    "caption": "James Webb. Запуск 25 декабря 2021, в точке Лагранжа L2 (1,5 млн км от Земли). Зеркало 6,5 м. Видит инфракрасный спектр — далее, чем Hubble.",
+    "alt": "Телескоп Джеймс Уэбб в космосе",
+    "year": 2021,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "James_Webb_Space_Telescope"
+  },
+  {
+    "id": "fact-food-chocolate",
+    "topic": "food",
+    "title": "Шоколад",
+    "caption": "Из бобов какао. Майя пили его 4000 лет назад горьким. Молочный изобрёл Даниэль Петер в Швейцарии в 1875. Сегодня 5 млн тонн/год.",
+    "alt": "Тёмный шоколад",
+    "year": 1875,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Chocolate"
+  },
+  {
+    "id": "fact-food-coffee",
+    "topic": "food",
+    "title": "Кофе",
+    "caption": "В мире выпивается 2,25 миллиарда чашек в день. Первая кофейня открылась в Стамбуле в 1554. Бразилия — 1/3 мирового производства.",
+    "alt": "Кофейные зёрна",
+    "year": 1554,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Coffee"
+  },
+  {
+    "id": "fact-food-tea",
+    "topic": "food",
+    "title": "Чай",
+    "caption": "Второй после воды самый потребляемый напиток мира. Открыт в Китае в 2737 до н.э. (по легенде). Сегодня — 6,7 млрд кг/год.",
+    "alt": "Чайные листья и чашка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tea"
+  },
+  {
+    "id": "fact-food-wine",
+    "topic": "food",
+    "title": "Вино",
+    "caption": "Древнейший след — Грузия, 6000 до н.э. Франция — крупнейший экспортёр, Италия — производитель. Bordeaux 1787 продано за $156 000 в 1985.",
+    "alt": "Бокал красного вина",
+    "year": -6000,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wine"
+  },
+  {
+    "id": "fact-food-bread",
+    "topic": "food",
+    "title": "Хлеб",
+    "caption": "Старейший след — Иордания, 14 400 лет назад, до земледелия. Современный пшеничный хлеб — закваска или дрожжи Saccharomyces.",
+    "alt": "Свежий хлеб",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bread"
+  },
+  {
+    "id": "fact-food-cheese",
+    "topic": "food",
+    "title": "Сыр",
+    "caption": "Около 1800 сортов. Старейший след — Польша, 5500 до н.э. Пармезан созревает 12–36 месяцев. Чеддер — 70% потребляемого в США.",
+    "alt": "Ассортимент сыров",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cheese"
+  },
+  {
+    "id": "fact-food-pasta",
+    "topic": "food",
+    "title": "Паста",
+    "caption": "Италия потребляет 23 кг на человека в год — мировой рекорд. Видов пасты — 350+. Спагетти и фарфалле имеют единую дату изготовления — XII век.",
+    "alt": "Спагетти на тарелке",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pasta"
+  },
+  {
+    "id": "fact-food-rice",
+    "topic": "food",
+    "title": "Рис",
+    "caption": "Основной продукт для 3,5 млрд человек. 8000 лет окультурен в Китае. 200+ видов. Производство — 520 млн тонн/год.",
+    "alt": "Рисовая чашка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rice"
+  },
+  {
+    "id": "fact-food-honey",
+    "topic": "food",
+    "title": "Мёд",
+    "caption": "Археологи нашли мёд в гробнице фараона — съедобен через 3000 лет. Не портится — высокая концентрация сахара (80%), низкая воды (17%).",
+    "alt": "Соты с мёдом",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Honey"
+  },
+  {
+    "id": "fact-food-egg",
+    "topic": "food",
+    "title": "Яйцо",
+    "caption": "Мировое потребление — 87 миллионов тонн/год. Курица несёт ~280 яиц в год. Скорлупа — 17 000 пор, через которые яйцо «дышит».",
+    "alt": "Куриные яйца",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Egg_as_food"
+  },
+  {
+    "id": "fact-food-tomato",
+    "topic": "food",
+    "title": "Помидор",
+    "caption": "Родина — Южная Америка. В Европе сначала считали ядовитым (родственник белладонны), ели только в Италии с 1700-х.",
+    "alt": "Свежие помидоры",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tomato"
+  },
+  {
+    "id": "fact-food-potato",
+    "topic": "food",
+    "title": "Картофель",
+    "caption": "Привезён в Европу из Анд в 1570-х. Сегодня — 4-й по объёму продукт мира после пшеницы, риса и кукурузы. 376 млн тонн/год.",
+    "alt": "Картофель",
+    "year": 1570,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Potato"
+  },
+  {
+    "id": "fact-food-avocado",
+    "topic": "food",
+    "title": "Авокадо",
+    "caption": "Ягода с одной косточкой. Мексика — 30% мирового производства, 2,4 млн тонн/год. Не может опылиться без дерева-партнёра поблизости.",
+    "alt": "Разрезанное авокадо",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Avocado"
+  },
+  {
+    "id": "fact-food-vanilla",
+    "topic": "food",
+    "title": "Ваниль",
+    "caption": "Вторая по цене специя после шафрана — до $600/кг. Стручок орхидеи. 80% мирового производства — Мадагаскар, опыляется вручную.",
+    "alt": "Стручки ванили",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vanilla"
+  },
+  {
+    "id": "fact-food-saffron",
+    "topic": "food",
+    "title": "Шафран",
+    "caption": "Самая дорогая специя мира — до $10 000/кг. Получается из рыльц крокуса. Чтобы получить 1 кг — нужно 150 000 цветков, ручной сбор.",
+    "alt": "Рыльца шафрана",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Saffron"
+  },
+  {
+    "id": "fact-food-hamburger",
+    "topic": "food",
+    "title": "Гамбургер",
+    "caption": "США, конец XIX века. Имя — от Гамбурга. McDonald's с 1955 продал 300+ миллиардов бургеров — по 40 на каждого жителя Земли.",
+    "alt": "Гамбургер с картошкой",
+    "year": 1955,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hamburger"
+  },
+  {
+    "id": "fact-food-tiramisu",
+    "topic": "food",
+    "title": "Тирамису",
+    "caption": "Италия, регион Венето, 1960-е. Имя — «tira mi su», «подними меня». Маскарпоне, эспрессо, савоярди. С 2017 — защищённое происхождение.",
+    "alt": "Порция тирамису",
+    "year": 1960,
+    "meta": { "country_code": "IT" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tiramisu"
+  },
+  {
+    "id": "fact-food-macarons",
+    "topic": "food",
+    "title": "Макаруны",
+    "caption": "Французское миндальное печенье. В современной форме — Ladurée, Париж, 1862. Стандартный размер — 4,5 см. 25 этапов приготовления.",
+    "alt": "Цветные макаруны",
+    "year": 1862,
+    "meta": { "country_code": "FR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Macaron"
+  },
+  {
+    "id": "fact-food-ice-cream",
+    "topic": "food",
+    "title": "Мороженое",
+    "caption": "Китай, 200 до н.э. — лёд с молоком. В Европу принёс Марко Поло из Китая в 1295. Современное промышленное — 1850-е, США.",
+    "alt": "Мороженое в рожке",
+    "year": 1295,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ice_cream"
+  },
+  {
+    "id": "fact-food-champagne",
+    "topic": "food",
+    "title": "Шампанское",
+    "caption": "Игристое из Шампани, Франция. Дом Периньон, ~1670. Только из 3 сортов винограда. 49 миллионов бутылок в год — 0,5 на жителя Земли.",
+    "alt": "Бокалы шампанского",
+    "year": 1670,
+    "meta": { "country_code": "FR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Champagne"
+  },
+  {
+    "id": "fact-food-kimchi",
+    "topic": "food",
+    "title": "Кимчи",
+    "caption": "Корейская ферментированная капуста. Едят 4000 лет. UNESCO нематериальное наследие с 2013. Кореец потребляет ~36 кг в год.",
+    "alt": "Тарелка кимчи",
+    "year": 2013,
+    "meta": { "country_code": "KR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kimchi"
+  },
+  {
+    "id": "fact-food-caviar",
+    "topic": "food",
+    "title": "Икра белуги",
+    "caption": "Икра белуги — $35 000/кг. Белуга живёт 100 лет, метать икру начинает с 20. 1 рыба — 8 кг икры. Сегодня вид на грани вымирания.",
+    "alt": "Чёрная икра белуги",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Caviar"
+  },
+  {
+    "id": "fact-food-truffle",
+    "topic": "food",
+    "title": "Трюфель",
+    "caption": "Альба, Италия. Белый трюфель продаётся за €5000/кг. Поиск ведут с тренированными собаками — раньше свиньями, но те сами съедали.",
+    "alt": "Белый трюфель Альба",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Truffle"
+  }
+]

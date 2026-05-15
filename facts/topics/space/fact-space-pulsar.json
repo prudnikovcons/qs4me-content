@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-pulsar",
+  "topic": "space",
+  "title": "Пульсар",
+  "caption": "Быстро вращающаяся нейтронная звезда с мощным магнитным полем. Первый — PSR B1919+21, открыт Джоселин Белл в 1967, период 1,337 сек.",
+  "image": "fact-space-pulsar.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Анимация вращения пульсара",
+  "credit": "NASA/CXC/SAO (X-Ray); NASA/JPL-Caltech (Infrared) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pulsar",
+  "license": "PD",
+  "year": 1967
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-discovery-troy",
+  "topic": "events",
+  "title": "Открытие Трои",
+  "caption": "Генрих Шлиман, 1873. Раскопки в Турции нашли руины города ~3000 до н.э. Доказал реальность гомеровских поэм. Слой VIIa — историческая Троя.",
+  "image": "fact-events-discovery-troy.webp",
+  "image_width": 1280,
+  "image_height": 1801,
+  "alt": "Раскопки Трои",
+  "credit": "Ed. Schultze Hofphotograph Heidelberg Plöckstrasse 79 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Heinrich_Schliemann",
+  "license": "CC-BY-SA",
+  "year": 1873
+}

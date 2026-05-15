@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-tomato",
+  "topic": "food",
+  "title": "Помидор",
+  "caption": "Родина — Южная Америка. В Европе сначала считали ядовитым (родственник белладонны), ели только в Италии с 1700-х.",
+  "image": "fact-food-tomato.webp",
+  "image_width": 1280,
+  "image_height": 1065,
+  "alt": "Свежие помидоры",
+  "credit": "Softeis · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Tomato",
+  "license": "CC-BY-SA",
+  "year": 2005
+}

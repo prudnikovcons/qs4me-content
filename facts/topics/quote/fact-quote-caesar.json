@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-caesar",
+  "topic": "quote",
+  "title": "Юлий Цезарь",
+  "caption": "100–44 до н.э. Реформировал календарь в 45 до н.э. — юлианский календарь действовал в Европе до XVI века. Убит в Иды марта.",
+  "image": "fact-quote-caesar.webp",
+  "image_width": 1280,
+  "image_height": 1738,
+  "alt": "Бюст Юлия Цезаря",
+  "credit": "Ángel M. Felicísimo from Mérida, España · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Julius_Caesar",
+  "license": "PD",
+  "year": -44
+}

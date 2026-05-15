@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-gateway-arch",
+  "topic": "architecture",
+  "title": "Гейтуэй-арч",
+  "caption": "Сент-Луис, 1965. 192 м из нержавейки — символ ворот на Запад. Цепная линия, одна из крупнейших монументальных арок мира.",
+  "image": "fact-architecture-gateway-arch.webp",
+  "image_width": 1280,
+  "image_height": 1245,
+  "alt": "Гейтуэй-арч в Сент-Луисе",
+  "credit": "St_Louis_night_expblend.jpg: Daniel Schwen derivative work: ←fetchcomms · CC-BY-",
+  "source": "https://en.wikipedia.org/wiki/Gateway_Arch",
+  "license": "CC-BY-SA",
+  "year": 1965,
+  "meta": {
+    "country_code": "US"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-music-chopin",
+  "topic": "music",
+  "title": "Фридерик Шопен",
+  "caption": "1810–1849. Поляк, переехал в Париж в 21 год. Написал почти всё для фортепиано — 230 произведений за 39 лет жизни.",
+  "image": "fact-music-chopin.webp",
+  "image_width": 1014,
+  "image_height": 1455,
+  "alt": "Портрет Шопена",
+  "credit": "Louis-Auguste Bisson · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin",
+  "license": "PD",
+  "year": 1849,
+  "meta": {
+    "lifespan": "1810-1849"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-portugal-belem",
+  "topic": "country",
+  "title": "Португалия · Башня Белен",
+  "caption": "Лиссабон, 1519. Стояла в устье Тежу, охраняя порт. С неё уходили каравеллы Васко да Гамы. UNESCO с 1983.",
+  "image": "fact-country-portugal-belem.webp",
+  "image_width": 1280,
+  "image_height": 1221,
+  "alt": "Башня Белен в Лиссабоне",
+  "credit": "Alvesgaspar · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+  "license": "CC-BY-SA",
+  "year": 1519,
+  "meta": {
+    "country_code": "PT"
+  }
+}

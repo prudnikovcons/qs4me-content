@@ -1,0 +1,16 @@
+{
+  "id": "fact-quote-aristotle",
+  "topic": "quote",
+  "title": "Аристотель",
+  "caption": "384–322 до н.э. Ученик Платона, учитель Александра Македонского. Заложил основы логики, биологии, этики на 2000 лет вперёд.",
+  "image": "fact-quote-aristotle.webp",
+  "image_width": 1280,
+  "image_height": 1713,
+  "alt": "Бюст Аристотеля",
+  "credit": "After Lysippos · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Aristotle",
+  "license": "PD",
+  "meta": {
+    "lifespan": "-384--322"
+  }
+}

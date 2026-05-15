@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-empire-state",
+  "topic": "architecture",
+  "title": "Эмпайр-стейт-билдинг",
+  "caption": "Нью-Йорк, 1931. 381 м (443 со шпилем), 102 этажа. Построен за 410 дней. Самое высокое здание мира 41 год — до WTC 1972.",
+  "image": "fact-architecture-empire-state.webp",
+  "image_width": 846,
+  "image_height": 1270,
+  "alt": "Эмпайр-стейт-билдинг ночью",
+  "credit": "Sam Valadi · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Empire_State_Building",
+  "license": "PD",
+  "year": 1931,
+  "meta": {
+    "country_code": "US"
+  }
+}

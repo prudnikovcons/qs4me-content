@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-napoleon",
+  "topic": "quote",
+  "title": "Наполеон Бонапарт",
+  "caption": "1769–1821. Император Франции 1804–1814. Гражданский кодекс 1804 действует во Франции до сих пор, скопирован в 70+ странах.",
+  "image": "fact-quote-napoleon.webp",
+  "image_width": 1280,
+  "image_height": 2135,
+  "alt": "Портрет Наполеона",
+  "credit": "Jacques-Louis David · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Napoleon",
+  "license": "PD",
+  "year": 1804
+}

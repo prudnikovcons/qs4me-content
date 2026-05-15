@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-titanic",
+  "topic": "events",
+  "title": "«Титаник»",
+  "caption": "Затонул 15 апреля 1912 после столкновения с айсбергом. 1503 погибших из 2224. Считался непотопляемым — обломки нашли в 1985.",
+  "image": "fact-events-titanic.webp",
+  "image_width": 1280,
+  "image_height": 784,
+  "alt": "«Титаник» в порту Саутгемптона",
+  "credit": "Francis Godolphin Osbourne Stuart · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Titanic",
+  "license": "PD",
+  "year": 1912
+}

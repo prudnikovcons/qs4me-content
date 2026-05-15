@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-pompeii",
+  "topic": "history",
+  "title": "Помпеи",
+  "caption": "Римский город под Везувием. 24 августа 79 года н.э. за 18 часов погребён под 6 м пепла. Найден случайно в 1748.",
+  "image": "fact-history-pompeii.webp",
+  "image_width": 1280,
+  "image_height": 1403,
+  "alt": "Развалины Помпей",
+  "credit": "ElfQrin · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pompeii",
+  "license": "CC-BY-SA",
+  "year": 79
+}

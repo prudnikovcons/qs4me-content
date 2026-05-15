@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-milky-way",
+  "topic": "space",
+  "title": "Млечный Путь",
+  "caption": "Наша галактика. 100 000 световых лет в диаметре. От 100 до 400 миллиардов звёзд. Солнце совершает оборот за 230 млн лет.",
+  "image": "fact-space-milky-way.webp",
+  "image_width": 1280,
+  "image_height": 851,
+  "alt": "Млечный Путь ночью",
+  "credit": "ESO/Y. Beletsky · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Milky_Way",
+  "license": "CC-BY",
+  "year": 2007
+}

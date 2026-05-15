@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-vaccine",
+  "topic": "science",
+  "title": "Вакцина",
+  "caption": "Эдвард Дженнер, 1796. От оспы, через коровью оспу. Слово vaccinia от vacca — корова. Оспа уничтожена ВОЗ к 1980.",
+  "image": "fact-science-vaccine.webp",
+  "image_width": 1280,
+  "image_height": 848,
+  "alt": "Эдвард Дженнер делает прививку",
+  "credit": "Photo Credit: James Gathany Content Providers(s): CDC · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Vaccine",
+  "license": "PD",
+  "year": 1796
+}

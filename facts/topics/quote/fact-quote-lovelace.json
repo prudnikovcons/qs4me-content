@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-lovelace",
+  "topic": "quote",
+  "title": "Ада Лавлейс",
+  "caption": "1815–1852. Дочь Байрона, математик. Написала первый в мире алгоритм (1843) для аналитической машины Бэббиджа.",
+  "image": "fact-quote-lovelace.webp",
+  "image_width": 957,
+  "image_height": 1239,
+  "alt": "Портрет Ады Лавлейс",
+  "credit": "Antoine Claudet · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+  "license": "PD",
+  "year": 1843
+}

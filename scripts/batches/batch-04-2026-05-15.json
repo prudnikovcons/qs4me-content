@@ -1,0 +1,553 @@
+[
+  {
+    "id": "fact-element-hydrogen",
+    "topic": "element",
+    "title": "Водород · H (1)",
+    "caption": "H, 1-й элемент. 75% барионной массы Вселенной. На Земле редок в чистом виде — улетает в космос (атомная масса 1,008).",
+    "alt": "Атом водорода — модель",
+    "meta": { "atomic_number": 1, "symbol": "H" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hydrogen"
+  },
+  {
+    "id": "fact-element-helium",
+    "topic": "element",
+    "title": "Гелий · He (2)",
+    "caption": "He, 2-й элемент. Открыт на Солнце в 1868 — за 27 лет до Земли (1895). Не замерзает даже при 0 К без давления.",
+    "alt": "Гелиевые шары",
+    "year": 1868,
+    "meta": { "atomic_number": 2, "symbol": "He" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Helium",
+    "image_filename_override": "Helium_atom_QM.svg"
+  },
+  {
+    "id": "fact-element-oxygen",
+    "topic": "element",
+    "title": "Кислород · O (8)",
+    "caption": "O, 8-й элемент. 21% атмосферы Земли, 89% массы воды. Открыт Шееле в 1771 и Пристли в 1774 независимо.",
+    "alt": "Молекула O2",
+    "year": 1774,
+    "meta": { "atomic_number": 8, "symbol": "O" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Oxygen"
+  },
+  {
+    "id": "fact-element-nitrogen",
+    "topic": "element",
+    "title": "Азот · N (7)",
+    "caption": "N, 7-й элемент. 78% атмосферы Земли. Молекулярный N2 настолько инертен — биосфера не может его связывать без бактерий.",
+    "alt": "Жидкий азот в дьюаре",
+    "meta": { "atomic_number": 7, "symbol": "N" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nitrogen"
+  },
+  {
+    "id": "fact-element-sodium",
+    "topic": "element",
+    "title": "Натрий · Na (11)",
+    "caption": "Na, 11-й элемент. Мягкий, режется ножом. Взрывается в воде. В соли (NaCl) с 4000 до н.э. — древнейший реагент кулинарии.",
+    "alt": "Металлический натрий под маслом",
+    "meta": { "atomic_number": 11, "symbol": "Na" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sodium"
+  },
+  {
+    "id": "fact-element-aluminium",
+    "topic": "element",
+    "title": "Алюминий · Al (13)",
+    "caption": "Al, 13-й элемент. 8% земной коры — третий после кислорода и кремния. До 1886 был дороже золота — Наполеон III кормил гостей.",
+    "alt": "Слитки чистого алюминия",
+    "year": 1886,
+    "meta": { "atomic_number": 13, "symbol": "Al" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aluminium"
+  },
+  {
+    "id": "fact-element-sulfur",
+    "topic": "element",
+    "title": "Сера · S (16)",
+    "caption": "S, 16-й элемент. Известна с древности — упоминается в Библии. Жёлтые кристаллы, температура плавления 115 °C.",
+    "alt": "Кристаллы серы",
+    "meta": { "atomic_number": 16, "symbol": "S" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sulfur"
+  },
+  {
+    "id": "fact-element-chlorine",
+    "topic": "element",
+    "title": "Хлор · Cl (17)",
+    "caption": "Cl, 17-й элемент. Жёлто-зелёный ядовитый газ. Применён как химическое оружие при Ипре в 1915 — 5000 жертв за 1 атаку.",
+    "alt": "Хлор в колбе",
+    "year": 1915,
+    "meta": { "atomic_number": 17, "symbol": "Cl" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Chlorine"
+  },
+  {
+    "id": "fact-element-potassium",
+    "topic": "element",
+    "title": "Калий · K (19)",
+    "caption": "K, 19-й элемент. От арабского «al-qali» — щёлочь. Радиоактивен (K-40) — банан с 0,4 г калия даёт 15 беккерель.",
+    "alt": "Металлический калий под маслом",
+    "meta": { "atomic_number": 19, "symbol": "K" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Potassium"
+  },
+  {
+    "id": "fact-element-calcium",
+    "topic": "element",
+    "title": "Кальций · Ca (20)",
+    "caption": "Ca, 20-й элемент. 1,5% веса человека — в основном в костях. 1 кг кальция в среднем взрослом, 99% в скелете и зубах.",
+    "alt": "Гранулы металлического кальция",
+    "meta": { "atomic_number": 20, "symbol": "Ca" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Calcium"
+  },
+  {
+    "id": "fact-element-titanium",
+    "topic": "element",
+    "title": "Титан · Ti (22)",
+    "caption": "Ti, 22-й элемент. В 2 раза легче стали, прочнее некоторых её сплавов. SR-71 Blackbird на 92% из титана — летал на Маха 3,3.",
+    "alt": "Слиток титана",
+    "meta": { "atomic_number": 22, "symbol": "Ti" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Titanium"
+  },
+  {
+    "id": "fact-element-copper",
+    "topic": "element",
+    "title": "Медь · Cu (29)",
+    "caption": "Cu, 29-й элемент. Первый металл, который освоил человек — ~8000 до н.э. Дала имя бронзовому и медному веку.",
+    "alt": "Самородок меди",
+    "year": -8000,
+    "meta": { "atomic_number": 29, "symbol": "Cu" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Copper"
+  },
+  {
+    "id": "fact-element-zinc",
+    "topic": "element",
+    "title": "Цинк · Zn (30)",
+    "caption": "Zn, 30-й элемент. Покрытие из цинка («оцинковка») защищает 50% всей стали мира от коррозии. Жертвенный анод корабля.",
+    "alt": "Кристалл чистого цинка",
+    "meta": { "atomic_number": 30, "symbol": "Zn" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Zinc"
+  },
+  {
+    "id": "fact-element-silver",
+    "topic": "element",
+    "title": "Серебро · Ag (47)",
+    "caption": "Ag, 47-й элемент. Лучшая электропроводность среди всех элементов. От Ag — обозначение в Argentum (Аргентина).",
+    "alt": "Самородок серебра",
+    "meta": { "atomic_number": 47, "symbol": "Ag" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Silver"
+  },
+  {
+    "id": "fact-element-tin",
+    "topic": "element",
+    "title": "Олово · Sn (50)",
+    "caption": "Sn, 50-й элемент. Дал имя бронзовому веку (медь + олово). При −13 °C превращается в порошок — «оловянная чума».",
+    "alt": "Чистый кусок олова",
+    "meta": { "atomic_number": 50, "symbol": "Sn" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tin"
+  },
+  {
+    "id": "fact-element-iodine",
+    "topic": "element",
+    "title": "Йод · I (53)",
+    "caption": "I, 53-й элемент. Открыт в 1811 случайно — при производстве пороха из водорослей. Фиолетовый цвет паров дал имя.",
+    "alt": "Кристаллы йода",
+    "year": 1811,
+    "meta": { "atomic_number": 53, "symbol": "I" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Iodine"
+  },
+  {
+    "id": "fact-element-platinum",
+    "topic": "element",
+    "title": "Платина · Pt (78)",
+    "caption": "Pt, 78-й элемент. Эталон килограмма с 1889 до 2019 — цилиндр из 90% Pt + 10% Ir. Плавится при 1768 °C.",
+    "alt": "Самородок платины",
+    "meta": { "atomic_number": 78, "symbol": "Pt" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Platinum"
+  },
+  {
+    "id": "fact-element-lead",
+    "topic": "element",
+    "title": "Свинец · Pb (82)",
+    "caption": "Pb, 82-й элемент. Древний — водопровод Рима делали из свинца. Тяжёлый: плотность 11,3 г/см³, в 1,4 раза тяжелее железа.",
+    "alt": "Кусок свинца",
+    "meta": { "atomic_number": 82, "symbol": "Pb" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lead"
+  },
+  {
+    "id": "fact-element-uranium",
+    "topic": "element",
+    "title": "Уран · U (92)",
+    "caption": "U, 92-й элемент. Тяжелейший природный. Открыт в 1789 Клапротом, назван в честь планеты Уран (1781). Период U-238 — 4,5 млрд лет.",
+    "alt": "Образец урановой руды",
+    "year": 1789,
+    "meta": { "atomic_number": 92, "symbol": "U" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Uranium"
+  },
+  {
+    "id": "fact-element-plutonium",
+    "topic": "element",
+    "title": "Плутоний · Pu (94)",
+    "caption": "Pu, 94-й элемент. Получен в 1940. 6,2 кг Pu — заряд бомбы «Толстяк», сброшенной на Нагасаки 9 августа 1945.",
+    "alt": "Образец плутония",
+    "year": 1940,
+    "meta": { "atomic_number": 94, "symbol": "Pu" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Plutonium"
+  },
+  {
+    "id": "fact-element-neon",
+    "topic": "element",
+    "title": "Неон · Ne (10)",
+    "caption": "Ne, 10-й элемент. Инертный газ, открыт Рамзаем в 1898. Дал жанр неоновой рекламы с 1912 — оранжево-красное свечение.",
+    "alt": "Неоновая разрядная трубка",
+    "year": 1898,
+    "meta": { "atomic_number": 10, "symbol": "Ne" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Neon"
+  },
+  {
+    "id": "fact-element-argon",
+    "topic": "element",
+    "title": "Аргон · Ar (18)",
+    "caption": "Ar, 18-й элемент. 0,93% атмосферы Земли — третий компонент после азота и кислорода. От греческого argos — «ленивый».",
+    "alt": "Аргон в разрядной трубке",
+    "meta": { "atomic_number": 18, "symbol": "Ar" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Argon"
+  },
+  {
+    "id": "fact-element-tungsten",
+    "topic": "element",
+    "title": "Вольфрам · W (74)",
+    "caption": "W, 74-й элемент. Самая высокая температура плавления среди металлов — 3422 °C. Нить лампы накаливания, броня в танке.",
+    "alt": "Образец чистого вольфрама",
+    "meta": { "atomic_number": 74, "symbol": "W" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tungsten"
+  },
+  {
+    "id": "fact-element-lithium",
+    "topic": "element",
+    "title": "Литий · Li (3)",
+    "caption": "Li, 3-й элемент. Самый лёгкий металл — плотность 0,53 г/см³, плавает в масле. В батареях смартфонов и Tesla.",
+    "alt": "Литий в защитном масле",
+    "meta": { "atomic_number": 3, "symbol": "Li" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lithium"
+  },
+  {
+    "id": "fact-element-bismuth",
+    "topic": "element",
+    "title": "Висмут · Bi (83)",
+    "caption": "Bi, 83-й элемент. Образует радужные ступенчатые кристаллы. Считался стабильным до 2003 — оказался слабо радиоактивен.",
+    "alt": "Кристалл висмута с побежалостью",
+    "year": 2003,
+    "meta": { "atomic_number": 83, "symbol": "Bi" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bismuth"
+  },
+  {
+    "id": "fact-materials-concrete",
+    "topic": "materials",
+    "title": "Бетон",
+    "caption": "Самый используемый материал после воды — 30 млрд тонн/год. Римский бетон Колизея простоял 2000 лет благодаря пуццолану.",
+    "alt": "Заливка бетона",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Concrete"
+  },
+  {
+    "id": "fact-materials-steel",
+    "topic": "materials",
+    "title": "Сталь",
+    "caption": "Сплав железа с углеродом (0,02–2,1%). 1,9 млрд тонн в год — больше всех остальных металлов вместе. Появилась ~1800 до н.э.",
+    "alt": "Стальные балки",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Steel"
+  },
+  {
+    "id": "fact-materials-glass",
+    "topic": "materials",
+    "title": "Стекло",
+    "caption": "Известно с 3500 до н.э. в Месопотамии. Венецианское стекло — секрет хранили 600 лет, мастеров не выпускали из Мурано.",
+    "alt": "Венецианское стекло",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Glass"
+  },
+  {
+    "id": "fact-materials-rubber",
+    "topic": "materials",
+    "title": "Резина",
+    "caption": "Натуральный латекс из гевеи. Чарльз Гудьир в 1839 открыл вулканизацию — серу добавил в каучук случайно. 30 млн тонн/год.",
+    "alt": "Сбор латекса гевеи",
+    "year": 1839,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rubber"
+  },
+  {
+    "id": "fact-materials-plastic",
+    "topic": "materials",
+    "title": "Пластик",
+    "caption": "Первый синтетический — бакелит, Бельгия 1907. Сегодня 400 млн тонн/год, всего произведено 9 млрд тонн с 1950-х.",
+    "alt": "Гранулы пластика",
+    "year": 1907,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Plastic"
+  },
+  {
+    "id": "fact-materials-bronze",
+    "topic": "materials",
+    "title": "Бронза",
+    "caption": "Сплав меди и олова, 88%/12%. Дал имя эпохе с 3300 до н.э. Прочнее меди в 3 раза, плавится при 950 °C.",
+    "alt": "Бронзовое изделие",
+    "year": -3300,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bronze"
+  },
+  {
+    "id": "fact-materials-kevlar",
+    "topic": "materials",
+    "title": "Кевлар",
+    "caption": "Синтетическое волокно DuPont, 1965. В 5 раз прочнее стали при той же массе. Бронежилеты, парашютные стропы, шины Формулы-1.",
+    "alt": "Ткань из кевлара",
+    "year": 1965,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kevlar"
+  },
+  {
+    "id": "fact-materials-teflon",
+    "topic": "materials",
+    "title": "Тефлон",
+    "caption": "PTFE, открыт случайно Plunkett в 1938. Коэффициент трения 0,05 — почти лёд. Сковородки с 1954, не пристаёт ничего.",
+    "alt": "Сковорода с тефлоновым покрытием",
+    "year": 1938,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Polytetrafluoroethylene"
+  },
+  {
+    "id": "fact-materials-aerogel",
+    "topic": "materials",
+    "title": "Аэрогель",
+    "caption": "Твёрдое вещество на 99,8% из воздуха. Плотность 1 кг/м³, в 1000 раз меньше воды. Изобретён Кистлером в 1931.",
+    "alt": "Аэрогель — кусок голубого «дыма»",
+    "year": 1931,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aerogel"
+  },
+  {
+    "id": "fact-materials-velcro",
+    "topic": "materials",
+    "title": "Липучка",
+    "caption": "Жорж де Местраль, Швейцария 1955. Подсмотрел у репейника — крючки на семенах. Использует NASA с 1969 на Apollo.",
+    "alt": "Текстильная застёжка-липучка",
+    "year": 1955,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hook-and-loop_fastener"
+  },
+  {
+    "id": "fact-materials-cotton",
+    "topic": "materials",
+    "title": "Хлопок",
+    "caption": "Известен с 5000 до н.э. в Индии. 25 млн тонн в год, 75 стран. На 1 кг хлопка — 10 000 литров воды.",
+    "alt": "Коробочки хлопка на поле",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cotton"
+  },
+  {
+    "id": "fact-materials-bamboo",
+    "topic": "materials",
+    "title": "Бамбук",
+    "caption": "Самое быстрорастущее растение мира — до 91 см в сутки. Прочнее стали на разрыв при 5-кратной разнице массы.",
+    "alt": "Бамбуковая роща",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bamboo"
+  },
+  {
+    "id": "fact-materials-diamond",
+    "topic": "materials",
+    "title": "Алмаз",
+    "caption": "10 баллов по шкале Мооса — твёрдейший природный материал. Чистый углерод под давлением 7 ГПа, образуется на глубине 150 км.",
+    "alt": "Алмаз огранки бриллиант",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Diamond"
+  },
+  {
+    "id": "fact-materials-wood",
+    "topic": "materials",
+    "title": "Древесина",
+    "caption": "На Земле ~3 триллиона деревьев. Дуб служит 100+ лет, секвойя — 3000+. Каждый м³ дерева забирает из воздуха ~1 тонну CO₂.",
+    "alt": "Структура древесных колец",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wood"
+  },
+  {
+    "id": "fact-materials-paper",
+    "topic": "materials",
+    "title": "Бумага",
+    "caption": "Изобретена Цай Лунем в Китае 105 года н.э. До этого писали на папирусе и пергаменте. Сегодня — 400 млн тонн в год.",
+    "alt": "Рулоны бумаги",
+    "year": 105,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Paper"
+  },
+  {
+    "id": "fact-math-pi",
+    "topic": "math",
+    "title": "Число π",
+    "caption": "Отношение длины окружности к диаметру. Иррационально и трансцендентно. В 2024 вычислено 202 трлн знаков после запятой.",
+    "alt": "Символ π и окружность",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pi",
+    "image_filename_override": "Pi-symbol.svg"
+  },
+  {
+    "id": "fact-math-euler-identity",
+    "topic": "math",
+    "title": "Тождество Эйлера",
+    "caption": "e^iπ + 1 = 0. Связывает 5 важнейших констант: 0, 1, e, π, i. Признано «самой красивой формулой математики».",
+    "alt": "Формула e^iπ + 1 = 0",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Euler's_identity"
+  },
+  {
+    "id": "fact-math-golden-ratio",
+    "topic": "math",
+    "title": "Золотое сечение · φ",
+    "caption": "φ = 1,618... Отношение, при котором (a+b)/a = a/b. Встречается в раковинах, подсолнухах, спирали галактик.",
+    "alt": "Золотая спираль на квадратах Фибоначчи",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Golden_ratio"
+  },
+  {
+    "id": "fact-math-pythagoras",
+    "topic": "math",
+    "title": "Теорема Пифагора",
+    "caption": "a² + b² = c² для прямоугольного треугольника. Известна вавилонянам за 1000 лет до Пифагора (~570–495 до н.э.).",
+    "alt": "Диаграмма теоремы Пифагора",
+    "year": -540,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pythagorean_theorem"
+  },
+  {
+    "id": "fact-math-prime-numbers",
+    "topic": "math",
+    "title": "Простые числа",
+    "caption": "Делятся только на 1 и себя. Бесконечно много — доказал Евклид ~300 до н.э. Крупнейшее известное (2024) — 2^136 279 841 − 1.",
+    "alt": "Решето Эратосфена",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Prime_number"
+  },
+  {
+    "id": "fact-math-zero",
+    "topic": "math",
+    "title": "Ноль",
+    "caption": "Изобретение Индии VII века н.э. — концепция числа «ничего». Брахмагупта, 628 год, ввёл правила арифметики с нулём.",
+    "alt": "Цифра 0",
+    "year": 628,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "0"
+  },
+  {
+    "id": "fact-math-infinity",
+    "topic": "math",
+    "title": "Бесконечность · ∞",
+    "caption": "Символ ∞ ввёл Уоллис в 1655. Кантор в 1874 показал: бесконечности бывают разной мощности — целых меньше, чем действительных.",
+    "alt": "Символ бесконечности",
+    "year": 1655,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Infinity"
+  },
+  {
+    "id": "fact-math-godel",
+    "topic": "math",
+    "title": "Теоремы Гёделя",
+    "caption": "Курт Гёдель, 1931. Любая достаточно сильная формальная система неполна: есть истинные утверждения, которые в ней недоказуемы.",
+    "alt": "Портрет Курта Гёделя",
+    "year": 1931,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gödel's_incompleteness_theorems"
+  },
+  {
+    "id": "fact-math-riemann",
+    "topic": "math",
+    "title": "Гипотеза Римана",
+    "caption": "Бернхард Риман, 1859. Все нетривиальные нули ζ-функции имеют Re = ½. Не доказана 167 лет. Премия Клэя — $1 млн за решение.",
+    "alt": "Дзета-функция Римана",
+    "year": 1859,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Riemann_hypothesis"
+  },
+  {
+    "id": "fact-math-mandelbrot",
+    "topic": "math",
+    "title": "Множество Мандельброта",
+    "caption": "Фрактал, открытый Бенуа Мандельбротом в 1980. Бесконечная самоподобная граница на конечной площади ~1,506.",
+    "alt": "Множество Мандельброта",
+    "year": 1980,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mandelbrot_set"
+  },
+  {
+    "id": "fact-math-mobius",
+    "topic": "math",
+    "title": "Лента Мёбиуса",
+    "caption": "Поверхность с одной стороной и одним краем. Открыта Мёбиусом и Листингом независимо в 1858. Символ переработки с 1970.",
+    "alt": "Лента Мёбиуса",
+    "year": 1858,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Möbius_strip"
+  },
+  {
+    "id": "fact-math-four-color",
+    "topic": "math",
+    "title": "Теорема о 4 красках",
+    "caption": "Любую карту на плоскости можно раскрасить в 4 цвета. Сформулирована в 1852, доказана в 1976 — первая теорема, проверенная компьютером.",
+    "alt": "Карта в 4 цветах",
+    "year": 1976,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Four_color_theorem"
+  },
+  {
+    "id": "fact-math-konigsberg",
+    "topic": "math",
+    "title": "Кёнигсбергские мосты",
+    "caption": "Задача о 7 мостах Кёнигсберга. Эйлер в 1736 доказал, что обойти все мосты по одному разу нельзя. Так родилась теория графов.",
+    "alt": "Карта Кёнигсбергских мостов",
+    "year": 1736,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Seven_Bridges_of_Königsberg"
+  },
+  {
+    "id": "fact-math-pascal-triangle",
+    "topic": "math",
+    "title": "Треугольник Паскаля",
+    "caption": "Известен в Китае X века, в Индии XI века. На Западе — Паскаль, 1654. По диагоналям — числа Фибоначчи, биномы.",
+    "alt": "Треугольник Паскаля",
+    "year": 1654,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pascal's_triangle"
+  },
+  {
+    "id": "fact-math-eulers-number",
+    "topic": "math",
+    "title": "Число e · 2,71828",
+    "caption": "e = lim(1 + 1/n)^n = 2,71828... Основание натурального логарифма. Открыто Бернулли в 1683 при изучении сложных процентов.",
+    "alt": "График экспоненты",
+    "year": 1683,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "E_(mathematical_constant)"
+  }
+]

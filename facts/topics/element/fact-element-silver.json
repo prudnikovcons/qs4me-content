@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-silver",
+  "topic": "element",
+  "title": "Серебро · Ag (47)",
+  "caption": "Ag, 47-й элемент. Лучшая электропроводность среди всех элементов. От Ag — обозначение в Argentum (Аргентина).",
+  "image": "fact-element-silver.webp",
+  "image_width": 1280,
+  "image_height": 1003,
+  "alt": "Самородок серебра",
+  "credit": "Alchemist-hp (talk) (www.pse-mendelejew.de) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Silver",
+  "license": "CC-BY-SA",
+  "year": 2009,
+  "meta": {
+    "atomic_number": 47,
+    "symbol": "Ag"
+  }
+}

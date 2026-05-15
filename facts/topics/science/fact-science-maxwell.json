@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-maxwell",
+  "topic": "science",
+  "title": "Уравнения Максвелла",
+  "caption": "Джеймс Клерк Максвелл, 1865. 4 уравнения, описывающих всё электромагнетизм. Предсказали радиоволны за 22 года до их открытия Герцем.",
+  "image": "fact-science-maxwell.webp",
+  "image_width": 443,
+  "image_height": 391,
+  "alt": "Уравнения Максвелла",
+  "credit": "FF-UK · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Maxwell's_equations",
+  "license": "CC-BY-SA",
+  "year": 1865
+}

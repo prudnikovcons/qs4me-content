@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-polaris",
+  "topic": "space",
+  "title": "Полярная звезда",
+  "caption": "На <1° от полюса. Прецессия Земли — через 12 000 лет Полярной станет Вега. В 4000 до н.э. ею был Тубан в Драконе.",
+  "image": "fact-space-polaris.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Полярная звезда и Малая Медведица",
+  "credit": "Ursa Minor constellation map.png: Torsten Bronger / derivative work: Kxx · CC-BY",
+  "source": "https://en.wikipedia.org/wiki/Polaris",
+  "license": "CC-BY-SA",
+  "year": 2010
+}

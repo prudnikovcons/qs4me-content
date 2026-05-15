@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-germany-neuschwanstein",
+  "topic": "country",
+  "title": "Германия · Нойшванштайн",
+  "caption": "Замок Людвига II в Баварии, 1869–1886. Образец сказочного замка Disney. 1,4 млн посетителей в год. Король умер до завершения.",
+  "image": "fact-country-germany-neuschwanstein.webp",
+  "image_width": 1280,
+  "image_height": 957,
+  "alt": "Замок Нойшванштайн",
+  "credit": "Thomas Wolf, www.foto-tw.de · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
+  "license": "CC-BY-SA",
+  "year": 1886,
+  "meta": {
+    "country_code": "DE"
+  }
+}

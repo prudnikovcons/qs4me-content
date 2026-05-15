@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-plato",
+  "topic": "quote",
+  "title": "Платон",
+  "caption": "428–348 до н.э. Ученик Сократа, основал Академию в 387 до н.э. — первый университет, просуществовала 900 лет.",
+  "image": "fact-quote-plato.webp",
+  "image_width": 1280,
+  "image_height": 1920,
+  "alt": "Бюст Платона",
+  "credit": "Marie-Lan Nguyen · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Plato",
+  "license": "PD",
+  "year": -387
+}

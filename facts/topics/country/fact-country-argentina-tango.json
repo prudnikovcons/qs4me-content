@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-argentina-tango",
+  "topic": "country",
+  "title": "Аргентина · танго",
+  "caption": "Танец родом из портовых районов Буэнос-Айреса 1880-х. UNESCO нематериальное наследие с 2009. 200+ профессиональных пар в Буэнос-Айресе.",
+  "image": "fact-country-argentina-tango.webp",
+  "image_width": 850,
+  "image_height": 799,
+  "alt": "Аргентинское танго на улице",
+  "credit": "Coquimbo58 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Tango",
+  "license": "CC-BY-SA",
+  "year": 2009,
+  "meta": {
+    "country_code": "AR"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-mobius",
+  "topic": "math",
+  "title": "Лента Мёбиуса",
+  "caption": "Поверхность с одной стороной и одним краем. Открыта Мёбиусом и Листингом независимо в 1858. Символ переработки с 1970.",
+  "image": "fact-math-mobius.webp",
+  "image_width": 1280,
+  "image_height": 793,
+  "alt": "Лента Мёбиуса",
+  "credit": "David Benbennick · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/M%C3%B6bius_strip",
+  "license": "CC-BY-SA",
+  "year": 1858
+}

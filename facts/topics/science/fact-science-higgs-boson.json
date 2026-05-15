@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-higgs-boson",
+  "topic": "science",
+  "title": "Бозон Хиггса",
+  "caption": "Предсказан в 1964, найден на LHC 4 июля 2012. Масса 125 ГэВ. «Частица Бога» — даёт массу всем остальным частицам.",
+  "image": "fact-science-higgs-boson.webp",
+  "image_width": 720,
+  "image_height": 937,
+  "alt": "Событие столкновения на LHC",
+  "credit": "CERN for the ATLAS and CMS Collaborations · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Higgs_boson",
+  "license": "CC-BY-SA",
+  "year": 2012
+}

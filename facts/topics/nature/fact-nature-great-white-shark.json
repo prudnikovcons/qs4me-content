@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-great-white-shark",
+  "topic": "nature",
+  "title": "Большая белая акула",
+  "caption": "До 6 м, 2 тонн. Чувствует кровь в 1:5 000 000 000 — капля в 25 м бассейне. Зубы меняет 30 000 раз за жизнь.",
+  "image": "fact-nature-great-white-shark.webp",
+  "image_width": 1200,
+  "image_height": 835,
+  "alt": "Большая белая акула",
+  "credit": "Pterantula (Terry Goss) at en.wikipedia · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Great_white_shark",
+  "license": "CC-BY",
+  "year": 2006,
+  "meta": {
+    "species": "Carcharodon carcharias"
+  }
+}

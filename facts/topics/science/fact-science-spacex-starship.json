@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-spacex-starship",
+  "topic": "science",
+  "title": "SpaceX Starship",
+  "caption": "Двухступенчатая суперракета SpaceX. Высота 121 м, тяга 7600 тонн — рекорд. Первый успешный полёт — 14 марта 2024.",
+  "image": "fact-science-spacex-starship.webp",
+  "image_width": 1280,
+  "image_height": 1370,
+  "alt": "Starship на старте",
+  "credit": "Steve Jurvetson · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/SpaceX_Starship",
+  "license": "CC-BY",
+  "year": 2024
+}

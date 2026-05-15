@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-south-africa-table",
+  "topic": "country",
+  "title": "ЮАР · Столовая гора",
+  "caption": "Плато 1086 м над Кейптауном. Возраст 600 млн лет — старше Гималаев в 6 раз. Канатная дорога с 1929 — 65 секунд наверх.",
+  "image": "fact-country-south-africa-table.webp",
+  "image_width": 1280,
+  "image_height": 837,
+  "alt": "Столовая гора над Кейптауном",
+  "credit": "Danie van der Merwe from Cape Town, South Africa · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Table_Mountain",
+  "license": "CC-BY",
+  "year": 1929,
+  "meta": {
+    "country_code": "ZA"
+  }
+}

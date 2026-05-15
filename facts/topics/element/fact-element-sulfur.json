@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-sulfur",
+  "topic": "element",
+  "title": "Сера · S (16)",
+  "caption": "S, 16-й элемент. Известна с древности — упоминается в Библии. Жёлтые кристаллы, температура плавления 115 °C.",
+  "image": "fact-element-sulfur.webp",
+  "image_width": 1280,
+  "image_height": 1067,
+  "alt": "Кристаллы серы",
+  "credit": "Ivar Leidus · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Sulfur",
+  "license": "CC-BY-SA",
+  "year": 2021,
+  "meta": {
+    "atomic_number": 16,
+    "symbol": "S"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-probability",
+  "topic": "math",
+  "title": "Теория вероятностей",
+  "caption": "Зародилась в 1654 в переписке Паскаля и Ферма по поводу азартных игр. Аксиоматика — Колмогоров, 1933.",
+  "image": "fact-math-probability.webp",
+  "image_width": 1280,
+  "image_height": 640,
+  "alt": "Бросание игральных костей",
+  "credit": "Ainali · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Probability_theory",
+  "license": "CC-BY-SA",
+  "year": 1654
+}

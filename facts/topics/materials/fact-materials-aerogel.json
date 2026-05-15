@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-aerogel",
+  "topic": "materials",
+  "title": "Аэрогель",
+  "caption": "Твёрдое вещество на 99,8% из воздуха. Плотность 1 кг/м³, в 1000 раз меньше воды. Изобретён Кистлером в 1931.",
+  "image": "fact-materials-aerogel.webp",
+  "image_width": 879,
+  "image_height": 619,
+  "alt": "Аэрогель — кусок голубого «дыма»",
+  "credit": "Courtesy NASA/JPL-Caltech · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Aerogel",
+  "license": "PD",
+  "year": 1931
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-photoelectric-effect",
+  "topic": "science",
+  "title": "Фотоэффект",
+  "caption": "Эйнштейн, 1905. Свет — кванты (фотоны). За это и получил Нобель в 1921. Базис фотодиодов, солнечных батарей, ЖК-дисплеев.",
+  "image": "fact-science-photoelectric-effect.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Схема фотоэффекта",
+  "credit": "Ponor · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Photoelectric_effect",
+  "license": "CC-BY-SA",
+  "year": 1905
+}

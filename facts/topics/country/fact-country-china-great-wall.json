@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-china-great-wall",
+  "topic": "country",
+  "title": "Китай · Великая стена",
+  "caption": "Общая длина всех ветвей — 21 196 км. Строилась 2000 лет, с VII века до н.э. до XVII века. Из космоса видна — миф.",
+  "image": "fact-country-china-great-wall.webp",
+  "image_width": 1280,
+  "image_height": 850,
+  "alt": "Великая Китайская стена",
+  "credit": "Severin.stalder · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+  "license": "CC-BY-SA",
+  "year": 2013,
+  "meta": {
+    "country_code": "CN"
+  }
+}

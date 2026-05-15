@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-hummingbird",
+  "topic": "nature",
+  "title": "Колибри",
+  "caption": "Машет крыльями 80 раз в секунду, пульс — 1200 ударов/мин. Единственная птица, умеющая летать назад. Самые мелкие — 1,8 г, 5 см.",
+  "image": "fact-nature-hummingbird.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Колибри в полёте у цветка",
+  "credit": "Charles J. Sharp · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Hummingbird",
+  "license": "CC-BY-SA",
+  "year": 2014
+}

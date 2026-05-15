@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-bronze",
+  "topic": "materials",
+  "title": "Бронза",
+  "caption": "Сплав меди и олова, 88%/12%. Дал имя эпохе с 3300 до н.э. Прочнее меди в 3 раза, плавится при 950 °C.",
+  "image": "fact-materials-bronze.webp",
+  "image_width": 1280,
+  "image_height": 1428,
+  "alt": "Бронзовое изделие",
+  "credit": "This file was donated to Wikimedia Commons as part of a project by the Metropoli",
+  "source": "https://en.wikipedia.org/wiki/Bronze",
+  "license": "CC0",
+  "year": -3300
+}

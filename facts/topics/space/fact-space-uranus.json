@@ -1,0 +1,17 @@
+{
+  "id": "fact-space-uranus",
+  "topic": "space",
+  "title": "Уран",
+  "caption": "Открыт Гершелем в 1781 — первая планета, найденная телескопом. Лежит на боку — наклон 98°. Ось — почти в плоскости орбиты.",
+  "image": "fact-space-uranus.webp",
+  "image_width": 830,
+  "image_height": 830,
+  "alt": "Уран в видимом спектре",
+  "credit": "Ardenau4 · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Uranus",
+  "license": "CC0",
+  "year": 1781,
+  "meta": {
+    "body": "Uranus"
+  }
+}

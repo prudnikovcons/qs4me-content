@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-italy-florence",
+  "topic": "country",
+  "title": "Италия · Флоренция",
+  "caption": "Колыбель Возрождения. Купол Брунеллески (1436) — 45 м диаметра, 4 млн кирпичей. Найден способ строить без лесов.",
+  "image": "fact-country-italy-florence.webp",
+  "image_width": 1280,
+  "image_height": 854,
+  "alt": "Купол Брунеллески во Флоренции",
+  "credit": "Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Florence",
+  "license": "CC-BY-SA",
+  "year": 1436,
+  "meta": {
+    "country_code": "IT"
+  }
+}

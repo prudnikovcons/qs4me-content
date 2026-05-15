@@ -1,0 +1,17 @@
+{
+  "id": "fact-art-last-supper",
+  "topic": "art",
+  "title": "Тайная вечеря",
+  "caption": "Леонардо да Винчи, 1495–1498, фреска 460×880 см в Милане. Эксперимент с темперой по сухой штукатурке — начала осыпаться через 50 лет.",
+  "image": "fact-art-last-supper.webp",
+  "image_width": 1280,
+  "image_height": 640,
+  "alt": "«Тайная вечеря» Леонардо",
+  "credit": "Leonardo da Vinci · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)",
+  "license": "PD",
+  "year": 1498,
+  "meta": {
+    "artist": "Leonardo da Vinci"
+  }
+}

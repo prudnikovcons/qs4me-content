@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-relativity",
+  "topic": "science",
+  "title": "Теория относительности",
+  "caption": "Специальная — Эйнштейн, 1905. Общая — 1915. E = mc². Время замедляется на скорости, гравитация искривляет пространство-время.",
+  "image": "fact-science-relativity.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Иллюстрация искривления пространства-времени",
+  "credit": "Simulating eXtreme Spacetimes Lensing (SXS) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Theory_of_relativity",
+  "license": "CC-BY-SA",
+  "year": 1915
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-wine",
+  "topic": "food",
+  "title": "Вино",
+  "caption": "Древнейший след — Грузия, 6000 до н.э. Франция — крупнейший экспортёр, Италия — производитель. Bordeaux 1787 продано за $156 000 в 1985.",
+  "image": "fact-food-wine.webp",
+  "image_width": 829,
+  "image_height": 800,
+  "alt": "Бокал красного вина",
+  "credit": "André Karwath · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Wine",
+  "license": "CC-BY-SA",
+  "year": -6000
+}

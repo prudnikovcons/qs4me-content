@@ -1,0 +1,13 @@
+{
+  "id": "fact-food-honey",
+  "topic": "food",
+  "title": "Мёд",
+  "caption": "Археологи нашли мёд в гробнице фараона — съедобен через 3000 лет. Не портится — высокая концентрация сахара (80%), низкая воды (17%).",
+  "image": "fact-food-honey.webp",
+  "image_width": 1280,
+  "image_height": 1942,
+  "alt": "Соты с мёдом",
+  "credit": "Scott Bauer, USDA ARS · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Honey",
+  "license": "PD"
+}

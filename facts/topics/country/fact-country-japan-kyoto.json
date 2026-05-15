@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-japan-kyoto",
+  "topic": "country",
+  "title": "Япония · Киото",
+  "caption": "Столица Японии 1100 лет (794–1868). 1600 буддистских храмов, 400 синтоистских. В 1945 США исключили из списка целей атомной бомбы.",
+  "image": "fact-country-japan-kyoto.webp",
+  "image_width": 1280,
+  "image_height": 854,
+  "alt": "Храмы Киото",
+  "credit": "Jordy Meow · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Kyoto",
+  "license": "CC-BY-SA",
+  "year": 794,
+  "meta": {
+    "country_code": "JP"
+  }
+}

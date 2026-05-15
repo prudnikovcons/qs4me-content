@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-great-barrier-reef",
+  "topic": "nature",
+  "title": "Большой Барьерный риф",
+  "caption": "2300 км вдоль восточной Австралии — самая большая структура из живых организмов. Виден из космоса. С 1985 потерял 50% кораллов.",
+  "image": "fact-nature-great-barrier-reef.webp",
+  "image_width": 1280,
+  "image_height": 852,
+  "alt": "Большой Барьерный риф с воздуха",
+  "credit": "NASA/Kjell Lindgren · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+  "license": "PD",
+  "year": 2015,
+  "meta": {
+    "country_code": "AU"
+  }
+}

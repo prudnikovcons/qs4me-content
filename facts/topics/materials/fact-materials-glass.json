@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-glass",
+  "topic": "materials",
+  "title": "Стекло",
+  "caption": "Известно с 3500 до н.э. в Месопотамии. Венецианское стекло — секрет хранили 600 лет, мастеров не выпускали из Мурано.",
+  "image": "fact-materials-glass.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Венецианское стекло",
+  "credit": "Ansgar Koreng · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Glass",
+  "license": "CC-BY",
+  "year": 2016
+}

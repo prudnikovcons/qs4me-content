@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-teflon",
+  "topic": "materials",
+  "title": "Тефлон",
+  "caption": "PTFE, открыт случайно Plunkett в 1938. Коэффициент трения 0,05 — почти лёд. Сковородки с 1954, не пристаёт ничего.",
+  "image": "fact-materials-teflon.webp",
+  "image_width": 1280,
+  "image_height": 1120,
+  "alt": "Сковорода с тефлоновым покрытием",
+  "credit": "Vectorization: Alhadis · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Polytetrafluoroethylene",
+  "license": "PD",
+  "year": 1938
+}

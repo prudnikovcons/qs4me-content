@@ -1,0 +1,17 @@
+{
+  "id": "fact-quote-twain",
+  "topic": "quote",
+  "title": "Марк Твен",
+  "caption": "1835–1910. Родился и умер в годы пролёта кометы Галлея (76 лет). Псевдоним — крик лоцманов «mark twain!» (2 сажени).",
+  "image": "fact-quote-twain.webp",
+  "image_width": 756,
+  "image_height": 1061,
+  "alt": "Марк Твен",
+  "credit": "A.F. Bradley, New York · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mark_Twain",
+  "license": "PD",
+  "year": 1907,
+  "meta": {
+    "lifespan": "1835-1910"
+  }
+}

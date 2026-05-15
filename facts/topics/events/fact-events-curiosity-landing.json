@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-curiosity-landing",
+  "topic": "events",
+  "title": "Curiosity на Марсе",
+  "caption": "Марсоход NASA, посадка 6 августа 2012. Спуск через атмосферу — 7 минут ужаса. Уровень радиации — 1,8 миллизиверт/день.",
+  "image": "fact-events-curiosity-landing.webp",
+  "image_width": 1280,
+  "image_height": 1764,
+  "alt": "Марсоход Curiosity",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Curiosity_(rover)",
+  "license": "PD",
+  "year": 2012
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-solar-eclipse",
+  "topic": "space",
+  "title": "Солнечное затмение",
+  "caption": "Луна точно покрывает Солнце — Солнце в 400 раз дальше и в 400 раз больше. Полное затмение — раз в 18 месяцев где-то на Земле.",
+  "image": "fact-space-solar-eclipse.webp",
+  "image_width": 1280,
+  "image_height": 1261,
+  "alt": "Солнечное затмение",
+  "credit": "Luc Viatour · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Solar_eclipse",
+  "license": "CC-BY-SA",
+  "year": 1999
+}

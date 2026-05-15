@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-mandelbrot",
+  "topic": "math",
+  "title": "Множество Мандельброта",
+  "caption": "Фрактал, открытый Бенуа Мандельбротом в 1980. Бесконечная самоподобная граница на конечной площади ~1,506.",
+  "image": "fact-math-mandelbrot.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Множество Мандельброта",
+  "credit": "Created by Wolfgang Beyer with the program Ultra Fractal 3. · CC-BY-SA · Wikimed",
+  "source": "https://en.wikipedia.org/wiki/Mandelbrot_set",
+  "license": "CC-BY-SA",
+  "year": 1980
+}

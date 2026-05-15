@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-sloth",
+  "topic": "nature",
+  "title": "Ленивец",
+  "caption": "Самое медленное млекопитающее — 0,24 км/ч. Спит 15–20 часов в сутки. Пища переваривается до 30 дней — медленнее всех млекопитающих.",
+  "image": "fact-nature-sloth.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Ленивец на ветке",
+  "credit": "Daniella Maraschiello · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Sloth",
+  "license": "CC-BY-SA",
+  "year": 2019
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-pi",
+  "topic": "math",
+  "title": "Число π",
+  "caption": "Отношение длины окружности к диаметру. Иррационально и трансцендентно. В 2024 вычислено 202 трлн знаков после запятой.",
+  "image": "fact-math-pi.webp",
+  "image_width": 1280,
+  "image_height": 1238,
+  "alt": "Символ π и окружность",
+  "credit": "MarianSigler {} · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pi",
+  "license": "PD",
+  "year": 2006
+}

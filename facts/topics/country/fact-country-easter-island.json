@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-easter-island",
+  "topic": "country",
+  "title": "Чили · остров Пасхи",
+  "caption": "Рапа-Нуи в Тихом, 3500 км от Чили. 887 каменных статуй моаи, до 10 м и 86 тонн. Создавались 1100–1600 годами н.э.",
+  "image": "fact-country-easter-island.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Статуи моаи на острове Пасхи",
+  "credit": "kallerna · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Easter_Island",
+  "license": "CC-BY-SA",
+  "year": 1600,
+  "meta": {
+    "country_code": "CL"
+  }
+}

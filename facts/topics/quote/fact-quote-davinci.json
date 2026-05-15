@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-davinci",
+  "topic": "quote",
+  "title": "Леонардо да Винчи",
+  "caption": "1452–1519. Художник, инженер, анатом. В записях — чертежи парашюта, вертолёта, танка за 400 лет до их появления.",
+  "image": "fact-quote-davinci.webp",
+  "image_width": 1280,
+  "image_height": 1833,
+  "alt": "Автопортрет да Винчи",
+  "credit": "Attributed to Francesco Melzi · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+  "license": "PD",
+  "year": 1490
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-music-beatles",
+  "topic": "music",
+  "title": "The Beatles",
+  "caption": "Ливерпуль, 1960–1970. 600 млн альбомов продано. 20 № 1 в Billboard Hot 100 — рекорд. Распались на пике популярности в 1970.",
+  "image": "fact-music-beatles.webp",
+  "image_width": 1280,
+  "image_height": 996,
+  "alt": "Битлз — Abbey Road переход",
+  "credit": "Dezo Hoffmann, Distributed by Capitol Records · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/The_Beatles",
+  "license": "PD",
+  "year": 1970
+}

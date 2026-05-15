@@ -1,0 +1,17 @@
+{
+  "id": "fact-economy-us-dollar",
+  "topic": "economy",
+  "title": "Доллар США",
+  "caption": "Введён в 1792, привязан к серебру. С 1971 — фиатный. Мировая резервная валюта — 58% золотовалютных резервов центробанков на 2024.",
+  "image": "fact-economy-us-dollar.webp",
+  "image_width": 1280,
+  "image_height": 1116,
+  "alt": "Долларовые купюры",
+  "credit": "US Federal Reserve · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/United_States_dollar",
+  "license": "PD",
+  "year": 1792,
+  "meta": {
+    "country_code": "US"
+  }
+}

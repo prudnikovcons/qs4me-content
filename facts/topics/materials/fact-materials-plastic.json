@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-plastic",
+  "topic": "materials",
+  "title": "Пластик",
+  "caption": "Первый синтетический — бакелит, Бельгия 1907. Сегодня 400 млн тонн/год, всего произведено 9 млрд тонн с 1950-х.",
+  "image": "fact-materials-plastic.webp",
+  "image_width": 601,
+  "image_height": 400,
+  "alt": "Гранулы пластика",
+  "credit": "ImGz · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Plastic",
+  "license": "CC-BY-SA",
+  "year": 1907
+}

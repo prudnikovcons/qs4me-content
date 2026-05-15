@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-edison",
+  "topic": "quote",
+  "title": "Томас Эдисон",
+  "caption": "1847–1931. 1093 патента. Создал первую промышленную лабораторию в Менло-Парк, 1876. «Война токов» с Теслой — проиграл переменному.",
+  "image": "fact-quote-edison.webp",
+  "image_width": 1280,
+  "image_height": 1638,
+  "alt": "Томас Эдисон",
+  "credit": "Louis Bachrach, Bachrach Studios, restored by Michel Vuijlsteke · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Edison",
+  "license": "PD",
+  "year": 1876
+}

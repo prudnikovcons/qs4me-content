@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-iss-launch",
+  "topic": "events",
+  "title": "Запуск МКС",
+  "caption": "20 ноября 1998 — российский модуль «Заря». 400 км над Землёй. С 2000 года непрерывно обитаема — 25+ лет в космосе.",
+  "image": "fact-events-iss-launch.webp",
+  "image_width": 1280,
+  "image_height": 851,
+  "alt": "МКС над Землёй",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/International_Space_Station",
+  "license": "PD",
+  "year": 1998
+}

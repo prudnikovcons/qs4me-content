@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-rice",
+  "topic": "food",
+  "title": "Рис",
+  "caption": "Основной продукт для 3,5 млрд человек. 8000 лет окультурен в Китае. 200+ видов. Производство — 520 млн тонн/год.",
+  "image": "fact-food-rice.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Рисовая чашка",
+  "credit": "China News Service · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Rice",
+  "license": "CC-BY",
+  "year": 2020
+}

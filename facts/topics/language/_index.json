@@ -1,5 +1,15 @@
 [
+  "fact-language-arabic",
+  "fact-language-cuneiform",
   "fact-language-cyrillic",
+  "fact-language-devanagari",
   "fact-language-esperanto",
-  "fact-language-sanskrit"
+  "fact-language-hangul",
+  "fact-language-hebrew",
+  "fact-language-japanese-kanji",
+  "fact-language-latin",
+  "fact-language-mandarin",
+  "fact-language-runes",
+  "fact-language-sanskrit",
+  "fact-language-sign"
 ]

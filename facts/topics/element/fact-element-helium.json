@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-helium",
+  "topic": "element",
+  "title": "Гелий · He (2)",
+  "caption": "He, 2-й элемент. Открыт на Солнце в 1868 — за 27 лет до Земли (1895). Не замерзает даже при 0 К без давления.",
+  "image": "fact-element-helium.webp",
+  "image_width": 1280,
+  "image_height": 1285,
+  "alt": "Гелиевые шары",
+  "credit": "User:Yzmo · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Helium",
+  "license": "CC-BY-SA",
+  "year": 1868,
+  "meta": {
+    "atomic_number": 2,
+    "symbol": "He"
+  }
+}

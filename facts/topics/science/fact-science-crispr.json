@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-crispr",
+  "topic": "science",
+  "title": "CRISPR-Cas9",
+  "caption": "Технология редактирования генов, Дудна и Шарпантье, 2012. Нобель по химии 2020. Стоит в 100 раз дешевле прежних методов.",
+  "image": "fact-science-crispr.webp",
+  "image_width": 1280,
+  "image_height": 852,
+  "alt": "Иллюстрация CRISPR",
+  "credit": "Boghog · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/CRISPR",
+  "license": "CC-BY-SA",
+  "year": 2012
+}

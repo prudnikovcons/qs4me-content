@@ -1,0 +1,14 @@
+{
+  "id": "fact-economy-big-mac-index",
+  "topic": "economy",
+  "title": "Индекс Биг-Мака",
+  "caption": "The Economist, 1986. Сравнение валют через цену Биг-Мака. В Швейцарии — $7,76, в США — $5,69, в Турции — $3,18 (2024).",
+  "image": "fact-economy-big-mac-index.webp",
+  "image_width": 1280,
+  "image_height": 967,
+  "alt": "Биг-Мак",
+  "credit": "CashNetUsa · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Big_Mac_Index",
+  "license": "CC-BY-SA",
+  "year": 1986
+}

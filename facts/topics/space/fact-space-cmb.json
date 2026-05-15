@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-cmb",
+  "topic": "space",
+  "title": "Реликтовое излучение",
+  "caption": "Свет от Большого взрыва, 380 000 лет после. Температура 2,725 К. Карта неоднородностей COBE/WMAP/Planck (1992–2013) — фото детства Вселенной.",
+  "image": "fact-space-cmb.webp",
+  "image_width": 1280,
+  "image_height": 640,
+  "alt": "Карта реликтового излучения Planck",
+  "credit": "ESA and the Planck Collaboration · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+  "license": "CC-BY",
+  "year": 2013
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-hilbert",
+  "topic": "math",
+  "title": "23 проблемы Гильберта",
+  "caption": "Давид Гильберт, ICM 1900 в Париже. 23 задачи, формирующие математику XX века. К 2024 решены 16, 7 — частично или не решены.",
+  "image": "fact-math-hilbert.webp",
+  "image_width": 437,
+  "image_height": 592,
+  "alt": "Давид Гильберт",
+  "credit": "Unknown authorUnknown author · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Hilbert's_problems",
+  "license": "PD",
+  "year": 1900
+}

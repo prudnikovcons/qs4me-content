@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-concrete",
+  "topic": "materials",
+  "title": "Бетон",
+  "caption": "Самый используемый материал после воды — 30 млрд тонн/год. Римский бетон Колизея простоял 2000 лет благодаря пуццолану.",
+  "image": "fact-materials-concrete.webp",
+  "image_width": 751,
+  "image_height": 564,
+  "alt": "Заливка бетона",
+  "credit": "Ablazejo · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Concrete",
+  "license": "CC-BY-SA",
+  "year": 2014
+}

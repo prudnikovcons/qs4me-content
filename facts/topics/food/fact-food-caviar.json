@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-caviar",
+  "topic": "food",
+  "title": "Икра белуги",
+  "caption": "Икра белуги — $35 000/кг. Белуга живёт 100 лет, метать икру начинает с 20. 1 рыба — 8 кг икры. Сегодня вид на грани вымирания.",
+  "image": "fact-food-caviar.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Чёрная икра белуги",
+  "credit": "THOR · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Caviar",
+  "license": "CC-BY",
+  "year": 2010
+}

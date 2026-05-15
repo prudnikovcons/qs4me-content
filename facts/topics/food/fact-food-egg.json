@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-egg",
+  "topic": "food",
+  "title": "Яйцо",
+  "caption": "Мировое потребление — 87 миллионов тонн/год. Курица несёт ~280 яиц в год. Скорлупа — 17 000 пор, через которые яйцо «дышит».",
+  "image": "fact-food-egg.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Куриные яйца",
+  "credit": "Horacio Cambeiro · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Egg_as_food",
+  "license": "CC-BY-SA",
+  "year": 2025
+}

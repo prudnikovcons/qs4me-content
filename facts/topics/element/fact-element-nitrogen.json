@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-nitrogen",
+  "topic": "element",
+  "title": "Азот · N (7)",
+  "caption": "N, 7-й элемент. 78% атмосферы Земли. Молекулярный N2 настолько инертен — биосфера не может его связывать без бактерий.",
+  "image": "fact-element-nitrogen.webp",
+  "image_width": 1280,
+  "image_height": 1920,
+  "alt": "Жидкий азот в дьюаре",
+  "credit": "Robin Müller · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Nitrogen",
+  "license": "CC-BY-SA",
+  "year": 2011,
+  "meta": {
+    "atomic_number": 7,
+    "symbol": "N"
+  }
+}

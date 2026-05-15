@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-emperor-penguin",
+  "topic": "nature",
+  "title": "Императорский пингвин",
+  "caption": "До 120 см, 45 кг. Самцы 2 месяца держат яйцо на лапах в −50 °C, теряя 45% веса. Ныряют на 565 м — рекорд среди птиц.",
+  "image": "fact-nature-emperor-penguin.webp",
+  "image_width": 872,
+  "image_height": 1400,
+  "alt": "Императорский пингвин с птенцом",
+  "credit": "Ian Duffy from UK · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Emperor_penguin",
+  "license": "CC-BY",
+  "year": 2009,
+  "meta": {
+    "species": "Aptenodytes forsteri"
+  }
+}

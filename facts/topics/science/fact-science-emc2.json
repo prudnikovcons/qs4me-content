@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-emc2",
+  "topic": "science",
+  "title": "E = mc²",
+  "caption": "Эйнштейн, 1905. Энергия равна массе на квадрат скорости света. 1 г вещества = 9×10¹³ Дж = энергия Хиросимы.",
+  "image": "fact-science-emc2.webp",
+  "image_width": 1222,
+  "image_height": 1276,
+  "alt": "Формула E=mc²",
+  "credit": "NASA and The Hubble Heritage Team (STScI/AURA) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence",
+  "license": "PD",
+  "year": 1905
+}

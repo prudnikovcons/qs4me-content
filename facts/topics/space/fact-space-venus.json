@@ -1,0 +1,17 @@
+{
+  "id": "fact-space-venus",
+  "topic": "space",
+  "title": "Венера",
+  "caption": "Самая горячая планета — 462 °C даже ночью. Атмосфера на 96% из CO₂, давление 92 атмосферы. Сутки длиннее года: 243 vs 225 дней.",
+  "image": "fact-space-venus.webp",
+  "image_width": 1000,
+  "image_height": 1024,
+  "alt": "Венера в УФ-диапазоне",
+  "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of",
+  "source": "https://en.wikipedia.org/wiki/Venus",
+  "license": "PD",
+  "year": 2007,
+  "meta": {
+    "body": "Venus"
+  }
+}

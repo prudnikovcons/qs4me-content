@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-paper",
+  "topic": "materials",
+  "title": "Бумага",
+  "caption": "Изобретена Цай Лунем в Китае 105 года н.э. До этого писали на папирусе и пергаменте. Сегодня — 400 млн тонн в год.",
+  "image": "fact-materials-paper.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Рулоны бумаги",
+  "credit": "Meganbeckett27 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Paper",
+  "license": "CC-BY-SA",
+  "year": 105
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-tea",
+  "topic": "food",
+  "title": "Чай",
+  "caption": "Второй после воды самый потребляемый напиток мира. Открыт в Китае в 2737 до н.э. (по легенде). Сегодня — 6,7 млрд кг/год.",
+  "image": "fact-food-tea.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Чайные листья и чашка",
+  "credit": "Difference engine · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Tea",
+  "license": "CC-BY-SA",
+  "year": 2017
+}

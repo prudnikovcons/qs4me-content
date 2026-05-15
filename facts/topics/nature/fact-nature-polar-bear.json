@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-polar-bear",
+  "topic": "nature",
+  "title": "Белый медведь",
+  "caption": "Крупнейший наземный хищник — до 800 кг. Шерсть прозрачная, кожа чёрная. Чувствует тюленя за 1 км через 1 м льда.",
+  "image": "fact-nature-polar-bear.webp",
+  "image_width": 563,
+  "image_height": 565,
+  "alt": "Белый медведь на льду",
+  "credit": "Alan Wilson · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Polar_bear",
+  "license": "CC-BY-SA",
+  "year": 2007,
+  "meta": {
+    "species": "Ursus maritimus"
+  }
+}

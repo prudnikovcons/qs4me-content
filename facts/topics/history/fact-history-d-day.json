@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-d-day",
+  "topic": "history",
+  "title": "День Д",
+  "caption": "6 июня 1944. Высадка союзников в Нормандии — крупнейшая морская десантная операция. 156 000 солдат, 4400 жертв в день.",
+  "image": "fact-history-d-day.webp",
+  "image_width": 1280,
+  "image_height": 1030,
+  "alt": "Высадка союзников в Нормандии",
+  "credit": "Chief Photographer's Mate (CPHoM) Robert F. Sargent · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Normandy_landings",
+  "license": "PD",
+  "year": 1944
+}

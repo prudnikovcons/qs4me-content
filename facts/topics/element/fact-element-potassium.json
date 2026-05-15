@@ -1,0 +1,17 @@
+{
+  "id": "fact-element-potassium",
+  "topic": "element",
+  "title": "Калий · K (19)",
+  "caption": "K, 19-й элемент. От арабского «al-qali» — щёлочь. Радиоактивен (K-40) — банан с 0,4 г калия даёт 15 беккерель.",
+  "image": "fact-element-potassium.webp",
+  "image_width": 481,
+  "image_height": 394,
+  "alt": "Металлический калий под маслом",
+  "credit": "Unknown authorUnknown author · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Potassium",
+  "license": "CC-BY",
+  "meta": {
+    "atomic_number": 19,
+    "symbol": "K"
+  }
+}

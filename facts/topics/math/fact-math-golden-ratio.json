@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-golden-ratio",
+  "topic": "math",
+  "title": "Золотое сечение · φ",
+  "caption": "φ = 1,618... Отношение, при котором (a+b)/a = a/b. Встречается в раковинах, подсолнухах, спирали галактик.",
+  "image": "fact-math-golden-ratio.webp",
+  "image_width": 1280,
+  "image_height": 740,
+  "alt": "Золотая спираль на квадратах Фибоначчи",
+  "credit": "Traced by Stannered · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Golden_ratio",
+  "license": "PD",
+  "year": 2007
+}

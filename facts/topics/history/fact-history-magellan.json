@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-magellan",
+  "topic": "history",
+  "title": "Кругосветка Магеллана",
+  "caption": "Экспедиция Магеллана 1519–1522. Первое кругосветное плавание. Магеллан убит на Филиппинах в 1521. Из 270 человек вернулись 18.",
+  "image": "fact-history-magellan.webp",
+  "image_width": 1280,
+  "image_height": 781,
+  "alt": "Карта кругосветного пути Магеллана",
+  "credit": "Abraham Ortelius · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Magellan_expedition",
+  "license": "PD",
+  "year": 1522
+}

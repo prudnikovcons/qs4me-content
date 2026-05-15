@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-us-independence",
+  "topic": "events",
+  "title": "День независимости США",
+  "caption": "Декларация подписана 4 июля 1776 в Филадельфии. 56 подписантов рисковали повешением. Только 38% колонистов поддерживали отделение.",
+  "image": "fact-events-us-independence.webp",
+  "image_width": 1280,
+  "image_height": 1519,
+  "alt": "Декларация независимости США",
+  "credit": "original: w:Second Continental Congress; reproduction: William Stone · PD · Wiki",
+  "source": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+  "license": "PD",
+  "year": 1776
+}

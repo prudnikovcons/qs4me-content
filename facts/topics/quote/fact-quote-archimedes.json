@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-archimedes",
+  "topic": "quote",
+  "title": "Архимед",
+  "caption": "287–212 до н.э. Открыл закон вытеснения в ванне («Эврика!»). Убит римским солдатом во время осады Сиракуз в 212 до н.э.",
+  "image": "fact-quote-archimedes.webp",
+  "image_width": 1280,
+  "image_height": 1706,
+  "alt": "Бюст Архимеда",
+  "credit": "Domenico Fetti · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Archimedes",
+  "license": "PD",
+  "year": -212
+}

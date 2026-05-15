@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-steel",
+  "topic": "materials",
+  "title": "Сталь",
+  "caption": "Сплав железа с углеродом (0,02–2,1%). 1,9 млрд тонн в год — больше всех остальных металлов вместе. Появилась ~1800 до н.э.",
+  "image": "fact-materials-steel.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Стальные балки",
+  "credit": "ArcelorMittal Kryvyi Rih · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Steel",
+  "license": "CC-BY-SA",
+  "year": 2016
+}

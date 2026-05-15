@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-russian-revolution",
+  "topic": "history",
+  "title": "Октябрьская революция",
+  "caption": "Штурм Зимнего дворца 25–26 октября 1917 (7–8 ноября н.ст.). Большевики свергли Временное правительство. СССР существовал 69 лет.",
+  "image": "fact-history-russian-revolution.webp",
+  "image_width": 800,
+  "image_height": 591,
+  "alt": "Зимний дворец в Петрограде",
+  "credit": "Pyotr Novitsky · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/October_Revolution",
+  "license": "PD",
+  "year": 1917
+}

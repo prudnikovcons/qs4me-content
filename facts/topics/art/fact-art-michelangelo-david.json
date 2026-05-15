@@ -1,0 +1,17 @@
+{
+  "id": "fact-art-michelangelo-david",
+  "topic": "art",
+  "title": "Давид · Микеланджело",
+  "caption": "Микеланджело, 1501–1504. Мрамор 5,17 м. Из одного блока, который другие скульпторы 25 лет считали испорченным.",
+  "image": "fact-art-michelangelo-david.webp",
+  "image_width": 1280,
+  "image_height": 1920,
+  "alt": "«Давид» Микеланджело",
+  "credit": "Jörg Bittner Unna · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/David_(Michelangelo)",
+  "license": "CC-BY",
+  "year": 1504,
+  "meta": {
+    "artist": "Michelangelo"
+  }
+}

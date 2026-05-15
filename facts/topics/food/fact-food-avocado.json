@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-avocado",
+  "topic": "food",
+  "title": "Авокадо",
+  "caption": "Ягода с одной косточкой. Мексика — 30% мирового производства, 2,4 млн тонн/год. Не может опылиться без дерева-партнёра поблизости.",
+  "image": "fact-food-avocado.webp",
+  "image_width": 1280,
+  "image_height": 1601,
+  "alt": "Разрезанное авокадо",
+  "credit": "B.navez · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Avocado",
+  "license": "CC-BY-SA",
+  "year": 2008
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-titanium",
+  "topic": "element",
+  "title": "Титан · Ti (22)",
+  "caption": "Ti, 22-й элемент. В 2 раза легче стали, прочнее некоторых её сплавов. SR-71 Blackbird на 92% из титана — летал на Маха 3,3.",
+  "image": "fact-element-titanium.webp",
+  "image_width": 1280,
+  "image_height": 804,
+  "alt": "Слиток титана",
+  "credit": "Alchemist-hp (pse-mendelejew.de) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Titanium",
+  "license": "CC-BY-SA",
+  "year": 2009,
+  "meta": {
+    "atomic_number": 22,
+    "symbol": "Ti"
+  }
+}

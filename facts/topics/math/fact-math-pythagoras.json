@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-pythagoras",
+  "topic": "math",
+  "title": "Теорема Пифагора",
+  "caption": "a² + b² = c² для прямоугольного треугольника. Известна вавилонянам за 1000 лет до Пифагора (~570–495 до н.э.).",
+  "image": "fact-math-pythagoras.webp",
+  "image_width": 1280,
+  "image_height": 1166,
+  "alt": "Диаграмма теоремы Пифагора",
+  "credit": "en:User:Wapcaplet · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
+  "license": "CC-BY-SA",
+  "year": -540
+}

@@ -93,9 +93,11 @@ function normalizeLicense(short, raw) {
   if (!s) return null;
   if (s.includes("cc0") || s.includes("creative-commons-zero")) return "CC0";
   if (s.includes("public-domain") || s === "pd" || s.startsWith("pd-")) return "PD";
+  if (s.includes("copyrighted-free-use") || s === "free-use" || s === "no-rights-reserved") return "PD";
+  if (s.includes("cc-by-nc")) return "CC-BY-NC";
   if (s.includes("cc-by-sa") || s.includes("cc-by-sa-")) return "CC-BY-SA";
   if (s.startsWith("cc-by") || s.includes("cc-by-") || s === "cc-by") return "CC-BY";
-  if (s.includes("cc-by-nc")) return "CC-BY-NC";
+  if (s === "attribution" || s === "attribution-only") return "CC-BY";
   if (s.includes("fair")) return "fair-use";
   return null;
 }

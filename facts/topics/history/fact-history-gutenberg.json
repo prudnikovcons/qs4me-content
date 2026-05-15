@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-gutenberg",
+  "topic": "history",
+  "title": "Библия Гутенберга",
+  "caption": "Иоганн Гутенберг, Майнц, 1455. Первая книга, напечатанная с подвижного шрифта в Европе. Тираж ~180 копий, сохранилось 49.",
+  "image": "fact-history-gutenberg.webp",
+  "image_width": 1280,
+  "image_height": 800,
+  "alt": "Страница Библии Гутенберга",
+  "credit": "NYC Wanderer (Kevin Eng) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Gutenberg_Bible",
+  "license": "CC-BY-SA",
+  "year": 1455
+}

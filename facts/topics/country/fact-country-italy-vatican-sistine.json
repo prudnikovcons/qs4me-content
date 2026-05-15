@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-italy-vatican-sistine",
+  "topic": "country",
+  "title": "Ватикан · Сикстинская капелла",
+  "caption": "Капелла построена 1473–1481 при папе Сиксте IV. Здесь проходят конклавы — 268 пап избраны за 500 лет. Чёрный или белый дым из трубы.",
+  "image": "fact-country-italy-vatican-sistine.webp",
+  "image_width": 782,
+  "image_height": 1062,
+  "alt": "Внутри Сикстинской капеллы",
+  "credit": "The original uploader was Snowdog at Italian Wikipedia. · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Sistine_Chapel",
+  "license": "CC-BY-SA",
+  "year": 1481,
+  "meta": {
+    "country_code": "VA"
+  }
+}

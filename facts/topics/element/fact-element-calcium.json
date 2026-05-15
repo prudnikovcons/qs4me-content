@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-calcium",
+  "topic": "element",
+  "title": "Кальций · Ca (20)",
+  "caption": "Ca, 20-й элемент. 1,5% веса человека — в основном в костях. 1 кг кальция в среднем взрослом, 99% в скелете и зубах.",
+  "image": "fact-element-calcium.webp",
+  "image_width": 1280,
+  "image_height": 841,
+  "alt": "Гранулы металлического кальция",
+  "credit": "Matthias Zepper · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Calcium",
+  "license": "PD",
+  "year": 2007,
+  "meta": {
+    "atomic_number": 20,
+    "symbol": "Ca"
+  }
+}

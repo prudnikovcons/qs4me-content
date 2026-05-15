@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-amazon-rainforest",
+  "topic": "nature",
+  "title": "Амазония",
+  "caption": "Крупнейший дождевой лес — 5,5 млн км². 10% всех известных видов Земли. Производит 6% кислорода планеты, не 20% (миф).",
+  "image": "fact-nature-amazon-rainforest.webp",
+  "image_width": 1280,
+  "image_height": 850,
+  "alt": "Амазонский лес с воздуха",
+  "credit": "CIAT · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+  "license": "CC-BY-SA",
+  "year": 2011
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-jwst",
+  "topic": "space",
+  "title": "Телескоп Уэбба",
+  "caption": "James Webb. Запуск 25 декабря 2021, в точке Лагранжа L2 (1,5 млн км от Земли). Зеркало 6,5 м. Видит инфракрасный спектр — далее, чем Hubble.",
+  "image": "fact-space-jwst.webp",
+  "image_width": 775,
+  "image_height": 664,
+  "alt": "Телескоп Джеймс Уэбб в космосе",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+  "license": "PD",
+  "year": 2021
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-galapagos-tortoise",
+  "topic": "nature",
+  "title": "Галапагосская черепаха",
+  "caption": "Крупнейшая сухопутная черепаха — до 250 кг. Живёт 150+ лет. На неё опирался Дарвин в теории эволюции на «Бигле» в 1835.",
+  "image": "fact-nature-galapagos-tortoise.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Галапагосская черепаха",
+  "credit": "Mfield, Matthew Field, http://www.photography.mattfield.com · CC-BY-SA · Wikimed",
+  "source": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_tortoise",
+  "license": "CC-BY-SA",
+  "year": 1835,
+  "meta": {
+    "species": "Chelonoidis nigra"
+  }
+}

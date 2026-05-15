@@ -1,0 +1,17 @@
+{
+  "id": "fact-ratings-la-paz",
+  "topic": "ratings",
+  "title": "Ла-Пас · 3640 м",
+  "caption": "Самая высокогорная столица мира — 3640 м над уровнем моря, Боливия. Аэропорт Эль-Альто на 4061 м — второй в мире по высоте.",
+  "image": "fact-ratings-la-paz.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Ла-Пас в Андах",
+  "credit": "Parallelepiped09 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/La_Paz",
+  "license": "CC-BY-SA",
+  "year": 2025,
+  "meta": {
+    "country_code": "BO"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-language-hangul",
+  "topic": "language",
+  "title": "Хангыль",
+  "caption": "Корейский алфавит, создан королём Сечжоном в 1443. 24 буквы. Единственный алфавит мира с известным автором и датой.",
+  "image": "fact-language-hangul.webp",
+  "image_width": 1280,
+  "image_height": 1097,
+  "alt": "Корейские буквы хангыль",
+  "credit": "metalslick · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Hangul",
+  "license": "CC-BY-SA",
+  "year": 1443
+}

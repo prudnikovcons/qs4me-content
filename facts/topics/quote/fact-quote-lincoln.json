@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-lincoln",
+  "topic": "quote",
+  "title": "Авраам Линкольн",
+  "caption": "1809–1865. 16-й президент США. Отменил рабство (1865, 13-я поправка). Убит в театре 14 апреля 1865, 5 дней после конца войны.",
+  "image": "fact-quote-lincoln.webp",
+  "image_width": 1280,
+  "image_height": 1707,
+  "alt": "Портрет Авраама Линкольна",
+  "credit": "Alexander Gardner · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+  "license": "PD",
+  "year": 1865
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-www",
+  "topic": "events",
+  "title": "World Wide Web",
+  "caption": "Тим Бернерс-Ли, CERN, 12 марта 1989 — proposal. Первая страница 6 августа 1991. К 2024 — 1,1 млрд сайтов, 5,4 млрд пользователей.",
+  "image": "fact-events-www.webp",
+  "image_width": 1280,
+  "image_height": 692,
+  "alt": "Первый веб-сервер NeXT",
+  "credit": "Liamd967 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "license": "CC-BY-SA",
+  "year": 1989
+}

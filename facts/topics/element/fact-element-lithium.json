@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-lithium",
+  "topic": "element",
+  "title": "Литий · Li (3)",
+  "caption": "Li, 3-й элемент. Самый лёгкий металл — плотность 0,53 г/см³, плавает в масле. В батареях смартфонов и Tesla.",
+  "image": "fact-element-lithium.webp",
+  "image_width": 1280,
+  "image_height": 1282,
+  "alt": "Литий в защитном масле",
+  "credit": "Dnn87 · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Lithium",
+  "license": "CC-BY",
+  "year": 2007,
+  "meta": {
+    "atomic_number": 3,
+    "symbol": "Li"
+  }
+}

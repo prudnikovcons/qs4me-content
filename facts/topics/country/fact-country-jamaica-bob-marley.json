@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-jamaica-bob-marley",
+  "topic": "country",
+  "title": "Ямайка · регги",
+  "caption": "Жанр родился в Кингстоне в конце 1960-х. Боб Марли (1945–1981) превратил его в мировой феномен. UNESCO нематериальное наследие с 2018.",
+  "image": "fact-country-jamaica-bob-marley.webp",
+  "image_width": 500,
+  "image_height": 744,
+  "alt": "Боб Марли",
+  "credit": "Eddie Mallin · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Reggae",
+  "license": "CC-BY",
+  "year": 2018,
+  "meta": {
+    "country_code": "JM"
+  }
+}

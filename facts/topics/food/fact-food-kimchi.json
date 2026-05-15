@@ -1,0 +1,17 @@
+{
+  "id": "fact-food-kimchi",
+  "topic": "food",
+  "title": "Кимчи",
+  "caption": "Корейская ферментированная капуста. Едят 4000 лет. UNESCO нематериальное наследие с 2013. Кореец потребляет ~36 кг в год.",
+  "image": "fact-food-kimchi.webp",
+  "image_width": 767,
+  "image_height": 511,
+  "alt": "Тарелка кимчи",
+  "credit": "국립국어원 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Kimchi",
+  "license": "CC-BY-SA",
+  "year": 2013,
+  "meta": {
+    "country_code": "KR"
+  }
+}

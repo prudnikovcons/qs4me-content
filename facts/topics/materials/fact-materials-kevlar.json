@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-kevlar",
+  "topic": "materials",
+  "title": "Кевлар",
+  "caption": "Синтетическое волокно DuPont, 1965. В 5 раз прочнее стали при той же массе. Бронежилеты, парашютные стропы, шины Формулы-1.",
+  "image": "fact-materials-kevlar.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Ткань из кевлара",
+  "credit": "Ben Mills and Jynto · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Kevlar",
+  "license": "PD",
+  "year": 1965
+}

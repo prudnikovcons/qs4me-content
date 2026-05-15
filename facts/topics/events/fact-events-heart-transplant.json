@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-heart-transplant",
+  "topic": "events",
+  "title": "Первая пересадка сердца",
+  "caption": "Кристиан Барнард, Кейптаун, 3 декабря 1967. Пациент Луи Вашкански прожил 18 дней. Сейчас выживаемость — 88% за первый год.",
+  "image": "fact-events-heart-transplant.webp",
+  "image_width": 1280,
+  "image_height": 1478,
+  "alt": "Кристиан Барнард в операционной",
+  "credit": "Vasily I. Kaleda · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Heart_transplantation",
+  "license": "CC-BY-SA",
+  "year": 1967
+}

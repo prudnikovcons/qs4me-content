@@ -1,0 +1,14 @@
+{
+  "id": "fact-ratings-amazon-river",
+  "topic": "ratings",
+  "title": "Амазонка · 209 000 м³/с",
+  "caption": "Самая полноводная река — 209 000 м³/с, 20% пресной воды в океаны Земли. Длина 6400 км, бассейн больше Австралии.",
+  "image": "fact-ratings-amazon-river.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Амазонка с воздуха",
+  "credit": "European Space Agency · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Amazon_River",
+  "license": "CC-BY-SA",
+  "year": 2017
+}

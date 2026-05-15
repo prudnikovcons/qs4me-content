@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-pasteur",
+  "topic": "quote",
+  "title": "Луи Пастер",
+  "caption": "1822–1895. Доказал микробную теорию болезней. Изобрёл пастеризацию в 1864 и вакцину от бешенства в 1885.",
+  "image": "fact-quote-pasteur.webp",
+  "image_width": 1280,
+  "image_height": 1765,
+  "alt": "Луи Пастер в лаборатории",
+  "credit": "Paul Nadar · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+  "license": "PD",
+  "year": 1885
+}

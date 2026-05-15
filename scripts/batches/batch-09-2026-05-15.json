@@ -1,0 +1,415 @@
+[
+  {
+    "id": "fact-science-relativity",
+    "topic": "science",
+    "title": "Теория относительности",
+    "caption": "Специальная — Эйнштейн, 1905. Общая — 1915. E = mc². Время замедляется на скорости, гравитация искривляет пространство-время.",
+    "alt": "Иллюстрация искривления пространства-времени",
+    "year": 1915,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Theory_of_relativity"
+  },
+  {
+    "id": "fact-science-quantum",
+    "topic": "science",
+    "title": "Квантовая механика",
+    "caption": "Описывает мир атомов. Электрон одновременно волна и частица. Гейзенберг 1927: нельзя одновременно знать координату и импульс.",
+    "alt": "Электронное облако атома",
+    "year": 1927,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quantum_mechanics"
+  },
+  {
+    "id": "fact-science-emc2",
+    "topic": "science",
+    "title": "E = mc²",
+    "caption": "Эйнштейн, 1905. Энергия равна массе на квадрат скорости света. 1 г вещества = 9×10¹³ Дж = энергия Хиросимы.",
+    "alt": "Формула E=mc²",
+    "year": 1905,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mass–energy_equivalence"
+  },
+  {
+    "id": "fact-science-evolution",
+    "topic": "science",
+    "title": "Теория эволюции",
+    "caption": "Дарвин, 1859. Естественный отбор. Все ~8,7 млн видов Земли — потомки общего предка LUCA, жившего 3,5–3,9 млрд лет назад.",
+    "alt": "Дерево жизни Дарвина",
+    "year": 1859,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Evolution"
+  },
+  {
+    "id": "fact-science-microscope",
+    "topic": "science",
+    "title": "Микроскоп",
+    "caption": "Левенгук, 1670-е. С увеличением 270× впервые увидел бактерии и сперматозоиды. Современный электронный микроскоп — увеличение до 50 миллионов.",
+    "alt": "Микроскоп Левенгука",
+    "year": 1675,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Microscope"
+  },
+  {
+    "id": "fact-science-telescope",
+    "topic": "science",
+    "title": "Телескоп",
+    "caption": "Галилей, 1609 — улучшил голландский прибор. Увеличение 20×. Открыл фазы Венеры, спутники Юпитера, кольца Сатурна.",
+    "alt": "Телескоп Галилея",
+    "year": 1609,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Telescope"
+  },
+  {
+    "id": "fact-science-gravity",
+    "topic": "science",
+    "title": "Закон тяготения",
+    "caption": "Ньютон, 1687, «Принципы». F = G·m₁m₂/r². Удерживает Луну на орбите и описывает падение яблока — одно и то же уравнение.",
+    "alt": "Закон всемирного тяготения",
+    "year": 1687,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Newton's_law_of_universal_gravitation"
+  },
+  {
+    "id": "fact-science-vaccine",
+    "topic": "science",
+    "title": "Вакцина",
+    "caption": "Эдвард Дженнер, 1796. От оспы, через коровью оспу. Слово vaccinia от vacca — корова. Оспа уничтожена ВОЗ к 1980.",
+    "alt": "Эдвард Дженнер делает прививку",
+    "year": 1796,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vaccine"
+  },
+  {
+    "id": "fact-science-mendel",
+    "topic": "science",
+    "title": "Законы Менделя",
+    "caption": "Грегор Мендель, 1866. 8 лет скрещивал горох — 29 000 растений. Открыл наследственность. Признан через 35 лет после смерти.",
+    "alt": "Грегор Мендель с горохом",
+    "year": 1866,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mendelian_inheritance"
+  },
+  {
+    "id": "fact-science-bohr-model",
+    "topic": "science",
+    "title": "Модель Бора",
+    "caption": "Нильс Бор, 1913. Электроны на дискретных орбитах вокруг ядра. Нобель 1922. Модель неточна, но даёт интуицию для атома.",
+    "alt": "Модель атома Бора",
+    "year": 1913,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bohr_model"
+  },
+  {
+    "id": "fact-science-higgs-boson",
+    "topic": "science",
+    "title": "Бозон Хиггса",
+    "caption": "Предсказан в 1964, найден на LHC 4 июля 2012. Масса 125 ГэВ. «Частица Бога» — даёт массу всем остальным частицам.",
+    "alt": "Событие столкновения на LHC",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Higgs_boson"
+  },
+  {
+    "id": "fact-science-gravitational-waves",
+    "topic": "science",
+    "title": "Гравитационные волны",
+    "caption": "Предсказаны Эйнштейном в 1916. Первое обнаружение — LIGO, 14 сентября 2015. Слияние двух чёрных дыр 1,3 млрд лет назад.",
+    "alt": "Лазерная обсерватория LIGO",
+    "year": 2015,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gravitational_wave"
+  },
+  {
+    "id": "fact-science-light-bulb",
+    "topic": "science",
+    "title": "Лампа накаливания",
+    "caption": "Эдисон, 21 октября 1879 — 13,5 часов работы угольной нити. К 1882 — Pearl Street Station, первая центральная электростанция.",
+    "alt": "Лампа накаливания Эдисона",
+    "year": 1879,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Incandescent_light_bulb"
+  },
+  {
+    "id": "fact-science-telephone",
+    "topic": "science",
+    "title": "Телефон",
+    "caption": "Александр Белл, 7 марта 1876 — патент за 2 часа до конкурента Грея. Первая фраза: «Mr. Watson, come here, I want to see you.»",
+    "alt": "Телефонный аппарат Белла",
+    "year": 1876,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Telephone"
+  },
+  {
+    "id": "fact-science-eniac",
+    "topic": "science",
+    "title": "ENIAC",
+    "caption": "Первый универсальный компьютер, 1945. 27 тонн, 18 000 ламп. Программирование — переключение кабелей. Считал до 5000 сложений в секунду.",
+    "alt": "ENIAC — первый компьютер",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "ENIAC"
+  },
+  {
+    "id": "fact-science-arpanet",
+    "topic": "science",
+    "title": "ARPANET",
+    "caption": "Прародитель интернета. Первое сообщение — 29 октября 1969, между UCLA и Стэнфордом. Отправили «LO» — система упала на «G».",
+    "alt": "Схема первой сети ARPANET",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "ARPANET"
+  },
+  {
+    "id": "fact-science-transistor",
+    "topic": "science",
+    "title": "Транзистор",
+    "caption": "Bell Labs, 23 декабря 1947 — Бардин, Браттейн, Шокли. Нобель 1956. К 2024 — 13 трлн транзисторов в одном GPU, размер 3 нм.",
+    "alt": "Первый транзистор Bell Labs",
+    "year": 1947,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Transistor"
+  },
+  {
+    "id": "fact-science-laser",
+    "topic": "science",
+    "title": "Лазер",
+    "caption": "Theodore Maiman, 16 мая 1960 — первый рабочий лазер. Усиленный когерентный свет. Сегодня лазеры режут сталь, поправляют зрение, читают CD.",
+    "alt": "Лазерный луч",
+    "year": 1960,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Laser"
+  },
+  {
+    "id": "fact-science-mri",
+    "topic": "science",
+    "title": "МРТ",
+    "caption": "Магнитно-резонансная томография. Раймонд Дамадиан, первый снимок человека — 3 июля 1977. Нобель Лотербуру и Мэнсфилду в 2003.",
+    "alt": "Аппарат МРТ",
+    "year": 1977,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Magnetic_resonance_imaging"
+  },
+  {
+    "id": "fact-science-crispr",
+    "topic": "science",
+    "title": "CRISPR-Cas9",
+    "caption": "Технология редактирования генов, Дудна и Шарпантье, 2012. Нобель по химии 2020. Стоит в 100 раз дешевле прежних методов.",
+    "alt": "Иллюстрация CRISPR",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "CRISPR"
+  },
+  {
+    "id": "fact-science-black-hole-image",
+    "topic": "science",
+    "title": "Фото чёрной дыры",
+    "caption": "M87*, 10 апреля 2019. Event Horizon Telescope — массив из 8 радиотелескопов на 5 континентах. Чёрная дыра 6,5 млрд солнечных масс.",
+    "alt": "Первое фото чёрной дыры M87*",
+    "year": 2019,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "First_image_of_a_black_hole"
+  },
+  {
+    "id": "fact-science-carbon-dating",
+    "topic": "science",
+    "title": "Радиоуглеродное датирование",
+    "caption": "Уиллард Либби, 1949. Период полураспада C-14 — 5730 лет. Работает до 50 000 лет назад. Нобель 1960.",
+    "alt": "Схема радиоуглеродного датирования",
+    "year": 1949,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Radiocarbon_dating"
+  },
+  {
+    "id": "fact-science-maxwell",
+    "topic": "science",
+    "title": "Уравнения Максвелла",
+    "caption": "Джеймс Клерк Максвелл, 1865. 4 уравнения, описывающих всё электромагнетизм. Предсказали радиоволны за 22 года до их открытия Герцем.",
+    "alt": "Уравнения Максвелла",
+    "year": 1865,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Maxwell's_equations"
+  },
+  {
+    "id": "fact-science-photoelectric-effect",
+    "topic": "science",
+    "title": "Фотоэффект",
+    "caption": "Эйнштейн, 1905. Свет — кванты (фотоны). За это и получил Нобель в 1921. Базис фотодиодов, солнечных батарей, ЖК-дисплеев.",
+    "alt": "Схема фотоэффекта",
+    "year": 1905,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Photoelectric_effect"
+  },
+  {
+    "id": "fact-science-apple-i",
+    "topic": "science",
+    "title": "Apple I",
+    "caption": "Стив Возняк, 1976. Первый компьютер Apple. 200 штук собраны в гараже Джобса. Цена $666,66. Сегодня одна копия стоит $1 млн.",
+    "alt": "Компьютер Apple I",
+    "year": 1976,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Apple_I"
+  },
+  {
+    "id": "fact-economy-adam-smith",
+    "topic": "economy",
+    "title": "Адам Смит",
+    "caption": "1723–1790. «Богатство народов» (1776). Метафора «невидимой руки рынка». Отец классической политической экономии.",
+    "alt": "Портрет Адама Смита",
+    "year": 1776,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Adam_Smith"
+  },
+  {
+    "id": "fact-economy-marx-capital",
+    "topic": "economy",
+    "title": "Карл Маркс · «Капитал»",
+    "caption": "Том 1 — 1867. Тома 2 и 3 изданы Энгельсом после смерти Маркса в 1885 и 1894. Анализ капитала — основа всех левых идеологий XX века.",
+    "alt": "Карл Маркс",
+    "year": 1867,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Das_Kapital"
+  },
+  {
+    "id": "fact-economy-federal-reserve",
+    "topic": "economy",
+    "title": "Федеральная резервная система",
+    "caption": "Центробанк США, 23 декабря 1913. 12 региональных банков. Контролирует ставку — ключевая цена денег в мире.",
+    "alt": "Здание ФРС в Вашингтоне",
+    "year": 1913,
+    "meta": { "country_code": "US" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Federal_Reserve"
+  },
+  {
+    "id": "fact-economy-bretton-woods",
+    "topic": "economy",
+    "title": "Бреттон-Вудс",
+    "caption": "Конференция 1–22 июля 1944, Нью-Гэмпшир. 44 страны. Доллар привязан к золоту ($35/унция), валюты — к доллару. Создание МВФ и Всемирного банка.",
+    "alt": "Бреттон-Вудская конференция",
+    "year": 1944,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bretton_Woods_system"
+  },
+  {
+    "id": "fact-economy-nixon-shock",
+    "topic": "economy",
+    "title": "Никсоновский шок",
+    "caption": "15 августа 1971. Никсон отвязал доллар от золота. Конец Бреттон-Вудса после 27 лет. Начало эры плавающих курсов.",
+    "alt": "Никсон объявляет о решении 1971",
+    "year": 1971,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nixon_shock"
+  },
+  {
+    "id": "fact-economy-great-depression",
+    "topic": "economy",
+    "title": "Великая депрессия",
+    "caption": "1929–1939. Безработица в США — 25%. В Германии — 30%. Промышленное производство США упало на 47% за 3 года.",
+    "alt": "Очередь за бесплатным супом в Депрессии",
+    "year": 1929,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Great_Depression"
+  },
+  {
+    "id": "fact-economy-2008-crisis",
+    "topic": "economy",
+    "title": "Кризис 2008",
+    "caption": "15 сентября 2008 — банкротство Lehman Brothers ($613 млрд активов). Цепная реакция. Глобальный ВВП минус $4 трлн за 2009.",
+    "alt": "Lehman Brothers в день банкротства",
+    "year": 2008,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "2008_financial_crisis"
+  },
+  {
+    "id": "fact-economy-tulip-mania",
+    "topic": "economy",
+    "title": "Тюльпанная лихорадка",
+    "caption": "Голландия, 1634–1637. Луковица Semper Augustus в феврале 1637 стоила 5500 гульденов — 10 годовых зарплат ремесленника. Первый пузырь в истории.",
+    "alt": "Каталог редких тюльпанов 1637",
+    "year": 1637,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tulip_mania"
+  },
+  {
+    "id": "fact-economy-weimar-hyperinflation",
+    "topic": "economy",
+    "title": "Гиперинфляция Веймара",
+    "caption": "Германия, 1923. В пик — цены удваивались каждые 49 часов. Доллар = 4,2 трлн марок (ноябрь). Деньги топили печи — дрова дороже.",
+    "alt": "Дети играют с пачками марок 1923",
+    "year": 1923,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hyperinflation_in_the_Weimar_Republic"
+  },
+  {
+    "id": "fact-economy-south-sea-bubble",
+    "topic": "economy",
+    "title": "Пузырь Южных морей",
+    "caption": "Лондон, 1720. Акции South Sea Company выросли с £128 до £1050 за 6 месяцев и рухнули обратно. Ньютон потерял £20 000.",
+    "alt": "Карикатура на пузырь Южных морей",
+    "year": 1720,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "South_Sea_Company"
+  },
+  {
+    "id": "fact-economy-east-india",
+    "topic": "economy",
+    "title": "Ост-Индская компания",
+    "caption": "Британская, 1600–1874. 274 года корпоративного правления Индией. На пике контролировала половину мировой торговли — оборот больше ВВП Британии.",
+    "alt": "Флаг Ост-Индской компании",
+    "year": 1600,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "East_India_Company"
+  },
+  {
+    "id": "fact-economy-us-dollar",
+    "topic": "economy",
+    "title": "Доллар США",
+    "caption": "Введён в 1792, привязан к серебру. С 1971 — фиатный. Мировая резервная валюта — 58% золотовалютных резервов центробанков на 2024.",
+    "alt": "Долларовые купюры",
+    "year": 1792,
+    "meta": { "country_code": "US" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "United_States_dollar"
+  },
+  {
+    "id": "fact-economy-yen",
+    "topic": "economy",
+    "title": "Японская иена",
+    "caption": "Введена 1871, к долару США — 312 иен. Сегодня (2026) — около 155. Самая «дешёвая» из развитых валют в 2024.",
+    "alt": "Японская иена",
+    "year": 1871,
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Japanese_yen"
+  },
+  {
+    "id": "fact-economy-big-mac-index",
+    "topic": "economy",
+    "title": "Индекс Биг-Мака",
+    "caption": "The Economist, 1986. Сравнение валют через цену Биг-Мака. В Швейцарии — $7,76, в США — $5,69, в Турции — $3,18 (2024).",
+    "alt": "Биг-Мак",
+    "year": 1986,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Big_Mac_Index"
+  },
+  {
+    "id": "fact-economy-apple-inc",
+    "topic": "economy",
+    "title": "Apple Inc.",
+    "caption": "Основана 1 апреля 1976 Джобсом, Возняком и Уэйном. Первая компания мира с капитализацией $3 трлн (январь 2022).",
+    "alt": "Логотип Apple",
+    "year": 1976,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Apple_Inc."
+  },
+  {
+    "id": "fact-economy-nyse",
+    "topic": "economy",
+    "title": "NYSE",
+    "caption": "Нью-Йоркская фондовая биржа, 17 мая 1792. 24 брокера подписали соглашение под платаном на Уолл-стрит. Сегодня — $30+ трлн капитализация.",
+    "alt": "Здание NYSE на Уолл-стрит",
+    "year": 1792,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "New_York_Stock_Exchange"
+  }
+]

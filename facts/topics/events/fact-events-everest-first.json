@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-everest-first",
+  "topic": "events",
+  "title": "Покорение Эвереста",
+  "caption": "29 мая 1953, 11:30. Эдмунд Хиллари и Тенцинг Норгей — первые на вершине 8848 м. На спуске Норгей закопал шоколад в качестве подношения.",
+  "image": "fact-events-everest-first.webp",
+  "image_width": 828,
+  "image_height": 494,
+  "alt": "Тенцинг Норгей на вершине Эвереста",
+  "credit": "Jamling Tenzing Norgay · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition",
+  "license": "CC-BY-SA",
+  "year": 1953
+}

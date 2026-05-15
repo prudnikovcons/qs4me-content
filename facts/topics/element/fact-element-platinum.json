@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-platinum",
+  "topic": "element",
+  "title": "Платина · Pt (78)",
+  "caption": "Pt, 78-й элемент. Эталон килограмма с 1889 до 2019 — цилиндр из 90% Pt + 10% Ir. Плавится при 1768 °C.",
+  "image": "fact-element-platinum.webp",
+  "image_width": 1280,
+  "image_height": 897,
+  "alt": "Самородок платины",
+  "credit": "Periodictableru · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Platinum",
+  "license": "CC-BY",
+  "year": 2010,
+  "meta": {
+    "atomic_number": 78,
+    "symbol": "Pt"
+  }
+}

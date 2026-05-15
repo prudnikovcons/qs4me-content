@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-arpanet",
+  "topic": "science",
+  "title": "ARPANET",
+  "caption": "Прародитель интернета. Первое сообщение — 29 октября 1969, между UCLA и Стэнфордом. Отправили «LO» — система упала на «G».",
+  "image": "fact-science-arpanet.webp",
+  "image_width": 1000,
+  "image_height": 716,
+  "alt": "Схема первой сети ARPANET",
+  "credit": "ARPANET · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/ARPANET",
+  "license": "PD",
+  "year": 1969
+}

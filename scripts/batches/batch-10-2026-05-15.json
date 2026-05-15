@@ -1,0 +1,675 @@
+[
+  {
+    "id": "fact-country-italy-venice",
+    "topic": "country",
+    "title": "Италия · Венеция",
+    "caption": "118 островов, 400 мостов, 170 каналов. Город на сваях из ольхи и лиственницы — 1200+ лет, оседает на 1-2 мм/год.",
+    "alt": "Гранд-канал в Венеции",
+    "meta": { "country_code": "IT" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Venice"
+  },
+  {
+    "id": "fact-country-italy-florence",
+    "topic": "country",
+    "title": "Италия · Флоренция",
+    "caption": "Колыбель Возрождения. Купол Брунеллески (1436) — 45 м диаметра, 4 млн кирпичей. Найден способ строить без лесов.",
+    "alt": "Купол Брунеллески во Флоренции",
+    "year": 1436,
+    "meta": { "country_code": "IT" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Florence"
+  },
+  {
+    "id": "fact-country-usa-grand-canyon",
+    "topic": "country",
+    "title": "США · Гранд-Каньон",
+    "caption": "Аризона. Длина 446 км, глубина до 1857 м. Колорадо размывала каньон 5–6 миллионов лет. 6 миллионов посетителей в год.",
+    "alt": "Гранд-Каньон со смотровой",
+    "meta": { "country_code": "US" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Grand_Canyon"
+  },
+  {
+    "id": "fact-country-china-terracotta-army",
+    "topic": "country",
+    "title": "Китай · Терракотовая армия",
+    "caption": "Сиань, ~210 до н.э. 8000 воинов, лошадей и колесниц охраняли гробницу Цинь Шихуанди. Найдена крестьянами при копке колодца в 1974.",
+    "alt": "Терракотовая армия",
+    "year": -210,
+    "meta": { "country_code": "CN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Terracotta_Army"
+  },
+  {
+    "id": "fact-country-russia-hermitage",
+    "topic": "country",
+    "title": "Россия · Эрмитаж",
+    "caption": "Санкт-Петербург, основан Екатериной II в 1764. 3 миллиона экспонатов в 365 залах. На просмотр каждого по минуте — 6+ лет.",
+    "alt": "Зимний дворец и Эрмитаж",
+    "year": 1764,
+    "meta": { "country_code": "RU" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hermitage_Museum"
+  },
+  {
+    "id": "fact-country-trans-siberian",
+    "topic": "country",
+    "title": "Россия · Транссиб",
+    "caption": "Транссибирская магистраль, 1891–1916. Длина 9289 км Москва–Владивосток. Пересекает 8 часовых поясов за 6 суток езды.",
+    "alt": "Поезд на Транссибе",
+    "year": 1916,
+    "meta": { "country_code": "RU" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Trans-Siberian_Railway"
+  },
+  {
+    "id": "fact-country-usa-hollywood",
+    "topic": "country",
+    "title": "США · Hollywood",
+    "caption": "Знак на холмах LA, 1923. Изначально — реклама недвижимости «Hollywoodland». Каждая из 9 букв высотой 13,7 м, выложена белым.",
+    "alt": "Знак Hollywood на холме",
+    "year": 1923,
+    "meta": { "country_code": "US" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hollywood_Sign"
+  },
+  {
+    "id": "fact-country-cuba-havana",
+    "topic": "country",
+    "title": "Куба · Старая Гавана",
+    "caption": "Основана 1519 испанцами. UNESCO с 1982. 2 миллиона жителей. Время словно остановилось — машины 1950-х на улицах.",
+    "alt": "Гавана с винтажным автомобилем",
+    "year": 1519,
+    "meta": { "country_code": "CU" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Old_Havana"
+  },
+  {
+    "id": "fact-country-greece-santorini",
+    "topic": "country",
+    "title": "Греция · Санторини",
+    "caption": "Остров — кальдера древнего вулкана. Извержение ~1600 до н.э. одно из крупнейших за 10 тыс. лет. Привело к падению минойской цивилизации.",
+    "alt": "Белые домики Санторини",
+    "year": -1600,
+    "meta": { "country_code": "GR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Santorini"
+  },
+  {
+    "id": "fact-country-japan-kyoto",
+    "topic": "country",
+    "title": "Япония · Киото",
+    "caption": "Столица Японии 1100 лет (794–1868). 1600 буддистских храмов, 400 синтоистских. В 1945 США исключили из списка целей атомной бомбы.",
+    "alt": "Храмы Киото",
+    "year": 794,
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kyoto"
+  },
+  {
+    "id": "fact-country-egypt-karnak",
+    "topic": "country",
+    "title": "Египет · Карнак",
+    "caption": "Храмовый комплекс в Луксоре, ~2000 до н.э. – 30 до н.э. Зал Гипостиля — 134 колонны до 23 м высоты. Крупнейший культовый комплекс древности.",
+    "alt": "Колонны Карнакского храма",
+    "year": -2000,
+    "meta": { "country_code": "EG" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Karnak"
+  },
+  {
+    "id": "fact-country-iceland-blue-lagoon",
+    "topic": "country",
+    "title": "Исландия · Голубая лагуна",
+    "caption": "Геотермальный курорт 1976. Вода 37–39 °C круглый год, минералы дают молочно-голубой цвет. Сточная вода соседней геотермальной электростанции.",
+    "alt": "Голубая лагуна в Исландии",
+    "year": 1976,
+    "meta": { "country_code": "IS" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Blue_Lagoon_(geothermal_spa)"
+  },
+  {
+    "id": "fact-country-china-yellowstone",
+    "topic": "country",
+    "title": "США · Йеллоустон",
+    "caption": "Первый национальный парк мира, 1872. 8983 км². Под парком — супервулкан. Гейзер «Старый служака» извергается каждые 90 минут.",
+    "alt": "Гейзер «Старый служака»",
+    "year": 1872,
+    "meta": { "country_code": "US" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yellowstone_National_Park"
+  },
+  {
+    "id": "fact-country-italy-cinque-terre",
+    "topic": "country",
+    "title": "Италия · Чинкве-Терре",
+    "caption": "5 деревень на лигурийском побережье, основаны в XI веке. Соединены 12-км пешеходной тропой. UNESCO с 1997.",
+    "alt": "Манарола в Чинкве-Терре",
+    "year": 1997,
+    "meta": { "country_code": "IT" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cinque_Terre"
+  },
+  {
+    "id": "fact-country-japan-shibuya",
+    "topic": "country",
+    "title": "Япония · Сибуя",
+    "caption": "Перекрёсток в Токио. До 3000 человек переходят за раз в часы пик. 2 500 000 пешеходов в день — самый загруженный в мире.",
+    "alt": "Перекрёсток Сибуя",
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Shibuya_Crossing"
+  },
+  {
+    "id": "fact-country-spain-pamplona",
+    "topic": "country",
+    "title": "Испания · Памплона",
+    "caption": "Фестиваль Сан-Фермин, 7–14 июля. С 1591 быков прогоняют 875 м по городу за 3 минуты. Хемингуэй прославил в 1926.",
+    "alt": "Бег быков в Памплоне",
+    "year": 1591,
+    "meta": { "country_code": "ES" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Running_of_the_bulls"
+  },
+  {
+    "id": "fact-country-china-shanghai",
+    "topic": "country",
+    "title": "Китай · Шанхай",
+    "caption": "26 млн жителей. Метро 831 км — самое длинное в мире. Бунд: 52 здания в стилях ар-деко и колониального периода 1910–1940.",
+    "alt": "Бунд в Шанхае",
+    "meta": { "country_code": "CN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Shanghai"
+  },
+  {
+    "id": "fact-country-india-varanasi",
+    "topic": "country",
+    "title": "Индия · Варанаси",
+    "caption": "Один из старейших постоянно населённых городов мира — основан около 1800 до н.э. 88 гхатов вдоль Ганга, кремации идут 24/7.",
+    "alt": "Гхаты Варанаси на рассвете",
+    "year": -1800,
+    "meta": { "country_code": "IN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Varanasi"
+  },
+  {
+    "id": "fact-country-mexico-frida-house",
+    "topic": "country",
+    "title": "Мексика · Синий дом",
+    "caption": "Casa Azul — дом Фриды Кало в Койоакане. Здесь она родилась в 1907 и умерла в 1954. Музей с 1958 — 30 тыс посетителей в месяц.",
+    "alt": "Синий дом Фриды Кало",
+    "year": 1958,
+    "meta": { "country_code": "MX" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Frida_Kahlo_Museum"
+  },
+  {
+    "id": "fact-country-uk-tower-bridge",
+    "topic": "country",
+    "title": "Великобритания · Тауэрский мост",
+    "caption": "Лондон, 1894. Разводной мост 244 м. Створки поднимаются 86° за 5 минут — 750 раз в год для пропуска судов.",
+    "alt": "Тауэрский мост в Лондоне",
+    "year": 1894,
+    "meta": { "country_code": "GB" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tower_Bridge"
+  },
+  {
+    "id": "fact-quote-pythagoras",
+    "topic": "quote",
+    "title": "Пифагор",
+    "caption": "~570–495 до н.э. Не оставил ни одной записи. Тайное братство пифагорейцев скрывало знания. Знаменитая теорема приписана ему через 200 лет.",
+    "alt": "Бюст Пифагора",
+    "year": -495,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pythagoras"
+  },
+  {
+    "id": "fact-quote-archimedes",
+    "topic": "quote",
+    "title": "Архимед",
+    "caption": "287–212 до н.э. Открыл закон вытеснения в ванне («Эврика!»). Убит римским солдатом во время осады Сиракуз в 212 до н.э.",
+    "alt": "Бюст Архимеда",
+    "year": -212,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Archimedes"
+  },
+  {
+    "id": "fact-quote-hippocrates",
+    "topic": "quote",
+    "title": "Гиппократ",
+    "caption": "~460–370 до н.э. Отец медицины. Гиппократова клятва — основа врачебной этики 2400+ лет. Современный текст — 1948, ВМА.",
+    "alt": "Бюст Гиппократа",
+    "year": -460,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hippocrates"
+  },
+  {
+    "id": "fact-quote-avicenna",
+    "topic": "quote",
+    "title": "Авиценна · Ибн Сина",
+    "caption": "980–1037. «Канон врачебной науки» (1025) — учебник медицины в Европе 600 лет. К 18 годам знал всю науку своего времени.",
+    "alt": "Портрет Авиценны",
+    "year": 1025,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Avicenna"
+  },
+  {
+    "id": "fact-quote-al-khwarizmi",
+    "topic": "quote",
+    "title": "Аль-Хорезми",
+    "caption": "~780–850. Математик из Багдада. От его имени слово «алгоритм», от названия трактата «аль-джабр» — «алгебра» (~820).",
+    "alt": "Памятник аль-Хорезми",
+    "year": 820,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Al-Khwarizmi"
+  },
+  {
+    "id": "fact-quote-marco-polo",
+    "topic": "quote",
+    "title": "Марко Поло",
+    "caption": "1254–1324. Семья 24 года путешествовала по Азии. «Книга чудес света» (1300) — главный источник Европы о Китае на 200 лет.",
+    "alt": "Марко Поло — миниатюра",
+    "year": 1300,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Marco_Polo"
+  },
+  {
+    "id": "fact-quote-turing",
+    "topic": "quote",
+    "title": "Алан Тьюринг",
+    "caption": "1912–1954. Взломал «Энигму» в 1941, сократив Вторую мировую на 2 года. Покончил с собой после преследования за гомосексуальность.",
+    "alt": "Алан Тьюринг",
+    "year": 1954,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alan_Turing"
+  },
+  {
+    "id": "fact-quote-von-neumann",
+    "topic": "quote",
+    "title": "Джон фон Нейман",
+    "caption": "1903–1957. Архитектура фон Неймана — основа всех компьютеров. Теория игр (1944), Манхэттенский проект. IQ оценивали в 190.",
+    "alt": "Джон фон Нейман",
+    "year": 1944,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "John_von_Neumann"
+  },
+  {
+    "id": "fact-quote-lovelace",
+    "topic": "quote",
+    "title": "Ада Лавлейс",
+    "caption": "1815–1852. Дочь Байрона, математик. Написала первый в мире алгоритм (1843) для аналитической машины Бэббиджа.",
+    "alt": "Портрет Ады Лавлейс",
+    "year": 1843,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ada_Lovelace"
+  },
+  {
+    "id": "fact-quote-aristoteles-philosophy",
+    "topic": "quote",
+    "title": "Иммануил Кант",
+    "caption": "1724–1804. Всю жизнь не покидал Кёнигсберг. Жители сверяли часы по его прогулкам. «Критика чистого разума» (1781) — основа немецкой философии.",
+    "alt": "Портрет Канта",
+    "year": 1781,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Immanuel_Kant"
+  },
+  {
+    "id": "fact-history-industrial-rev",
+    "topic": "history",
+    "title": "Промышленная революция",
+    "caption": "1760–1840. Британия. Паровая машина Уатта 1769, ткацкий станок Картрайта 1785. За 80 лет ВВП на душу вырос на 50%.",
+    "alt": "Паровая машина XIX века",
+    "year": 1760,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Industrial_Revolution"
+  },
+  {
+    "id": "fact-history-cold-war",
+    "topic": "history",
+    "title": "Холодная война",
+    "caption": "1947–1991. США vs СССР. 45 000 ядерных боеголовок на пике 1986. Без прямого военного столкновения двух сверхдержав.",
+    "alt": "Карта Холодной войны",
+    "year": 1947,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cold_War"
+  },
+  {
+    "id": "fact-history-cuban-missile",
+    "topic": "history",
+    "title": "Карибский кризис",
+    "caption": "16–28 октября 1962. 13 дней мир был в шаге от ядерной войны. Кеннеди и Хрущёв договорились по «горячей линии», установленной после кризиса.",
+    "alt": "Аэрофотосъёмка ракет на Кубе",
+    "year": 1962,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cuban_Missile_Crisis"
+  },
+  {
+    "id": "fact-history-atlantic-slave-trade",
+    "topic": "history",
+    "title": "Трансатлантическая работорговля",
+    "caption": "1501–1866. 12,5 миллионов африканцев вывезено в Америку. 1,8 млн умерли в пути. Отменена в Британии 1807, в США 1865.",
+    "alt": "Карта работорговли",
+    "year": 1807,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Atlantic_slave_trade"
+  },
+  {
+    "id": "fact-history-treaty-tordesillas",
+    "topic": "history",
+    "title": "Тордесильясский договор",
+    "caption": "7 июня 1494. Испания и Португалия поделили мир по меридиану 46°37′ западнее Кабо-Верде. Бразилия попала в португальскую зону.",
+    "alt": "Тордесильясский договор — карта раздела",
+    "year": 1494,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Treaty_of_Tordesillas"
+  },
+  {
+    "id": "fact-history-hundred-years-war",
+    "topic": "history",
+    "title": "Столетняя война",
+    "caption": "1337–1453. На самом деле 116 лет. Англия vs Франция за престол. Жанна д'Арк сожжена 1431. Завершилась победой Франции.",
+    "alt": "Жанна д'Арк перед войсками",
+    "year": 1337,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hundred_Years'_War"
+  },
+  {
+    "id": "fact-history-conquest-mexico",
+    "topic": "history",
+    "title": "Завоевание Мексики",
+    "caption": "1519–1521. Эрнан Кортес с 500 испанцами захватил империю ацтеков (5 млн человек) — благодаря союзникам и оспе.",
+    "alt": "Кортес и Монтесума",
+    "year": 1521,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Spanish_conquest_of_the_Aztec_Empire"
+  },
+  {
+    "id": "fact-space-orion-nebula",
+    "topic": "space",
+    "title": "Туманность Ориона",
+    "caption": "M42 в созвездии Орион. Звёздная колыбель, 1344 световых лет от Земли. Самая близкая активная область звездообразования.",
+    "alt": "Туманность Ориона",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Orion_Nebula"
+  },
+  {
+    "id": "fact-space-crab-nebula",
+    "topic": "space",
+    "title": "Крабовидная туманность",
+    "caption": "M1 в созвездии Тельца. Остаток сверхновой 1054 года н.э. — китайские астрономы её видели 23 дня даже днём. 6500 световых лет.",
+    "alt": "Крабовидная туманность",
+    "year": 1054,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Crab_Nebula"
+  },
+  {
+    "id": "fact-space-eagle-nebula",
+    "topic": "space",
+    "title": "Туманность Орёл",
+    "caption": "M16 в созвездии Змея. 7000 световых лет. Содержит знаменитые «Столпы Творения» — облака газа и пыли высотой 4 световых года.",
+    "alt": "Туманность Орёл",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eagle_Nebula"
+  },
+  {
+    "id": "fact-space-solar-flare",
+    "topic": "space",
+    "title": "Солнечная вспышка",
+    "caption": "Энергия одной X-вспышки — 10²⁵ джоулей, в миллион раз больше извержения вулкана. Событие Кэррингтона 1859 «зажгло» телеграфы Европы.",
+    "alt": "Солнечная вспышка",
+    "year": 1859,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Solar_flare"
+  },
+  {
+    "id": "fact-music-vivaldi-2",
+    "topic": "music",
+    "title": "Игорь Стравинский · Жар-птица",
+    "caption": "Балет Стравинского, 1910 в «Русских сезонах» Дягилева в Париже. 25 минут принесли 28-летнему композитору международную славу.",
+    "alt": "Эскиз Бакста к Жар-птице",
+    "year": 1910,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Firebird"
+  },
+  {
+    "id": "fact-music-gershwin",
+    "topic": "music",
+    "title": "Джордж Гершвин",
+    "caption": "1898–1937. Симбиоз классики и джаза. «Рапсодия в стиле блюз» (1924) написана за 5 недель. Умер от опухоли мозга в 38 лет.",
+    "alt": "Джордж Гершвин",
+    "year": 1924,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "George_Gershwin"
+  },
+  {
+    "id": "fact-music-glenn-gould",
+    "topic": "music",
+    "title": "Гленн Гульд",
+    "caption": "1932–1982. Канадский пианист. Две записи «Гольдберг-вариаций» Баха (1955 и 1981) с 26-летним промежутком — оба бестселлеры.",
+    "alt": "Гленн Гульд за роялем",
+    "year": 1955,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Glenn_Gould"
+  },
+  {
+    "id": "fact-music-louis-armstrong",
+    "topic": "music",
+    "title": "Луи Армстронг",
+    "caption": "1901–1971. Создал джаз как импровизационное искусство. «What a Wonderful World» (1967) попала в чарты США через 21 год — в 1988.",
+    "alt": "Луи Армстронг с трубой",
+    "year": 1967,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Louis_Armstrong"
+  },
+  {
+    "id": "fact-music-aretha",
+    "topic": "music",
+    "title": "Арета Франклин",
+    "caption": "1942–2018. «Королева соул». 18 «Грэмми», 75 млн пластинок. Спела на инаугурациях 3 президентов США.",
+    "alt": "Арета Франклин",
+    "meta": { "lifespan": "1942-2018" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aretha_Franklin"
+  },
+  {
+    "id": "fact-math-gauss",
+    "topic": "math",
+    "title": "Карл Фридрих Гаусс",
+    "caption": "1777–1855. «Принц математиков». В 9 лет за минуту сложил числа от 1 до 100 — нашёл формулу. К 20 годам — основные открытия теории чисел.",
+    "alt": "Портрет Гаусса",
+    "meta": { "lifespan": "1777-1855" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Carl_Friedrich_Gauss"
+  },
+  {
+    "id": "fact-math-hilbert",
+    "topic": "math",
+    "title": "23 проблемы Гильберта",
+    "caption": "Давид Гильберт, ICM 1900 в Париже. 23 задачи, формирующие математику XX века. К 2024 решены 16, 7 — частично или не решены.",
+    "alt": "Давид Гильберт",
+    "year": 1900,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hilbert's_problems"
+  },
+  {
+    "id": "fact-math-cantor",
+    "topic": "math",
+    "title": "Георг Кантор",
+    "caption": "1845–1918. Создал теорию множеств. Доказал, что бесконечности бывают разных размеров (1874). Завершил жизнь в психиатрической клинике.",
+    "alt": "Георг Кантор",
+    "year": 1874,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Georg_Cantor"
+  },
+  {
+    "id": "fact-math-lobachevsky",
+    "topic": "math",
+    "title": "Николай Лобачевский",
+    "caption": "1792–1856. Профессор Казанского ун-та. В 1826 представил неевклидову геометрию. Признана через 25 лет после смерти.",
+    "alt": "Портрет Лобачевского",
+    "year": 1826,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nikolai_Lobachevsky"
+  },
+  {
+    "id": "fact-math-probability",
+    "topic": "math",
+    "title": "Теория вероятностей",
+    "caption": "Зародилась в 1654 в переписке Паскаля и Ферма по поводу азартных игр. Аксиоматика — Колмогоров, 1933.",
+    "alt": "Бросание игральных костей",
+    "year": 1654,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Probability_theory"
+  },
+  {
+    "id": "fact-math-game-theory",
+    "topic": "math",
+    "title": "Теория игр",
+    "caption": "Создана фон Нейманом в 1928, развита совместно с Моргенштерном в 1944. Джон Нэш — равновесие в 1950, Нобель по экономике 1994.",
+    "alt": "Иллюстрация теории игр",
+    "year": 1944,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Game_theory"
+  },
+  {
+    "id": "fact-materials-cork",
+    "topic": "materials",
+    "title": "Пробка",
+    "caption": "Кора пробкового дуба. Португалия — 50% мирового производства. С одного дерева снимают раз в 9 лет, оно живёт 200+ лет.",
+    "alt": "Кусок пробки",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cork_(material)"
+  },
+  {
+    "id": "fact-materials-asphalt",
+    "topic": "materials",
+    "title": "Асфальт",
+    "caption": "Битум + щебень + песок. Первая дорога с асфальтом — Париж, 1849. Сегодня — 90% дорог мира. Перерабатывается на 100%.",
+    "alt": "Укладка асфальта",
+    "year": 1849,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Asphalt"
+  },
+  {
+    "id": "fact-materials-lithium-battery",
+    "topic": "materials",
+    "title": "Литий-ионная батарея",
+    "caption": "Коммерческий выпуск — Sony, 1991. Нобель по химии 2019 — Гуденаф, Уиттингем, Йосино. Tesla Model S — 7104 ячейки 18650 в батарее.",
+    "alt": "Литий-ионная батарея",
+    "year": 1991,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lithium-ion_battery"
+  },
+  {
+    "id": "fact-materials-linen",
+    "topic": "materials",
+    "title": "Лён",
+    "caption": "Древнейшее культурное растение Европы — лён выращивают с 8000 до н.э. Льняная мумия фараона Тутмоса II сохранилась 3500 лет.",
+    "alt": "Льняные стебли",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Linen"
+  },
+  {
+    "id": "fact-science-cern",
+    "topic": "science",
+    "title": "CERN · Большой адронный коллайдер",
+    "caption": "LHC, ЦЕРН, 2008. Кольцо 27 км под границей Швейцарии и Франции. Сталкивает протоны на скорости 99,9999991% света. Энергия 13,6 ТэВ.",
+    "alt": "Туннель Большого адронного коллайдера",
+    "year": 2008,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Large_Hadron_Collider"
+  },
+  {
+    "id": "fact-science-iphone",
+    "topic": "science",
+    "title": "iPhone",
+    "caption": "Стив Джобс представил 9 января 2007. Продано 2,3+ млрд устройств за 17 лет. Поменял мобильную индустрию — все вокруг копировали.",
+    "alt": "iPhone первого поколения",
+    "year": 2007,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "IPhone_(1st_generation)"
+  },
+  {
+    "id": "fact-science-cassette",
+    "topic": "science",
+    "title": "Компакт-диск",
+    "caption": "Sony + Philips, 1982. Ёмкость 74 минуты — чтобы поместилась «Девятая симфония» Бетховена. Тираж 200 млрд штук за 40 лет.",
+    "alt": "Компакт-диск",
+    "year": 1982,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Compact_disc"
+  },
+  {
+    "id": "fact-science-spacex-starship",
+    "topic": "science",
+    "title": "SpaceX Starship",
+    "caption": "Двухступенчатая суперракета SpaceX. Высота 121 м, тяга 7600 тонн — рекорд. Первый успешный полёт — 14 марта 2024.",
+    "alt": "Starship на старте",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "SpaceX_Starship"
+  },
+  {
+    "id": "fact-science-alphazero",
+    "topic": "science",
+    "title": "AlphaZero",
+    "caption": "DeepMind, декабрь 2017. ИИ освоил шахматы за 4 часа от нуля — обыграл лучший движок Stockfish со счётом 28 к 0 (72 ничьи).",
+    "alt": "Шахматная доска",
+    "year": 2017,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "AlphaZero"
+  },
+  {
+    "id": "fact-events-rio-2016",
+    "topic": "events",
+    "title": "Олимпиада Рио 2016",
+    "caption": "5–21 августа 2016. Первая в Южной Америке. 11 238 спортсменов из 207 стран. Усэйн Болт — 3 золота, 3-й Олимпийский «трипл».",
+    "alt": "Церемония открытия Рио 2016",
+    "year": 2016,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "2016_Summer_Olympics"
+  },
+  {
+    "id": "fact-events-discovery-troy",
+    "topic": "events",
+    "title": "Открытие Трои",
+    "caption": "Генрих Шлиман, 1873. Раскопки в Турции нашли руины города ~3000 до н.э. Доказал реальность гомеровских поэм. Слой VIIa — историческая Троя.",
+    "alt": "Раскопки Трои",
+    "year": 1873,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Heinrich_Schliemann"
+  },
+  {
+    "id": "fact-food-fugu",
+    "topic": "food",
+    "title": "Фугу",
+    "caption": "Японская рыба-собака. Внутренности содержат тетродотоксин — в 1200 раз сильнее цианида. Повар-фугу учится 11 лет, имеет лицензию.",
+    "alt": "Тарелка фугу",
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fugu"
+  },
+  {
+    "id": "fact-food-baguette",
+    "topic": "food",
+    "title": "Багет",
+    "caption": "Длина 65 см, вес 250 г. Стандарт закреплён законом Франции 1993. UNESCO нематериальное наследие с 2022. 6 млрд штук в год.",
+    "alt": "Свежие багеты",
+    "year": 1993,
+    "meta": { "country_code": "FR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Baguette"
+  },
+  {
+    "id": "fact-food-pho",
+    "topic": "food",
+    "title": "Фо",
+    "caption": "Вьетнамский лапшевой суп с говядиной или курицей. Появился в начале XX века. Бульон варят 6–12 часов из костей и пряностей.",
+    "alt": "Тарелка фо бо",
+    "meta": { "country_code": "VN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pho"
+  }
+]

@@ -1,4 +1,21 @@
 [
+  "fact-math-cantor",
+  "fact-math-euler-identity",
+  "fact-math-eulers-number",
   "fact-math-fermat",
-  "fact-math-fibonacci"
+  "fact-math-fibonacci",
+  "fact-math-four-color",
+  "fact-math-gauss",
+  "fact-math-golden-ratio",
+  "fact-math-hilbert",
+  "fact-math-infinity",
+  "fact-math-konigsberg",
+  "fact-math-lobachevsky",
+  "fact-math-mandelbrot",
+  "fact-math-mobius",
+  "fact-math-pi",
+  "fact-math-prime-numbers",
+  "fact-math-probability",
+  "fact-math-pythagoras",
+  "fact-math-riemann"
 ]

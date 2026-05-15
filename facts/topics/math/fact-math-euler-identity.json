@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-euler-identity",
+  "topic": "math",
+  "title": "Тождество Эйлера",
+  "caption": "e^iπ + 1 = 0. Связывает 5 важнейших констант: 0, 1, e, π, i. Признано «самой красивой формулой математики».",
+  "image": "fact-math-euler-identity.webp",
+  "image_width": 1280,
+  "image_height": 1319,
+  "alt": "Формула e^iπ + 1 = 0",
+  "credit": "Original: GuntherDerivative work: Wereon · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Euler's_identity",
+  "license": "CC-BY-SA",
+  "year": 2006
+}

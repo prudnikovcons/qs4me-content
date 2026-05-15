@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-gps",
+  "topic": "science",
+  "title": "GPS",
+  "caption": "Сеть из 31 спутника на орбите 20 200 км. Запущена США в 1978, открыта для всех с 2000. Точность для гражданских — 5 м.",
+  "image": "fact-science-gps.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Спутник GPS на орбите",
+  "credit": "U.S. Air Force · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Global_Positioning_System",
+  "license": "PD",
+  "year": 2000
+}

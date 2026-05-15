@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-laser",
+  "topic": "science",
+  "title": "Лазер",
+  "caption": "Theodore Maiman, 16 мая 1960 — первый рабочий лазер. Усиленный когерентный свет. Сегодня лазеры режут сталь, поправляют зрение, читают CD.",
+  "image": "fact-science-laser.webp",
+  "image_width": 1280,
+  "image_height": 851,
+  "alt": "Лазерный луч",
+  "credit": "ESO/A. Ghizzi Panizza (www.albertoghizzipanizza.com) · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Laser",
+  "license": "CC-BY",
+  "year": 1960
+}

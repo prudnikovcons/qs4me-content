@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-china-terracotta-army",
+  "topic": "country",
+  "title": "Китай · Терракотовая армия",
+  "caption": "Сиань, ~210 до н.э. 8000 воинов, лошадей и колесниц охраняли гробницу Цинь Шихуанди. Найдена крестьянами при копке колодца в 1974.",
+  "image": "fact-country-china-terracotta-army.webp",
+  "image_width": 1280,
+  "image_height": 848,
+  "alt": "Терракотовая армия",
+  "credit": "xiquinhosilva · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Terracotta_Army",
+  "license": "CC-BY",
+  "year": -210,
+  "meta": {
+    "country_code": "CN"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-ratings-russia-largest",
+  "topic": "ratings",
+  "title": "Россия · 17,1 млн км²",
+  "caption": "Крупнейшая страна мира — 17,1 млн км², 11% суши. 11 часовых поясов. Граничит с 14 странами — рекорд Земли.",
+  "image": "fact-ratings-russia-largest.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Карта России",
+  "credit": "GumballNine1Nine · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Russia",
+  "license": "CC0",
+  "year": 2023,
+  "meta": {
+    "country_code": "RU"
+  }
+}

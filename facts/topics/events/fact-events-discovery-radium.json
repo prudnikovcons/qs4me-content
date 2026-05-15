@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-discovery-radium",
+  "topic": "events",
+  "title": "Открытие радия",
+  "caption": "Мария и Пьер Кюри, декабрь 1898. Из 8 тонн уранинита получили 1 г соли радия за 4 года. Нобель по физике 1903 на троих.",
+  "image": "fact-events-discovery-radium.webp",
+  "image_width": 653,
+  "image_height": 522,
+  "alt": "Мария и Пьер Кюри в лаборатории",
+  "credit": "grenadier · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Radium",
+  "license": "CC-BY",
+  "year": 1898
+}

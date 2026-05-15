@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-socrates",
+  "topic": "quote",
+  "title": "Сократ",
+  "caption": "470–399 до н.э. Не оставил ни одного письменного слова — всё известно через диалоги Платона. Казнён 399 до н.э. за «безбожие».",
+  "image": "fact-quote-socrates.webp",
+  "image_width": 1280,
+  "image_height": 1707,
+  "alt": "Бюст Сократа",
+  "credit": "Copy of Lysippos (?) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Socrates",
+  "license": "PD",
+  "year": -399
+}

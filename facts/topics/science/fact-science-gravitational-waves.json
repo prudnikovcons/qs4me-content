@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-gravitational-waves",
+  "topic": "science",
+  "title": "Гравитационные волны",
+  "caption": "Предсказаны Эйнштейном в 1916. Первое обнаружение — LIGO, 14 сентября 2015. Слияние двух чёрных дыр 1,3 млрд лет назад.",
+  "image": "fact-science-gravitational-waves.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Лазерная обсерватория LIGO",
+  "credit": "Simulating eXtreme Spacetimes Collaboration/Canadian Institute for Theoretical A",
+  "source": "https://en.wikipedia.org/wiki/Gravitational_wave",
+  "license": "CC-BY-SA",
+  "year": 2015
+}

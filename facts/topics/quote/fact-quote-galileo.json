@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-galileo",
+  "topic": "quote",
+  "title": "Галилео Галилей",
+  "caption": "1564–1642. В 1610 в телескоп увидел спутники Юпитера. За поддержку Коперника осуждён инквизицией в 1633. Реабилитирован в 1992.",
+  "image": "fact-quote-galileo.webp",
+  "image_width": 1280,
+  "image_height": 1626,
+  "alt": "Портрет Галилео Галилея",
+  "credit": "Justus Sustermans · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+  "license": "PD",
+  "year": 1633
+}

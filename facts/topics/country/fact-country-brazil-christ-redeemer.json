@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-brazil-christ-redeemer",
+  "topic": "country",
+  "title": "Бразилия · Христос Искупитель",
+  "caption": "Статуя Иисуса в Рио, 1931. Высота 30 м, размах рук 28 м. Стоит на горе Корковадо (710 м), весит 635 тонн.",
+  "image": "fact-country-brazil-christ-redeemer.webp",
+  "image_width": 1280,
+  "image_height": 1919,
+  "alt": "Статуя Христа Искупителя в Рио",
+  "credit": "Arne Müseler · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+  "license": "CC-BY-SA",
+  "year": 1931,
+  "meta": {
+    "country_code": "BR"
+  }
+}

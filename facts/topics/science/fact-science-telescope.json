@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-telescope",
+  "topic": "science",
+  "title": "Телескоп",
+  "caption": "Галилей, 1609 — улучшил голландский прибор. Увеличение 20×. Открыл фазы Венеры, спутники Юпитера, кольца Сатурна.",
+  "image": "fact-science-telescope.webp",
+  "image_width": 554,
+  "image_height": 904,
+  "alt": "Телескоп Галилея",
+  "credit": "Andrew Dunn · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Telescope",
+  "license": "CC-BY-SA",
+  "year": 1609
+}

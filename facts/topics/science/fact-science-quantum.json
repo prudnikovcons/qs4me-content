@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-quantum",
+  "topic": "science",
+  "title": "Квантовая механика",
+  "caption": "Описывает мир атомов. Электрон одновременно волна и частица. Гейзенберг 1927: нельзя одновременно знать координату и импульс.",
+  "image": "fact-science-quantum.webp",
+  "image_width": 1280,
+  "image_height": 1163,
+  "alt": "Электронное облако атома",
+  "credit": "PoorLeno (talk) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+  "license": "PD",
+  "year": 1927
+}

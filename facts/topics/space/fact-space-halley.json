@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-halley",
+  "topic": "space",
+  "title": "Комета Галлея",
+  "caption": "Период 76 лет. Последний прилёт — 1986, следующий — 2061. Зафиксирована минимум 30 раз с 240 до н.э.",
+  "image": "fact-space-halley.webp",
+  "image_width": 1280,
+  "image_height": 889,
+  "alt": "Комета Галлея 1986",
+  "credit": "NASA/W. Liller · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Halley's_Comet",
+  "license": "PD",
+  "year": 1986
+}

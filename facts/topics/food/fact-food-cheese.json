@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-cheese",
+  "topic": "food",
+  "title": "Сыр",
+  "caption": "Около 1800 сортов. Старейший след — Польша, 5500 до н.э. Пармезан созревает 12–36 месяцев. Чеддер — 70% потребляемого в США.",
+  "image": "fact-food-cheese.webp",
+  "image_width": 960,
+  "image_height": 576,
+  "alt": "Ассортимент сыров",
+  "credit": "Unknown · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Cheese",
+  "license": "CC-BY-SA",
+  "year": 2011
+}

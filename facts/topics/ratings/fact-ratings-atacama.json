@@ -1,0 +1,17 @@
+{
+  "id": "fact-ratings-atacama",
+  "topic": "ratings",
+  "title": "Атакама · 0 мм/год",
+  "caption": "Пустыня в Чили — самое сухое место Земли. Местами не было дождей 500 лет. Используется NASA для тестов марсианских миссий.",
+  "image": "fact-ratings-atacama.webp",
+  "image_width": 493,
+  "image_height": 728,
+  "alt": "Пустыня Атакама",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Atacama_Desert",
+  "license": "PD",
+  "year": 2009,
+  "meta": {
+    "country_code": "CL"
+  }
+}

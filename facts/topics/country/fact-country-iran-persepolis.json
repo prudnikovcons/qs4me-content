@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-iran-persepolis",
+  "topic": "country",
+  "title": "Иран · Персеполь",
+  "caption": "Столица Ахеменидов, основана Дарием I в 518 до н.э. Сожжена Александром Македонским в 330 до н.э. за одну ночь.",
+  "image": "fact-country-iran-persepolis.webp",
+  "image_width": 918,
+  "image_height": 600,
+  "alt": "Руины Персеполя",
+  "credit": "Alborzagros · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Persepolis",
+  "license": "CC-BY-SA",
+  "year": -518,
+  "meta": {
+    "country_code": "IR"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-music-bach",
+  "topic": "music",
+  "title": "Иоганн Себастьян Бах",
+  "caption": "1685–1750. Написал 1128 произведений. После смерти забыт на 80 лет, возрождён Мендельсоном в 1829 — «Страсти по Матфею».",
+  "image": "fact-music-bach.webp",
+  "image_width": 1280,
+  "image_height": 1661,
+  "alt": "Портрет Иоганна Себастьяна Баха",
+  "credit": "Elias Gottlob Haussmann · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+  "license": "PD",
+  "year": 1750
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-zimbabwe-victoria-falls",
+  "topic": "country",
+  "title": "Замбия · Виктория",
+  "caption": "Водопад на Замбези. Высота 108 м, ширина 1708 м. Открыт европейцами 16 ноября 1855 — Дэвид Ливингстон назвал в честь королевы.",
+  "image": "fact-country-zimbabwe-victoria-falls.webp",
+  "image_width": 1280,
+  "image_height": 1989,
+  "alt": "Водопад Виктория",
+  "credit": "Diego Delso · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Victoria_Falls",
+  "license": "CC-BY-SA",
+  "year": 1855,
+  "meta": {
+    "country_code": "ZM"
+  }
+}

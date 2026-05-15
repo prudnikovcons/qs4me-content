@@ -1,0 +1,17 @@
+{
+  "id": "fact-art-guernica",
+  "topic": "art",
+  "title": "Герника",
+  "caption": "Пабло Пикассо, 1937, 349×776 см. Реакция на бомбардировку Герники нацистами. Хранилась 44 года в MoMA — пока в Испании Франко.",
+  "image": "fact-art-guernica.webp",
+  "image_width": 1247,
+  "image_height": 650,
+  "alt": "«Герника» Пикассо",
+  "credit": "Papamanila · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Guernica_(Picasso)",
+  "license": "CC-BY-SA",
+  "year": 1937,
+  "meta": {
+    "artist": "Pablo Picasso"
+  }
+}

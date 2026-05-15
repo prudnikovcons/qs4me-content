@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-confucius",
+  "topic": "quote",
+  "title": "Конфуций",
+  "caption": "551–479 до н.э. Учитель из царства Лу. Его «Беседы и суждения» в 21 веке цитируют 1,5 млрд человек ежедневно.",
+  "image": "fact-quote-confucius.webp",
+  "image_width": 350,
+  "image_height": 640,
+  "alt": "Изображение Конфуция",
+  "credit": "Wu Daozi, 685-758, Tang Dynasty. · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Confucius",
+  "license": "PD",
+  "year": -551
+}

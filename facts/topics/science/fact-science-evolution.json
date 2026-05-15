@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-evolution",
+  "topic": "science",
+  "title": "Теория эволюции",
+  "caption": "Дарвин, 1859. Естественный отбор. Все ~8,7 млн видов Земли — потомки общего предка LUCA, жившего 3,5–3,9 млрд лет назад.",
+  "image": "fact-science-evolution.webp",
+  "image_width": 1280,
+  "image_height": 2086,
+  "alt": "Дерево жизни Дарвина",
+  "credit": "Charles Darwin · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Evolution",
+  "license": "PD",
+  "year": 1859
+}

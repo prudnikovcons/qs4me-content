@@ -1,0 +1,471 @@
+[
+  {
+    "id": "fact-history-pompeii",
+    "topic": "history",
+    "title": "Помпеи",
+    "caption": "Римский город под Везувием. 24 августа 79 года н.э. за 18 часов погребён под 6 м пепла. Найден случайно в 1748.",
+    "alt": "Развалины Помпей",
+    "year": 79,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pompeii"
+  },
+  {
+    "id": "fact-history-tutankhamun",
+    "topic": "history",
+    "title": "Гробница Тутанхамона",
+    "caption": "Открыта Говардом Картером 4 ноября 1922 в Долине Царей. 5398 предметов. Маска фараона — 11 кг чистого золота.",
+    "alt": "Золотая маска Тутанхамона",
+    "year": 1922,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tutankhamun"
+  },
+  {
+    "id": "fact-history-library-alexandria",
+    "topic": "history",
+    "title": "Александрийская библиотека",
+    "caption": "Основана Птолемеем I в 295 до н.э. До 400 000 свитков. Сожжена в нескольких этапах между 48 до н.э. и 391 н.э.",
+    "alt": "Реконструкция Александрийской библиотеки",
+    "year": -295,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Library_of_Alexandria"
+  },
+  {
+    "id": "fact-history-french-revolution",
+    "topic": "history",
+    "title": "Французская революция",
+    "caption": "1789–1799. Взятие Бастилии 14 июля 1789. Король Людовик XVI казнён 21 января 1793, королева Мария-Антуанетта — 16 октября.",
+    "alt": "Взятие Бастилии",
+    "year": 1789,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "French_Revolution"
+  },
+  {
+    "id": "fact-history-versailles-treaty",
+    "topic": "history",
+    "title": "Версальский договор",
+    "caption": "Подписан 28 июня 1919, через 5 лет после начала Первой мировой. Германия обязалась выплатить 132 млрд золотых марок.",
+    "alt": "Подписание Версальского договора",
+    "year": 1919,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Treaty_of_Versailles"
+  },
+  {
+    "id": "fact-history-spanish-flu",
+    "topic": "history",
+    "title": "Испанский грипп",
+    "caption": "1918–1920. Заразилось 500 млн человек (треть населения Земли). Погибло 50–100 млн — больше, чем в Первую мировую.",
+    "alt": "Госпиталь во время эпидемии гриппа 1918",
+    "year": 1918,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "1918_flu_pandemic"
+  },
+  {
+    "id": "fact-history-columbus",
+    "topic": "history",
+    "title": "Открытие Америки",
+    "caption": "Христофор Колумб, 12 октября 1492. Считал, что доплыл до Индии. Викинги Лейфа Эриксона были там за 500 лет до него.",
+    "alt": "Высадка Колумба в Америке",
+    "year": 1492,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Voyages_of_Christopher_Columbus"
+  },
+  {
+    "id": "fact-history-black-death",
+    "topic": "history",
+    "title": "Чёрная смерть",
+    "caption": "1346–1353. Пик в 1348. Бубонная чума убила 30–60% населения Европы — 75–200 млн человек. Восстановление демографии — 200 лет.",
+    "alt": "Доктор в маске чумного периода",
+    "year": 1348,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Black_Death"
+  },
+  {
+    "id": "fact-history-hastings",
+    "topic": "history",
+    "title": "Битва при Гастингсе",
+    "caption": "14 октября 1066. Норманны Вильгельма Завоевателя разбили англосаксов короля Гарольда. Норманнский период Англии — на 300 лет.",
+    "alt": "Гобелен из Байё — битва при Гастингсе",
+    "year": 1066,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Battle_of_Hastings"
+  },
+  {
+    "id": "fact-history-reformation",
+    "topic": "history",
+    "title": "Реформация",
+    "caption": "Мартин Лютер прибил 95 тезисов к двери Виттенбергского собора 31 октября 1517. Разделил западное христианство на 2 части.",
+    "alt": "Мартин Лютер с тезисами",
+    "year": 1517,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Reformation"
+  },
+  {
+    "id": "fact-history-gutenberg",
+    "topic": "history",
+    "title": "Библия Гутенберга",
+    "caption": "Иоганн Гутенберг, Майнц, 1455. Первая книга, напечатанная с подвижного шрифта в Европе. Тираж ~180 копий, сохранилось 49.",
+    "alt": "Страница Библии Гутенберга",
+    "year": 1455,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gutenberg_Bible"
+  },
+  {
+    "id": "fact-history-d-day",
+    "topic": "history",
+    "title": "День Д",
+    "caption": "6 июня 1944. Высадка союзников в Нормандии — крупнейшая морская десантная операция. 156 000 солдат, 4400 жертв в день.",
+    "alt": "Высадка союзников в Нормандии",
+    "year": 1944,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Normandy_landings"
+  },
+  {
+    "id": "fact-history-pearl-harbor",
+    "topic": "history",
+    "title": "Пёрл-Харбор",
+    "caption": "7 декабря 1941. Япония атаковала базу США на Гавайях. 90 минут, 2403 погибших. На следующий день США вступили во Вторую мировую.",
+    "alt": "Пёрл-Харбор после атаки",
+    "year": 1941,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Attack_on_Pearl_Harbor"
+  },
+  {
+    "id": "fact-history-russian-revolution",
+    "topic": "history",
+    "title": "Октябрьская революция",
+    "caption": "Штурм Зимнего дворца 25–26 октября 1917 (7–8 ноября н.ст.). Большевики свергли Временное правительство. СССР существовал 69 лет.",
+    "alt": "Зимний дворец в Петрограде",
+    "year": 1917,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "October_Revolution"
+  },
+  {
+    "id": "fact-history-constantinople-fall",
+    "topic": "history",
+    "title": "Падение Константинополя",
+    "caption": "29 мая 1453. После 53 дней осады Мехмед II взял город. Конец Византии (1100 лет существования). Начало Османской империи.",
+    "alt": "Осада Константинополя 1453",
+    "year": 1453,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fall_of_Constantinople"
+  },
+  {
+    "id": "fact-history-rome-fall",
+    "topic": "history",
+    "title": "Падение Рима",
+    "caption": "476 год н.э. — Одоакр низложил последнего императора Ромула Августула. Конец Западной Римской империи, 1200 лет существования.",
+    "alt": "Развалины Римского форума",
+    "year": 476,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fall_of_the_Western_Roman_Empire"
+  },
+  {
+    "id": "fact-history-hadrian-wall",
+    "topic": "history",
+    "title": "Адрианов вал",
+    "caption": "Стена через Британию, 122–128 годы н.э. Длина 117 км, высота 5 м, ширина 3 м. Северная граница Римской империи.",
+    "alt": "Адрианов вал в Англии",
+    "year": 122,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hadrian's_Wall"
+  },
+  {
+    "id": "fact-history-vikings",
+    "topic": "history",
+    "title": "Викинги",
+    "caption": "793–1066. Скандинавские мореходы. Доплыли до Северной Америки в ~1000 году — за 492 года до Колумба. Доказано в Л'Анс-о-Медоуз.",
+    "alt": "Реконструкция корабля викингов",
+    "year": 1000,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vikings"
+  },
+  {
+    "id": "fact-history-yalta",
+    "topic": "history",
+    "title": "Ялтинская конференция",
+    "caption": "4–11 февраля 1945. Сталин, Рузвельт, Черчилль решили судьбу послевоенной Европы. Разделили Германию на 4 зоны оккупации.",
+    "alt": "Большая тройка в Ялте",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yalta_Conference"
+  },
+  {
+    "id": "fact-history-boston-tea",
+    "topic": "history",
+    "title": "Бостонское чаепитие",
+    "caption": "16 декабря 1773. Колонисты в индейских костюмах сбросили 342 ящика чая (~21 тонн) в гавань. Спусковой крючок войны за независимость.",
+    "alt": "Бостонское чаепитие — гравюра",
+    "year": 1773,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Boston_Tea_Party"
+  },
+  {
+    "id": "fact-history-magellan",
+    "topic": "history",
+    "title": "Кругосветка Магеллана",
+    "caption": "Экспедиция Магеллана 1519–1522. Первое кругосветное плавание. Магеллан убит на Филиппинах в 1521. Из 270 человек вернулись 18.",
+    "alt": "Карта кругосветного пути Магеллана",
+    "year": 1522,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Magellan_expedition"
+  },
+  {
+    "id": "fact-history-printing-press",
+    "topic": "history",
+    "title": "Печатный станок",
+    "caption": "Гутенберг, ~1440. До этого книгу переписывали 1 год вручную. За первые 50 лет напечатали 20 млн книг — больше, чем за 1000 лет до того.",
+    "alt": "Печатный станок Гутенберга",
+    "year": 1440,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Printing_press"
+  },
+  {
+    "id": "fact-history-renaissance",
+    "topic": "history",
+    "title": "Эпоха Возрождения",
+    "caption": "1300–1600. Начало во Флоренции при Медичи. За 300 лет — да Винчи, Микеланджело, Рафаэль, Галилей, Колумб, Гутенберг.",
+    "alt": "Школа афинская Рафаэля",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Renaissance"
+  },
+  {
+    "id": "fact-history-roman-empire",
+    "topic": "history",
+    "title": "Римская империя",
+    "caption": "27 до н.э. — 476 н.э. На пике (117 н.э.) — 5 млн км² и 70 млн жителей (25% мирового). Дороги — 400 000 км по всей империи.",
+    "alt": "Карта Римской империи",
+    "year": -27,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Roman_Empire"
+  },
+  {
+    "id": "fact-history-mongol-empire",
+    "topic": "history",
+    "title": "Монгольская империя",
+    "caption": "1206–1368. Чингисхан создал крупнейшую сухопутную империю — 24 млн км², 100 млн человек. От Кореи до Венгрии.",
+    "alt": "Карта Монгольской империи",
+    "year": 1206,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mongol_Empire"
+  },
+  {
+    "id": "fact-events-olympics-1896",
+    "topic": "events",
+    "title": "Олимпиада Афин 1896",
+    "caption": "Первые современные Олимпийские игры, 6–15 апреля 1896. 241 спортсмен из 14 стран. Марафонец Спирос Луис стал героем Греции.",
+    "alt": "Афинский олимпийский стадион 1896",
+    "year": 1896,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "1896_Summer_Olympics"
+  },
+  {
+    "id": "fact-events-paris-1889-expo",
+    "topic": "events",
+    "title": "Всемирная выставка 1889",
+    "caption": "Париж, 6 мая – 31 октября 1889. К 100-летию Французской революции. Эйфелева башня — главный павильон. 32 млн посетителей.",
+    "alt": "Эйфелева башня на выставке 1889",
+    "year": 1889,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Exposition_Universelle_(1889)"
+  },
+  {
+    "id": "fact-events-titanic",
+    "topic": "events",
+    "title": "«Титаник»",
+    "caption": "Затонул 15 апреля 1912 после столкновения с айсбергом. 1503 погибших из 2224. Считался непотопляемым — обломки нашли в 1985.",
+    "alt": "«Титаник» в порту Саутгемптона",
+    "year": 1912,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Titanic"
+  },
+  {
+    "id": "fact-events-hindenburg",
+    "topic": "events",
+    "title": "«Гинденбург»",
+    "caption": "Крупнейший дирижабль (245 м). Загорелся при посадке в Лейкхерсте 6 мая 1937. 36 жертв за 32 секунды. Конец эры дирижаблей.",
+    "alt": "Катастрофа Гинденбурга",
+    "year": 1937,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hindenburg_disaster"
+  },
+  {
+    "id": "fact-events-chernobyl",
+    "topic": "events",
+    "title": "Чернобыль",
+    "caption": "26 апреля 1986, 1:23. Взрыв реактора № 4. 30-км зона отчуждения. Радиоактивный йод-131 покрыл всю Европу за 2 недели.",
+    "alt": "Саркофаг над 4-м реактором",
+    "year": 1986,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Chernobyl_disaster"
+  },
+  {
+    "id": "fact-events-wright-flight",
+    "topic": "events",
+    "title": "Первый полёт Райтов",
+    "caption": "17 декабря 1903, Китти-Хок, Северная Каролина. Орвилл Райт — 12 секунд, 37 м. Самолёт «Флайер» весил 274 кг.",
+    "alt": "Первый полёт братьев Райт",
+    "year": 1903,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wright_Flyer"
+  },
+  {
+    "id": "fact-events-hubble-launch",
+    "topic": "events",
+    "title": "Запуск «Хаббла»",
+    "caption": "24 апреля 1990. Космический телескоп на низкой орбите 540 км. Первое фото с дефектом — линза была отшлифована с ошибкой 2,2 мкм.",
+    "alt": "Телескоп Хаббл в космосе",
+    "year": 1990,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hubble_Space_Telescope"
+  },
+  {
+    "id": "fact-events-world-cup-1930",
+    "topic": "events",
+    "title": "Первый ЧМ по футболу",
+    "caption": "Уругвай, 13–30 июля 1930. 13 сборных. Финал: Уругвай 4 – 2 Аргентина. 93 000 зрителей на «Эстадио Сентенарио».",
+    "alt": "Финал ЧМ 1930",
+    "year": 1930,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "1930_FIFA_World_Cup"
+  },
+  {
+    "id": "fact-events-iss-launch",
+    "topic": "events",
+    "title": "Запуск МКС",
+    "caption": "20 ноября 1998 — российский модуль «Заря». 400 км над Землёй. С 2000 года непрерывно обитаема — 25+ лет в космосе.",
+    "alt": "МКС над Землёй",
+    "year": 1998,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "International_Space_Station"
+  },
+  {
+    "id": "fact-events-voyager-launch",
+    "topic": "events",
+    "title": "Запуск «Вояджеров»",
+    "caption": "1977. Voyager-1 и Voyager-2 — самые далёкие рукотворные объекты. К 2025 — 25 млрд км от Земли. Сигнал идёт 23 часа.",
+    "alt": "Voyager — рисунок NASA",
+    "year": 1977,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Voyager_program"
+  },
+  {
+    "id": "fact-events-us-independence",
+    "topic": "events",
+    "title": "День независимости США",
+    "caption": "Декларация подписана 4 июля 1776 в Филадельфии. 56 подписантов рисковали повешением. Только 38% колонистов поддерживали отделение.",
+    "alt": "Декларация независимости США",
+    "year": 1776,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "United_States_Declaration_of_Independence"
+  },
+  {
+    "id": "fact-events-beijing-2008",
+    "topic": "events",
+    "title": "Олимпиада Пекин 2008",
+    "caption": "8 августа 2008, 8:08:08. Церемония открытия — 91 000 зрителей, бюджет $100 млн. Болт побил 100 м — 9,69 сек.",
+    "alt": "Стадион «Птичье гнездо» в Пекине",
+    "year": 2008,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "2008_Summer_Olympics"
+  },
+  {
+    "id": "fact-events-tv-broadcast-1936",
+    "topic": "events",
+    "title": "Первое ТВ-вещание",
+    "caption": "BBC начала регулярное ТВ-вещание 2 ноября 1936 из Александра-Палас. 400 строк, 25 кадров/с. Аудитория — около 100 семей в Лондоне.",
+    "alt": "Старый телевизор 1930-х",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "History_of_television"
+  },
+  {
+    "id": "fact-events-coronation-eii",
+    "topic": "events",
+    "title": "Коронация Елизаветы II",
+    "caption": "2 июня 1953, Вестминстерское аббатство. Первая коронация в прямом ТВ-эфире — 27 млн зрителей в Британии (из 36 млн населения).",
+    "alt": "Коронация Елизаветы II",
+    "year": 1953,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Coronation_of_Elizabeth_II"
+  },
+  {
+    "id": "fact-events-lindbergh-1927",
+    "topic": "events",
+    "title": "Перелёт Линдберга",
+    "caption": "Чарльз Линдберг, 20–21 мая 1927. Нью-Йорк → Париж, 5800 км за 33,5 часа. Первый одиночный безостановочный перелёт через Атлантику.",
+    "alt": "Линдберг и Spirit of St. Louis",
+    "year": 1927,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Charles_Lindbergh"
+  },
+  {
+    "id": "fact-events-heart-transplant",
+    "topic": "events",
+    "title": "Первая пересадка сердца",
+    "caption": "Кристиан Барнард, Кейптаун, 3 декабря 1967. Пациент Луи Вашкански прожил 18 дней. Сейчас выживаемость — 88% за первый год.",
+    "alt": "Кристиан Барнард в операционной",
+    "year": 1967,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Heart_transplantation"
+  },
+  {
+    "id": "fact-events-www",
+    "topic": "events",
+    "title": "World Wide Web",
+    "caption": "Тим Бернерс-Ли, CERN, 12 марта 1989 — proposal. Первая страница 6 августа 1991. К 2024 — 1,1 млрд сайтов, 5,4 млрд пользователей.",
+    "alt": "Первый веб-сервер NeXT",
+    "year": 1989,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "World_Wide_Web"
+  },
+  {
+    "id": "fact-events-curiosity-landing",
+    "topic": "events",
+    "title": "Curiosity на Марсе",
+    "caption": "Марсоход NASA, посадка 6 августа 2012. Спуск через атмосферу — 7 минут ужаса. Уровень радиации — 1,8 миллизиверт/день.",
+    "alt": "Марсоход Curiosity",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Curiosity_(rover)"
+  },
+  {
+    "id": "fact-events-chatgpt-launch",
+    "topic": "events",
+    "title": "Запуск ChatGPT",
+    "caption": "OpenAI, 30 ноября 2022. 1 млн пользователей за 5 дней, 100 млн за 2 месяца — самое быстрое внедрение продукта в истории.",
+    "alt": "Логотип OpenAI",
+    "year": 2022,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "ChatGPT"
+  },
+  {
+    "id": "fact-events-vostok-1961",
+    "topic": "events",
+    "title": "Гагарин · Восток-1",
+    "caption": "12 апреля 1961. Юрий Гагарин — первый человек в космосе. Один виток вокруг Земли за 108 минут на высоте 327 км.",
+    "alt": "Юрий Гагарин в скафандре",
+    "year": 1961,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vostok_1"
+  },
+  {
+    "id": "fact-events-discovery-radium",
+    "topic": "events",
+    "title": "Открытие радия",
+    "caption": "Мария и Пьер Кюри, декабрь 1898. Из 8 тонн уранинита получили 1 г соли радия за 4 года. Нобель по физике 1903 на троих.",
+    "alt": "Мария и Пьер Кюри в лаборатории",
+    "year": 1898,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Radium"
+  },
+  {
+    "id": "fact-events-everest-first",
+    "topic": "events",
+    "title": "Покорение Эвереста",
+    "caption": "29 мая 1953, 11:30. Эдмунд Хиллари и Тенцинг Норгей — первые на вершине 8848 м. На спуске Норгей закопал шоколад в качестве подношения.",
+    "alt": "Тенцинг Норгей на вершине Эвереста",
+    "year": 1953,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "1953_British_Mount_Everest_expedition"
+  }
+]

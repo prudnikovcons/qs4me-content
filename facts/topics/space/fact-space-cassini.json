@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-cassini",
+  "topic": "space",
+  "title": "Миссия Cassini",
+  "caption": "1997–2017. 7 лет полёта к Сатурну, 13 лет на орбите. 453 048 снимков. Сожжён в атмосфере Сатурна 15 сентября 2017.",
+  "image": "fact-space-cassini.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Cassini над Сатурном",
+  "credit": "NASA/JPL · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens",
+  "license": "PD",
+  "year": 2017
+}

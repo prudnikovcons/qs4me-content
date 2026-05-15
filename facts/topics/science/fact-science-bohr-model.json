@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-bohr-model",
+  "topic": "science",
+  "title": "Модель Бора",
+  "caption": "Нильс Бор, 1913. Электроны на дискретных орбитах вокруг ядра. Нобель 1922. Модель неточна, но даёт интуицию для атома.",
+  "image": "fact-science-bohr-model.webp",
+  "image_width": 1280,
+  "image_height": 1085,
+  "alt": "Модель атома Бора",
+  "credit": "JabberWok at English Wikipedia · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Bohr_model",
+  "license": "CC-BY-SA",
+  "year": 1913
+}

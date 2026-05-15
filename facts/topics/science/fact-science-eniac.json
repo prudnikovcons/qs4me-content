@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-eniac",
+  "topic": "science",
+  "title": "ENIAC",
+  "caption": "Первый универсальный компьютер, 1945. 27 тонн, 18 000 ламп. Программирование — переключение кабелей. Считал до 5000 сложений в секунду.",
+  "image": "fact-science-eniac.webp",
+  "image_width": 1280,
+  "image_height": 964,
+  "alt": "ENIAC — первый компьютер",
+  "credit": "The original uploader was TexasDex at English Wikipedia. · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/ENIAC",
+  "license": "CC-BY-SA",
+  "year": 1945
+}

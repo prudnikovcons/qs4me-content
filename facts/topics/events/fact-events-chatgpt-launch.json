@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-chatgpt-launch",
+  "topic": "events",
+  "title": "Запуск ChatGPT",
+  "caption": "OpenAI, 30 ноября 2022. 1 млн пользователей за 5 дней, 100 млн за 2 месяца — самое быстрое внедрение продукта в истории.",
+  "image": "fact-events-chatgpt-launch.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Логотип OpenAI",
+  "credit": "OpenAI · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/ChatGPT",
+  "license": "PD",
+  "year": 2022
+}

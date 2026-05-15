@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-riemann",
+  "topic": "math",
+  "title": "Гипотеза Римана",
+  "caption": "Бернхард Риман, 1859. Все нетривиальные нули ζ-функции имеют Re = ½. Не доказана 167 лет. Премия Клэя — $1 млн за решение.",
+  "image": "fact-math-riemann.webp",
+  "image_width": 1000,
+  "image_height": 1000,
+  "alt": "Дзета-функция Римана",
+  "credit": "No machine-readable author provided. Conscious assumed (based on copyright claim",
+  "source": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+  "license": "CC-BY-SA",
+  "year": 1859
+}

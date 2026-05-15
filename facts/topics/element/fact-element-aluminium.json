@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-aluminium",
+  "topic": "element",
+  "title": "Алюминий · Al (13)",
+  "caption": "Al, 13-й элемент. 8% земной коры — третий после кислорода и кремния. До 1886 был дороже золота — Наполеон III кормил гостей.",
+  "image": "fact-element-aluminium.webp",
+  "image_width": 706,
+  "image_height": 706,
+  "alt": "Слитки чистого алюминия",
+  "credit": "Unknown authorUnknown author · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Aluminium",
+  "license": "CC-BY",
+  "year": 1886,
+  "meta": {
+    "atomic_number": 13,
+    "symbol": "Al"
+  }
+}

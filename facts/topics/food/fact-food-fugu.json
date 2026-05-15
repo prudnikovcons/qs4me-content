@@ -1,0 +1,17 @@
+{
+  "id": "fact-food-fugu",
+  "topic": "food",
+  "title": "Фугу",
+  "caption": "Японская рыба-собака. Внутренности содержат тетродотоксин — в 1200 раз сильнее цианида. Повар-фугу учится 11 лет, имеет лицензию.",
+  "image": "fact-food-fugu.webp",
+  "image_width": 864,
+  "image_height": 474,
+  "alt": "Тарелка фугу",
+  "credit": "Unknown · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Fugu",
+  "license": "CC-BY-SA",
+  "year": 2018,
+  "meta": {
+    "country_code": "JP"
+  }
+}
