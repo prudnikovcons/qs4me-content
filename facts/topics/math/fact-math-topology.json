@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-topology",
+  "topic": "math",
+  "title": "Топология",
+  "caption": "«Резиновая геометрия». Чашка и пончик — топологически одно (1 дырка). Анри Пуанкаре основал в 1895 — «Analysis Situs».",
+  "image": "fact-math-topology.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Топологическая эквивалентность",
+  "credit": "Microsoft · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Topology",
+  "license": "CC-BY",
+  "year": 1895
+}

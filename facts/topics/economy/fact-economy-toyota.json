@@ -1,0 +1,14 @@
+{
+  "id": "fact-economy-toyota",
+  "topic": "economy",
+  "title": "Toyota",
+  "caption": "Основана Тоётой Киитиро в 1937. Крупнейший автопроизводитель мира с 2008. 11 миллионов авто/год. Toyota Production System — основа Lean.",
+  "image": "fact-economy-toyota.webp",
+  "image_width": 900,
+  "image_height": 1200,
+  "alt": "Логотип Toyota",
+  "credit": "Tokumeigakarinoaoshima · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Toyota",
+  "license": "CC0",
+  "year": 1937
+}

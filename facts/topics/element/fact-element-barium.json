@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-barium",
+  "topic": "element",
+  "title": "Барий · Ba (56)",
+  "caption": "Ba, 56-й. От греч. «тяжёлый». Барий-сульфат — для рентгеновского контраста ЖКТ. BaCO₃ — в стекле телевизионных кинескопов.",
+  "image": "fact-element-barium.webp",
+  "image_width": 793,
+  "image_height": 460,
+  "alt": "Барий",
+  "credit": "Matthias Zepper · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Barium",
+  "license": "PD",
+  "year": 2005,
+  "meta": {
+    "atomic_number": 56,
+    "symbol": "Ba"
+  }
+}

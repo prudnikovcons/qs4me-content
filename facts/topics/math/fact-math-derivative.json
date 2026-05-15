@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-derivative",
+  "topic": "math",
+  "title": "Производная",
+  "caption": "Скорость изменения функции. Ньютон и Лейбниц независимо около 1666–1675. Базис всего матанализа и физики.",
+  "image": "fact-math-derivative.webp",
+  "image_width": 1280,
+  "image_height": 896,
+  "alt": "График производной",
+  "credit": "Jacj at English Wikipedia / Later versions were uploaded by Oleg Alexandrov at e",
+  "source": "https://en.wikipedia.org/wiki/Derivative",
+  "license": "PD",
+  "year": 1675
+}

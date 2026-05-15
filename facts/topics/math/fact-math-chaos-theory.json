@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-chaos-theory",
+  "topic": "math",
+  "title": "Теория хаоса",
+  "caption": "Эдвард Лоренц, 1963 — модель погоды. Малые изменения дают огромные последствия. Парадокс: детерминированно, но непредсказуемо.",
+  "image": "fact-math-chaos-theory.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Аттрактор Лоренца",
+  "credit": "Wikimol, Dschwen · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Chaos_theory",
+  "license": "CC-BY-SA",
+  "year": 1963
+}

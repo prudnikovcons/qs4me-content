@@ -1,0 +1,395 @@
+[
+  {
+    "id": "fact-ratings-aconcagua",
+    "topic": "ratings",
+    "title": "Аконкагуа · 6961 м",
+    "caption": "Высочайшая вершина Южной Америки и Западного полушария. Аргентина. Покорена впервые швейцарцем Маттиасом Цурбригеном в 1897.",
+    "alt": "Гора Аконкагуа",
+    "year": 1897,
+    "meta": { "country_code": "AR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aconcagua"
+  },
+  {
+    "id": "fact-ratings-mckinley",
+    "topic": "ratings",
+    "title": "Денали · 6190 м",
+    "caption": "Высочайшая вершина Северной Америки, Аляска. С 2015 официально Денали (раньше — Мак-Кинли). Покорена в 1913.",
+    "alt": "Гора Денали",
+    "year": 1913,
+    "meta": { "country_code": "US" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Denali"
+  },
+  {
+    "id": "fact-ratings-vinson",
+    "topic": "ratings",
+    "title": "Винсон · 4892 м",
+    "caption": "Высочайшая вершина Антарктиды. Открыта только в 1957. Первое восхождение 18 декабря 1966. Часть «Семи вершин».",
+    "alt": "Массив Винсон",
+    "year": 1966,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vinson_Massif"
+  },
+  {
+    "id": "fact-ratings-puncak-jaya",
+    "topic": "ratings",
+    "title": "Пунчак-Джая · 4884 м",
+    "caption": "Высочайшая вершина Океании (Австралии-Океании). Папуа, Индонезия. Часто включается в «Семь вершин» как версия Райнхольда Месснера.",
+    "alt": "Пунчак-Джая",
+    "meta": { "country_code": "ID" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Puncak_Jaya"
+  },
+  {
+    "id": "fact-ratings-burj-khalifa-tallest",
+    "topic": "ratings",
+    "title": "Бурдж-Халифа · 828 м",
+    "caption": "Самое высокое здание мира с 2010. 163 этажа, 828 м. К 2030 уступит Джидда-Тауэр (1 км, Саудовская Аравия).",
+    "alt": "Бурдж-Халифа",
+    "year": 2010,
+    "meta": { "country_code": "AE" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Burj_Khalifa"
+  },
+  {
+    "id": "fact-ratings-wadlow",
+    "topic": "ratings",
+    "title": "Роберт Уодлоу · 2,72 м",
+    "caption": "1918–1940. Самый высокий человек в истории — 272 см при 199 кг. Рост из-за гиперплазии гипофиза. Не остановился даже к 22 годам — продолжал расти.",
+    "alt": "Роберт Уодлоу",
+    "year": 1940,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Robert_Wadlow"
+  },
+  {
+    "id": "fact-ratings-pluto-orbit",
+    "topic": "ratings",
+    "title": "248 лет · год Плутона",
+    "caption": "Самый долгий год среди карликовых планет Солнечной. Открыт 1930, ещё не сделал полный оборот к 2178. Орбита наклонена 17° к эклиптике.",
+    "alt": "Орбита Плутона",
+    "year": 1930,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pluto"
+  },
+  {
+    "id": "fact-ratings-kongō-gumi",
+    "topic": "ratings",
+    "title": "Конго-гуми · 578 г.",
+    "caption": "Старейшая непрерывно работающая компания мира. Японская строительная фирма, основана в 578 году. 1429 лет в одном бизнесе. Поглощена в 2006.",
+    "alt": "Здание Конго-гуми",
+    "year": 578,
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kongō_Gumi"
+  },
+  {
+    "id": "fact-ratings-pando",
+    "topic": "ratings",
+    "title": "Пандо · 80 000 лет",
+    "caption": "Тополь осинообразный в штате Юта. 47 000 стволов, одна корневая система — одно генетическое существо. Площадь 43 га, масса 6000 тонн.",
+    "alt": "Лес Пандо",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pando_(tree)"
+  },
+  {
+    "id": "fact-ratings-armillaria",
+    "topic": "ratings",
+    "title": "Армиллярия · 2400 лет",
+    "caption": "Опёнок осенний в Орегоне. Крупнейший живой организм Земли — 9,6 км² подземного мицелия, ~2400 лет. Масса 35 000 тонн.",
+    "alt": "Армиллярия",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Armillaria_ostoyae"
+  },
+  {
+    "id": "fact-ratings-redwood",
+    "topic": "ratings",
+    "title": "Гиперион · 115,9 м",
+    "caption": "Самое высокое дерево мира — секвойя в Калифорнии. Найдено в 2006. Возраст 600-800 лет. Точное место скрыто от туристов.",
+    "alt": "Секвойя Гиперион",
+    "year": 2006,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hyperion_(tree)"
+  },
+  {
+    "id": "fact-ratings-methuselah",
+    "topic": "ratings",
+    "title": "Мафусаил · 4856 лет",
+    "caption": "Сосна остистая в Калифорнии. Старейшее немиклональное живое дерево на Земле. Проросло в 2832 до н.э. — до Стоунхенджа и пирамид.",
+    "alt": "Сосна Мафусаил",
+    "year": -2832,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Methuselah_(tree)"
+  },
+  {
+    "id": "fact-ratings-jeanne-calment",
+    "topic": "ratings",
+    "title": "Жанна Кальман · 122 года",
+    "caption": "1875–1997. Самый долгий зарегистрированный возраст человека — 122 года 164 дня. Курила до 117, ела 1 кг шоколада в неделю. Видела Ван Гога в 12 лет.",
+    "alt": "Жанна Кальман",
+    "year": 1997,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jeanne_Calment"
+  },
+  {
+    "id": "fact-ratings-greatest-painting",
+    "topic": "ratings",
+    "title": "Salvator Mundi · $450 млн",
+    "caption": "Леонардо да Винчи, ~1500. Продана 15 ноября 2017 на Christie's за $450,3 млн — рекорд по цене картины. Подлинность спорят до сих пор.",
+    "alt": "Salvator Mundi да Винчи",
+    "year": 2017,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Salvator_Mundi_(Leonardo)"
+  },
+  {
+    "id": "fact-ratings-burj-most-storeys",
+    "topic": "ratings",
+    "title": "Saint Helena · 4640 км изоляции",
+    "caption": "Самый изолированный обитаемый остров — 4400 км от Бразилии, 1950 км от Африки. Наполеон умер здесь в ссылке 5 мая 1821.",
+    "alt": "Остров Святой Елены",
+    "year": 1821,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Saint_Helena"
+  },
+  {
+    "id": "fact-ratings-marathon-record",
+    "topic": "ratings",
+    "title": "Марафон · 2:00:35",
+    "caption": "Мировой рекорд Келвина Киптума, 8 октября 2023, Чикаго. 42,195 км за 2 часа 35 секунд. Темп 2:51/км — выше скорости автобуса в городе.",
+    "alt": "Келвин Киптум на марафоне",
+    "year": 2023,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Marathon_world_record_progression"
+  },
+  {
+    "id": "fact-ratings-fastest-fish",
+    "topic": "ratings",
+    "title": "Парусник · 110 км/ч",
+    "caption": "Самая быстрая рыба мира. До 110 км/ч в воде на коротких дистанциях. Длина 3 м, вес до 100 кг. Огромный спинной плавник раскрывается «парусом».",
+    "alt": "Рыба-парусник",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sailfish"
+  },
+  {
+    "id": "fact-ratings-fastest-bird",
+    "topic": "ratings",
+    "title": "Сапсан · 389 км/ч",
+    "caption": "Самое быстрое существо в природе. В пикирующем полёте достигает 389 км/ч. Глаза видят добычу с 1 км. Распространён на всех континентах кроме Антарктиды.",
+    "alt": "Сапсан в пике",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Peregrine_falcon"
+  },
+  {
+    "id": "fact-ratings-stadium",
+    "topic": "ratings",
+    "title": "Рунгнадо · 114 000",
+    "caption": "Стадион в Пхеньяне — крупнейший в мире по вместимости (114 000). Открыт в 1989 к 13-му фестивалю молодёжи. Площадь крыши 207 000 м².",
+    "alt": "Стадион Рунгнадо",
+    "year": 1989,
+    "meta": { "country_code": "KP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rungrado_1st_of_May_Stadium"
+  },
+  {
+    "id": "fact-ratings-passenger-airplane",
+    "topic": "ratings",
+    "title": "Airbus A380 · 853 пассажира",
+    "caption": "Самый большой пассажирский авиалайнер мира. Длина 73 м, размах крыльев 80 м, 4 этажа. Максимум 853 пассажира. Производство закрыто в 2021.",
+    "alt": "Airbus A380",
+    "year": 2007,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Airbus_A380"
+  },
+  {
+    "id": "fact-element-hydrogen-fix",
+    "topic": "element",
+    "title": "Водород · H (1)",
+    "caption": "1-й элемент. 75% всей барионной материи Вселенной. Бесцветный, без запаха. Открыт Кавендишем в 1766. Самый перспективный «зелёный» энергоноситель.",
+    "alt": "Водород · модель атома",
+    "year": 1766,
+    "meta": { "atomic_number": 1, "symbol": "H" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hydrogen",
+    "image_filename_override": "Hydrogen_atom.svg"
+  },
+  {
+    "id": "fact-element-magnesium",
+    "topic": "element",
+    "title": "Магний · Mg (12)",
+    "caption": "Mg, 12-й. 2% массы земной коры. В хлорофилле — 1 атом Mg на молекулу. Горит при 3100 °C — используется в фейерверках, осветительных ракетах.",
+    "alt": "Магний в виде стружки",
+    "meta": { "atomic_number": 12, "symbol": "Mg" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Magnesium"
+  },
+  {
+    "id": "fact-element-phosphorus",
+    "topic": "element",
+    "title": "Фосфор · P (15)",
+    "caption": "P, 15-й. Хеннинг Брандт открыл в 1669 — первый элемент, открытый человеком в новое время. Получил из мочи. Костям нужен кальций+фосфор.",
+    "alt": "Белый и красный фосфор",
+    "year": 1669,
+    "meta": { "atomic_number": 15, "symbol": "P" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Phosphorus"
+  },
+  {
+    "id": "fact-element-manganese",
+    "topic": "element",
+    "title": "Марганец · Mn (25)",
+    "caption": "Mn, 25-й. Открыт Гаhnом в 1774. Стали с марганцем стали бронежилетом каски и танка. Японские катаны содержали Mn-руду 1000 лет назад.",
+    "alt": "Образец марганца",
+    "year": 1774,
+    "meta": { "atomic_number": 25, "symbol": "Mn" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Manganese"
+  },
+  {
+    "id": "fact-element-cobalt",
+    "topic": "element",
+    "title": "Кобальт · Co (27)",
+    "caption": "Co, 27-й. От нем. «kobold» (горный дух). Открыт Брандтом в 1735. Кобальт-60 — в радиотерапии рака. Главный компонент аккумуляторов EV.",
+    "alt": "Образец кобальта",
+    "year": 1735,
+    "meta": { "atomic_number": 27, "symbol": "Co" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cobalt"
+  },
+  {
+    "id": "fact-element-nickel",
+    "topic": "element",
+    "title": "Никель · Ni (28)",
+    "caption": "Ni, 28-й. Открыт Кронштедтом в 1751. От нем. «kupfernickel» («дьявольская медь» — обманывал шахтёров). 70% мирового — Индонезия и Филиппины.",
+    "alt": "Кристалл никеля",
+    "year": 1751,
+    "meta": { "atomic_number": 28, "symbol": "Ni" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nickel"
+  },
+  {
+    "id": "fact-element-bromine",
+    "topic": "element",
+    "title": "Бром · Br (35)",
+    "caption": "Br, 35-й. Жидкий неметалл при комнатной температуре — рядом с ртутью (тоже жидкость). Открыт Балардом в 1826. От греч. «вонь».",
+    "alt": "Жидкий бром",
+    "year": 1826,
+    "meta": { "atomic_number": 35, "symbol": "Br" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bromine"
+  },
+  {
+    "id": "fact-element-strontium",
+    "topic": "element",
+    "title": "Стронций · Sr (38)",
+    "caption": "Sr, 38-й. Стронций-90 — главный продукт ядерных испытаний. После Чернобыля — в почве 100+ лет. Даёт красный цвет в фейерверках.",
+    "alt": "Стронций",
+    "meta": { "atomic_number": 38, "symbol": "Sr" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Strontium"
+  },
+  {
+    "id": "fact-element-molybdenum",
+    "topic": "element",
+    "title": "Молибден · Mo (42)",
+    "caption": "Mo, 42-й. Прочнейшая «лагерь» сталей. Самурайские мечи 700 лет назад содержали молибден. Применяется в реактивных двигателях.",
+    "alt": "Молибден",
+    "meta": { "atomic_number": 42, "symbol": "Mo" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Molybdenum"
+  },
+  {
+    "id": "fact-element-iodine-2",
+    "topic": "element",
+    "title": "Йод · I (53)",
+    "caption": "I, 53-й. Открыт Куртуа, 1811. Фиолетовые кристаллы дают пары. Дефицит ведёт к зобу — 30% людей мира на йодированной соли.",
+    "alt": "Кристаллы йода",
+    "year": 1811,
+    "meta": { "atomic_number": 53, "symbol": "I" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Iodine"
+  },
+  {
+    "id": "fact-element-cesium",
+    "topic": "element",
+    "title": "Цезий · Cs (55)",
+    "caption": "Cs, 55-й. Открыт Бунзеном и Кирхгофом в 1860 — спектроскопом по голубым линиям. Атомные часы по Cs-133 — стандарт времени с 1967.",
+    "alt": "Цезий",
+    "year": 1860,
+    "meta": { "atomic_number": 55, "symbol": "Cs" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Caesium"
+  },
+  {
+    "id": "fact-element-barium",
+    "topic": "element",
+    "title": "Барий · Ba (56)",
+    "caption": "Ba, 56-й. От греч. «тяжёлый». Барий-сульфат — для рентгеновского контраста ЖКТ. BaCO₃ — в стекле телевизионных кинескопов.",
+    "alt": "Барий",
+    "meta": { "atomic_number": 56, "symbol": "Ba" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Barium"
+  },
+  {
+    "id": "fact-element-neodymium",
+    "topic": "element",
+    "title": "Неодим · Nd (60)",
+    "caption": "Nd, 60-й. Редкоземельный. Neodym = «новый близнец». Магниты NdFeB — сильнейшие в мире, используются в наушниках, моторах EV, ветрогенераторах.",
+    "alt": "Кубик неодима",
+    "meta": { "atomic_number": 60, "symbol": "Nd" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Neodymium"
+  },
+  {
+    "id": "fact-element-iridium",
+    "topic": "element",
+    "title": "Иридий · Ir (77)",
+    "caption": "Ir, 77-й. Самый плотный устойчивый элемент — 22,56 г/см³. Из метеоритов на Земле в 10 000 раз больше, чем из земной коры.",
+    "alt": "Иридий",
+    "meta": { "atomic_number": 77, "symbol": "Ir" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Iridium"
+  },
+  {
+    "id": "fact-element-osmium",
+    "topic": "element",
+    "title": "Осмий · Os (76)",
+    "caption": "Os, 76-й. Самый плотный из всех — 22,59 г/см³. Кубик 10 см весит 22,6 кг. Имя от греч. «запах» — даёт ядовитые пары OsO₄.",
+    "alt": "Осмий",
+    "meta": { "atomic_number": 76, "symbol": "Os" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Osmium"
+  },
+  {
+    "id": "fact-element-rhenium",
+    "topic": "element",
+    "title": "Рений · Re (75)",
+    "caption": "Re, 75-й. Последний из стабильных элементов, открытых на Земле — 1925. Точка плавления 3186 °C, вторая после вольфрама. Авиадвигатели.",
+    "alt": "Рений",
+    "year": 1925,
+    "meta": { "atomic_number": 75, "symbol": "Re" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rhenium"
+  },
+  {
+    "id": "fact-element-radium",
+    "topic": "element",
+    "title": "Радий · Ra (88)",
+    "caption": "Ra, 88-й. Мария и Пьер Кюри, 1898. Из 8 тонн уранинита получили 1 г радия. Светится в темноте. Принёс Кюри Нобель 1903, ей же — рак.",
+    "alt": "Радий",
+    "year": 1898,
+    "meta": { "atomic_number": 88, "symbol": "Ra" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Radium"
+  },
+  {
+    "id": "fact-element-mercury-fix",
+    "topic": "element",
+    "title": "Ртуть · Hg (80)",
+    "caption": "Hg, 80-й. Единственный жидкий металл при комнатной температуре. Плавится при −38,8 °C. Алхимики называли «живым серебром».",
+    "alt": "Жидкая ртуть",
+    "meta": { "atomic_number": 80, "symbol": "Hg" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mercury_(element)",
+    "image_filename_override": "Mercury_element.jpg"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "fact-economy-coca-cola",
+  "topic": "economy",
+  "title": "Coca-Cola",
+  "caption": "Джон Пембертон, 8 мая 1886, Атланта. Изначально с кокаином (до 1903). Сегодня — 1,9 миллиарда напитков в день. Бренд оценивается в $97 млрд.",
+  "image": "fact-economy-coca-cola.webp",
+  "image_width": 1280,
+  "image_height": 1920,
+  "alt": "Coca-Cola",
+  "credit": "DYVER · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Coca-Cola",
+  "license": "CC-BY-SA",
+  "year": 1886
+}

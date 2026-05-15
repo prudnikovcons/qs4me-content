@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-imaginary-unit",
+  "topic": "math",
+  "title": "Мнимая единица i",
+  "caption": "i² = −1. Введена Бомбелли в 1572 для решения кубических уравнений. Эйлер ввёл символ i в 1777. Базис всей квантовой физики.",
+  "image": "fact-math-imaginary-unit.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Комплексная плоскость",
+  "credit": "Loadmaster (David R. Tribble) This image was made by Loadmaster (David R. Tribbl",
+  "source": "https://en.wikipedia.org/wiki/Imaginary_unit",
+  "license": "CC-BY-SA",
+  "year": 1777
+}

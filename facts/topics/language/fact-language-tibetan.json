@@ -1,0 +1,14 @@
+{
+  "id": "fact-language-tibetan",
+  "topic": "language",
+  "title": "Тибетское письмо",
+  "caption": "Создано в VII веке (~650 н.э.) на основе индийского деванагари. Используется для тибетского, дзонг-кэ (Бутан) и некоторых других гималайских.",
+  "image": "fact-language-tibetan.webp",
+  "image_width": 1280,
+  "image_height": 561,
+  "alt": "Тибетский текст",
+  "credit": "Christopher J. Fynn · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Tibetan_script",
+  "license": "CC-BY-SA",
+  "year": 650
+}

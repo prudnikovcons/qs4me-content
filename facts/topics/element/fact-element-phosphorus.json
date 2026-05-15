@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-phosphorus",
+  "topic": "element",
+  "title": "Фосфор · P (15)",
+  "caption": "P, 15-й. Хеннинг Брандт открыл в 1669 — первый элемент, открытый человеком в новое время. Получил из мочи. Костям нужен кальций+фосфор.",
+  "image": "fact-element-phosphorus.webp",
+  "image_width": 665,
+  "image_height": 423,
+  "alt": "Белый и красный фосфор",
+  "credit": "Tomihahndorf · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Phosphorus",
+  "license": "PD",
+  "year": 1669,
+  "meta": {
+    "atomic_number": 15,
+    "symbol": "P"
+  }
+}

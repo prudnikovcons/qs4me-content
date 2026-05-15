@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-integral",
+  "topic": "math",
+  "title": "Интеграл",
+  "caption": "Обратная операция производной. Знак ∫ ввёл Лейбниц, 1675 — стилизованная S от лат. summa. Сегодня — основа физики, статистики, экономики.",
+  "image": "fact-math-integral.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Интеграл",
+  "credit": "KSmrq · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Integral",
+  "license": "CC-BY-SA",
+  "year": 1675
+}

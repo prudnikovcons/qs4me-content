@@ -1,0 +1,14 @@
+{
+  "id": "fact-economy-nasdaq",
+  "topic": "economy",
+  "title": "NASDAQ",
+  "caption": "Первая электронная биржа мира, 8 февраля 1971. Apple, Google, Amazon, Tesla, Microsoft — все здесь. Капитализация $22 трлн (2024).",
+  "image": "fact-economy-nasdaq.webp",
+  "image_width": 1280,
+  "image_height": 425,
+  "alt": "NASDAQ",
+  "credit": "Wikideas1 · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Nasdaq",
+  "license": "CC0",
+  "year": 1971
+}

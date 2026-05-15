@@ -1,0 +1,14 @@
+{
+  "id": "fact-language-voynich",
+  "topic": "language",
+  "title": "Манускрипт Войнича",
+  "caption": "240 страниц, иллюстрации растений, астрономии. ~1404–1438. Никто не расшифровал. Тест Имза 2019 — мнимый протоиталийский, но спорно.",
+  "image": "fact-language-voynich.webp",
+  "image_width": 1143,
+  "image_height": 1536,
+  "alt": "Манускрипт Войнича",
+  "credit": "Unknown authorUnknown author · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+  "license": "PD",
+  "year": 1420
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "fact-math-hilbert-2",
+    "topic": "math",
+    "title": "Давид Гильберт",
+    "caption": "1862–1943. 23 проблемы на конгрессе 1900 определили математику XX века. Гильбертово пространство — базис квантовой механики.",
+    "alt": "Портрет Давида Гильберта",
+    "year": 1900,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "David_Hilbert"
+  },
+  {
+    "id": "fact-math-poincare",
+    "topic": "math",
+    "title": "Анри Пуанкаре",
+    "caption": "1854–1912. Заложил топологию, теорию динамических систем, специальную теорию относительности (параллельно с Эйнштейном).",
+    "alt": "Портрет Анри Пуанкаре",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Henri_Poincaré"
+  },
+  {
+    "id": "fact-math-perelman",
+    "topic": "math",
+    "title": "Григорий Перельман",
+    "caption": "Род. 1966. Доказал гипотезу Пуанкаре в 2003. Отказался от Филдсовской медали 2006 и $1 млн премии Клэя 2010.",
+    "alt": "Григорий Перельман",
+    "year": 2003,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Grigori_Perelman"
+  },
+  {
+    "id": "fact-math-erdos",
+    "topic": "math",
+    "title": "Пал Эрдёш",
+    "caption": "1913–1996. Самый «социальный» математик. 1500+ публикаций с 511 соавторами. Изобрёл «число Эрдёша» — степень соавторской дистанции.",
+    "alt": "Пал Эрдёш",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Paul_Erdős"
+  },
+  {
+    "id": "fact-math-tao",
+    "topic": "math",
+    "title": "Теренс Тао",
+    "caption": "Род. 1975, Австралия. Чудо-вундеркинд: бакалавр в 16, PhD в 21. Филдсовская медаль 2006 за теорию чисел и гармонический анализ.",
+    "alt": "Теренс Тао",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Terence_Tao"
+  },
+  {
+    "id": "fact-math-galois",
+    "topic": "math",
+    "title": "Эварист Галуа",
+    "caption": "1811–1832. Заложил теорию групп. Накануне дуэли (29 мая 1832) написал письмо с математическими открытиями. Убит в 20 лет.",
+    "alt": "Эварист Галуа",
+    "year": 1832,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Évariste_Galois"
+  },
+  {
+    "id": "fact-math-noether",
+    "topic": "math",
+    "title": "Эмми Нётер",
+    "caption": "1882–1935. Теорема Нётер: каждой непрерывной симметрии соответствует закон сохранения. База современной физики.",
+    "alt": "Эмми Нётер",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Emmy_Noether"
+  },
+  {
+    "id": "fact-math-twin-primes",
+    "topic": "math",
+    "title": "Простые-близнецы",
+    "caption": "Пары вида (p, p+2): (3,5), (5,7), (11,13). Гипотеза близнецов: пар бесконечно. Не доказано 175 лет. Крупнейшая известная пара — 388 342 знаков.",
+    "alt": "Простые числа-близнецы",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Twin_prime"
+  },
+  {
+    "id": "fact-math-mersenne-primes",
+    "topic": "math",
+    "title": "Простые Мерсенна",
+    "caption": "Число вида 2^p − 1. Найдено всего 52 таких. Крупнейшее (декабрь 2024) — 2^136 279 841 − 1, 41 миллион цифр.",
+    "alt": "Простые числа Мерсенна",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mersenne_prime"
+  },
+  {
+    "id": "fact-math-fermat-numbers",
+    "topic": "math",
+    "title": "Числа Ферма",
+    "caption": "Вида F_n = 2^(2^n) + 1. Ферма (1640) полагал все простые. Эйлер (1732) опроверг: F_5 делится на 641. Найдено только 5 простых Ферма.",
+    "alt": "Числа Ферма",
+    "year": 1640,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fermat_number"
+  },
+  {
+    "id": "fact-math-perfect-numbers",
+    "topic": "math",
+    "title": "Совершенные числа",
+    "caption": "Равны сумме своих делителей кроме себя: 6, 28, 496, 8128. Все известные чётные. Нечётных не найдено. Проблема возрастом 2300 лет.",
+    "alt": "Совершенные числа",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Perfect_number"
+  },
+  {
+    "id": "fact-math-vector-space",
+    "topic": "math",
+    "title": "Векторное пространство",
+    "caption": "Множество с операциями сложения и умножения на скаляр. Базис понятия: «куда можно двигаться». Аксиомы — Пеано, 1888.",
+    "alt": "Векторное пространство",
+    "year": 1888,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vector_space"
+  },
+  {
+    "id": "fact-math-matrix",
+    "topic": "math",
+    "title": "Матрица",
+    "caption": "Прямоугольная таблица чисел. Кэли, 1858. Используется в линейных уравнениях, графике, нейросетях. GPT-4 — 1,7 трлн чисел матриц.",
+    "alt": "Матрица",
+    "year": 1858,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Matrix_(mathematics)"
+  },
+  {
+    "id": "fact-math-eigenvalue",
+    "topic": "math",
+    "title": "Собственные значения",
+    "caption": "Числа, при которых матричное преобразование сводится к умножению на скаляр. Введено Гильбертом 1904. Базис PageRank Google.",
+    "alt": "Собственные значения",
+    "year": 1904,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eigenvalues_and_eigenvectors"
+  },
+  {
+    "id": "fact-math-derivative",
+    "topic": "math",
+    "title": "Производная",
+    "caption": "Скорость изменения функции. Ньютон и Лейбниц независимо около 1666–1675. Базис всего матанализа и физики.",
+    "alt": "График производной",
+    "year": 1675,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Derivative"
+  },
+  {
+    "id": "fact-math-integral",
+    "topic": "math",
+    "title": "Интеграл",
+    "caption": "Обратная операция производной. Знак ∫ ввёл Лейбниц, 1675 — стилизованная S от лат. summa. Сегодня — основа физики, статистики, экономики.",
+    "alt": "Интеграл",
+    "year": 1675,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Integral"
+  },
+  {
+    "id": "fact-math-information-theory",
+    "topic": "math",
+    "title": "Теория информации",
+    "caption": "Клод Шеннон, 1948. Bell Labs. Ввёл понятие бита, формулу энтропии H = −Σp log p. Базис сжатия, шифрования, передачи данных.",
+    "alt": "Клод Шеннон",
+    "year": 1948,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Information_theory"
+  },
+  {
+    "id": "fact-math-cryptography",
+    "topic": "math",
+    "title": "RSA-шифрование",
+    "caption": "Ривест, Шамир, Адлеман, 1977. Базируется на сложности факторизации больших простых. Используется в HTTPS, банкинге, паспортах с чипами.",
+    "alt": "Алгоритм RSA",
+    "year": 1977,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "RSA_(cryptosystem)"
+  },
+  {
+    "id": "fact-math-combinatorics",
+    "topic": "math",
+    "title": "Комбинаторика",
+    "caption": "Раздел о подсчёте дискретных объектов. C(n,k) = n!/(k!·(n-k)!). 36-карточный талевис из 36 карт даёт 1,79×10⁴¹ перестановок.",
+    "alt": "Комбинаторные подсчёты",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Combinatorics"
+  },
+  {
+    "id": "fact-math-topology",
+    "topic": "math",
+    "title": "Топология",
+    "caption": "«Резиновая геометрия». Чашка и пончик — топологически одно (1 дырка). Анри Пуанкаре основал в 1895 — «Analysis Situs».",
+    "alt": "Топологическая эквивалентность",
+    "year": 1895,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Topology"
+  },
+  {
+    "id": "fact-math-chaos-theory",
+    "topic": "math",
+    "title": "Теория хаоса",
+    "caption": "Эдвард Лоренц, 1963 — модель погоды. Малые изменения дают огромные последствия. Парадокс: детерминированно, но непредсказуемо.",
+    "alt": "Аттрактор Лоренца",
+    "year": 1963,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Chaos_theory"
+  },
+  {
+    "id": "fact-math-catalan-numbers",
+    "topic": "math",
+    "title": "Числа Каталана",
+    "caption": "Эжен Каталан, 1844. C_n = (2n)!/((n+1)!·n!). Считают: 1, 2, 5, 14, 42, 132... Решают 200+ комбинаторных задач — деревья, скобки, пути.",
+    "alt": "Числа Каталана",
+    "year": 1844,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Catalan_number"
+  },
+  {
+    "id": "fact-math-graph-theory",
+    "topic": "math",
+    "title": "Теория графов",
+    "caption": "Эйлер, 1736 (Кёнигсбергские мосты). Множество вершин и рёбер. Базис социальных сетей, маршрутизации, биологии, шахмат.",
+    "alt": "Граф",
+    "year": 1736,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Graph_theory"
+  },
+  {
+    "id": "fact-math-imaginary-unit",
+    "topic": "math",
+    "title": "Мнимая единица i",
+    "caption": "i² = −1. Введена Бомбелли в 1572 для решения кубических уравнений. Эйлер ввёл символ i в 1777. Базис всей квантовой физики.",
+    "alt": "Комплексная плоскость",
+    "year": 1777,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Imaginary_unit"
+  },
+  {
+    "id": "fact-math-quaternion",
+    "topic": "math",
+    "title": "Кватернионы",
+    "caption": "Уильям Гамильтон, 16 октября 1843. 4-мерные числа: 1, i, j, k. Описывают вращения в 3D. Используются в космонавтике, играх, графике.",
+    "alt": "Кватернионы и формула Гамильтона",
+    "year": 1843,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quaternion"
+  },
+  {
+    "id": "fact-language-noam-chomsky",
+    "topic": "language",
+    "title": "Ноам Хомский",
+    "caption": "Род. 1928. Революционная теория порождающей грамматики (1957). Универсальная грамматика — врождённая способность языка у человека.",
+    "alt": "Ноам Хомский",
+    "year": 1957,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Noam_Chomsky"
+  },
+  {
+    "id": "fact-language-tibetan",
+    "topic": "language",
+    "title": "Тибетское письмо",
+    "caption": "Создано в VII веке (~650 н.э.) на основе индийского деванагари. Используется для тибетского, дзонг-кэ (Бутан) и некоторых других гималайских.",
+    "alt": "Тибетский текст",
+    "year": 650,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tibetan_script"
+  },
+  {
+    "id": "fact-language-thai-script",
+    "topic": "language",
+    "title": "Тайское письмо",
+    "caption": "Создано королём Рамкамхэнгом в 1283. 44 согласных, 15 гласных. Пишется без пробелов между словами. Тоновый язык — 5 тонов.",
+    "alt": "Тайские буквы",
+    "year": 1283,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Thai_script"
+  },
+  {
+    "id": "fact-language-armenian",
+    "topic": "language",
+    "title": "Армянский алфавит",
+    "caption": "Создан Месропом Маштоцем в 405 году. 38 букв. Каждой букве соответствует число. Единственный современный язык со своим алфавитом возрастом 1600 лет.",
+    "alt": "Армянский алфавит",
+    "year": 405,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Armenian_alphabet"
+  },
+  {
+    "id": "fact-language-georgian",
+    "topic": "language",
+    "title": "Грузинский алфавит",
+    "caption": "Мхедрули — современная форма с XI века. 33 буквы. UNESCO нематериальное наследие с 2016. Дзвели и мргловани — старые формы.",
+    "alt": "Грузинский алфавит мхедрули",
+    "year": 2016,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Georgian_scripts"
+  },
+  {
+    "id": "fact-language-linear-b",
+    "topic": "language",
+    "title": "Линейное письмо Б",
+    "caption": "Крит и материковая Греция, 1450–1200 до н.э. Слоговое письмо микенских греков. Расшифровано Майклом Вентрисом в 1952.",
+    "alt": "Линейное письмо Б — табличка",
+    "year": 1952,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Linear_B"
+  },
+  {
+    "id": "fact-language-linear-a",
+    "topic": "language",
+    "title": "Линейное письмо А",
+    "caption": "Минойская цивилизация, 1800–1450 до н.э. До сих пор НЕ расшифровано. ~1400 надписей известно. Один из главных «нерешённых письменностей».",
+    "alt": "Линейное письмо А",
+    "year": -1800,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Linear_A"
+  },
+  {
+    "id": "fact-language-phaistos-disc",
+    "topic": "language",
+    "title": "Фестский диск",
+    "caption": "Глиняный диск 16 см, ~1700 до н.э., найден в 1908 на Крите. 241 знак из 45 уникальных символов. Не расшифрован 117 лет.",
+    "alt": "Фестский диск",
+    "year": 1908,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Phaistos_Disc"
+  },
+  {
+    "id": "fact-language-voynich",
+    "topic": "language",
+    "title": "Манускрипт Войнича",
+    "caption": "240 страниц, иллюстрации растений, астрономии. ~1404–1438. Никто не расшифровал. Тест Имза 2019 — мнимый протоиталийский, но спорно.",
+    "alt": "Манускрипт Войнича",
+    "year": 1420,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Voynich_manuscript"
+  },
+  {
+    "id": "fact-language-rongorongo",
+    "topic": "language",
+    "title": "Ронго-ронго",
+    "caption": "Письменность острова Пасхи. 26 досок с символами. Создана независимо от других письменностей мира. Не расшифровано.",
+    "alt": "Ронго-ронго",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rongorongo"
+  },
+  {
+    "id": "fact-language-ipa",
+    "topic": "language",
+    "title": "Международный фонетический алфавит",
+    "caption": "Создан Международной фонетической ассоциацией в 1888. 107 звуков-символов + диакритики. Универсальная транскрипция любого языка.",
+    "alt": "Таблица IPA",
+    "year": 1888,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "International_Phonetic_Alphabet"
+  },
+  {
+    "id": "fact-language-oed",
+    "topic": "language",
+    "title": "Oxford English Dictionary",
+    "caption": "Начат в 1857, первое издание 1928 — 41 год работы. Сегодня 600 000+ слов и фраз. Цифровая версия обновляется ежеквартально.",
+    "alt": "Oxford English Dictionary",
+    "year": 1928,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Oxford_English_Dictionary"
+  },
+  {
+    "id": "fact-language-mongolian-script",
+    "topic": "language",
+    "title": "Монгольская вертикальная письменность",
+    "caption": "Создана Чингисханом в 1204 на основе уйгурского письма. Пишется сверху вниз. Восстановлена в Монголии в 1990-х как параллельная кириллице.",
+    "alt": "Монгольская вертикальная письменность",
+    "year": 1204,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mongolian_script"
+  },
+  {
+    "id": "fact-language-cherokee-syllabary",
+    "topic": "language",
+    "title": "Чероки · слоговое письмо",
+    "caption": "Sequoyah, около 1821. Уникальное — создано одним неграмотным человеком за 12 лет. 85 знаков для слогов. К 1830 — 90% чероки грамотные.",
+    "alt": "Слоговое письмо чероки",
+    "year": 1821,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cherokee_syllabary"
+  },
+  {
+    "id": "fact-language-vietnamese-chu-quoc",
+    "topic": "language",
+    "title": "Куок-нгы · вьетнамская латиница",
+    "caption": "Создан португальскими миссионерами в XVII веке. Александр де Род, 1651. Заменил китайские иероглифы во Вьетнаме в начале XX века.",
+    "alt": "Вьетнамский текст куок-нгы",
+    "year": 1651,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vietnamese_alphabet"
+  },
+  {
+    "id": "fact-language-pirahã",
+    "topic": "language",
+    "title": "Язык пираха",
+    "caption": "Племя Амазонии, 250 человек. Без числительных, без слов цветов, без относительных времён. Бросает вызов универсальной грамматике Хомского.",
+    "alt": "Племя пираха",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pirahã_language"
+  },
+  {
+    "id": "fact-language-klingon",
+    "topic": "language",
+    "title": "Клингонский язык",
+    "caption": "Создан Марком Окрандом для Star Trek III, 1984. 3000 слов в современном словаре. Несколько десятков людей говорят свободно.",
+    "alt": "Клингонский алфавит",
+    "year": 1984,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Klingon_language"
+  },
+  {
+    "id": "fact-language-toki-pona",
+    "topic": "language",
+    "title": "Токи пона",
+    "caption": "Соня Лэнг, 2001. Минималистский искусственный — всего 137 слов. Цель — простота, ясность мышления. Тысячи говорящих.",
+    "alt": "Слова токи пона",
+    "year": 2001,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Toki_Pona"
+  },
+  {
+    "id": "fact-language-volapuk",
+    "topic": "language",
+    "title": "Волапюк",
+    "caption": "Иоганн Шлейер, 1879. Первый широко распространённый искусственный язык. К 1889 — 280 клубов и 1 млн человек учили. Уступил эсперанто (1887).",
+    "alt": "Эмблема волапюк",
+    "year": 1879,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Volapük"
+  },
+  {
+    "id": "fact-language-interlingua",
+    "topic": "language",
+    "title": "Интерлингва",
+    "caption": "Александр Гоуд, 1951. Искусственный язык-латынь Modern. Понятен 800 миллионам носителей романских языков без обучения.",
+    "alt": "Интерлингва",
+    "year": 1951,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Interlingua"
+  },
+  {
+    "id": "fact-language-lingua-franca",
+    "topic": "language",
+    "title": "Лингва франка",
+    "caption": "Язык-посредник для общения между разноязычными людьми. Историческая lingua franca XI-XIX вв. — пиджин Средиземноморья на основе итальянского.",
+    "alt": "Карта лингва франка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lingua_franca"
+  }
+]

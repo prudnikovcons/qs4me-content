@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-matrix",
+  "topic": "math",
+  "title": "Матрица",
+  "caption": "Прямоугольная таблица чисел. Кэли, 1858. Используется в линейных уравнениях, графике, нейросетях. GPT-4 — 1,7 трлн чисел матриц.",
+  "image": "fact-math-matrix.webp",
+  "image_width": 1280,
+  "image_height": 892,
+  "alt": "Матрица",
+  "credit": "Mavaddat · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Matrix_(mathematics)",
+  "license": "CC-BY-SA",
+  "year": 1858
+}

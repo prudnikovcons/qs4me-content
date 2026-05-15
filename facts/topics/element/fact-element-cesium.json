@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-cesium",
+  "topic": "element",
+  "title": "Цезий · Cs (55)",
+  "caption": "Cs, 55-й. Открыт Бунзеном и Кирхгофом в 1860 — спектроскопом по голубым линиям. Атомные часы по Cs-133 — стандарт времени с 1967.",
+  "image": "fact-element-cesium.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Цезий",
+  "credit": "Dnn87 Contact email: Dnn87yahoo.dk · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Caesium",
+  "license": "CC-BY-SA",
+  "year": 1860,
+  "meta": {
+    "atomic_number": 55,
+    "symbol": "Cs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-element-neodymium",
+  "topic": "element",
+  "title": "Неодим · Nd (60)",
+  "caption": "Nd, 60-й. Редкоземельный. Neodym = «новый близнец». Магниты NdFeB — сильнейшие в мире, используются в наушниках, моторах EV, ветрогенераторах.",
+  "image": "fact-element-neodymium.webp",
+  "image_width": 782,
+  "image_height": 782,
+  "alt": "Кубик неодима",
+  "credit": "Unknown authorUnknown author · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Neodymium",
+  "license": "CC-BY",
+  "meta": {
+    "atomic_number": 60,
+    "symbol": "Nd"
+  }
+}

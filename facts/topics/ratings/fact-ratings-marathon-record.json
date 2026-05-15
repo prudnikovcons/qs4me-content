@@ -1,0 +1,14 @@
+{
+  "id": "fact-ratings-marathon-record",
+  "topic": "ratings",
+  "title": "Марафон · 2:00:35",
+  "caption": "Мировой рекорд Келвина Киптума, 8 октября 2023, Чикаго. 42,195 км за 2 часа 35 секунд. Темп 2:51/км — выше скорости автобуса в городе.",
+  "image": "fact-ratings-marathon-record.webp",
+  "image_width": 1280,
+  "image_height": 1705,
+  "alt": "Келвин Киптум на марафоне",
+  "credit": "Chad Veal · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Marathon_world_record_progression",
+  "license": "CC-BY-SA",
+  "year": 2023
+}

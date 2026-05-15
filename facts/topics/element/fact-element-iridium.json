@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-iridium",
+  "topic": "element",
+  "title": "Иридий · Ir (77)",
+  "caption": "Ir, 77-й. Самый плотный устойчивый элемент — 22,56 г/см³. Из метеоритов на Земле в 10 000 раз больше, чем из земной коры.",
+  "image": "fact-element-iridium.webp",
+  "image_width": 725,
+  "image_height": 683,
+  "alt": "Иридий",
+  "credit": "Hi-Res Images of Chemical Elements · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Iridium",
+  "license": "CC-BY",
+  "year": 2010,
+  "meta": {
+    "atomic_number": 77,
+    "symbol": "Ir"
+  }
+}

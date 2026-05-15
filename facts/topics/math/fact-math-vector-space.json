@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-vector-space",
+  "topic": "math",
+  "title": "Векторное пространство",
+  "caption": "Множество с операциями сложения и умножения на скаляр. Базис понятия: «куда можно двигаться». Аксиомы — Пеано, 1888.",
+  "image": "fact-math-vector-space.webp",
+  "image_width": 1280,
+  "image_height": 711,
+  "alt": "Векторное пространство",
+  "credit": "IkamusumeFan · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Vector_space",
+  "license": "CC-BY-SA",
+  "year": 1888
+}

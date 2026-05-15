@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-quaternion",
+  "topic": "math",
+  "title": "Кватернионы",
+  "caption": "Уильям Гамильтон, 16 октября 1843. 4-мерные числа: 1, i, j, k. Описывают вращения в 3D. Используются в космонавтике, играх, графике.",
+  "image": "fact-math-quaternion.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Кватернионы и формула Гамильтона",
+  "credit": "Cmglee · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Quaternion",
+  "license": "CC-BY-SA",
+  "year": 1843
+}

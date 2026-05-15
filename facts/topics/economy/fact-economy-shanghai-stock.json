@@ -1,0 +1,17 @@
+{
+  "id": "fact-economy-shanghai-stock",
+  "topic": "economy",
+  "title": "Шанхайская биржа",
+  "caption": "Основана 1866 (закрылась 1949, перезапущена 1990). 4-я по капитализации $7 трлн. Индекс SSE Composite — главный показатель Китая.",
+  "image": "fact-economy-shanghai-stock.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Шанхайская биржа",
+  "credit": "钉钉 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Shanghai_Stock_Exchange",
+  "license": "CC-BY-SA",
+  "year": 1866,
+  "meta": {
+    "country_code": "CN"
+  }
+}

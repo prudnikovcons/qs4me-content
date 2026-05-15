@@ -1,0 +1,444 @@
+[
+  {
+    "id": "fact-economy-buffett",
+    "topic": "economy",
+    "title": "Уоррен Баффетт",
+    "caption": "Род. 1930. Купил первую акцию в 11 лет. Глава Berkshire Hathaway с 1965. Состояние $148 млрд (2024). Обещал отдать 99% на благотворительность.",
+    "alt": "Уоррен Баффетт",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Warren_Buffett"
+  },
+  {
+    "id": "fact-economy-soros",
+    "topic": "economy",
+    "title": "Джордж Сорос",
+    "caption": "Род. 1930. «Человек, обанкротивший Банк Англии» 16 сентября 1992. Заработал $1 млрд за день ставкой против фунта. Чёрная среда.",
+    "alt": "Джордж Сорос",
+    "year": 1992,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "George_Soros"
+  },
+  {
+    "id": "fact-economy-musk",
+    "topic": "economy",
+    "title": "Илон Маск",
+    "caption": "Род. 1971. PayPal (1999), Tesla (2004), SpaceX (2002), X/Twitter (2022). Самый богатый человек мира в 2024 — состояние $250 млрд+.",
+    "alt": "Илон Маск",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Elon_Musk"
+  },
+  {
+    "id": "fact-economy-jeff-bezos",
+    "topic": "economy",
+    "title": "Джефф Безос",
+    "caption": "Род. 1964. Основал Amazon в гараже 1994. Покинул пост CEO в 2021. Состояние $200+ млрд. Самый дорогой развод в истории — $38 млрд жене.",
+    "alt": "Джефф Безос",
+    "year": 1994,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jeff_Bezos"
+  },
+  {
+    "id": "fact-economy-gates",
+    "topic": "economy",
+    "title": "Билл Гейтс",
+    "caption": "Род. 1955. Сооснователь Microsoft в 1975. Покинул пост CEO в 2000, председателя — в 2014. С 2010 раздаёт состояние через Фонд Гейтсов.",
+    "alt": "Билл Гейтс",
+    "year": 1975,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bill_Gates"
+  },
+  {
+    "id": "fact-economy-visa",
+    "topic": "economy",
+    "title": "Visa",
+    "caption": "Основана 1958 как BankAmericard. С 1976 — Visa. К 2024 — 4,8 млрд карт, обрабатывает $14 трлн транзакций в год. Капитализация $530 млрд.",
+    "alt": "Логотип Visa",
+    "year": 1958,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Visa_Inc."
+  },
+  {
+    "id": "fact-economy-mastercard",
+    "topic": "economy",
+    "title": "Mastercard",
+    "caption": "Основан 1966 как Interbank. К 2024 — 3,4 млрд карт, $9 трлн оборот. Двойной красно-жёлтый круг — один из самых узнаваемых логотипов мира.",
+    "alt": "Логотип Mastercard",
+    "year": 1966,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mastercard"
+  },
+  {
+    "id": "fact-economy-walmart",
+    "topic": "economy",
+    "title": "Walmart",
+    "caption": "Сэм Уолтон, 1962. Крупнейший работодатель мира — 2,1 миллиона сотрудников. Оборот $650 млрд (2023) — больше ВВП Швеции. 10 500+ магазинов.",
+    "alt": "Walmart",
+    "year": 1962,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Walmart"
+  },
+  {
+    "id": "fact-economy-coca-cola",
+    "topic": "economy",
+    "title": "Coca-Cola",
+    "caption": "Джон Пембертон, 8 мая 1886, Атланта. Изначально с кокаином (до 1903). Сегодня — 1,9 миллиарда напитков в день. Бренд оценивается в $97 млрд.",
+    "alt": "Coca-Cola",
+    "year": 1886,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Coca-Cola"
+  },
+  {
+    "id": "fact-economy-mcdonalds",
+    "topic": "economy",
+    "title": "McDonald's",
+    "caption": "Сан-Бернардино, 1940. Рэй Крок купил у братьев в 1954. К 2024 — 41 822 ресторана в 119 странах. 75 гамбургеров в секунду продаются.",
+    "alt": "McDonald's",
+    "year": 1940,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "McDonald's"
+  },
+  {
+    "id": "fact-economy-toyota",
+    "topic": "economy",
+    "title": "Toyota",
+    "caption": "Основана Тоётой Киитиро в 1937. Крупнейший автопроизводитель мира с 2008. 11 миллионов авто/год. Toyota Production System — основа Lean.",
+    "alt": "Логотип Toyota",
+    "year": 1937,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Toyota"
+  },
+  {
+    "id": "fact-economy-ford-motor",
+    "topic": "economy",
+    "title": "Ford Motor Company",
+    "caption": "Генри Форд, 16 июня 1903. Конвейер 1913 — Model T за 93 минуты вместо 12 часов. Сократил цену с $850 до $260 (3 года средней зарплаты).",
+    "alt": "Логотип Ford",
+    "year": 1903,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ford_Motor_Company"
+  },
+  {
+    "id": "fact-economy-sony",
+    "topic": "economy",
+    "title": "Sony",
+    "caption": "Токио, 1946. Из 20 человек в разрушенном здании. Walkman 1979 — 400 миллионов проданных. PlayStation 1994 — 530 миллионов консолей.",
+    "alt": "Логотип Sony",
+    "year": 1946,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sony"
+  },
+  {
+    "id": "fact-economy-samsung",
+    "topic": "economy",
+    "title": "Samsung",
+    "caption": "Ли Бён Чхоль, 1938. Из продуктовой лавки. К 2024 — крупнейший производитель смартфонов, экранов, чипов памяти. ВВП Samsung > ВВП Венгрии.",
+    "alt": "Логотип Samsung",
+    "year": 1938,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Samsung"
+  },
+  {
+    "id": "fact-economy-nasdaq",
+    "topic": "economy",
+    "title": "NASDAQ",
+    "caption": "Первая электронная биржа мира, 8 февраля 1971. Apple, Google, Amazon, Tesla, Microsoft — все здесь. Капитализация $22 трлн (2024).",
+    "alt": "NASDAQ",
+    "year": 1971,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nasdaq"
+  },
+  {
+    "id": "fact-economy-tokyo-stock-exchange",
+    "topic": "economy",
+    "title": "Токийская биржа",
+    "caption": "Основана 1878. Третья по капитализации мира — $6 трлн (2024). Открывается на ¥ цене Nikkei 225. Крах 1990 года — потеря $3 трлн за 3 года.",
+    "alt": "Токийская биржа",
+    "year": 1878,
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tokyo_Stock_Exchange"
+  },
+  {
+    "id": "fact-economy-shanghai-stock",
+    "topic": "economy",
+    "title": "Шанхайская биржа",
+    "caption": "Основана 1866 (закрылась 1949, перезапущена 1990). 4-я по капитализации $7 трлн. Индекс SSE Composite — главный показатель Китая.",
+    "alt": "Шанхайская биржа",
+    "year": 1866,
+    "meta": { "country_code": "CN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Shanghai_Stock_Exchange"
+  },
+  {
+    "id": "fact-economy-black-monday",
+    "topic": "economy",
+    "title": "Чёрный понедельник 1987",
+    "caption": "19 октября 1987. Dow Jones упал на 22,6% — крупнейшее однодневное падение в истории. $500 млрд испарились. Восстановление заняло 2 года.",
+    "alt": "Чёрный понедельник",
+    "year": 1987,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Black_Monday_(1987)"
+  },
+  {
+    "id": "fact-economy-petrodollar",
+    "topic": "economy",
+    "title": "Нефтедоллар",
+    "caption": "Соглашение США и Саудовской Аравии 1974. Нефть продаётся за доллары. Глобальный спрос на $ держит цену американской валюты.",
+    "alt": "Нефтяные баррели и доллары",
+    "year": 1974,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Petrodollar_recycling"
+  },
+  {
+    "id": "fact-economy-greece-debt",
+    "topic": "economy",
+    "title": "Долговой кризис Греции",
+    "caption": "2010–2018. Долг Греции достиг 180% ВВП. 3 пакета помощи на €289 млрд. ВВП упал на 25%, безработица 28%. Конец строгости — 2022.",
+    "alt": "Греция и евро",
+    "year": 2010,
+    "meta": { "country_code": "GR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Greek_government-debt_crisis"
+  },
+  {
+    "id": "fact-music-miles-davis",
+    "topic": "music",
+    "title": "Майлз Дэвис",
+    "caption": "1926–1991. Трубач, лидер 5 джазовых революций: бибоп, кул-джаз, хард-боп, модальный, фьюжн. «Kind of Blue» (1959) — 5 млн копий, главный джазовый альбом.",
+    "alt": "Майлз Дэвис",
+    "year": 1959,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Miles_Davis"
+  },
+  {
+    "id": "fact-music-coltrane",
+    "topic": "music",
+    "title": "Джон Колтрейн",
+    "caption": "1926–1967. Саксофонист. «A Love Supreme» (1965) — пик духовного джаза. «Шиты звука» — техника игры аккордами на саксофоне.",
+    "alt": "Джон Колтрейн",
+    "year": 1965,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "John_Coltrane"
+  },
+  {
+    "id": "fact-music-duke-ellington",
+    "topic": "music",
+    "title": "Дюк Эллингтон",
+    "caption": "1899–1974. Пианист, композитор, дирижёр биг-бэнда. 3000+ композиций. Cotton Club 1927–1931 — расцвет свинговой эры. 13 Грэмми.",
+    "alt": "Дюк Эллингтон",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Duke_Ellington"
+  },
+  {
+    "id": "fact-music-ella-fitzgerald",
+    "topic": "music",
+    "title": "Элла Фицджеральд",
+    "caption": "1917–1996. «Первая леди песни». Диапазон 3 октавы. Scat-импровизация — её фишка. 14 Грэмми. 200+ альбомов, 40 млн записей.",
+    "alt": "Элла Фицджеральд",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ella_Fitzgerald"
+  },
+  {
+    "id": "fact-music-billie-holiday",
+    "topic": "music",
+    "title": "Билли Холидей",
+    "caption": "1915–1959. «Леди Дэй». «Strange Fruit» (1939) — первая песня против линчевания в США. Узкий диапазон, но феноменальный фразинг — лучший джазовый вокал XX века.",
+    "alt": "Билли Холидей",
+    "year": 1939,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Billie_Holiday"
+  },
+  {
+    "id": "fact-music-charlie-parker",
+    "topic": "music",
+    "title": "Чарли Паркер",
+    "caption": "1920–1955. Альт-саксофон, создатель бибопа в 1940-х. «Bird» (прозвище) — революционер темпа, гармонии. Умер в 34 от наркотиков.",
+    "alt": "Чарли Паркер",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Charlie_Parker"
+  },
+  {
+    "id": "fact-music-louis-armstrong-2",
+    "topic": "music",
+    "title": "Луи Армстронг",
+    "caption": "1901–1971. Трубач, певец. Создатель импровизационного джаза. «Hot Five» и «Hot Seven» 1925–1929 — основополагающие записи джаза.",
+    "alt": "Луи Армстронг с трубой",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Louis_Armstrong"
+  },
+  {
+    "id": "fact-music-thelonious-monk",
+    "topic": "music",
+    "title": "Телониус Монк",
+    "caption": "1917–1982. Пианист, композитор бибопа. «Round Midnight» (1944) — самая исполняемая джазовая баллада. Странный стиль игры, угловая гармония.",
+    "alt": "Телониус Монк",
+    "year": 1944,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Thelonious_Monk"
+  },
+  {
+    "id": "fact-music-hendrix",
+    "topic": "music",
+    "title": "Джими Хендрикс",
+    "caption": "1942–1970. Гитарист-революционер. «Star-Spangled Banner» на Вудстоке 1969 — антигимн. Изменил всё в электрогитаре за 4 года карьеры.",
+    "alt": "Джими Хендрикс",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jimi_Hendrix"
+  },
+  {
+    "id": "fact-music-clapton",
+    "topic": "music",
+    "title": "Эрик Клэптон",
+    "caption": "Род. 1945. Гитарист 60-летней карьеры. «Layla» (1970), «Tears in Heaven» (1991, сыну Конору). 18 Грэмми. Зал славы рок-н-ролла трижды.",
+    "alt": "Эрик Клэптон",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eric_Clapton"
+  },
+  {
+    "id": "fact-music-johnny-cash",
+    "topic": "music",
+    "title": "Джонни Кэш",
+    "caption": "1932–2003. Голос кантри-музыки. Концерт в тюрьме Фолсом 1968 — иконическая запись. «Ring of Fire», «Hurt» (2002, кавер на NIN).",
+    "alt": "Джонни Кэш",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Johnny_Cash"
+  },
+  {
+    "id": "fact-music-dolly-parton",
+    "topic": "music",
+    "title": "Долли Партон",
+    "caption": "Род. 1946. Королева кантри. Написала 3000+ песен. «I Will Always Love You» — Уитни Хьюстон сделала кавер в 1992, 30 млн копий.",
+    "alt": "Долли Партон",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dolly_Parton"
+  },
+  {
+    "id": "fact-music-whitney-houston",
+    "topic": "music",
+    "title": "Уитни Хьюстон",
+    "caption": "1963–2012. Голос с диапазоном в 5 октав. «I Will Always Love You» (1992) — 30 млн копий, 14 недель №1. «Самая награждённая исполнительница» Guinness.",
+    "alt": "Уитни Хьюстон",
+    "year": 1992,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Whitney_Houston"
+  },
+  {
+    "id": "fact-music-beyonce",
+    "topic": "music",
+    "title": "Бейонсе",
+    "caption": "Род. 1981. 32 Грэмми — рекорд для любой артистки. 200 млн+ записей. «Lemonade» (2016), «Renaissance» (2022).",
+    "alt": "Бейонсе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Beyoncé"
+  },
+  {
+    "id": "fact-music-taylor-swift",
+    "topic": "music",
+    "title": "Тейлор Свифт",
+    "caption": "Род. 1989. 14 Грэмми, 4 раза «Альбом года» — рекорд. Eras Tour (2023-2024) — $2,2 млрд сборов, самый прибыльный тур в истории.",
+    "alt": "Тейлор Свифт",
+    "year": 2023,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Taylor_Swift"
+  },
+  {
+    "id": "fact-music-tupac",
+    "topic": "music",
+    "title": "Тупак Шакур",
+    "caption": "1971–1996. Иконa хип-хопа. 75 млн записей. Убит 13 сентября 1996 в Лас-Вегасе. После смерти издано больше альбомов, чем при жизни.",
+    "alt": "Тупак Шакур",
+    "year": 1996,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tupac_Shakur"
+  },
+  {
+    "id": "fact-music-eminem",
+    "topic": "music",
+    "title": "Эминем",
+    "caption": "Род. 1972. Самый продаваемый рэпер: 220 млн+ записей. «8 Mile» (2002), биографический фильм — Оскар за песню «Lose Yourself».",
+    "alt": "Эминем",
+    "year": 2002,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eminem"
+  },
+  {
+    "id": "fact-music-ravi-shankar",
+    "topic": "music",
+    "title": "Рави Шанкар",
+    "caption": "1920–2012. Индийский ситарист. Учитель Джорджа Харрисона (Битлз). «Concert for Bangladesh» 1971 — первый супер-благотворительный концерт в истории.",
+    "alt": "Рави Шанкар",
+    "year": 1971,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ravi_Shankar"
+  },
+  {
+    "id": "fact-music-bernstein",
+    "topic": "music",
+    "title": "Леонард Бернстайн",
+    "caption": "1918–1990. Дирижёр Нью-Йоркского филармонического (1958–1969). «Вестсайдская история» (1957) — мост между Бродвеем и оперой.",
+    "alt": "Леонард Бернстайн",
+    "year": 1957,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Leonard_Bernstein"
+  },
+  {
+    "id": "fact-music-horowitz",
+    "topic": "music",
+    "title": "Владимир Горовиц",
+    "caption": "1903–1989. Пианист. Карнеги-холл 1928 — Запад впервые услышал. Вернулся в СССР 1986 после 61 года эмиграции — концерт стал событием года.",
+    "alt": "Владимир Горовиц",
+    "year": 1986,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vladimir_Horowitz"
+  },
+  {
+    "id": "fact-music-richter",
+    "topic": "music",
+    "title": "Святослав Рихтер",
+    "caption": "1915–1997. Один из величайших пианистов XX века. Самоучка, никогда не сдавал теоретических экзаменов. Огромный репертуар: 80 концертных программ.",
+    "alt": "Святослав Рихтер",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sviatoslav_Richter"
+  },
+  {
+    "id": "fact-music-yo-yo-ma",
+    "topic": "music",
+    "title": "Йо-Йо Ма",
+    "caption": "Род. 1955. Виолончелист. Дебют в Карнеги-холл в 8 лет. 19 Грэмми. Записал все 6 сюит Баха для виолончели соло трижды (1983, 1998, 2018).",
+    "alt": "Йо-Йо Ма с виолончелью",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yo-Yo_Ma"
+  },
+  {
+    "id": "fact-music-amy-winehouse",
+    "topic": "music",
+    "title": "Эми Уайнхаус",
+    "caption": "1983–2011. Британская певица. Альбом «Back to Black» (2006) — 16 млн копий. 5 Грэмми. Умерла в 27 — «клуб 27» (Хендрикс, Джоплин, Моррисон, Кобейн).",
+    "alt": "Эми Уайнхаус",
+    "year": 2006,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Amy_Winehouse"
+  },
+  {
+    "id": "fact-music-aretha-franklin-2",
+    "topic": "music",
+    "title": "Арета Франклин",
+    "caption": "1942–2018. Королева соул. 18 Грэмми, 75 млн пластинок. Пела на инаугурациях 3 президентов. «Respect» (1967) — гимн феминизма.",
+    "alt": "Арета Франклин",
+    "year": 1967,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aretha_Franklin"
+  },
+  {
+    "id": "fact-music-stradivarius-violin",
+    "topic": "music",
+    "title": "Скрипка Страдивари",
+    "caption": "Антонио Страдивари, 1644–1737. Сделал ~1100 инструментов, сохранилось ~650. Lady Blunt продана за $15,9 млн в 2011 — рекорд для скрипки.",
+    "alt": "Скрипка Страдивари",
+    "year": 2011,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stradivarius"
+  }
+]

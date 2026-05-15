@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-catalan-numbers",
+  "topic": "math",
+  "title": "Числа Каталана",
+  "caption": "Эжен Каталан, 1844. C_n = (2n)!/((n+1)!·n!). Считают: 1, 2, 5, 14, 42, 132... Решают 200+ комбинаторных задач — деревья, скобки, пути.",
+  "image": "fact-math-catalan-numbers.webp",
+  "image_width": 1280,
+  "image_height": 2715,
+  "alt": "Числа Каталана",
+  "credit": "WatchduckYou can name the author as \"T. Piesk\", \"Tilman Piesk\" or \"Watchduck\". ·",
+  "source": "https://en.wikipedia.org/wiki/Catalan_number",
+  "license": "CC-BY",
+  "year": 1844
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-graph-theory",
+  "topic": "math",
+  "title": "Теория графов",
+  "caption": "Эйлер, 1736 (Кёнигсбергские мосты). Множество вершин и рёбер. Базис социальных сетей, маршрутизации, биологии, шахмат.",
+  "image": "fact-math-graph-theory.webp",
+  "image_width": 1280,
+  "image_height": 846,
+  "alt": "Граф",
+  "credit": "Michel Bakni · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Graph_theory",
+  "license": "CC-BY-SA",
+  "year": 1736
+}

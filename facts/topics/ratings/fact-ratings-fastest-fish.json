@@ -1,0 +1,14 @@
+{
+  "id": "fact-ratings-fastest-fish",
+  "topic": "ratings",
+  "title": "Парусник · 110 км/ч",
+  "caption": "Самая быстрая рыба мира. До 110 км/ч в воде на коротких дистанциях. Длина 3 м, вес до 100 кг. Огромный спинной плавник раскрывается «парусом».",
+  "image": "fact-ratings-fastest-fish.webp",
+  "image_width": 1280,
+  "image_height": 728,
+  "alt": "Рыба-парусник",
+  "credit": "Kawahara Keiga · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Sailfish",
+  "license": "PD",
+  "year": 1823
+}

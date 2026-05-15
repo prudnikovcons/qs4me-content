@@ -1,0 +1,14 @@
+{
+  "id": "fact-ratings-passenger-airplane",
+  "topic": "ratings",
+  "title": "Airbus A380 · 853 пассажира",
+  "caption": "Самый большой пассажирский авиалайнер мира. Длина 73 м, размах крыльев 80 м, 4 этажа. Максимум 853 пассажира. Производство закрыто в 2021.",
+  "image": "fact-ratings-passenger-airplane.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Airbus A380",
+  "credit": "Maarten Visser from Capelle aan den IJssel, Nederland · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Airbus_A380",
+  "license": "CC-BY-SA",
+  "year": 2007
+}
