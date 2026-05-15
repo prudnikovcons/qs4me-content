@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-eyjafjallajokull",
+  "topic": "events",
+  "title": "Извержение Эйяфьядлайёкюдль",
+  "caption": "14 апреля 2010, Исландия. Пепел остановил авиасообщение Европы на 6 дней. Отменено 100 000 рейсов, потери $1,7 млрд.",
+  "image": "fact-events-eyjafjallajokull.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Извержение Эйяфьядлайёкюдль",
+  "credit": "TommyBee · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Eyjafjallaj%C3%B6kull",
+  "license": "PD",
+  "year": 2010
+}

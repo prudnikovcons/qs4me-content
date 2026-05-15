@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-tour-de-france",
+  "topic": "events",
+  "title": "Тур де Франс",
+  "caption": "С 1903. Велогонка по Франции 21 этап, 3500 км за 3 недели. Жёлтая майка — лидер общего зачёта (с 1919). Эдди Меркс — 5 побед, рекорд.",
+  "image": "fact-events-tour-de-france.webp",
+  "image_width": 1280,
+  "image_height": 997,
+  "alt": "Тур де Франс",
+  "credit": "Tour de France · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Tour_de_France",
+  "license": "PD",
+  "year": 1903
+}

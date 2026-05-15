@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-trans-atlantic-flight",
+  "topic": "events",
+  "title": "Алкок и Браун",
+  "caption": "14–15 июня 1919. Первый безостановочный перелёт через Атлантику. Vickers Vimy, Ньюфаундленд → Ирландия, 16 часов 28 минут, 3040 км.",
+  "image": "fact-events-trans-atlantic-flight.webp",
+  "image_width": 1000,
+  "image_height": 1494,
+  "alt": "Алкок и Браун после перелёта",
+  "credit": "Holloway · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Transatlantic_flight_of_Alcock_and_Brown",
+  "license": "PD",
+  "year": 1919
+}

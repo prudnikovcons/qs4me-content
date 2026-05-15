@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-bob-beamon",
+  "topic": "events",
+  "title": "Прыжок Боба Бимона",
+  "caption": "Олимпиада Мехико 1968. Прыжок в длину 8,90 м — на 55 см дальше рекорда. Стоял рекордом 23 года — до 1991 (Майк Пауэлл 8,95).",
+  "image": "fact-events-bob-beamon.webp",
+  "image_width": 527,
+  "image_height": 754,
+  "alt": "Бимон в полёте 1968",
+  "credit": "Chell Hill · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Bob_Beamon",
+  "license": "CC-BY-SA",
+  "year": 1968
+}

@@ -1,0 +1,344 @@
+[
+  {
+    "id": "fact-events-tour-de-france",
+    "topic": "events",
+    "title": "Тур де Франс",
+    "caption": "С 1903. Велогонка по Франции 21 этап, 3500 км за 3 недели. Жёлтая майка — лидер общего зачёта (с 1919). Эдди Меркс — 5 побед, рекорд.",
+    "alt": "Тур де Франс",
+    "year": 1903,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tour_de_France"
+  },
+  {
+    "id": "fact-events-wimbledon",
+    "topic": "events",
+    "title": "Уимблдон",
+    "caption": "С 1877. Старейший теннисный турнир Большого шлема. Единственный на траве. Дресс-код: только белая одежда. Победителей кормят клубникой со сливками.",
+    "alt": "Уимблдонский центральный корт",
+    "year": 1877,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wimbledon_Championships"
+  },
+  {
+    "id": "fact-events-stanley-cup",
+    "topic": "events",
+    "title": "Кубок Стэнли",
+    "caption": "Главный трофей NHL с 1893. Старейший спортивный трофей Северной Америки. На нём гравируют имена всех чемпионов — 3000+ имён.",
+    "alt": "Кубок Стэнли",
+    "year": 1893,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stanley_Cup"
+  },
+  {
+    "id": "fact-events-marathon-history",
+    "topic": "events",
+    "title": "Марафон",
+    "caption": "490 до н.э. Битва при Марафоне. Гонец Фидиппид пробежал 42 км в Афины с вестью о победе и умер. Длина 42,195 — стандарт Лондон-1908.",
+    "alt": "Памятник Фидиппиду",
+    "year": -490,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Marathon"
+  },
+  {
+    "id": "fact-events-pele-1970",
+    "topic": "events",
+    "title": "Пеле · ЧМ 1970",
+    "caption": "Чемпионат мира в Мексике. Бразилия 4-1 Италия в финале. Пеле — единственный 3-кратный чемпион ЧМ (1958, 1962, 1970). 1283 гола за карьеру.",
+    "alt": "Пеле с Кубком мира 1970",
+    "year": 1970,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "1970_FIFA_World_Cup"
+  },
+  {
+    "id": "fact-events-soviet-canada-1972",
+    "topic": "events",
+    "title": "Суперсерия 1972",
+    "caption": "СССР-Канада, сентябрь 1972. 8 матчей хоккея. Драма века: Канада победила голом Хендерсона за 34 секунды до конца 8-го матча.",
+    "alt": "Суперсерия 1972",
+    "year": 1972,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Summit_Series"
+  },
+  {
+    "id": "fact-events-spasskij-fischer",
+    "topic": "events",
+    "title": "Спасский — Фишер",
+    "caption": "Матч века по шахматам, июль-сентябрь 1972, Рейкьявик. Бобби Фишер выиграл 12,5-8,5. Первый американский чемпион мира.",
+    "alt": "Матч Спасский-Фишер 1972",
+    "year": 1972,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "World_Chess_Championship_1972"
+  },
+  {
+    "id": "fact-events-rocky-marciano",
+    "topic": "events",
+    "title": "Рокки Марчиано",
+    "caption": "1923–1969. Единственный чемпион мира в тяжёлом весе с непобеждённой карьерой: 49-0. Из них 43 нокаута. Завершил в 31 год на пике.",
+    "alt": "Рокки Марчиано",
+    "year": 1955,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rocky_Marciano"
+  },
+  {
+    "id": "fact-events-ali-foreman",
+    "topic": "events",
+    "title": "Грохот в джунглях",
+    "caption": "30 октября 1974, Заир. Мохаммед Али нокаутировал Джорджа Формана в 8-м раунде. Тактика «верёвки-допинг» — изматывание защитой.",
+    "alt": "Али и Форман 1974",
+    "year": 1974,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Rumble_in_the_Jungle"
+  },
+  {
+    "id": "fact-events-jackie-robinson",
+    "topic": "events",
+    "title": "Джеки Робинсон",
+    "caption": "15 апреля 1947. Первый афроамериканец в Главной бейсбольной лиге MLB. Бруклин Доджерс. Конец 60 лет сегрегации в спорте США.",
+    "alt": "Джеки Робинсон",
+    "year": 1947,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jackie_Robinson"
+  },
+  {
+    "id": "fact-events-bob-beamon",
+    "topic": "events",
+    "title": "Прыжок Боба Бимона",
+    "caption": "Олимпиада Мехико 1968. Прыжок в длину 8,90 м — на 55 см дальше рекорда. Стоял рекордом 23 года — до 1991 (Майк Пауэлл 8,95).",
+    "alt": "Бимон в полёте 1968",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bob_Beamon"
+  },
+  {
+    "id": "fact-events-armstrong-luna",
+    "topic": "events",
+    "title": "Первый шаг на Луне",
+    "caption": "Нил Армстронг, 20 июля 1969, 20:17 UTC посадка. 21:56 первый шаг. «Один маленький шаг для человека, один гигантский — для человечества».",
+    "alt": "Армстронг на Луне",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Neil_Armstrong"
+  },
+  {
+    "id": "fact-events-trans-atlantic-flight",
+    "topic": "events",
+    "title": "Алкок и Браун",
+    "caption": "14–15 июня 1919. Первый безостановочный перелёт через Атлантику. Vickers Vimy, Ньюфаундленд → Ирландия, 16 часов 28 минут, 3040 км.",
+    "alt": "Алкок и Браун после перелёта",
+    "year": 1919,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Transatlantic_flight_of_Alcock_and_Brown"
+  },
+  {
+    "id": "fact-events-everest-2015-earthquake",
+    "topic": "events",
+    "title": "Землетрясение в Непале 2015",
+    "caption": "25 апреля 2015, магнитуда 7,8. 9000 погибших. На Эвересте — лавина, 22 погибших в базовом лагере, всё восхождение сезона отменено.",
+    "alt": "Эверест после землетрясения 2015",
+    "year": 2015,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "April_2015_Nepal_earthquake"
+  },
+  {
+    "id": "fact-events-mlk-killed",
+    "topic": "events",
+    "title": "Убийство Мартина Лютера Кинга",
+    "caption": "4 апреля 1968, Мемфис, отель Лотейн. Кинг убит снайпером Джеймсом Эрлом Реем в 18:01. Был на балконе 2-го этажа. 39 лет.",
+    "alt": "Балкон отеля Лотейн в Мемфисе",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Assassination_of_Martin_Luther_King_Jr."
+  },
+  {
+    "id": "fact-events-jfk-killed",
+    "topic": "events",
+    "title": "Убийство Кеннеди",
+    "caption": "Даллас, 22 ноября 1963, 12:30. JFK убит в кортеже выстрелами с книгохранилища. Стрелок Ли Харви Освальд. Кеннеди было 46 лет.",
+    "alt": "Кортеж JFK 22 ноября 1963",
+    "year": 1963,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Assassination_of_John_F._Kennedy"
+  },
+  {
+    "id": "fact-events-gandhi-killed",
+    "topic": "events",
+    "title": "Убийство Ганди",
+    "caption": "30 января 1948, Нью-Дели. Махатма Ганди, 78 лет, застрелен Натхурамом Годсе. 3 выстрела в грудь. Последние слова: «Хей Рам».",
+    "alt": "Ганди в день убийства",
+    "year": 1948,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Assassination_of_Mahatma_Gandhi"
+  },
+  {
+    "id": "fact-events-lennon-killed",
+    "topic": "events",
+    "title": "Убийство Леннона",
+    "caption": "8 декабря 1980, Нью-Йорк, у здания Дакота. Джон Леннон, 40 лет, застрелен Марком Чепменом. Получил автограф у Леннона за 5 часов до выстрелов.",
+    "alt": "Здание Дакота в Нью-Йорке",
+    "year": 1980,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Murder_of_John_Lennon"
+  },
+  {
+    "id": "fact-nature-cuttlefish",
+    "topic": "nature",
+    "title": "Каракатица",
+    "caption": "Меняет цвет и текстуру кожи за 0,5 секунды. 20 миллионов хроматофоров. Зрение странное: видит поляризацию, но не цвет (дальтоник).",
+    "alt": "Каракатица меняет цвет",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cuttlefish"
+  },
+  {
+    "id": "fact-nature-leafy-seadragon",
+    "topic": "nature",
+    "title": "Морской дракон-тряпичник",
+    "caption": "Австралия. Родственник морского конька. Камуфляж под водоросли. Самец вынашивает 250 икринок 4-6 недель в специальном хвостовом мешке.",
+    "alt": "Морской дракон-тряпичник",
+    "meta": { "species": "Phycodurus eques" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Leafy_seadragon"
+  },
+  {
+    "id": "fact-nature-glass-frog",
+    "topic": "nature",
+    "title": "Стеклянная лягушка",
+    "caption": "Центральная и Южная Америка. Кожа на животе прозрачная — видны сердце, печень, кишечник. Во сне теряет 89% эритроцитов из крови.",
+    "alt": "Стеклянная лягушка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Glass_frog"
+  },
+  {
+    "id": "fact-nature-axolotl-regen",
+    "topic": "nature",
+    "title": "Регенерация аксолотля",
+    "caption": "Отрастает любая конечность, хвост, часть сердца, спинной мозг — за 40-60 дней. Без шрамов. Не стареет в воде. Ключ изучают в трансплантологии.",
+    "alt": "Регенерация конечности аксолотля",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Regeneration_(biology)"
+  },
+  {
+    "id": "fact-nature-fireflies",
+    "topic": "nature",
+    "title": "Светлячки",
+    "caption": "Биолюминесценция через люциферин-люциферазу. Холодный свет, КПД ~95%. Лампа накаливания — 10%. Северная Америка — синхронные виды.",
+    "alt": "Светлячки в лесу",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Firefly"
+  },
+  {
+    "id": "fact-nature-deep-sea-anglerfish",
+    "topic": "nature",
+    "title": "Удильщик",
+    "caption": "Глубоководная рыба. Самка 1 м, самец 5 см. Самец прирастает к самке как паразит, теряя глаза и плавники. Биолюминесцентная приманка.",
+    "alt": "Глубоководный удильщик",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Anglerfish"
+  },
+  {
+    "id": "fact-nature-portuguese-man-o-war",
+    "topic": "nature",
+    "title": "Португальский кораблик",
+    "caption": "Не медуза, а сифонофор — колония 4 типов организмов. Щупальца до 30 м, ожог приравнен к удару скорпиона. Виден на поверхности с воздуха.",
+    "alt": "Португальский кораблик",
+    "meta": { "species": "Physalia physalis" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Portuguese_man_o'_war"
+  },
+  {
+    "id": "fact-nature-pistol-shrimp",
+    "topic": "nature",
+    "title": "Креветка-щёлкунчик",
+    "caption": "Щёлкает клешнёй со скоростью 100 км/ч. Ударная волна создаёт пузырь с температурой 4700 °C — как Солнце. Звук 218 дБ — громче выстрела.",
+    "alt": "Креветка-щёлкунчик",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pistol_shrimp"
+  },
+  {
+    "id": "fact-nature-cuckoo",
+    "topic": "nature",
+    "title": "Кукушка",
+    "caption": "Гнездовой паразит. Самка подкладывает яйцо в чужие гнёзда, имитируя их раскраску. Птенец вылупляется первым и выкидывает остальных.",
+    "alt": "Кукушка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Common_cuckoo"
+  },
+  {
+    "id": "fact-nature-electric-eel",
+    "topic": "nature",
+    "title": "Электрический угорь",
+    "caption": "Бразильская Амазонка. Разряд 600 В, ток 1 А — достаточно убить лошадь. 80% тела — электроорганы. Использует разряды для охоты, общения, обороны.",
+    "alt": "Электрический угорь",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Electric_eel"
+  },
+  {
+    "id": "fact-nature-immortal-hydra",
+    "topic": "nature",
+    "title": "Гидра",
+    "caption": "Пресноводное беспозвоночное. Обнаружено в 1700-х. В теории биологически бессмертна: стволовые клетки регенерируют постоянно. 12 мм длиной.",
+    "alt": "Гидра",
+    "year": 1702,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hydra_(genus)"
+  },
+  {
+    "id": "fact-nature-cane-toad",
+    "topic": "nature",
+    "title": "Ага · жаба-тростянка",
+    "caption": "Завезена в Австралию в 1935 против вредителей. Стала катастрофой. Размножилась до 200 миллионов. Ядовита, убивает местных хищников.",
+    "alt": "Жаба ага",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cane_toad"
+  },
+  {
+    "id": "fact-science-bose-einstein",
+    "topic": "science",
+    "title": "Бозе-Эйнштейн конденсат",
+    "caption": "5-е состояние материи. При −273 °C атомы сливаются в одну квантовую волну. Предсказан в 1924, получен в 1995. Нобель 2001.",
+    "alt": "Конденсат Бозе-Эйнштейна",
+    "year": 1995,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bose–Einstein_condensate"
+  },
+  {
+    "id": "fact-science-superconductor",
+    "topic": "science",
+    "title": "Сверхпроводимость",
+    "caption": "Камерлинг-Оннес, 1911. Ниже критической температуры ртуть теряет сопротивление полностью. Используется в MRI, ускорителях, маглев-поездах.",
+    "alt": "Магнит над сверхпроводником",
+    "year": 1911,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Superconductivity"
+  },
+  {
+    "id": "fact-science-fusion-reactor",
+    "topic": "science",
+    "title": "Термоядерный реактор",
+    "caption": "ITER во Франции, строится с 2007. Цель: первая плазма к 2027. Удерживать D-T плазму при 150 миллионах °C — в 10 раз горячее Солнца.",
+    "alt": "Реактор ITER",
+    "year": 2027,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "ITER"
+  },
+  {
+    "id": "fact-science-nif-fusion",
+    "topic": "science",
+    "title": "NIF · энергетический баланс",
+    "caption": "5 декабря 2022, Ливермор. Впервые термоядерная реакция выдала больше энергии, чем поглотила: 3,15 МДж из 2,05 МДж лазера.",
+    "alt": "Камера NIF",
+    "year": 2022,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "National_Ignition_Facility"
+  },
+  {
+    "id": "fact-science-vaccine-polio",
+    "topic": "science",
+    "title": "Вакцина против полиомиелита",
+    "caption": "Джонас Солк, 1955. До вакцины США регистрировали 35 000 случаев в год. К 2024 — на грани полного уничтожения (как оспа в 1980).",
+    "alt": "Вакцинация против полио",
+    "year": 1955,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Polio_vaccine"
+  }
+]

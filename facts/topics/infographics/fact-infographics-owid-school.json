@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-school",
+  "topic": "infographics",
+  "title": "Среднее число лет обучения",
+  "caption": "1900: 2,4 года школы в среднем мире. 2024: 8,6. Топ: США/Германия 13, Россия 12, Китай 8, Индия 6, Мали 2.",
+  "image": "fact-infographics-owid-school.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Среднее число лет обучения",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/mean-years-of-schooling-long-run",
+  "license": "CC-BY",
+  "year": 2024
+}

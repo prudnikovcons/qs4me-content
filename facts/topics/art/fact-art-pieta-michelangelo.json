@@ -1,0 +1,17 @@
+{
+  "id": "fact-art-pieta-michelangelo",
+  "topic": "art",
+  "title": "Пьета · Микеланджело",
+  "caption": "Микеланджело, 1499. Мрамор 174 см. Сделана за 2 года, в 24 года автору. Единственная подписанная им работа — после слухов о другом авторе.",
+  "image": "fact-art-pieta-michelangelo.webp",
+  "image_width": 1280,
+  "image_height": 1341,
+  "alt": "«Пьета» Микеланджело",
+  "credit": "original file by Stanislav Traykov · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Michelangelo)",
+  "license": "CC-BY",
+  "year": 1499,
+  "meta": {
+    "artist": "Michelangelo"
+  }
+}

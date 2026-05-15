@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-stanley-cup",
+  "topic": "events",
+  "title": "Кубок Стэнли",
+  "caption": "Главный трофей NHL с 1893. Старейший спортивный трофей Северной Америки. На нём гравируют имена всех чемпионов — 3000+ имён.",
+  "image": "fact-events-stanley-cup.webp",
+  "image_width": 1280,
+  "image_height": 2722,
+  "alt": "Кубок Стэнли",
+  "credit": "Alex Goykhman · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Stanley_Cup",
+  "license": "CC-BY-SA",
+  "year": 1893
+}

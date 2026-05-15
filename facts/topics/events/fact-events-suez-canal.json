@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-suez-canal",
+  "topic": "events",
+  "title": "Открытие Суэцкого канала",
+  "caption": "17 ноября 1869. 193 км соединили Средиземное и Красное моря. Сократил путь Европа-Азия на 7000 км. Сегодня — 12% мировой торговли.",
+  "image": "fact-events-suez-canal.webp",
+  "image_width": 1280,
+  "image_height": 1941,
+  "alt": "Суэцкий канал",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Suez_Canal",
+  "license": "PD",
+  "year": 1869
+}

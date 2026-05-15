@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-forests",
+  "topic": "infographics",
+  "title": "Площадь лесов",
+  "caption": "Сегодня 31% суши покрыто лесами (4 млрд га). С 1990 потеряно 178 миллионов га — площадь Ливии. Россия — 815 млн га (20% мировых).",
+  "image": "fact-infographics-owid-forests.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Площадь лесов мира",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/forest-area-km",
+  "license": "CC-BY",
+  "year": 2023
+}

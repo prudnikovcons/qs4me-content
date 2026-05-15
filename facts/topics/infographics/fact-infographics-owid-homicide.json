@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-homicide",
+  "topic": "infographics",
+  "title": "Уровень убийств",
+  "caption": "Мир: 5,8 убийств на 100k человек в год. Сальвадор 52 (рекорд), Россия 7, США 6, Япония 0,2 (минимум).",
+  "image": "fact-infographics-owid-homicide.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Уровень убийств по странам",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/homicide-rate-unodc",
+  "license": "CC-BY",
+  "year": 2023
+}

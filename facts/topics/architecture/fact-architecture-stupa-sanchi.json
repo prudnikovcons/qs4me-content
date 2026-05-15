@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-stupa-sanchi",
+  "topic": "architecture",
+  "title": "Ступа в Санчи",
+  "caption": "Древнейшая каменная буддийская ступа Индии. Заложена императором Ашокой ~250 до н.э. Диаметр 36 м. UNESCO с 1989.",
+  "image": "fact-architecture-stupa-sanchi.webp",
+  "image_width": 1280,
+  "image_height": 1927,
+  "alt": "Ступа в Санчи",
+  "credit": "Biswarup Ganguly · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Sanchi_Stupa",
+  "license": "CC-BY",
+  "year": -250,
+  "meta": {
+    "country_code": "IN"
+  }
+}

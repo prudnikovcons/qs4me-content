@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-van-allen",
+  "topic": "space",
+  "title": "Радиационные пояса Ван Аллена",
+  "caption": "Джеймс Ван Аллен, 1958. Зоны заряженных частиц, удерживаемых магнитным полем. 2 пояса на 1000 и 25 000 км. Защищают Землю от радиации.",
+  "image": "fact-space-van-allen.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Радиационные пояса Земли",
+  "credit": "NASA/Goddard Space Flight Center · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Van_Allen_radiation_belt",
+  "license": "PD",
+  "year": 1958
+}

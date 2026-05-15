@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-machu-picchu-arch",
+  "topic": "architecture",
+  "title": "Мачу-Пикчу · архитектура",
+  "caption": "Инкская техника каменной кладки. Камни прилегают так плотно, что между ними не проходит лезвие. Без раствора, выдержало 5 землетрясений.",
+  "image": "fact-architecture-machu-picchu-arch.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Каменная кладка Мачу-Пикчу",
+  "credit": "Draceane · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Machu_Picchu",
+  "license": "CC-BY-SA",
+  "year": 1450,
+  "meta": {
+    "country_code": "PE"
+  }
+}

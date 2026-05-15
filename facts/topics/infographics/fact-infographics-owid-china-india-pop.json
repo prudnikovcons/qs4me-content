@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-china-india-pop",
+  "topic": "infographics",
+  "title": "Население Китая и Индии",
+  "caption": "В 2023 Индия (1,43 млрд) обогнала Китай (1,42). К 2050 разрыв — 400 млн в пользу Индии. Китай быстро стареет (старше 65 — 28%).",
+  "image": "fact-infographics-owid-china-india-pop.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Население Китая и Индии",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/population",
+  "license": "CC-BY",
+  "year": 2023
+}

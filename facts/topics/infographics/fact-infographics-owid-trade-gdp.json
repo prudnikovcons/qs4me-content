@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-trade-gdp",
+  "topic": "infographics",
+  "title": "Торговля в % ВВП",
+  "caption": "Открытость экономик. Сингапур 320% ВВП (рекорд). Германия 90, Россия 50, США 25 (огромный внутренний рынок), Бразилия 30.",
+  "image": "fact-infographics-owid-trade-gdp.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Доля торговли в ВВП по странам",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/trade-as-share-of-gdp",
+  "license": "CC-BY",
+  "year": 2023
+}

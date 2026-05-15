@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-everest-2015-earthquake",
+  "topic": "events",
+  "title": "Землетрясение в Непале 2015",
+  "caption": "25 апреля 2015, магнитуда 7,8. 9000 погибших. На Эвересте — лавина, 22 погибших в базовом лагере, всё восхождение сезона отменено.",
+  "image": "fact-events-everest-2015-earthquake.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Эверест после землетрясения 2015",
+  "credit": "Hilmi Hacaloğlu · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake",
+  "license": "PD",
+  "year": 2015
+}

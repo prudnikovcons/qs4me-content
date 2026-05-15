@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-bose-einstein",
+  "topic": "science",
+  "title": "Бозе-Эйнштейн конденсат",
+  "caption": "5-е состояние материи. При −273 °C атомы сливаются в одну квантовую волну. Предсказан в 1924, получен в 1995. Нобель 2001.",
+  "image": "fact-science-bose-einstein.webp",
+  "image_width": 1280,
+  "image_height": 922,
+  "alt": "Конденсат Бозе-Эйнштейна",
+  "credit": "Vectorized version by AG Caesar, original by DG85 · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate",
+  "license": "PD",
+  "year": 1995
+}

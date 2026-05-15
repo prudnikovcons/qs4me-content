@@ -1,0 +1,14 @@
+{
+  "id": "fact-language-braille",
+  "topic": "language",
+  "title": "Шрифт Брайля",
+  "caption": "Луи Брайль, Франция, 1824. Создал в 15 лет, ослепнув в 3 года. 6 точек в ячейке — 64 комбинации. Универсальная система для слепых.",
+  "image": "fact-language-braille.webp",
+  "image_width": 1280,
+  "image_height": 857,
+  "alt": "Шрифт Брайля",
+  "credit": "Stefan Malmesjö · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Braille",
+  "license": "CC-BY",
+  "year": 1824
+}

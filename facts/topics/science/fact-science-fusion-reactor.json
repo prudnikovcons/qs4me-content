@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-fusion-reactor",
+  "topic": "science",
+  "title": "Термоядерный реактор",
+  "caption": "ITER во Франции, строится с 2007. Цель: первая плазма к 2027. Удерживать D-T плазму при 150 миллионах °C — в 10 раз горячее Солнца.",
+  "image": "fact-science-fusion-reactor.webp",
+  "image_width": 1280,
+  "image_height": 649,
+  "alt": "Реактор ITER",
+  "credit": "Rfassbind · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/ITER",
+  "license": "PD",
+  "year": 2027
+}

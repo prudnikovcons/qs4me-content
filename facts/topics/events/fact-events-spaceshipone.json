@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-spaceshipone",
+  "topic": "events",
+  "title": "SpaceShipOne",
+  "caption": "21 июня 2004. Первый частный пилотируемый суборбитальный полёт — 100,124 км высоты. Конструктор Берт Рутан, инвестор Пол Аллен. Приз X PRIZE.",
+  "image": "fact-events-spaceshipone.webp",
+  "image_width": 1280,
+  "image_height": 851,
+  "alt": "SpaceShipOne",
+  "credit": "Don Ramey Logan · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/SpaceShipOne",
+  "license": "CC-BY-SA",
+  "year": 2004
+}

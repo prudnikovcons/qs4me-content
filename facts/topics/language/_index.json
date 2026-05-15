@@ -1,5 +1,6 @@
 [
   "fact-language-arabic",
+  "fact-language-braille",
   "fact-language-cuneiform",
   "fact-language-cyrillic",
   "fact-language-devanagari",
@@ -10,7 +11,9 @@
   "fact-language-japanese-kanji",
   "fact-language-latin",
   "fact-language-mandarin",
+  "fact-language-morse",
   "fact-language-pidgin-creole",
+  "fact-language-rune-stones",
   "fact-language-runes",
   "fact-language-sanskrit",
   "fact-language-sign",

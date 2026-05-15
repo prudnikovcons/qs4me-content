@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-deep-learning",
+  "topic": "infographics",
+  "title": "Глубокое обучение",
+  "caption": "Нейросети с десятками слоёв. AlexNet 2012 — 8 слоёв, 62M параметров. GPT-4 (2023) — оценочно 1,7 трлн параметров. Рост ×30 000 за 11 лет.",
+  "image": "fact-infographics-deep-learning.webp",
+  "image_width": 1239,
+  "image_height": 1012,
+  "alt": "Многослойная нейросеть",
+  "credit": "Sven Behnke · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Deep_learning",
+  "license": "CC-BY-SA",
+  "year": 2012
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-formula-1-monaco",
+  "topic": "events",
+  "title": "Гран-при Монако",
+  "caption": "С 1929 года. Гонка в городском кольце 3,337 км. Самая престижная Ф1. Скорость до 290 км/ч между отбойниками шириной 9 м.",
+  "image": "fact-events-formula-1-monaco.webp",
+  "image_width": 1280,
+  "image_height": 895,
+  "alt": "Гран-при Монако",
+  "credit": "Will Pittenger · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Monaco_Grand_Prix",
+  "license": "CC-BY-SA",
+  "year": 1929
+}

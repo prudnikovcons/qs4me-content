@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-portuguese-man-o-war",
+  "topic": "nature",
+  "title": "Португальский кораблик",
+  "caption": "Не медуза, а сифонофор — колония 4 типов организмов. Щупальца до 30 м, ожог приравнен к удару скорпиона. Виден на поверхности с воздуха.",
+  "image": "fact-nature-portuguese-man-o-war.webp",
+  "image_width": 1100,
+  "image_height": 1508,
+  "alt": "Португальский кораблик",
+  "credit": "Image courtesy of Islands in the Sea 2002, NOAA/OER. · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Portuguese_man_o'_war",
+  "license": "PD",
+  "year": 2017,
+  "meta": {
+    "species": "Physalia physalis"
+  }
+}

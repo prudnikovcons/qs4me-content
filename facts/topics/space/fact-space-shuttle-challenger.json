@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-shuttle-challenger",
+  "topic": "space",
+  "title": "Челленджер",
+  "caption": "28 января 1986. Шаттл взорвался через 73 секунды после старта на высоте 14 км. 7 астронавтов погибли. Дефект О-кольца от мороза.",
+  "image": "fact-space-shuttle-challenger.webp",
+  "image_width": 1280,
+  "image_height": 1037,
+  "alt": "Челленджер взрыв 1986",
+  "credit": "Kennedy Space Center · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+  "license": "PD",
+  "year": 1986
+}

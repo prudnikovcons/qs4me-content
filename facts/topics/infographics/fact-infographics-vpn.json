@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-vpn",
+  "topic": "infographics",
+  "title": "VPN",
+  "caption": "Virtual Private Network. Шифрованный туннель через интернет. Изобретён Microsoft в 1996 (PPTP). К 2024 — 1,75 млрд VPN-пользователей в мире.",
+  "image": "fact-infographics-vpn.webp",
+  "image_width": 1280,
+  "image_height": 905,
+  "alt": "Принцип работы VPN",
+  "credit": "Ludovic.ferre (talk · contribs) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Virtual_private_network",
+  "license": "CC-BY-SA",
+  "year": 1996
+}

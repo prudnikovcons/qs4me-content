@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-transformer",
+  "topic": "infographics",
+  "title": "Transformer",
+  "caption": "Архитектура нейросетей, Google 2017. «Attention is all you need». База GPT, BERT, всех современных LLM. Self-attention революционизирует NLP.",
+  "image": "fact-infographics-transformer.webp",
+  "image_width": 1280,
+  "image_height": 1346,
+  "alt": "Архитектура Transformer",
+  "credit": "dvgodoy · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)",
+  "license": "CC-BY",
+  "year": 2017
+}

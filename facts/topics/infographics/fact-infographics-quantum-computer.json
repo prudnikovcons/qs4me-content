@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-quantum-computer",
+  "topic": "infographics",
+  "title": "Квантовый компьютер",
+  "caption": "Использует кубиты (суперпозиция). IBM в 2024 — 1121 кубит (Condor). Шора алгоритм может ломать RSA-2048 за часы — пока теоретически.",
+  "image": "fact-infographics-quantum-computer.webp",
+  "image_width": 1280,
+  "image_height": 1355,
+  "alt": "Кубит — квантовая единица",
+  "credit": "Smite-Meister · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "license": "CC-BY-SA",
+  "year": 2024
+}

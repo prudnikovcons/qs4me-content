@@ -1,0 +1,400 @@
+[
+  {
+    "id": "fact-space-iss-cupola",
+    "topic": "space",
+    "title": "Cupola · окна МКС",
+    "caption": "Купол с 7 окнами для наблюдения Земли. Установлен в 2010. Самое большое окно в космосе — 80 см диаметром. Любимое место астронавтов.",
+    "alt": "Cupola МКС",
+    "year": 2010,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cupola_(ISS_module)"
+  },
+  {
+    "id": "fact-space-soyuz-rocket",
+    "topic": "space",
+    "title": "Союз",
+    "caption": "Семейство ракет с 1966. Самая надёжная и часто запускаемая в истории — 2000+ полётов. Возит экипажи к МКС с 2001.",
+    "alt": "Ракета Союз",
+    "year": 1966,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Soyuz_(rocket)"
+  },
+  {
+    "id": "fact-space-saturn-v",
+    "topic": "space",
+    "title": "Сатурн-5",
+    "caption": "Самая мощная ракета в истории до Starship. Высота 110 м, масса 3000 тонн. 13 пилотируемых запусков 1967-1973, в т.ч. вся программа Аполлон.",
+    "alt": "Сатурн-5 на старте",
+    "year": 1967,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Saturn_V"
+  },
+  {
+    "id": "fact-space-shuttle-challenger",
+    "topic": "space",
+    "title": "Челленджер",
+    "caption": "28 января 1986. Шаттл взорвался через 73 секунды после старта на высоте 14 км. 7 астронавтов погибли. Дефект О-кольца от мороза.",
+    "alt": "Челленджер взрыв 1986",
+    "year": 1986,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Space_Shuttle_Challenger_disaster"
+  },
+  {
+    "id": "fact-space-shuttle-columbia",
+    "topic": "space",
+    "title": "Колумбия",
+    "caption": "1 февраля 2003. Шаттл разрушился при возвращении в атмосферу. 7 астронавтов погибли. Кусок пены повредил тепловую защиту крыла.",
+    "alt": "Шаттл Колумбия",
+    "year": 2003,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Space_Shuttle_Columbia_disaster"
+  },
+  {
+    "id": "fact-space-roscosmos-vostochny",
+    "topic": "space",
+    "title": "Космодром Восточный",
+    "caption": "Амурская область, открыт 2016. Первый гражданский космодром России. Заменяет Байконур (Казахстан, $115 млн арендной платы в год).",
+    "alt": "Космодром Восточный",
+    "year": 2016,
+    "meta": { "country_code": "RU" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vostochny_Cosmodrome"
+  },
+  {
+    "id": "fact-space-kennedy-space-center",
+    "topic": "space",
+    "title": "Космический центр Кеннеди",
+    "caption": "Мыс Канаверал, Флорида. Стартовая площадка LC-39A — отсюда стартовали Аполлоны, Шаттлы, Falcon-9 и Starship.",
+    "alt": "Центр Кеннеди",
+    "year": 1962,
+    "meta": { "country_code": "US" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kennedy_Space_Center"
+  },
+  {
+    "id": "fact-space-baikonur",
+    "topic": "space",
+    "title": "Байконур",
+    "caption": "Казахстан. Старейший и крупнейший космодром мира с 1955. Отсюда — Гагарин (1961), Терешкова (1963). Россия арендует у Казахстана $115 млн/год.",
+    "alt": "Космодром Байконур",
+    "year": 1955,
+    "meta": { "country_code": "KZ" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Baikonur_Cosmodrome"
+  },
+  {
+    "id": "fact-space-iss-modules",
+    "topic": "space",
+    "title": "Модули МКС",
+    "caption": "16 крупных модулей. Старт сборки — 20 ноября 1998 (Заря). Длина 109 м, ширина 73 м. Размер футбольного поля.",
+    "alt": "Схема МКС",
+    "year": 1998,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "International_Space_Station"
+  },
+  {
+    "id": "fact-space-tiangong",
+    "topic": "space",
+    "title": "Тяньгун",
+    "caption": "Китайская космическая станция. Сборка завершена 2022. 3 модуля, 60 тонн. Постоянный экипаж 3 человека. Альтернатива МКС после её вывода.",
+    "alt": "Китайская станция Тяньгун",
+    "year": 2022,
+    "meta": { "country_code": "CN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tiangong_space_station"
+  },
+  {
+    "id": "fact-space-mir",
+    "topic": "space",
+    "title": "Мир",
+    "caption": "Советская/российская станция, 1986–2001. 15 лет на орбите, 125 космонавтов. Затоплена в Тихом океане 23 марта 2001 — 1500 фрагментов сгорели.",
+    "alt": "Станция Мир",
+    "year": 2001,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mir"
+  },
+  {
+    "id": "fact-space-skylab",
+    "topic": "space",
+    "title": "Skylab",
+    "caption": "Первая орбитальная станция США, 1973–1979. 75 тонн на основе ступени Сатурна-5. 3 экипажа провели 171 день. Сгорела в атмосфере 11 июля 1979.",
+    "alt": "Skylab — иллюстрация",
+    "year": 1973,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Skylab"
+  },
+  {
+    "id": "fact-space-cosmic-rays",
+    "topic": "space",
+    "title": "Космические лучи",
+    "caption": "Высокоэнергетические частицы от Солнца и сверхновых. Открыты Виктором Гессом, 1912, Нобель 1936. На МКС астронавт получает 0,5 мЗв/день.",
+    "alt": "Космические лучи",
+    "year": 1912,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cosmic_ray"
+  },
+  {
+    "id": "fact-space-van-allen",
+    "topic": "space",
+    "title": "Радиационные пояса Ван Аллена",
+    "caption": "Джеймс Ван Аллен, 1958. Зоны заряженных частиц, удерживаемых магнитным полем. 2 пояса на 1000 и 25 000 км. Защищают Землю от радиации.",
+    "alt": "Радиационные пояса Земли",
+    "year": 1958,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Van_Allen_radiation_belt"
+  },
+  {
+    "id": "fact-space-supermassive",
+    "topic": "space",
+    "title": "Сверхмассивные чёрные дыры",
+    "caption": "В центре каждой большой галактики. Стрелец A* (Млечный Путь) — 4,3 млн солнечных масс. M87* — 6,5 миллиарда. TON 618 — 66 миллиардов.",
+    "alt": "Иллюстрация сверхмассивной чёрной дыры",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Supermassive_black_hole"
+  },
+  {
+    "id": "fact-space-fermi-bubbles",
+    "topic": "space",
+    "title": "Пузыри Ферми",
+    "caption": "2 гигантских структуры выше и ниже центра Млечного Пути, открыты в 2010. Размер 25 000 световых лет каждый — следы древнего извержения Sgr A*.",
+    "alt": "Пузыри Ферми",
+    "year": 2010,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fermi_bubbles"
+  },
+  {
+    "id": "fact-space-laniakea",
+    "topic": "space",
+    "title": "Ланиакея",
+    "caption": "Наш суперскопление галактик, открыто в 2014. 500 миллионов световых лет в поперечнике. Включает 100 000+ галактик, в т.ч. Млечный Путь.",
+    "alt": "Суперскопление Ланиакея",
+    "year": 2014,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Laniakea_Supercluster"
+  },
+  {
+    "id": "fact-space-betelgeuse-dimming",
+    "topic": "space",
+    "title": "Помутнение Бетельгейзе",
+    "caption": "Конец 2019 — начало 2020. Звезда потускнела на 60%, начали ждать сверхновую. Оказалось — облако пыли, выброшенное с поверхности.",
+    "alt": "Бетельгейзе тускнеющая",
+    "year": 2020,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Betelgeuse"
+  },
+  {
+    "id": "fact-art-michelangelo-david-2",
+    "topic": "art",
+    "title": "Давид · 5,17 м",
+    "caption": "Микеланджело, 1501–1504. Из одного блока каррарского мрамора, что лежал 25 лет — другие скульпторы считали испорченным.",
+    "alt": "Давид Микеланджело",
+    "year": 1504,
+    "meta": { "artist": "Michelangelo" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "David_(Michelangelo)"
+  },
+  {
+    "id": "fact-art-bernini-ecstasy",
+    "topic": "art",
+    "title": "Экстаз Святой Терезы",
+    "caption": "Джованни Бернини, 1647–1652. Мраморная скульптура в Риме. Барокко на пике — игра света через окна на скульптуру. 3,5 м высотой.",
+    "alt": "Экстаз Святой Терезы Бернини",
+    "year": 1652,
+    "meta": { "artist": "Gian Lorenzo Bernini" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ecstasy_of_Saint_Teresa"
+  },
+  {
+    "id": "fact-art-discus-thrower-myron",
+    "topic": "art",
+    "title": "Дискобол · Мирон",
+    "caption": "Мирон, ~450 до н.э. Бронзовая скульптура греческого спортсмена в момент броска. Оригинал утерян. Все известные копии — римские I–II века.",
+    "alt": "Дискобол Мирона",
+    "year": -450,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Discobolus"
+  },
+  {
+    "id": "fact-art-laocoon",
+    "topic": "art",
+    "title": "Лаокоон",
+    "caption": "Эллинистическая скульптура из Родоса, ~25 до н.э. Найдена в Риме 14 января 1506 — событие воскресило интерес к античности и поразило Микеланджело.",
+    "alt": "Скульптура Лаокоона",
+    "year": 1506,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Laocoön_and_His_Sons"
+  },
+  {
+    "id": "fact-art-aphrodite-knidos",
+    "topic": "art",
+    "title": "Афродита Книдская",
+    "caption": "Пракситель, ~360 до н.э. Первая в истории античного искусства полностью обнажённая женская скульптура. Стояла в Книде. Оригинал утерян.",
+    "alt": "Афродита Книдская — копия",
+    "year": -360,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aphrodite_of_Knidos"
+  },
+  {
+    "id": "fact-art-thinker-rodin-2",
+    "topic": "art",
+    "title": "Поцелуй · Роден",
+    "caption": "Огюст Роден, 1882. Мраморная скульптура 183 см. Изначально часть «Врат Ада» — Паоло и Франческа из Данте. 200+ авторских копий в мире.",
+    "alt": "«Поцелуй» Родена",
+    "year": 1882,
+    "meta": { "artist": "Auguste Rodin" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Kiss_(Rodin_sculpture)"
+  },
+  {
+    "id": "fact-art-pieta-michelangelo",
+    "topic": "art",
+    "title": "Пьета · Микеланджело",
+    "caption": "Микеланджело, 1499. Мрамор 174 см. Сделана за 2 года, в 24 года автору. Единственная подписанная им работа — после слухов о другом авторе.",
+    "alt": "«Пьета» Микеланджело",
+    "year": 1499,
+    "meta": { "artist": "Michelangelo" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pietà_(Michelangelo)"
+  },
+  {
+    "id": "fact-art-rodin-thinker-2",
+    "topic": "art",
+    "title": "Мыслитель · 28 копий",
+    "caption": "Огюст Роден, 1880–1904. Бронза 180 см. Изначально — Данте над «Вратами Ада». 28 авторских копий в мире, остальные — после смерти.",
+    "alt": "«Мыслитель» Родена",
+    "year": 1904,
+    "meta": { "artist": "Auguste Rodin" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Thinker"
+  },
+  {
+    "id": "fact-art-nike-samothrace",
+    "topic": "art",
+    "title": "Ника Самофракийская",
+    "caption": "Богиня победы, ~200 до н.э. Мрамор 2,44 м. Найдена в 1863 на Самофракии. Лувр с 1864 — без головы и рук, но крылья сохранились.",
+    "alt": "Ника Самофракийская",
+    "year": -200,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Winged_Victory_of_Samothrace"
+  },
+  {
+    "id": "fact-art-water-lilies-monet",
+    "topic": "art",
+    "title": "Кувшинки Моне",
+    "caption": "Серия из 250 картин Клода Моне 1896–1926. Все в его саду в Живерни. Дали импульс к абстракционизму XX века. Музей Оранжери — 8 панно по 2 м.",
+    "alt": "Кувшинки Моне",
+    "year": 1926,
+    "meta": { "artist": "Claude Monet" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Water_Lilies_(Monet_series)"
+  },
+  {
+    "id": "fact-art-arnolfini-portrait-2",
+    "topic": "art",
+    "title": "Портрет Арнольфини",
+    "caption": "Ян ван Эйк, 1434. Масло на дубовой доске 82×60 см. Зеркало на стене — 7 миниатюр Страстей Христовых, рельеф 5 мм. Первый домашний жанр.",
+    "alt": "«Портрет Арнольфини»",
+    "year": 1434,
+    "meta": { "artist": "Jan van Eyck" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Arnolfini_Portrait"
+  },
+  {
+    "id": "fact-infographics-internet-protocols",
+    "topic": "infographics",
+    "title": "Стек интернет-протоколов",
+    "caption": "4 уровня (TCP/IP): доступ к среде (Ethernet, WiFi), сетевой (IP), транспортный (TCP, UDP), прикладной (HTTP, DNS). Упрощение OSI с 1983.",
+    "alt": "Стек TCP/IP",
+    "year": 1983,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Internet_protocol_suite"
+  },
+  {
+    "id": "fact-infographics-dns-resolution",
+    "topic": "infographics",
+    "title": "Резолвинг DNS",
+    "caption": "Domain Name System превращает имя домена в IP-адрес. 13 корневых серверов мира, иерархия: корень → TLD (.com) → авторитативный.",
+    "alt": "Иерархия DNS",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Domain_Name_System"
+  },
+  {
+    "id": "fact-infographics-https",
+    "topic": "infographics",
+    "title": "HTTPS · TLS",
+    "caption": "HTTP+TLS. Зелёный замок в браузере. К 2024 — 95% веб-трафика шифровано. TLS 1.3 (2018) — рукопожатие за 1 round-trip вместо 2.",
+    "alt": "Принцип HTTPS",
+    "year": 2018,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "HTTPS"
+  },
+  {
+    "id": "fact-infographics-ipv4-ipv6",
+    "topic": "infographics",
+    "title": "IPv4 → IPv6",
+    "caption": "IPv4 — 4 миллиарда адресов, исчерпан в 2011. IPv6 — 340 ундециллион (3,4×10³⁸). Адрес 128 бит. К 2024 — 45% трафика по IPv6.",
+    "alt": "Сравнение IPv4 и IPv6",
+    "year": 2011,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "IPv6"
+  },
+  {
+    "id": "fact-infographics-cdn",
+    "topic": "infographics",
+    "title": "CDN · сеть доставки",
+    "caption": "Content Delivery Network. Серверы по всему миру кэшируют контент ближе к пользователям. Akamai, Cloudflare, Amazon CloudFront — 70% веб-трафика.",
+    "alt": "Схема работы CDN",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Content_delivery_network"
+  },
+  {
+    "id": "fact-infographics-vpn",
+    "topic": "infographics",
+    "title": "VPN",
+    "caption": "Virtual Private Network. Шифрованный туннель через интернет. Изобретён Microsoft в 1996 (PPTP). К 2024 — 1,75 млрд VPN-пользователей в мире.",
+    "alt": "Принцип работы VPN",
+    "year": 1996,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Virtual_private_network"
+  },
+  {
+    "id": "fact-infographics-ssh",
+    "topic": "infographics",
+    "title": "SSH",
+    "caption": "Secure Shell. Удалённый доступ с шифрованием. Тату Илонен создал в 1995 после атаки на университет. Стандарт системного администрирования.",
+    "alt": "Подключение через SSH",
+    "year": 1995,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Secure_Shell"
+  },
+  {
+    "id": "fact-infographics-quantum-computer",
+    "topic": "infographics",
+    "title": "Квантовый компьютер",
+    "caption": "Использует кубиты (суперпозиция). IBM в 2024 — 1121 кубит (Condor). Шора алгоритм может ломать RSA-2048 за часы — пока теоретически.",
+    "alt": "Кубит — квантовая единица",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quantum_computing"
+  },
+  {
+    "id": "fact-infographics-deep-learning",
+    "topic": "infographics",
+    "title": "Глубокое обучение",
+    "caption": "Нейросети с десятками слоёв. AlexNet 2012 — 8 слоёв, 62M параметров. GPT-4 (2023) — оценочно 1,7 трлн параметров. Рост ×30 000 за 11 лет.",
+    "alt": "Многослойная нейросеть",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Deep_learning"
+  },
+  {
+    "id": "fact-infographics-transformer",
+    "topic": "infographics",
+    "title": "Transformer",
+    "caption": "Архитектура нейросетей, Google 2017. «Attention is all you need». База GPT, BERT, всех современных LLM. Self-attention революционизирует NLP.",
+    "alt": "Архитектура Transformer",
+    "year": 2017,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Transformer_(machine_learning_model)"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-life-satisfaction",
+  "topic": "infographics",
+  "title": "Удовлетворённость жизнью",
+  "caption": "Соответствие между ВВП и счастьем по странам. До $20k связь сильная. После — слабеет: Япония богаче Коста-Рики, а счастья меньше.",
+  "image": "fact-infographics-owid-life-satisfaction.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "ВВП vs Удовлетворённость жизнью",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/gdp-vs-happiness",
+  "license": "CC-BY",
+  "year": 2024
+}

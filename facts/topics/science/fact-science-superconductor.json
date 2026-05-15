@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-superconductor",
+  "topic": "science",
+  "title": "Сверхпроводимость",
+  "caption": "Камерлинг-Оннес, 1911. Ниже критической температуры ртуть теряет сопротивление полностью. Используется в MRI, ускорителях, маглев-поездах.",
+  "image": "fact-science-superconductor.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Магнит над сверхпроводником",
+  "credit": "Henry Mühlpfordt · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Superconductivity",
+  "license": "CC-BY-SA",
+  "year": 1911
+}

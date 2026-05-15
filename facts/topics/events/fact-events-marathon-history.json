@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-marathon-history",
+  "topic": "events",
+  "title": "Марафон",
+  "caption": "490 до н.э. Битва при Марафоне. Гонец Фидиппид пробежал 42 км в Афины с вестью о победе и умер. Длина 42,195 — стандарт Лондон-1908.",
+  "image": "fact-events-marathon-history.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Памятник Фидиппиду",
+  "credit": "Bratislavská župa from Bratislava, Slovakia · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Marathon",
+  "license": "CC-BY",
+  "year": -490
+}

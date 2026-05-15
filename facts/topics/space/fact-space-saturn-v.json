@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-saturn-v",
+  "topic": "space",
+  "title": "Сатурн-5",
+  "caption": "Самая мощная ракета в истории до Starship. Высота 110 м, масса 3000 тонн. 13 пилотируемых запусков 1967-1973, в т.ч. вся программа Аполлон.",
+  "image": "fact-space-saturn-v.webp",
+  "image_width": 1280,
+  "image_height": 1600,
+  "alt": "Сатурн-5 на старте",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Saturn_V",
+  "license": "PD",
+  "year": 1967
+}

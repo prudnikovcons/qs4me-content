@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-cosmic-rays",
+  "topic": "space",
+  "title": "Космические лучи",
+  "caption": "Высокоэнергетические частицы от Солнца и сверхновых. Открыты Виктором Гессом, 1912, Нобель 1936. На МКС астронавт получает 0,5 мЗв/день.",
+  "image": "fact-space-cosmic-rays.webp",
+  "image_width": 1280,
+  "image_height": 1536,
+  "alt": "Космические лучи",
+  "credit": "Sven Lafebre · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Cosmic_ray",
+  "license": "CC-BY-SA",
+  "year": 1912
+}

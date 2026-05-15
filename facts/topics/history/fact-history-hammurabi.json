@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-hammurabi",
+  "topic": "history",
+  "title": "Кодекс Хаммурапи",
+  "caption": "1755 до н.э., Вавилон. Одна из древнейших систем законов. 282 закона на 2,2-м стеле из чёрного диорита. «Око за око» — отсюда.",
+  "image": "fact-history-hammurabi.webp",
+  "image_width": 1215,
+  "image_height": 2000,
+  "alt": "Стела Кодекса Хаммурапи",
+  "credit": "Mbzt · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+  "license": "CC-BY",
+  "year": -1755
+}

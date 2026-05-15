@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-gandhi-killed",
+  "topic": "events",
+  "title": "Убийство Ганди",
+  "caption": "30 января 1948, Нью-Дели. Махатма Ганди, 78 лет, застрелен Натхурамом Годсе. 3 выстрела в грудь. Последние слова: «Хей Рам».",
+  "image": "fact-events-gandhi-killed.webp",
+  "image_width": 1280,
+  "image_height": 1707,
+  "alt": "Ганди в день убийства",
+  "credit": "Wilson Loo Kok Wee · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Assassination_of_Mahatma_Gandhi",
+  "license": "CC-BY-SA",
+  "year": 1948
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-space-roscosmos-vostochny",
+  "topic": "space",
+  "title": "Космодром Восточный",
+  "caption": "Амурская область, открыт 2016. Первый гражданский космодром России. Заменяет Байконур (Казахстан, $115 млн арендной платы в год).",
+  "image": "fact-space-roscosmos-vostochny.webp",
+  "image_width": 1200,
+  "image_height": 796,
+  "alt": "Космодром Восточный",
+  "credit": "Владислав Ларкин · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Vostochny_Cosmodrome",
+  "license": "CC-BY-SA",
+  "year": 2016,
+  "meta": {
+    "country_code": "RU"
+  }
+}

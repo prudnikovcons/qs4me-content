@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-mobile",
+  "topic": "infographics",
+  "title": "Мобильные подписки",
+  "caption": "В 1995 — 91 млн мобильных подписок в мире. К 2024 — 8,9 миллиардов (больше людей). На 100 человек: 106 (рекорд).",
+  "image": "fact-infographics-owid-mobile.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Мобильные подписки мира",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/mobile-cellular-subscriptions-per-100-people",
+  "license": "CC-BY",
+  "year": 2024
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-armstrong-luna",
+  "topic": "events",
+  "title": "Первый шаг на Луне",
+  "caption": "Нил Армстронг, 20 июля 1969, 20:17 UTC посадка. 21:56 первый шаг. «Один маленький шаг для человека, один гигантский — для человечества».",
+  "image": "fact-events-armstrong-luna.webp",
+  "image_width": 1280,
+  "image_height": 1600,
+  "alt": "Армстронг на Луне",
+  "credit": "Unknown authorUnknown author · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Neil_Armstrong",
+  "license": "PD",
+  "year": 1969
+}

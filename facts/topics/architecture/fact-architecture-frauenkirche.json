@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-frauenkirche",
+  "topic": "architecture",
+  "title": "Фрауэнкирхе · Дрезден",
+  "caption": "Лютеранская церковь. Построена 1726–1743. Разрушена бомбардировкой Дрездена 1945. Восстановлена из 8500 оригинальных камней к 2005.",
+  "image": "fact-architecture-frauenkirche.webp",
+  "image_width": 1280,
+  "image_height": 1898,
+  "alt": "Фрауэнкирхе в Дрездене",
+  "credit": "Netopyr · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Dresden_Frauenkirche",
+  "license": "CC-BY-SA",
+  "year": 2005,
+  "meta": {
+    "country_code": "DE"
+  }
+}

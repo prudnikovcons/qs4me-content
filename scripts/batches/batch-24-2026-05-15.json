@@ -1,0 +1,420 @@
+[
+  {
+    "id": "fact-events-fifa-2018",
+    "topic": "events",
+    "title": "ЧМ по футболу 2018",
+    "caption": "Россия, 14 июня – 15 июля 2018. 12 городов, 32 сборные. Финал: Франция 4-2 Хорватия. 3,5 млрд телезрителей по миру.",
+    "alt": "ЧМ по футболу 2018",
+    "year": 2018,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "2018_FIFA_World_Cup"
+  },
+  {
+    "id": "fact-events-formula-1-monaco",
+    "topic": "events",
+    "title": "Гран-при Монако",
+    "caption": "С 1929 года. Гонка в городском кольце 3,337 км. Самая престижная Ф1. Скорость до 290 км/ч между отбойниками шириной 9 м.",
+    "alt": "Гран-при Монако",
+    "year": 1929,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Monaco_Grand_Prix"
+  },
+  {
+    "id": "fact-events-bolt-100m",
+    "topic": "events",
+    "title": "Усэйн Болт · 9,58 с",
+    "caption": "16 августа 2009, ЧМ Берлин. Мировой рекорд на 100 м — 9,58 секунд. Средняя скорость 37,6 км/ч. Стоит уже 15 лет.",
+    "alt": "Усэйн Болт на финише",
+    "year": 2009,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Usain_Bolt"
+  },
+  {
+    "id": "fact-events-felix-baumgartner",
+    "topic": "events",
+    "title": "Прыжок Баумгартнера",
+    "caption": "Феликс Баумгартнер, 14 октября 2012. Прыжок с 39 км из стратосферы. Скорость 1357 км/ч — превысил скорость звука в свободном падении.",
+    "alt": "Феликс Баумгартнер прыжок из стратосферы",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Red_Bull_Stratos"
+  },
+  {
+    "id": "fact-events-everest-record",
+    "topic": "events",
+    "title": "Эверест без кислорода",
+    "caption": "Райнхольд Месснер и Питер Хабелер, 8 мая 1978. Первое восхождение без баллонов. Месснер повторил соло в 1980, также без кислорода.",
+    "alt": "Месснер на Эвересте",
+    "year": 1978,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Reinhold_Messner"
+  },
+  {
+    "id": "fact-events-mariana-trieste",
+    "topic": "events",
+    "title": "Триест в Марианской",
+    "caption": "23 января 1960. Жак Пиккар и Дон Уолш. Первое погружение на дно Марианского жёлоба — 10 916 м, 4 часа 47 минут вниз.",
+    "alt": "Батискаф Триест",
+    "year": 1960,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Trieste_(bathyscaphe)"
+  },
+  {
+    "id": "fact-events-cameron-deepsea",
+    "topic": "events",
+    "title": "Кэмерон · Deepsea Challenger",
+    "caption": "26 марта 2012. Джеймс Кэмерон погрузился на дно Марианского жёлоба в одиночку — 10 908 м. Первое одиночное погружение со времён Триеста 1960.",
+    "alt": "Deepsea Challenger Кэмерона",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Deepsea_Challenger"
+  },
+  {
+    "id": "fact-events-eclipse-1919",
+    "topic": "events",
+    "title": "Затмение 1919",
+    "caption": "29 мая 1919. Эддингтон сфотографировал звёзды у Солнца во время полного затмения. Подтвердил общую теорию относительности Эйнштейна.",
+    "alt": "Затмение Эддингтона 1919",
+    "year": 1919,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eddington_experiment"
+  },
+  {
+    "id": "fact-events-eyjafjallajokull",
+    "topic": "events",
+    "title": "Извержение Эйяфьядлайёкюдль",
+    "caption": "14 апреля 2010, Исландия. Пепел остановил авиасообщение Европы на 6 дней. Отменено 100 000 рейсов, потери $1,7 млрд.",
+    "alt": "Извержение Эйяфьядлайёкюдль",
+    "year": 2010,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eyjafjallajökull"
+  },
+  {
+    "id": "fact-events-suez-canal",
+    "topic": "events",
+    "title": "Открытие Суэцкого канала",
+    "caption": "17 ноября 1869. 193 км соединили Средиземное и Красное моря. Сократил путь Европа-Азия на 7000 км. Сегодня — 12% мировой торговли.",
+    "alt": "Суэцкий канал",
+    "year": 1869,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Suez_Canal"
+  },
+  {
+    "id": "fact-events-panama-canal",
+    "topic": "events",
+    "title": "Панамский канал",
+    "caption": "Открыт 15 августа 1914. 82 км через Панамский перешеек. Шлюзы поднимают суда на 26 м. К 2016 — расширен для крупнейших контейнеровозов.",
+    "alt": "Панамский канал",
+    "year": 1914,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Panama_Canal"
+  },
+  {
+    "id": "fact-events-trans-atlantic-cable",
+    "topic": "events",
+    "title": "Трансатлантический кабель",
+    "caption": "Сайрус Филд, 27 июля 1866. 4 200 км медного кабеля между Ирландией и Канадой. Сообщение Лондон-Нью-Йорк сократилось с 10 дней до минут.",
+    "alt": "Прокладка трансатлантического кабеля",
+    "year": 1866,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Transatlantic_telegraph_cable"
+  },
+  {
+    "id": "fact-events-printing-bible",
+    "topic": "events",
+    "title": "Печать Библии Гутенберга",
+    "caption": "Майнц, 1455. Иоганн Гутенберг напечатал 180 копий, потратив 5 лет. Сохранилось 49 — каждая стоит $25–35 миллионов на аукционах.",
+    "alt": "Страница Библии Гутенберга",
+    "year": 1455,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gutenberg_Bible"
+  },
+  {
+    "id": "fact-events-spaceshipone",
+    "topic": "events",
+    "title": "SpaceShipOne",
+    "caption": "21 июня 2004. Первый частный пилотируемый суборбитальный полёт — 100,124 км высоты. Конструктор Берт Рутан, инвестор Пол Аллен. Приз X PRIZE.",
+    "alt": "SpaceShipOne",
+    "year": 2004,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "SpaceShipOne"
+  },
+  {
+    "id": "fact-events-deepmind-go",
+    "topic": "events",
+    "title": "AlphaGo vs Ли Седоль",
+    "caption": "9–15 марта 2016, Сеул. AlphaGo (DeepMind) обыграл 18-кратного чемпиона мира по го Ли Седоля 4-1. Поле в Го — 10^170 позиций.",
+    "alt": "AlphaGo против Ли Седоля",
+    "year": 2016,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "AlphaGo_versus_Lee_Sedol"
+  },
+  {
+    "id": "fact-history-rosetta-deciphered",
+    "topic": "history",
+    "title": "Дешифровка иероглифов",
+    "caption": "Жан-Франсуа Шампольон, 14 сентября 1822. С помощью Розеттского камня (1799) разгадал египетское письмо. До этого иероглифы молчали 1400 лет.",
+    "alt": "Шампольон расшифровывает иероглифы",
+    "year": 1822,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jean-François_Champollion"
+  },
+  {
+    "id": "fact-history-sumerian",
+    "topic": "history",
+    "title": "Шумер",
+    "caption": "Древнейшая цивилизация Месопотамии, 4500–1900 до н.э. Изобрели колесо, плуг, клинопись, организовали государства-полисы. Ур — крупнейший город.",
+    "alt": "Зиккурат Ура",
+    "year": -4500,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sumer"
+  },
+  {
+    "id": "fact-history-babylon",
+    "topic": "history",
+    "title": "Вавилон",
+    "caption": "Древний город Месопотамии. Расцвет при Хаммурапи (1792–1750 до н.э.) — Кодекс Хаммурапи на 282 закона. Висячие сады — одно из 7 чудес.",
+    "alt": "Реконструкция Вавилона",
+    "year": -1750,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Babylon"
+  },
+  {
+    "id": "fact-history-hammurabi",
+    "topic": "history",
+    "title": "Кодекс Хаммурапи",
+    "caption": "1755 до н.э., Вавилон. Одна из древнейших систем законов. 282 закона на 2,2-м стеле из чёрного диорита. «Око за око» — отсюда.",
+    "alt": "Стела Кодекса Хаммурапи",
+    "year": -1755,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Code_of_Hammurabi"
+  },
+  {
+    "id": "fact-history-pearl-harbor-2",
+    "topic": "history",
+    "title": "USS Arizona",
+    "caption": "Линкор США, потоплен в Пёрл-Харборе 7 декабря 1941. Погибло 1177 моряков. Мемориал над затонувшим кораблём — место паломничества с 1962.",
+    "alt": "Мемориал USS Arizona",
+    "year": 1941,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "USS_Arizona_(BB-39)"
+  },
+  {
+    "id": "fact-history-hindenburg-airships",
+    "topic": "history",
+    "title": "Век дирижаблей",
+    "caption": "1900–1937. Граф Цеппелин, 1900 — первый жёсткий. Hindenburg, 1936 — 245 м, перевозил Атлантику за 60 часов. Катастрофа 1937 закрыла эпоху.",
+    "alt": "Дирижабль Гинденбург",
+    "year": 1937,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Airship"
+  },
+  {
+    "id": "fact-history-aluminum-rush",
+    "topic": "history",
+    "title": "Алюминиевый бум",
+    "caption": "До 1886 алюминий — дороже золота. Холл и Эру одновременно изобрели электролиз бокситов. Цена упала в 30 раз за 5 лет. Век самолётов начался.",
+    "alt": "Слиток алюминия",
+    "year": 1886,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hall–Héroult_process"
+  },
+  {
+    "id": "fact-history-bell-rotary",
+    "topic": "history",
+    "title": "Дисковый телефон",
+    "caption": "Алмон Строуджер, 1888. Автоматическая АТС без оператора. 1891 — первый дисковый телефон. Доминировал 100 лет, до кнопочных 1980-х.",
+    "alt": "Дисковый телефон",
+    "year": 1891,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Strowger_switch"
+  },
+  {
+    "id": "fact-history-television-color",
+    "topic": "history",
+    "title": "Цветное ТВ",
+    "caption": "Дэвид Сарнофф, RCA, 1953. Стандарт NTSC. В CCCР — стандарт SECAM с 1967. К 2010 — все аналоговые ТВ-сигналы заменены цифровыми DVB.",
+    "alt": "Старый цветной телевизор",
+    "year": 1953,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Color_television"
+  },
+  {
+    "id": "fact-architecture-petra-treasury",
+    "topic": "architecture",
+    "title": "Аль-Хазне · Петра",
+    "caption": "«Сокровищница» в Петре, Иордания. Высечена в скале ~50 до н.э. – 100 н.э. Фасад 40×25 м. Появлялась в «Индиане Джонсе» 1989.",
+    "alt": "Аль-Хазне в Петре",
+    "year": 50,
+    "meta": { "country_code": "JO" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Al-Khazneh"
+  },
+  {
+    "id": "fact-architecture-borobudur-arch",
+    "topic": "architecture",
+    "title": "Боробудур · архитектура",
+    "caption": "Буддийская ступа на Яве, ~825 н.э. 9 уровней — 6 квадратных + 3 круглых. 72 ступы на верхних с медитирующим Буддой внутри.",
+    "alt": "Ступы Боробудура",
+    "year": 825,
+    "meta": { "country_code": "ID" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Borobudur"
+  },
+  {
+    "id": "fact-architecture-machu-picchu-arch",
+    "topic": "architecture",
+    "title": "Мачу-Пикчу · архитектура",
+    "caption": "Инкская техника каменной кладки. Камни прилегают так плотно, что между ними не проходит лезвие. Без раствора, выдержало 5 землетрясений.",
+    "alt": "Каменная кладка Мачу-Пикчу",
+    "year": 1450,
+    "meta": { "country_code": "PE" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Machu_Picchu"
+  },
+  {
+    "id": "fact-architecture-st-paul-cathedral",
+    "topic": "architecture",
+    "title": "Собор Святого Павла",
+    "caption": "Лондон, Кристофер Рен, 1675–1710. Высота 111 м. Купол — самый большой в Англии. Пережил Великий пожар 1666 и блиц 1940.",
+    "alt": "Собор Святого Павла в Лондоне",
+    "year": 1710,
+    "meta": { "country_code": "GB" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "St_Paul's_Cathedral"
+  },
+  {
+    "id": "fact-architecture-florence-cathedral",
+    "topic": "architecture",
+    "title": "Купол Брунеллески",
+    "caption": "Флорентийский собор, Филиппо Брунеллески, 1420–1436. Диаметр 45 м, высота 117 м. Без лесов изнутри — революция инженерии.",
+    "alt": "Купол Брунеллески во Флоренции",
+    "year": 1436,
+    "meta": { "country_code": "IT" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Florence_Cathedral"
+  },
+  {
+    "id": "fact-architecture-frauenkirche",
+    "topic": "architecture",
+    "title": "Фрауэнкирхе · Дрезден",
+    "caption": "Лютеранская церковь. Построена 1726–1743. Разрушена бомбардировкой Дрездена 1945. Восстановлена из 8500 оригинальных камней к 2005.",
+    "alt": "Фрауэнкирхе в Дрездене",
+    "year": 2005,
+    "meta": { "country_code": "DE" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dresden_Frauenkirche"
+  },
+  {
+    "id": "fact-architecture-leshan-buddha",
+    "topic": "architecture",
+    "title": "Большой Будда Лэшань",
+    "caption": "Сычуань, Китай. Высечен 713–803 н.э. Высота 71 м, ширина плеч 28 м. Уши 7 м длиной — крупнейшая каменная статуя Будды.",
+    "alt": "Большой Будда Лэшань",
+    "year": 803,
+    "meta": { "country_code": "CN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Leshan_Giant_Buddha"
+  },
+  {
+    "id": "fact-architecture-stupa-sanchi",
+    "topic": "architecture",
+    "title": "Ступа в Санчи",
+    "caption": "Древнейшая каменная буддийская ступа Индии. Заложена императором Ашокой ~250 до н.э. Диаметр 36 м. UNESCO с 1989.",
+    "alt": "Ступа в Санчи",
+    "year": -250,
+    "meta": { "country_code": "IN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sanchi_Stupa"
+  },
+  {
+    "id": "fact-architecture-edo-castle",
+    "topic": "architecture",
+    "title": "Замок Эдо",
+    "caption": "Япония, 1457. Резиденция сёгунов Токугава 1603–1868. Площадь 230 га — крупнейшая в мире крепость. С 1869 — Императорский дворец.",
+    "alt": "Замок Эдо · современный Императорский дворец",
+    "year": 1603,
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Edo_Castle"
+  },
+  {
+    "id": "fact-math-cantor-diagonal",
+    "topic": "math",
+    "title": "Диагональный аргумент Кантора",
+    "caption": "Георг Кантор, 1891. Доказал, что действительных чисел больше, чем натуральных — несчётность континуума. Базис теории множеств.",
+    "alt": "Диагональный аргумент Кантора",
+    "year": 1891,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cantor's_diagonal_argument"
+  },
+  {
+    "id": "fact-math-monster-group",
+    "topic": "math",
+    "title": "Монстр",
+    "caption": "Крупнейшая простая спорадическая группа. Имеет ~8×10⁵³ элементов. Открыта в 1973, доказано существование в 1982 Грейссом.",
+    "alt": "Группа Монстра",
+    "year": 1973,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Monster_group"
+  },
+  {
+    "id": "fact-math-mathematicians-shortlist",
+    "topic": "math",
+    "title": "Премия Филдса",
+    "caption": "«Нобелевская премия в математике». Раз в 4 года с 1936. Только для математиков младше 40. Григорий Перельман отказался от премии в 2006.",
+    "alt": "Медаль Филдса",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fields_Medal"
+  },
+  {
+    "id": "fact-math-poincare-conjecture",
+    "topic": "math",
+    "title": "Гипотеза Пуанкаре",
+    "caption": "Анри Пуанкаре, 1904. Любое замкнутое односвязное трёхмерное многообразие гомеоморфно сфере. Доказана Перельманом, 2003. Премия Клэя $1 млн.",
+    "alt": "Иллюстрация гипотезы Пуанкаре",
+    "year": 2003,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Poincaré_conjecture"
+  },
+  {
+    "id": "fact-language-rune-stones",
+    "topic": "language",
+    "title": "Руны викингов",
+    "caption": "Скандинавия, II–XII век. Старший Футарк (24 знака), младший (16). Сохранилось 6000 рунических камней. Один из них в США (Кенсингтон) — спорный.",
+    "alt": "Рунический камень",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Runestone"
+  },
+  {
+    "id": "fact-language-quipu",
+    "topic": "language",
+    "title": "Кипу инков",
+    "caption": "Узелковое письмо инков, XV–XVI века. Цвет и расположение узлов кодировали данные. Использовалось для счёта, переписи, исторических хроник.",
+    "alt": "Кипу инков",
+    "year": 1500,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quipu"
+  },
+  {
+    "id": "fact-language-braille",
+    "topic": "language",
+    "title": "Шрифт Брайля",
+    "caption": "Луи Брайль, Франция, 1824. Создал в 15 лет, ослепнув в 3 года. 6 точек в ячейке — 64 комбинации. Универсальная система для слепых.",
+    "alt": "Шрифт Брайля",
+    "year": 1824,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Braille"
+  },
+  {
+    "id": "fact-language-morse",
+    "topic": "language",
+    "title": "Код Морзе",
+    "caption": "Сэмюэл Морзе и Альфред Вейл, 1838. Точки-тире для букв. «SOS» — самый известный сигнал. Использовался до 1999 как международный морской.",
+    "alt": "Азбука Морзе",
+    "year": 1838,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Morse_code"
+  }
+]

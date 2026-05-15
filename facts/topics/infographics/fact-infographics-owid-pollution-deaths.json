@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-pollution-deaths",
+  "topic": "infographics",
+  "title": "Смерти от загрязнения воздуха",
+  "caption": "6,7 миллиона смертей в год от загрязнения воздуха (4-я причина смерти мира). 90% — в развивающихся странах. Снижение на 35% с 1990.",
+  "image": "fact-infographics-owid-pollution-deaths.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Смерти от загрязнения воздуха",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/deaths-from-air-pollution",
+  "license": "CC-BY",
+  "year": 2023
+}

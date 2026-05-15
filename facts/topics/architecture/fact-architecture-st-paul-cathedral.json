@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-st-paul-cathedral",
+  "topic": "architecture",
+  "title": "Собор Святого Павла",
+  "caption": "Лондон, Кристофер Рен, 1675–1710. Высота 111 м. Купол — самый большой в Англии. Пережил Великий пожар 1666 и блиц 1940.",
+  "image": "fact-architecture-st-paul-cathedral.webp",
+  "image_width": 1280,
+  "image_height": 879,
+  "alt": "Собор Святого Павла в Лондоне",
+  "credit": "Mark Fosh · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/St_Paul's_Cathedral",
+  "license": "CC-BY",
+  "year": 1710,
+  "meta": {
+    "country_code": "GB"
+  }
+}

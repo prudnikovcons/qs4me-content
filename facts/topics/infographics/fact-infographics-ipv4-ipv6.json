@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-ipv4-ipv6",
+  "topic": "infographics",
+  "title": "IPv4 → IPv6",
+  "caption": "IPv4 — 4 миллиарда адресов, исчерпан в 2011. IPv6 — 340 ундециллион (3,4×10³⁸). Адрес 128 бит. К 2024 — 45% трафика по IPv6.",
+  "image": "fact-infographics-ipv4-ipv6.webp",
+  "image_width": 1280,
+  "image_height": 590,
+  "alt": "Сравнение IPv4 и IPv6",
+  "credit": "Michel Bakni · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/IPv6",
+  "license": "CC-BY-SA",
+  "year": 2011
+}

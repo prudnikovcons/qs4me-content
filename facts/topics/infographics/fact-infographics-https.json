@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-https",
+  "topic": "infographics",
+  "title": "HTTPS · TLS",
+  "caption": "HTTP+TLS. Зелёный замок в браузере. К 2024 — 95% веб-трафика шифровано. TLS 1.3 (2018) — рукопожатие за 1 round-trip вместо 2.",
+  "image": "fact-infographics-https.webp",
+  "image_width": 1280,
+  "image_height": 685,
+  "alt": "Принцип HTTPS",
+  "credit": "IETF HTTP Working Group (HTTPbis) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/HTTPS",
+  "license": "PD",
+  "year": 2018
+}

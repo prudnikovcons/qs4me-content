@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-cdn",
+  "topic": "infographics",
+  "title": "CDN · сеть доставки",
+  "caption": "Content Delivery Network. Серверы по всему миру кэшируют контент ближе к пользователям. Akamai, Cloudflare, Amazon CloudFront — 70% веб-трафика.",
+  "image": "fact-infographics-cdn.webp",
+  "image_width": 1280,
+  "image_height": 517,
+  "alt": "Схема работы CDN",
+  "credit": "Д.Ильин: vectorization · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Content_delivery_network",
+  "license": "CC0",
+  "year": 2022
+}

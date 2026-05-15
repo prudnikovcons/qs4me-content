@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-babylon",
+  "topic": "history",
+  "title": "Вавилон",
+  "caption": "Древний город Месопотамии. Расцвет при Хаммурапи (1792–1750 до н.э.) — Кодекс Хаммурапи на 282 закона. Висячие сады — одно из 7 чудес.",
+  "image": "fact-history-babylon.webp",
+  "image_width": 1024,
+  "image_height": 768,
+  "alt": "Реконструкция Вавилона",
+  "credit": "David Stanley · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Babylon",
+  "license": "CC-BY-SA",
+  "year": -1750
+}

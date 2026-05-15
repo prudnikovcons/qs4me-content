@@ -1,5 +1,6 @@
 [
   "fact-math-cantor",
+  "fact-math-cantor-diagonal",
   "fact-math-euler-identity",
   "fact-math-eulers-number",
   "fact-math-fermat",
@@ -12,7 +13,9 @@
   "fact-math-konigsberg",
   "fact-math-lobachevsky",
   "fact-math-mandelbrot",
+  "fact-math-mathematicians-shortlist",
   "fact-math-mobius",
+  "fact-math-monster-group",
   "fact-math-pi",
   "fact-math-prime-numbers",
   "fact-math-probability",

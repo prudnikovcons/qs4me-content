@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-nif-fusion",
+  "topic": "science",
+  "title": "NIF · энергетический баланс",
+  "caption": "5 декабря 2022, Ливермор. Впервые термоядерная реакция выдала больше энергии, чем поглотила: 3,15 МДж из 2,05 МДж лазера.",
+  "image": "fact-science-nif-fusion.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Камера NIF",
+  "credit": "Lawrence Livermore National Security · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/National_Ignition_Facility",
+  "license": "CC-BY-SA",
+  "year": 2022
+}

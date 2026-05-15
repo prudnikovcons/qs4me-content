@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-owid-share-electricity",
+  "topic": "infographics",
+  "title": "Источники электроэнергии",
+  "caption": "Глобально: уголь 36%, газ 23%, ВИЭ 30% (гидро 15, ветер+солнце 13, остальное 2), ядерная 9%. Норвегия — 99% ВИЭ, Польша — 60% угля.",
+  "image": "fact-infographics-owid-share-electricity.webp",
+  "image_width": 850,
+  "image_height": 600,
+  "alt": "Структура мировой электроэнергии",
+  "credit": "Our World in Data · CC-BY",
+  "source": "https://ourworldindata.org/grapher/share-elec-by-source",
+  "license": "CC-BY",
+  "year": 2024
+}

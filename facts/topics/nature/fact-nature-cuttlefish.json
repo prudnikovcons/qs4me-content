@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-cuttlefish",
+  "topic": "nature",
+  "title": "Каракатица",
+  "caption": "Меняет цвет и текстуру кожи за 0,5 секунды. 20 миллионов хроматофоров. Зрение странное: видит поляризацию, но не цвет (дальтоник).",
+  "image": "fact-nature-cuttlefish.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Каракатица меняет цвет",
+  "credit": "Diego Delso · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Cuttlefish",
+  "license": "CC-BY-SA",
+  "year": 2020
+}

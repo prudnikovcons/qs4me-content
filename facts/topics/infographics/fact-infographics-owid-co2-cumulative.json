@@ -1,14 +1,14 @@
 {
   "id": "fact-infographics-owid-co2-cumulative",
   "topic": "infographics",
-  "title": "Накопленные выбросы CO₂",
-  "caption": "С 1750 человечество выбросило 1,7 трлн тонн CO₂. США — 25% всех, ЕС — 17%, Китай — 13% (наверстал с 2000), Россия — 7%.",
+  "title": "Накопленные выбросы стран",
+  "caption": "С 1750: США 410 млрд тонн CO₂ (25%), ЕС 290 (17%), Китай 219 (13%, наверстал с 2000), Россия 117 (7%), Япония 65 (4%).",
   "image": "fact-infographics-owid-co2-cumulative.webp",
   "image_width": 850,
   "image_height": 600,
-  "alt": "Кумулятивные выбросы CO₂",
+  "alt": "Накопленные выбросы CO₂",
   "credit": "Our World in Data · CC-BY",
-  "source": "https://ourworldindata.org/grapher/cumulative-co-emissions",
+  "source": "https://ourworldindata.org/grapher/cumulative-co2-emissions-region",
   "license": "CC-BY",
-  "year": 2023
+  "year": 2024
 }

@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-fireflies",
+  "topic": "nature",
+  "title": "Светлячки",
+  "caption": "Биолюминесценция через люциферин-люциферазу. Холодный свет, КПД ~95%. Лампа накаливания — 10%. Северная Америка — синхронные виды.",
+  "image": "fact-nature-fireflies.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Светлячки в лесу",
+  "credit": "Bruce Marlin · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Firefly",
+  "license": "CC-BY-SA",
+  "year": 2003
+}

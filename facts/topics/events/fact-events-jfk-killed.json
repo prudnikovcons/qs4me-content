@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-jfk-killed",
+  "topic": "events",
+  "title": "Убийство Кеннеди",
+  "caption": "Даллас, 22 ноября 1963, 12:30. JFK убит в кортеже выстрелами с книгохранилища. Стрелок Ли Харви Освальд. Кеннеди было 46 лет.",
+  "image": "fact-events-jfk-killed.webp",
+  "image_width": 1280,
+  "image_height": 996,
+  "alt": "Кортеж JFK 22 ноября 1963",
+  "credit": "Walt Cisco, Dallas Morning News · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
+  "license": "PD",
+  "year": 1963
+}

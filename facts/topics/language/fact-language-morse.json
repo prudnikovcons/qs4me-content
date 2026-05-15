@@ -1,0 +1,14 @@
+{
+  "id": "fact-language-morse",
+  "topic": "language",
+  "title": "Код Морзе",
+  "caption": "Сэмюэл Морзе и Альфред Вейл, 1838. Точки-тире для букв. «SOS» — самый известный сигнал. Использовался до 1999 как международный морской.",
+  "image": "fact-language-morse.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Азбука Морзе",
+  "credit": "Hp.Baumeler · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Morse_code",
+  "license": "CC-BY-SA",
+  "year": 1838
+}
