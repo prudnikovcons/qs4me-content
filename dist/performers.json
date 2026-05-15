@@ -13,5 +13,19 @@
     "photo_license": "PD",
     "source": "https://en.wikipedia.org/wiki/Maryla_Jonas",
     "_photoUrl": "/music/performers/maryla-jonas.jpg"
+  },
+  {
+    "id": "thomas-beecham",
+    "name_ru": "Сэр Томас Бичем",
+    "name_en": "Sir Thomas Beecham",
+    "birth": 1879,
+    "death": 1961,
+    "kind": "conductor",
+    "summary_ru": "Английский дирижёр, основатель Лондонского филармонического (1932) и Королевского филармонического (1946) оркестров. BBC называл его «первым британским международным дирижёром». Известен интерпретациями Моцарта, Гайдна, Берлиоза. За пультом до самой смерти; последний концерт дал в 1960 году.",
+    "photo": "thomas-beecham.jpg",
+    "photo_credit": "Culver Pictures · 1948 · PD · США",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Thomas_Beecham",
+    "_photoUrl": "/music/performers/thomas-beecham.jpg"
   }
 ]

@@ -1,0 +1,18 @@
+{
+  "id": "mozart-eine-kleine-3-menuetto",
+  "file": "mozart-eine-kleine-3-menuetto.mp3",
+  "title": "«Маленькая ночная серенада» KV 525, III — Менуэт. Allegretto",
+  "title_original": "Eine kleine Nachtmusik, K. 525, III — Menuetto: Allegretto",
+  "composer_id": "mozart",
+  "performer_id": "thomas-beecham",
+  "year_composed": 1787,
+  "year_recorded": 1945,
+  "era": "classical",
+  "style": ["chamber", "string-quartet"],
+  "duration_sec": 128,
+  "description_md": "Третья часть — Менуэт с трио, Allegretto, соль мажор. Самая короткая часть серенады, чуть больше двух минут. Менуэт в классической схеме симфонии или сонаты — обязательный «танец»: трёхдольный, аристократический, с трио посередине. Моцарт здесь использует канонический шаблон без отклонений: основная тема (A), трио в до мажоре (B), точное возвращение A.\n\nХарактер — торжественный, маршевый, плотный по фактуре. Основная тема построена на пунктирном ритме и широких аккордовых движениях, трио — на мягком пении первой скрипки над покачивающимся аккомпанементом, в духе сельского пасторального танца. Это типичный венский менуэт 1787 года, без новаций, — но в контексте всей серенады он работает как короткая ритмическая передышка между лирическим Романсом и финальным Рондо.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/MozartEineKleineNachtmusik_102",
+  "credit": "Sir Thomas Beecham · London Philharmonic · 1945 · CC0"
+}

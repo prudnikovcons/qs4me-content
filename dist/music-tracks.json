@@ -180,6 +180,95 @@
     "_fileUrl": "/music/tracks/chopin-waltz-70-3.mp3"
   },
   {
+    "id": "mozart-eine-kleine-1-allegro",
+    "file": "mozart-eine-kleine-1-allegro.mp3",
+    "title": "«Маленькая ночная серенада» KV 525, I — Allegro",
+    "title_original": "Eine kleine Nachtmusik, K. 525, I — Allegro",
+    "composer_id": "mozart",
+    "performer_id": "thomas-beecham",
+    "year_composed": 1787,
+    "year_recorded": 1945,
+    "era": "classical",
+    "style": [
+      "chamber",
+      "string-quartet"
+    ],
+    "duration_sec": 240,
+    "description_md": "Первая часть «Маленькой ночной серенады» соль мажор KV 525 — самой узнаваемой инструментальной пьесы Моцарта. Закончена 10 августа 1787 года в Вене; для чего написана и кому посвящалась — неизвестно, в каталоге самого Моцарта пьеса упомянута без заказчика. Серенада в XVIII веке — лёгкий уличный жанр, музыка для вечернего исполнения под открытым небом, обычно для духовых; Моцарт здесь использует струнный квинтет — две скрипки, альт, виолончель, контрабас.\n\nAllegro в форме сонатного аллегро, на марше. Открывается знаменитой ракетной фигурой — восходящая тоническая триада в унисон, мгновенно ставшая аудиальной эмблемой «классической музыки» в массовой культуре XX века. Главная партия лаконична, побочная — мягче, в доминанте D-dur; разработка короткая, реприза точная. Запись Сэра Томаса Бичема с Лондонским филармоническим — одна из эталонных интерпретаций сороковых годов: лёгкий темп, отчётливая артикуляция, классическая ясность.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/MozartEineKleineNachtmusik_102",
+    "credit": "Sir Thomas Beecham · London Philharmonic · 1945 · CC0",
+    "_fileUrl": "/music/tracks/mozart-eine-kleine-1-allegro.mp3"
+  },
+  {
+    "id": "mozart-eine-kleine-2-romanze",
+    "file": "mozart-eine-kleine-2-romanze.mp3",
+    "title": "«Маленькая ночная серенада» KV 525, II — Романс. Andante",
+    "title_original": "Eine kleine Nachtmusik, K. 525, II — Romanze: Andante",
+    "composer_id": "mozart",
+    "performer_id": "thomas-beecham",
+    "year_composed": 1787,
+    "year_recorded": 1945,
+    "era": "classical",
+    "style": [
+      "chamber",
+      "string-quartet"
+    ],
+    "duration_sec": 310,
+    "description_md": "Медленная часть — Романс, Andante, до мажор. Романс в инструментальной музыке конца XVIII века — это «песня без слов»: спокойная вокальная по характеру мелодия, обычно в трёхчастной форме ABA или рондо. Моцарт строит часть как пятичастное рондо ABACA, где средние эпизоды дают контраст: B — мягкий разговор первой скрипки и виолончели, C — внезапный сюжетный поворот в до миноре, словно прохладный сквозняк в открытое окно.\n\nДва принципа здесь работают одновременно: серенадная функция (это всё ещё вечерняя музыка под окнами, не симфоническая медитация) и моцартовская тяга к мелодическому совершенству. Главная тема — простой восходящий мотив в первой скрипке, который при каждом возвращении звучит чуть иначе: меняется орнамент, плотность фактуры, динамика. Запись Бичема даёт характерный «английский» баланс — без сентиментальности, но и без сухости.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/MozartEineKleineNachtmusik_102",
+    "credit": "Sir Thomas Beecham · London Philharmonic · 1945 · CC0",
+    "_fileUrl": "/music/tracks/mozart-eine-kleine-2-romanze.mp3"
+  },
+  {
+    "id": "mozart-eine-kleine-3-menuetto",
+    "file": "mozart-eine-kleine-3-menuetto.mp3",
+    "title": "«Маленькая ночная серенада» KV 525, III — Менуэт. Allegretto",
+    "title_original": "Eine kleine Nachtmusik, K. 525, III — Menuetto: Allegretto",
+    "composer_id": "mozart",
+    "performer_id": "thomas-beecham",
+    "year_composed": 1787,
+    "year_recorded": 1945,
+    "era": "classical",
+    "style": [
+      "chamber",
+      "string-quartet"
+    ],
+    "duration_sec": 128,
+    "description_md": "Третья часть — Менуэт с трио, Allegretto, соль мажор. Самая короткая часть серенады, чуть больше двух минут. Менуэт в классической схеме симфонии или сонаты — обязательный «танец»: трёхдольный, аристократический, с трио посередине. Моцарт здесь использует канонический шаблон без отклонений: основная тема (A), трио в до мажоре (B), точное возвращение A.\n\nХарактер — торжественный, маршевый, плотный по фактуре. Основная тема построена на пунктирном ритме и широких аккордовых движениях, трио — на мягком пении первой скрипки над покачивающимся аккомпанементом, в духе сельского пасторального танца. Это типичный венский менуэт 1787 года, без новаций, — но в контексте всей серенады он работает как короткая ритмическая передышка между лирическим Романсом и финальным Рондо.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/MozartEineKleineNachtmusik_102",
+    "credit": "Sir Thomas Beecham · London Philharmonic · 1945 · CC0",
+    "_fileUrl": "/music/tracks/mozart-eine-kleine-3-menuetto.mp3"
+  },
+  {
+    "id": "mozart-eine-kleine-4-rondo",
+    "file": "mozart-eine-kleine-4-rondo.mp3",
+    "title": "«Маленькая ночная серенада» KV 525, IV — Рондо. Allegro",
+    "title_original": "Eine kleine Nachtmusik, K. 525, IV — Rondo: Allegro",
+    "composer_id": "mozart",
+    "performer_id": "thomas-beecham",
+    "year_composed": 1787,
+    "year_recorded": 1945,
+    "era": "classical",
+    "style": [
+      "chamber",
+      "string-quartet"
+    ],
+    "duration_sec": 285,
+    "description_md": "Финал «Маленькой ночной серенады» — Рондо, Allegro, соль мажор. Рондо как форма — самый «бытовой» из классических жанров: повторяющийся припев (А), между ним — куплеты-эпизоды (В, С, иногда D). Слушатель легко удерживает структуру в голове, потому что главная тема возвращается узнаваемой каждые полминуты-минуту.\n\nМоцарт здесь использует schema ABACABA с короткой кодой — почти то же, что зальцбургский Рондо ALla turca из Сонаты № 11. Главная тема — энергичная, скачкообразная, в характере «охотничьего» финала; эпизоды дают модуляционный контраст: В в доминанте, С — в тоническом миноре с минутной серьёзной интонацией. Финальная кода ускоряет темп и закрывает серенаду блестящей унисонной фигурой — той же ракетной триадой, что открывала первую часть. Композиционная рамка замкнута: четыре части воспринимаются как одно произведение, а не как разрозненные пьесы.",
+    "trivia": "В каталоге Моцарта серенада записана как «маленькая ночная музыка»; до сих пор неизвестно, для кого и для какого случая она написана.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/MozartEineKleineNachtmusik_102",
+    "credit": "Sir Thomas Beecham · London Philharmonic · 1945 · CC0",
+    "_fileUrl": "/music/tracks/mozart-eine-kleine-4-rondo.mp3"
+  },
+  {
     "id": "mozart-rondo-alla-turca",
     "file": "mozart-rondo-alla-turca.mp3",
     "title": "«Турецкое рондо» из Сонаты № 11 KV 331",
