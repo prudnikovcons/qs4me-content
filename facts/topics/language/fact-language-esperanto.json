@@ -1,0 +1,14 @@
+{
+  "id": "fact-language-esperanto",
+  "topic": "language",
+  "title": "Эсперанто",
+  "caption": "Создан Людвиком Заменгофом в 1887. Около 2 миллионов говорящих, ~1000 родом-носителей. 16 правил без исключений.",
+  "image": "fact-language-esperanto.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Зелёный флаг эсперанто",
+  "credit": "Richard H. Geoghegan · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Esperanto",
+  "license": "PD",
+  "year": 1887
+}

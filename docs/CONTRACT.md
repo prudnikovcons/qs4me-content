@@ -29,7 +29,7 @@ facts/topics/{topic}/{fact-id}.{webp|jpg|png}
 ```
 
 - Один JSON + одна картинка рядом, с тем же именем.
-- `{topic}` — папка-категория (country, element, space, history, art, nature, quote, architecture, food, science, language, math, music).
+- `{topic}` — папка-категория (country, element, space, history, art, nature, quote, architecture, food, science, language, math, music, economy, infographics, materials, terms, ratings, events).
 - `{fact-id}` начинается с `fact-{topic}-{slug}`. Slug должен быть устойчивым (не меняй после публикации — это сломает кеши).
 
 ### Вопросы

@@ -1,0 +1,18 @@
+{
+  "id": "fact-architecture-colosseum",
+  "topic": "architecture",
+  "title": "Колизей",
+  "caption": "Рим, 70–80 годы н.э. Вмещал 50-80 тысяч зрителей. Эллипс 188×156 м, высота 48 м. Сохранилось около трети оригинала.",
+  "image": "fact-architecture-colosseum.webp",
+  "image_width": 1280,
+  "image_height": 897,
+  "alt": "Колизей в Риме",
+  "credit": "FeaturedPics · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Colosseum",
+  "license": "CC-BY-SA",
+  "year": 80,
+  "meta": {
+    "country_code": "IT",
+    "city": "Roma"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-fermat",
+  "topic": "math",
+  "title": "Великая теорема Ферма",
+  "caption": "x^n + y^n = z^n не имеет целых решений при n > 2. Сформулирована в 1637, доказана Эндрю Уайлсом в 1994 — 358 лет ждала.",
+  "image": "fact-math-fermat.webp",
+  "image_width": 914,
+  "image_height": 1440,
+  "alt": "Эндрю Уайлс — доказательство теоремы Ферма",
+  "credit": "Unknown · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Fermat's_Last_Theorem",
+  "license": "PD",
+  "year": 1994
+}

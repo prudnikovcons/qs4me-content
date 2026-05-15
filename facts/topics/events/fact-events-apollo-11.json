@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-apollo-11",
+  "topic": "events",
+  "title": "Аполлон-11",
+  "caption": "20 июля 1969. Армстронг и Олдрин на Луне 21 час 36 минут. Прямую трансляцию посадки смотрели 650 миллионов человек.",
+  "image": "fact-events-apollo-11.webp",
+  "image_width": 1280,
+  "image_height": 1295,
+  "alt": "Базз Олдрин на Луне",
+  "credit": "Neil A. Armstrong · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Apollo_11",
+  "license": "PD",
+  "year": 1969
+}

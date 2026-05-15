@@ -1,0 +1,18 @@
+{
+  "id": "fact-architecture-burj-khalifa",
+  "topic": "architecture",
+  "title": "ОАЭ · Бурдж-Халифа",
+  "caption": "828 м, 163 этажа. Самое высокое здание мира с 2010. Видна с расстояния 95 км.",
+  "image": "fact-architecture-burj-khalifa.webp",
+  "image_width": 1280,
+  "image_height": 855,
+  "alt": "Небоскрёб Бурдж-Халифа в Дубае",
+  "credit": "imran shahabuddin · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+  "license": "CC-BY",
+  "year": 2010,
+  "meta": {
+    "country_code": "AE",
+    "floors": 163
+  }
+}

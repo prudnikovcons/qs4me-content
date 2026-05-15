@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-mercury",
+  "topic": "element",
+  "title": "Ртуть · Hg (80)",
+  "caption": "Hg, 80-й элемент. Единственный жидкий металл при комнатной температуре — плавится при −38,8 °C, кипит при 357 °C.",
+  "image": "fact-element-mercury.webp",
+  "image_width": 1209,
+  "image_height": 1311,
+  "alt": "Капли ртути на стекле",
+  "credit": "Bionerd · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mercury_(element)",
+  "license": "CC-BY",
+  "year": 2008,
+  "meta": {
+    "atomic_number": 80,
+    "symbol": "Hg"
+  }
+}

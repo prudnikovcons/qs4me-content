@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-graphene",
+  "topic": "materials",
+  "title": "Графен",
+  "caption": "Слой углерода в 1 атом толщиной. В 200 раз прочнее стали, проводит тепло лучше меди. Нобель 2010 — Гейм и Новосёлов.",
+  "image": "fact-materials-graphene.webp",
+  "image_width": 1280,
+  "image_height": 1024,
+  "alt": "Структура графена — сотовая решётка",
+  "credit": "AlexanderAlUS · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Graphene",
+  "license": "CC-BY-SA",
+  "year": 2010
+}

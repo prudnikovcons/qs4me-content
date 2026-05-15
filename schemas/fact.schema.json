@@ -14,7 +14,7 @@
     },
     "topic": {
       "type": "string",
-      "enum": ["country", "element", "quote", "space", "history", "art", "nature", "architecture", "food", "science", "language", "math", "music"],
+      "enum": ["country", "element", "quote", "space", "history", "art", "nature", "architecture", "food", "science", "language", "math", "music", "economy", "infographics", "materials", "terms", "ratings", "events"],
       "description": "Broad category for chip labelling and stream filters."
     },
     "title": {

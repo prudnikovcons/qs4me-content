@@ -1,0 +1,14 @@
+{
+  "id": "fact-ratings-everest",
+  "topic": "ratings",
+  "title": "Эверест · 8849 м",
+  "caption": "8849 м — высочайшая точка Земли над уровнем моря. Растёт на 4 мм/год. Покорён Хиллари и Норгеем 29 мая 1953.",
+  "image": "fact-ratings-everest.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Эверест в Гималаях",
+  "credit": "Rdevany · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mount_Everest",
+  "license": "CC-BY-SA",
+  "year": 1953
+}

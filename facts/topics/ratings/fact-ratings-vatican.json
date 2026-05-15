@@ -1,0 +1,17 @@
+{
+  "id": "fact-ratings-vatican",
+  "topic": "ratings",
+  "title": "Ватикан · 0,49 км²",
+  "caption": "Самое маленькое государство мира — 0,49 км² и 764 жителя. Меньше нью-йоркского Центрального парка в 7 раз.",
+  "image": "fact-ratings-vatican.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Собор Святого Петра в Ватикане",
+  "credit": "Goran_tek-en · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Vatican_City",
+  "license": "PD",
+  "year": 2023,
+  "meta": {
+    "country_code": "VA"
+  }
+}

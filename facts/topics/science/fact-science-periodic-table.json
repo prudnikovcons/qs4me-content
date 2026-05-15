@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-periodic-table",
+  "topic": "science",
+  "title": "Периодическая таблица",
+  "caption": "Дмитрий Менделеев, 1869. Из 63 элементов построил систему и предсказал свойства ещё 8 — все 8 потом нашлись.",
+  "image": "fact-science-periodic-table.webp",
+  "image_width": 1280,
+  "image_height": 749,
+  "alt": "Периодическая таблица элементов",
+  "credit": "Lekritz · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Periodic_table",
+  "license": "CC-BY-SA",
+  "year": 1869
+}

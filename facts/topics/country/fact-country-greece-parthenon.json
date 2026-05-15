@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-greece-parthenon",
+  "topic": "country",
+  "title": "Греция · Парфенон",
+  "caption": "Афинский Акрополь, 447–432 до н.э. 46 внешних колонн дорики. В VI веке стал церковью, потом мечетью, в 1687 взорван.",
+  "image": "fact-country-greece-parthenon.webp",
+  "image_width": 1144,
+  "image_height": 804,
+  "alt": "Парфенон на Афинском Акрополе",
+  "credit": "Steve Swayne · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Parthenon",
+  "license": "CC-BY",
+  "year": -432,
+  "meta": {
+    "country_code": "GR"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-carbon",
+  "topic": "element",
+  "title": "Углерод · C (6)",
+  "caption": "C, 6-й элемент. Основа всей органической жизни. Алмаз и графит — оба чистый углерод, различие только в структуре.",
+  "image": "fact-element-carbon.webp",
+  "image_width": 961,
+  "image_height": 562,
+  "alt": "Кристалл углерода — графит",
+  "credit": "Robert M. Lavinsky · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Carbon",
+  "license": "CC-BY-SA",
+  "year": 2015,
+  "meta": {
+    "atomic_number": 6,
+    "symbol": "C"
+  }
+}

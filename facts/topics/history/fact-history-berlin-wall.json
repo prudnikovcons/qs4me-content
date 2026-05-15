@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-berlin-wall",
+  "topic": "history",
+  "title": "Берлинская стена",
+  "caption": "1961–1989. Бетонная стена длиной 155 км разделяла Восточный и Западный Берлин 28 лет. Снесена в одну ночь 9 ноября.",
+  "image": "fact-history-berlin-wall.webp",
+  "image_width": 1200,
+  "image_height": 913,
+  "alt": "Берлинская стена с граффити",
+  "credit": "Noir · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Berlin_Wall",
+  "license": "CC-BY-SA",
+  "year": 1961
+}

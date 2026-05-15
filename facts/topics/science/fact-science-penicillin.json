@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-penicillin",
+  "topic": "science",
+  "title": "Пенициллин",
+  "caption": "Александр Флеминг, 1928. Случайно — плесень убила бактерии на грязной чашке Петри. Нобель 1945, спас миллионы жизней.",
+  "image": "fact-science-penicillin.webp",
+  "image_width": 1280,
+  "image_height": 855,
+  "alt": "Колония плесени Penicillium",
+  "credit": "Yikrazuul · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Penicillin",
+  "license": "PD",
+  "year": 1928
+}

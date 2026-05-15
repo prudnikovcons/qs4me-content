@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-manhattan-project",
+  "topic": "events",
+  "title": "Манхэттенский проект",
+  "caption": "Программа создания атомной бомбы, 1942–1946. 130 000 человек, $2 млрд (сейчас $30 млрд). Тринити — 16 июля 1945.",
+  "image": "fact-events-manhattan-project.webp",
+  "image_width": 1280,
+  "image_height": 695,
+  "alt": "Тринити — первое ядерное испытание",
+  "credit": "Unknown authorUnknown author or not provided · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Manhattan_Project",
+  "license": "PD",
+  "year": 1945
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-music-mozart",
+  "topic": "music",
+  "title": "Вольфганг Амадей Моцарт",
+  "caption": "1756–1791. Сочинил 626 произведений за 35 лет. Первую симфонию написал в 8 лет, оперу «Митридат» — в 14.",
+  "image": "fact-music-mozart.webp",
+  "image_width": 1280,
+  "image_height": 1706,
+  "alt": "Портрет Моцарта",
+  "credit": "Johann Nepomuk della Croce · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+  "license": "PD",
+  "year": 1780,
+  "meta": {
+    "lifespan": "1756-1791"
+  }
+}

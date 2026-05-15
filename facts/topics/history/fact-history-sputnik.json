@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-sputnik",
+  "topic": "history",
+  "title": "Спутник-1",
+  "caption": "Первый искусственный спутник, запущен СССР 4 октября 1957. Диаметр 58 см, на орбите 92 дня. Начало космической эры.",
+  "image": "fact-history-sputnik.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Спутник-1 — макет",
+  "credit": "Andrey Butko · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+  "license": "CC-BY-SA",
+  "year": 1957
+}

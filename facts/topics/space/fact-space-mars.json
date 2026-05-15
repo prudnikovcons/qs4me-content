@@ -1,0 +1,17 @@
+{
+  "id": "fact-space-mars",
+  "topic": "space",
+  "title": "Марс",
+  "caption": "Красная планета, диаметр 6779 км. Олимп — самый высокий вулкан Солнечной (21,9 км), в 2,5 раза выше Эвереста.",
+  "image": "fact-space-mars.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Марс — Красная планета",
+  "credit": "Kevin Gill from Los Angeles, CA, United States · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mars",
+  "license": "CC-BY",
+  "year": 2022,
+  "meta": {
+    "body": "Mars"
+  }
+}

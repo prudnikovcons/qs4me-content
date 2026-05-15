@@ -1,0 +1,17 @@
+{
+  "id": "fact-music-stradivarius",
+  "topic": "music",
+  "title": "Страдивари",
+  "caption": "Антонио Страдивари, 1644–1737. Сделал около 1100 инструментов, сохранилось ~650. Lady Blunt продана за $15,9 млн в 2011.",
+  "image": "fact-music-stradivarius.webp",
+  "image_width": 526,
+  "image_height": 358,
+  "alt": "Скрипка Страдивари",
+  "credit": "Edgar Bundy · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Stradivarius",
+  "license": "PD",
+  "year": 1893,
+  "meta": {
+    "lifespan": "1644-1737"
+  }
+}

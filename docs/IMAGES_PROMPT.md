@@ -30,8 +30,13 @@ qs4.me — мобильная лента вопросов в формате shor
 
 Файлы лежат в репозитории qs4me-content в папке `facts/topics/{topic}/`.
 Топики: country, element, quote, space, history, art, nature,
-architecture, food, science, language, math, music. Хочешь предложить
+architecture, food, science, language, math, music, economy,
+infographics, materials, terms, ratings, events. Хочешь предложить
 новый топик — спроси сначала.
+
+Внимание: `infographics` и `terms` — зарезервированы в схеме, но scope
+содержимого пока не определён (TBD). Не заполняй их без явного указания
+куратора.
 
 Один факт:
 
@@ -166,6 +171,12 @@ Workflow одного факта:
 | `language` | List of writing systems, language extinction list | Ручной + Wiki REST |
 | `math` | List of famous theorems / unsolved problems / important constants | Ручной + Wiki REST |
 | `music` | List of best-selling albums, classical composers list | Ручной + Wiki REST |
+| `economy` | ВВП, валюты, биржи, центробанки. Знаковые экономические события (Bretton Woods, Nixon shock 1971) | Wikidata `wdt:P31 wd:Q108` + World Bank + Wiki REST |
+| `infographics` | **scope TBD** — ждём уточнения куратора | — |
+| `materials` | Стекло, бетон, графен, шёлк, кевлар, дамасская сталь | Wikipedia category Materials + Wiki REST |
+| `terms` | **scope TBD** — ждём уточнения куратора | — |
+| `ratings` | Рекорды Гиннесса, Forbes top, олимпийские рекорды, top-1 в категории | Ручной + Wiki REST |
+| `events` | Олимпиады, Всемирные выставки, премьеры, исторические даты | Wikidata events + Wiki REST |
 
 ## Анти-паттерны
 

@@ -1,0 +1,623 @@
+[
+  {
+    "id": "fact-country-italy-vesuvius",
+    "topic": "country",
+    "title": "Италия · Везувий",
+    "caption": "Извержение 79 года н.э. за 18 часов погребло Помпеи под 6 м пепла. Активен до сих пор — последнее извержение 1944.",
+    "alt": "Везувий — вулкан возле Неаполя",
+    "year": 79,
+    "meta": { "country_code": "IT" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mount_Vesuvius"
+  },
+  {
+    "id": "fact-country-japan-fuji",
+    "topic": "country",
+    "title": "Япония · Фудзи",
+    "caption": "3776 м — высочайшая вершина Японии. Последнее извержение 1707, в 100 км от Токио. UNESCO с 2013.",
+    "alt": "Гора Фудзи в снегу",
+    "year": 1707,
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mount_Fuji"
+  },
+  {
+    "id": "fact-country-egypt-pyramid",
+    "topic": "country",
+    "title": "Египет · Пирамида Хеопса",
+    "caption": "146,6 м, построена ~2570 до н.э. за 20 лет. Самое высокое строение мира 3800 лет — до Эйфелевой башни 1889.",
+    "alt": "Пирамида Хеопса в Гизе",
+    "year": -2570,
+    "meta": { "country_code": "EG" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Great_Pyramid_of_Giza"
+  },
+  {
+    "id": "fact-country-greece-parthenon",
+    "topic": "country",
+    "title": "Греция · Парфенон",
+    "caption": "Афинский Акрополь, 447–432 до н.э. 46 внешних колонн дорики. В VI веке стал церковью, потом мечетью, в 1687 взорван.",
+    "alt": "Парфенон на Афинском Акрополе",
+    "year": -432,
+    "meta": { "country_code": "GR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Parthenon"
+  },
+  {
+    "id": "fact-element-mercury",
+    "topic": "element",
+    "title": "Ртуть · Hg (80)",
+    "caption": "Hg, 80-й элемент. Единственный жидкий металл при комнатной температуре — плавится при −38,8 °C, кипит при 357 °C.",
+    "alt": "Капли ртути на стекле",
+    "meta": { "atomic_number": 80, "symbol": "Hg" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mercury_(element)"
+  },
+  {
+    "id": "fact-element-iron",
+    "topic": "element",
+    "title": "Железо · Fe (26)",
+    "caption": "Fe, 26-й элемент. Ядро Земли на 80% из железа. Самое стабильное ядро — пик энергии связи на нуклон.",
+    "alt": "Куб чистого железа",
+    "meta": { "atomic_number": 26, "symbol": "Fe" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Iron"
+  },
+  {
+    "id": "fact-element-carbon",
+    "topic": "element",
+    "title": "Углерод · C (6)",
+    "caption": "C, 6-й элемент. Основа всей органической жизни. Алмаз и графит — оба чистый углерод, различие только в структуре.",
+    "alt": "Кристалл углерода — графит",
+    "meta": { "atomic_number": 6, "symbol": "C" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Carbon"
+  },
+  {
+    "id": "fact-element-silicon",
+    "topic": "element",
+    "title": "Кремний · Si (14)",
+    "caption": "Si, 14-й элемент. 28% земной коры — второй после кислорода. Основа полупроводников и микрочипов с 1947.",
+    "alt": "Слиток кремния — основа микрочипов",
+    "year": 1947,
+    "meta": { "atomic_number": 14, "symbol": "Si" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Silicon"
+  },
+  {
+    "id": "fact-quote-newton",
+    "topic": "quote",
+    "title": "Исаак Ньютон",
+    "caption": "1643–1727. Открыл закон тяготения и три закона механики. По легенде, идея пришла, когда яблоко упало с дерева в 1666.",
+    "alt": "Портрет Исаака Ньютона",
+    "year": 1687,
+    "meta": { "lifespan": "1643-1727" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Isaac_Newton"
+  },
+  {
+    "id": "fact-quote-tesla",
+    "topic": "quote",
+    "title": "Никола Тесла",
+    "caption": "1856–1943. Изобрёл систему переменного тока, выиграл «войну токов» у Эдисона. 300 патентов в 26 странах.",
+    "alt": "Портрет Николы Теслы",
+    "meta": { "lifespan": "1856-1943" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nikola_Tesla"
+  },
+  {
+    "id": "fact-quote-curie",
+    "topic": "quote",
+    "title": "Мария Кюри",
+    "caption": "1867–1934. Единственный человек с Нобелями в двух разных науках — физика 1903 и химия 1911. Открыла радий.",
+    "alt": "Портрет Марии Кюри",
+    "meta": { "lifespan": "1867-1934" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Marie_Curie"
+  },
+  {
+    "id": "fact-quote-gandhi",
+    "topic": "quote",
+    "title": "Махатма Ганди",
+    "caption": "1869–1948. Создал философию ненасильственного сопротивления. Привёл Индию к независимости от Британии в 1947.",
+    "alt": "Портрет Махатмы Ганди",
+    "year": 1947,
+    "meta": { "lifespan": "1869-1948" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mahatma_Gandhi"
+  },
+  {
+    "id": "fact-space-moon",
+    "topic": "space",
+    "title": "Луна",
+    "caption": "Спутник Земли диаметром 3474 км. Удаляется от Земли на 3,8 см в год. Луна и Земля — самая большая пара в Солнечной.",
+    "alt": "Полная Луна",
+    "meta": { "body": "Moon" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Moon"
+  },
+  {
+    "id": "fact-space-jupiter",
+    "topic": "space",
+    "title": "Юпитер",
+    "caption": "Газовый гигант в 318 раз тяжелее Земли. Большое Красное Пятно — шторм диаметром 16 000 км, наблюдается с 1665.",
+    "alt": "Юпитер с Большим Красным Пятном",
+    "meta": { "body": "Jupiter" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jupiter"
+  },
+  {
+    "id": "fact-space-mars",
+    "topic": "space",
+    "title": "Марс",
+    "caption": "Красная планета, диаметр 6779 км. Олимп — самый высокий вулкан Солнечной (21,9 км), в 2,5 раза выше Эвереста.",
+    "alt": "Марс — Красная планета",
+    "meta": { "body": "Mars" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mars"
+  },
+  {
+    "id": "fact-space-andromeda",
+    "topic": "space",
+    "title": "Галактика Андромеды",
+    "caption": "Ближайшая крупная галактика, 2,5 млн световых лет от нас. Через 4,5 млрд лет столкнётся с Млечным Путём.",
+    "alt": "Галактика Андромеды M31",
+    "meta": { "body": "M31" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Andromeda_Galaxy"
+  },
+  {
+    "id": "fact-history-antikythera",
+    "topic": "history",
+    "title": "Антикитерский механизм",
+    "caption": "Бронзовый астрономический «компьютер», ~150-100 до н.э. 30 шестерён предсказывали затмения и фазы Луны на годы вперёд.",
+    "alt": "Антикитерский механизм — фрагменты",
+    "year": -100,
+    "meta": { "origin": "Greek" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Antikythera_mechanism"
+  },
+  {
+    "id": "fact-history-magna-carta",
+    "topic": "history",
+    "title": "Великая хартия вольностей",
+    "caption": "1215. Король Иоанн Безземельный ограничил власть короны. 17 копий XIII века сохранились в Англии до сегодня.",
+    "alt": "Великая хартия вольностей — пергамент",
+    "year": 1215,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Magna_Carta"
+  },
+  {
+    "id": "fact-history-berlin-wall",
+    "topic": "history",
+    "title": "Берлинская стена",
+    "caption": "1961–1989. Бетонная стена длиной 155 км разделяла Восточный и Западный Берлин 28 лет. Снесена в одну ночь 9 ноября.",
+    "alt": "Берлинская стена с граффити",
+    "year": 1961,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Berlin_Wall"
+  },
+  {
+    "id": "fact-history-sputnik",
+    "topic": "history",
+    "title": "Спутник-1",
+    "caption": "Первый искусственный спутник, запущен СССР 4 октября 1957. Диаметр 58 см, на орбите 92 дня. Начало космической эры.",
+    "alt": "Спутник-1 — макет",
+    "year": 1957,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sputnik_1"
+  },
+  {
+    "id": "fact-art-starry-night",
+    "topic": "art",
+    "title": "Звёздная ночь",
+    "caption": "Винсент Ван Гог, июнь 1889. Написана из окна психиатрической клиники Сен-Реми. С 1941 — в MoMA, Нью-Йорк.",
+    "alt": "Звёздная ночь Ван Гога",
+    "year": 1889,
+    "meta": { "artist": "Vincent van Gogh" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Starry_Night"
+  },
+  {
+    "id": "fact-art-sunflowers",
+    "topic": "art",
+    "title": "Подсолнухи Ван Гога",
+    "caption": "Серия Ван Гога 1888–1889 для встречи Гогена в Арле. 5 из 7 версий сохранились. Рекорд продажи — $39,9 млн в 1987.",
+    "alt": "Подсолнухи в вазе Ван Гога",
+    "year": 1889,
+    "meta": { "artist": "Vincent van Gogh" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sunflowers_(Van_Gogh_series)"
+  },
+  {
+    "id": "fact-art-scream",
+    "topic": "art",
+    "title": "Крик · Эдвард Мунк",
+    "caption": "Эдвард Мунк, 1893. Идея — кровавый закат над Осло. Пастельная версия продана за $119,9 млн в 2012 — рекорд года.",
+    "alt": "Крик Эдварда Мунка",
+    "year": 1893,
+    "meta": { "artist": "Edvard Munch" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Scream"
+  },
+  {
+    "id": "fact-art-sistine-ceiling",
+    "topic": "art",
+    "title": "Потолок Сикстинской капеллы",
+    "caption": "Микеланджело, 1508–1512. 460 м² фресок, около 300 фигур. Расписывал лёжа на лесах 4 года, оплата папы Юлия — 3000 дукатов.",
+    "alt": "Сотворение Адама — фрагмент потолка",
+    "year": 1512,
+    "meta": { "artist": "Michelangelo" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sistine_Chapel_ceiling"
+  },
+  {
+    "id": "fact-nature-blue-whale",
+    "topic": "nature",
+    "title": "Синий кит",
+    "caption": "До 30 м, до 180 тонн — крупнейшее животное за всю историю Земли. Сердце весит 180 кг, бьётся 2 удара в минуту.",
+    "alt": "Синий кит в океане",
+    "meta": { "species": "Balaenoptera musculus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Blue_whale"
+  },
+  {
+    "id": "fact-nature-sequoia",
+    "topic": "nature",
+    "title": "Гигантская секвойя",
+    "caption": "Самое массивное дерево — Дженерал Шерман, 84 м высоты, 2300–2700 лет. Шишки висят на ветках до 20 лет, прежде чем упасть.",
+    "alt": "Гигантская секвойя в Калифорнии",
+    "meta": { "species": "Sequoiadendron giganteum" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sequoiadendron_giganteum"
+  },
+  {
+    "id": "fact-nature-komodo",
+    "topic": "nature",
+    "title": "Комодский варан",
+    "caption": "Крупнейшая ящерица — до 3 м и 90 кг. Слюна содержит токсин — единственная ядовитая среди гигантских ящериц.",
+    "alt": "Комодский варан в естественной среде",
+    "meta": { "species": "Varanus komodoensis" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Komodo_dragon"
+  },
+  {
+    "id": "fact-nature-octopus",
+    "topic": "nature",
+    "title": "Осьминог",
+    "caption": "9 мозгов: 1 центральный + по 1 в каждом щупальце. Кровь голубая — на основе меди, не железа. 200+ присосок на щупальце.",
+    "alt": "Осьминог расправил щупальца",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Octopus"
+  },
+  {
+    "id": "fact-architecture-colosseum",
+    "topic": "architecture",
+    "title": "Колизей",
+    "caption": "Рим, 70–80 годы н.э. Вмещал 50-80 тысяч зрителей. Эллипс 188×156 м, высота 48 м. Сохранилось около трети оригинала.",
+    "alt": "Колизей в Риме",
+    "year": 80,
+    "meta": { "country_code": "IT", "city": "Roma" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Colosseum"
+  },
+  {
+    "id": "fact-architecture-sydney-opera",
+    "topic": "architecture",
+    "title": "Сиднейский оперный театр",
+    "caption": "Йорн Утцон, 1973. Крыша из 1 056 006 керамических плиток. Стройка шла 16 лет вместо запланированных 4.",
+    "alt": "Сиднейский оперный театр",
+    "year": 1973,
+    "meta": { "country_code": "AU" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sydney_Opera_House"
+  },
+  {
+    "id": "fact-architecture-taj-mahal",
+    "topic": "architecture",
+    "title": "Тадж-Махал",
+    "caption": "Мавзолей жене Шах-Джахана Мумтаз-Махал, 1632–1653. 20 000 рабочих, 1000 слонов. Высота купола 73 м, белый мрамор.",
+    "alt": "Тадж-Махал в Агре",
+    "year": 1653,
+    "meta": { "country_code": "IN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Taj_Mahal"
+  },
+  {
+    "id": "fact-architecture-sagrada-familia",
+    "topic": "architecture",
+    "title": "Саграда Фамилия",
+    "caption": "Антонио Гауди, начало стройки 1882. К 2026 — 144 года в работе. Окончание планируется к 100-летию смерти Гауди.",
+    "alt": "Саграда Фамилия в Барселоне",
+    "year": 1882,
+    "meta": { "country_code": "ES" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sagrada_Família"
+  },
+  {
+    "id": "fact-food-sushi",
+    "topic": "food",
+    "title": "Суши",
+    "caption": "Изначально метод хранения рыбы — её ферментировали в рисе с VIII века. Современная нигири-суши — 1820-е, Токио.",
+    "alt": "Тарелка нигири-суши",
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sushi"
+  },
+  {
+    "id": "fact-food-croissant",
+    "topic": "food",
+    "title": "Круассан",
+    "caption": "Не французский — родом из Вены 1683. Форма копирует османский полумесяц после победы над турками. Тесто — 27 слоёв.",
+    "alt": "Свежий круассан",
+    "year": 1683,
+    "meta": { "country_code": "AT" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Croissant"
+  },
+  {
+    "id": "fact-food-curry",
+    "topic": "food",
+    "title": "Карри",
+    "caption": "Слово «curry» — английская выдумка 1747 года из тамильского «kari». В Индии нет блюда «карри» — есть тысячи специй.",
+    "alt": "Тарелка индийского карри",
+    "year": 1747,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Curry"
+  },
+  {
+    "id": "fact-food-borscht",
+    "topic": "food",
+    "title": "Борщ",
+    "caption": "Свекольный суп в Восточной Европе с XV века. В 2022 ЮНЕСКО внесла украинский борщ в нематериальное наследие.",
+    "alt": "Тарелка борща со сметаной",
+    "year": 2022,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Borscht"
+  },
+  {
+    "id": "fact-science-penicillin",
+    "topic": "science",
+    "title": "Пенициллин",
+    "caption": "Александр Флеминг, 1928. Случайно — плесень убила бактерии на грязной чашке Петри. Нобель 1945, спас миллионы жизней.",
+    "alt": "Колония плесени Penicillium",
+    "year": 1928,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Penicillin"
+  },
+  {
+    "id": "fact-science-xray",
+    "topic": "science",
+    "title": "Рентгеновские лучи",
+    "caption": "Вильгельм Рентген, 8 ноября 1895. Случайно открыл «икс-лучи», первый снимок — кисть его жены с обручальным кольцом.",
+    "alt": "Первый рентгеновский снимок — рука Анны Рентген",
+    "year": 1895,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "X-ray"
+  },
+  {
+    "id": "fact-science-periodic-table",
+    "topic": "science",
+    "title": "Периодическая таблица",
+    "caption": "Дмитрий Менделеев, 1869. Из 63 элементов построил систему и предсказал свойства ещё 8 — все 8 потом нашлись.",
+    "alt": "Периодическая таблица элементов",
+    "year": 1869,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Periodic_table"
+  },
+  {
+    "id": "fact-science-photography",
+    "topic": "science",
+    "title": "Первая фотография",
+    "caption": "Жозеф Ньепс, 1826. Первая дошедшая до нас фотография — экспозиция 8 часов на оловянной пластине с битумом.",
+    "alt": "View from the Window at Le Gras — первая фотография",
+    "year": 1826,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "View_from_the_Window_at_Le_Gras"
+  },
+  {
+    "id": "fact-language-cyrillic",
+    "topic": "language",
+    "title": "Кириллица",
+    "caption": "Создана учениками Кирилла и Мефодия в IX веке на основе греческого алфавита. Сегодня используется в 50+ языках.",
+    "alt": "Кириллический алфавит",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cyrillic_script"
+  },
+  {
+    "id": "fact-language-sanskrit",
+    "topic": "language",
+    "title": "Санскрит",
+    "caption": "Один из древнейших индоевропейских языков, литература с 1500 до н.э. На нём написана «Махабхарата» — 1,8 млн слов.",
+    "alt": "Санскритский манускрипт",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sanskrit"
+  },
+  {
+    "id": "fact-language-esperanto",
+    "topic": "language",
+    "title": "Эсперанто",
+    "caption": "Создан Людвиком Заменгофом в 1887. Около 2 миллионов говорящих, ~1000 родом-носителей. 16 правил без исключений.",
+    "alt": "Зелёный флаг эсперанто",
+    "year": 1887,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Esperanto"
+  },
+  {
+    "id": "fact-math-pi",
+    "topic": "math",
+    "title": "Число π",
+    "caption": "Отношение длины окружности к диаметру. Иррационально, бесконечно. В 2024 вычислено 202 трлн знаков после запятой.",
+    "alt": "Символ π и круг",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pi"
+  },
+  {
+    "id": "fact-math-fibonacci",
+    "topic": "math",
+    "title": "Числа Фибоначчи",
+    "caption": "0, 1, 1, 2, 3, 5, 8, 13, 21... Каждое — сумма двух предыдущих. Отношение соседних стремится к 1,618 — золотое сечение.",
+    "alt": "Спираль Фибоначчи",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fibonacci_sequence"
+  },
+  {
+    "id": "fact-math-fermat",
+    "topic": "math",
+    "title": "Великая теорема Ферма",
+    "caption": "x^n + y^n = z^n не имеет целых решений при n > 2. Сформулирована в 1637, доказана Эндрю Уайлсом в 1994 — 358 лет ждала.",
+    "alt": "Эндрю Уайлс — доказательство теоремы Ферма",
+    "year": 1994,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fermat's_Last_Theorem"
+  },
+  {
+    "id": "fact-music-beethoven",
+    "topic": "music",
+    "title": "Людвиг ван Бетховен",
+    "caption": "1770–1827. 9 симфоний, теряя слух с 28 лет. Девятая симфония (1824) — гимн Евросоюза с 1985.",
+    "alt": "Портрет Бетховена",
+    "year": 1824,
+    "meta": { "lifespan": "1770-1827" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ludwig_van_Beethoven"
+  },
+  {
+    "id": "fact-music-mozart",
+    "topic": "music",
+    "title": "Вольфганг Амадей Моцарт",
+    "caption": "1756–1791. Сочинил 626 произведений за 35 лет. Первую симфонию написал в 8 лет, оперу «Митридат» — в 14.",
+    "alt": "Портрет Моцарта",
+    "meta": { "lifespan": "1756-1791" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wolfgang_Amadeus_Mozart"
+  },
+  {
+    "id": "fact-music-stradivarius",
+    "topic": "music",
+    "title": "Страдивари",
+    "caption": "Антонио Страдивари, 1644–1737. Сделал около 1100 инструментов, сохранилось ~650. Lady Blunt продана за $15,9 млн в 2011.",
+    "alt": "Скрипка Страдивари",
+    "meta": { "lifespan": "1644-1737" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stradivarius"
+  },
+  {
+    "id": "fact-economy-bitcoin",
+    "topic": "economy",
+    "title": "Биткоин",
+    "caption": "Сатоши Накамото, 31 октября 2008 — whitepaper. Первая транзакция: 10 000 BTC за 2 пиццы в 2010 (сегодня — $700+ млн).",
+    "alt": "Логотип биткоина",
+    "year": 2008,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bitcoin"
+  },
+  {
+    "id": "fact-economy-1929-crash",
+    "topic": "economy",
+    "title": "Биржевой крах 1929",
+    "caption": "Чёрный четверг, 24 октября 1929. За 5 дней индекс Доу упал на 25%, к 1932 потерял 89%. Начало Великой депрессии.",
+    "alt": "Толпа у биржи Нью-Йорка 1929",
+    "year": 1929,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wall_Street_Crash_of_1929"
+  },
+  {
+    "id": "fact-economy-euro",
+    "topic": "economy",
+    "title": "Евро",
+    "caption": "Введён 1 января 1999 в безналичной форме, банкноты с 2002. Сегодня в 20 странах, около 350 млн человек.",
+    "alt": "Банкноты евро",
+    "year": 1999,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Euro"
+  },
+  {
+    "id": "fact-materials-graphene",
+    "topic": "materials",
+    "title": "Графен",
+    "caption": "Слой углерода в 1 атом толщиной. В 200 раз прочнее стали, проводит тепло лучше меди. Нобель 2010 — Гейм и Новосёлов.",
+    "alt": "Структура графена — сотовая решётка",
+    "year": 2010,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Graphene"
+  },
+  {
+    "id": "fact-materials-damascus-steel",
+    "topic": "materials",
+    "title": "Дамасская сталь",
+    "caption": "Узорчатая сталь применялась с 300 года н.э. Технология утеряна к 1750-м. Современные попытки воссоздать — с 1981.",
+    "alt": "Клинок из дамасской стали",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Damascus_steel"
+  },
+  {
+    "id": "fact-materials-silk",
+    "topic": "materials",
+    "title": "Шёлк",
+    "caption": "Производит тутовый шелкопряд. Один кокон даёт нить 600–900 м. Китай хранил секрет 3000 лет под страхом смертной казни.",
+    "alt": "Коконы шелкопряда и нити шёлка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Silk"
+  },
+  {
+    "id": "fact-ratings-everest",
+    "topic": "ratings",
+    "title": "Эверест · 8849 м",
+    "caption": "8849 м — высочайшая точка Земли над уровнем моря. Растёт на 4 мм/год. Покорён Хиллари и Норгеем 29 мая 1953.",
+    "alt": "Эверест в Гималаях",
+    "year": 1953,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mount_Everest"
+  },
+  {
+    "id": "fact-ratings-mariana-trench",
+    "topic": "ratings",
+    "title": "Марианский жёлоб",
+    "caption": "Глубочайший океанский жёлоб — 10 994 м. Глубже, чем высота Эвереста. Первое погружение: Триест, 23 января 1960.",
+    "alt": "Схема Марианского жёлоба",
+    "year": 1960,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mariana_Trench"
+  },
+  {
+    "id": "fact-ratings-vatican",
+    "topic": "ratings",
+    "title": "Ватикан · 0,49 км²",
+    "caption": "Самое маленькое государство мира — 0,49 км² и 764 жителя. Меньше нью-йоркского Центрального парка в 7 раз.",
+    "alt": "Собор Святого Петра в Ватикане",
+    "meta": { "country_code": "VA" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vatican_City"
+  },
+  {
+    "id": "fact-events-apollo-11",
+    "topic": "events",
+    "title": "Аполлон-11",
+    "caption": "20 июля 1969. Армстронг и Олдрин на Луне 21 час 36 минут. Прямую трансляцию посадки смотрели 650 миллионов человек.",
+    "alt": "Базз Олдрин на Луне",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Apollo_11"
+  },
+  {
+    "id": "fact-events-berlin-wall-fall",
+    "topic": "events",
+    "title": "Падение Берлинской стены",
+    "caption": "9 ноября 1989. После 28 лет стена пала за ночь — пресс-конференция ГДР по ошибке объявила свободу выезда «немедленно».",
+    "alt": "Падение Берлинской стены",
+    "year": 1989,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fall_of_the_Berlin_Wall"
+  },
+  {
+    "id": "fact-events-manhattan-project",
+    "topic": "events",
+    "title": "Манхэттенский проект",
+    "caption": "Программа создания атомной бомбы, 1942–1946. 130 000 человек, $2 млрд (сейчас $30 млрд). Тринити — 16 июля 1945.",
+    "alt": "Тринити — первое ядерное испытание",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Manhattan_Project"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "fact-art-mona-lisa",
+  "topic": "art",
+  "title": "Леонардо · Мона Лиза",
+  "caption": "77×53 см, тополь. Леонардо писал её 1503–1519. В Лувре с 1797, за пуленепробиваемым стеклом с 1974.",
+  "image": "fact-art-mona-lisa.webp",
+  "image_width": 1280,
+  "image_height": 1907,
+  "alt": "Портрет Моны Лизы работы Леонардо да Винчи",
+  "credit": "Leonardo da Vinci · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mona_Lisa",
+  "license": "PD",
+  "year": 1519,
+  "meta": {
+    "artist": "Leonardo da Vinci",
+    "medium": "oil on poplar"
+  }
+}

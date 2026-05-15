@@ -1,0 +1,110 @@
+[
+  {
+    "id": "fact-country-france",
+    "topic": "country",
+    "title": "Франция · Эйфелева башня",
+    "caption": "324 м, построена в 1889 на Всемирную выставку. Должна была стоять 20 лет — стоит уже 137.",
+    "alt": "Эйфелева башня в Париже",
+    "year": 1889,
+    "meta": { "country_code": "FR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eiffel_Tower"
+  },
+  {
+    "id": "fact-element-gold",
+    "topic": "element",
+    "title": "Золото · Au (79)",
+    "caption": "79-й элемент. Из 1 грамма золота можно вытянуть проволоку длиной 2,4 км — самый ковкий металл в природе.",
+    "alt": "Самородок золота на белом фоне",
+    "meta": { "atomic_number": 79, "symbol": "Au" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gold"
+  },
+  {
+    "id": "fact-quote-einstein",
+    "topic": "quote",
+    "title": "Альберт Эйнштейн",
+    "caption": "1879–1955. Нобеля 1921 года получил не за теорию относительности, а за объяснение фотоэффекта.",
+    "alt": "Портрет Альберта Эйнштейна, 1921",
+    "year": 1921,
+    "meta": { "lifespan": "1879-1955" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Albert_Einstein"
+  },
+  {
+    "id": "fact-space-saturn",
+    "topic": "space",
+    "title": "Сатурн и его кольца",
+    "caption": "Кольца — 282 000 км в ширину при толщине всего около 10 м. На 99% из водяного льда. Открыты Галилеем в 1610.",
+    "alt": "Сатурн с системой колец",
+    "year": 1610,
+    "meta": { "body": "Saturn" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Saturn"
+  },
+  {
+    "id": "fact-history-rosetta",
+    "topic": "history",
+    "title": "Розеттский камень",
+    "caption": "196 до н.э. Один указ на трёх системах письма: иероглифы, демотика, греческий. Дал ключ к иероглифам в 1822.",
+    "alt": "Розеттский камень в Британском музее",
+    "year": -196,
+    "meta": { "language_count": 3 },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rosetta_Stone"
+  },
+  {
+    "id": "fact-art-mona-lisa",
+    "topic": "art",
+    "title": "Леонардо · Мона Лиза",
+    "caption": "77×53 см, тополь. Леонардо писал её 1503–1519. В Лувре с 1797, за пуленепробиваемым стеклом с 1974.",
+    "alt": "Портрет Моны Лизы работы Леонардо да Винчи",
+    "year": 1519,
+    "meta": { "artist": "Leonardo da Vinci", "medium": "oil on poplar" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mona_Lisa"
+  },
+  {
+    "id": "fact-nature-cheetah",
+    "topic": "nature",
+    "title": "Гепард · 112 км/ч",
+    "caption": "Самое быстрое сухопутное животное — 112 км/ч. Разгоняется до 100 за 3 секунды, но держит скорость не дольше 30 сек.",
+    "alt": "Гепард в саванне",
+    "meta": { "species": "Acinonyx jubatus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cheetah"
+  },
+  {
+    "id": "fact-architecture-burj-khalifa",
+    "topic": "architecture",
+    "title": "ОАЭ · Бурдж-Халифа",
+    "caption": "828 м, 163 этажа. Самое высокое здание мира с 2010. Видна с расстояния 95 км.",
+    "alt": "Небоскрёб Бурдж-Халифа в Дубае",
+    "year": 2010,
+    "meta": { "country_code": "AE", "floors": 163 },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Burj_Khalifa"
+  },
+  {
+    "id": "fact-food-pizza-margherita",
+    "topic": "food",
+    "title": "Пицца Маргарита",
+    "caption": "По легенде 1889 года: пиццайоло Эспозито приготовил её в Неаполе для королевы Маргариты — томат, моцарелла, базилик.",
+    "alt": "Пицца Маргарита с моцареллой и базиликом",
+    "year": 1889,
+    "meta": { "country_code": "IT", "city": "Napoli" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pizza_Margherita"
+  },
+  {
+    "id": "fact-science-dna",
+    "topic": "science",
+    "title": "ДНК · двойная спираль",
+    "caption": "Двойная спираль шириной 2 нм. Уотсон и Крик опубликовали структуру в Nature 25 апреля 1953 — статья на 900 слов.",
+    "alt": "Иллюстрация двойной спирали ДНК",
+    "year": 1953,
+    "meta": { "discovered_by": "Watson, Crick, Franklin, Wilkins" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "DNA"
+  }
+]

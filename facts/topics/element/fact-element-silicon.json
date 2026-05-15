@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-silicon",
+  "topic": "element",
+  "title": "Кремний · Si (14)",
+  "caption": "Si, 14-й элемент. 28% земной коры — второй после кислорода. Основа полупроводников и микрочипов с 1947.",
+  "image": "fact-element-silicon.webp",
+  "image_width": 1046,
+  "image_height": 727,
+  "alt": "Слиток кремния — основа микрочипов",
+  "credit": "Enricoros at English Wikipedia · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Silicon",
+  "license": "PD",
+  "year": 1947,
+  "meta": {
+    "atomic_number": 14,
+    "symbol": "Si"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-quote-tesla",
+  "topic": "quote",
+  "title": "Никола Тесла",
+  "caption": "1856–1943. Изобрёл систему переменного тока, выиграл «войну токов» у Эдисона. 300 патентов в 26 странах.",
+  "image": "fact-quote-tesla.webp",
+  "image_width": 940,
+  "image_height": 1260,
+  "alt": "Портрет Николы Теслы",
+  "credit": "Napoleon Sarony · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+  "license": "PD",
+  "year": 1890,
+  "meta": {
+    "lifespan": "1856-1943"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-silk",
+  "topic": "materials",
+  "title": "Шёлк",
+  "caption": "Производит тутовый шелкопряд. Один кокон даёт нить 600–900 м. Китай хранил секрет 3000 лет под страхом смертной казни.",
+  "image": "fact-materials-silk.webp",
+  "image_width": 1280,
+  "image_height": 1920,
+  "alt": "Коконы шелкопряда и нити шёлка",
+  "credit": "Kuebi = Armin Kübelbeck · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Silk",
+  "license": "CC-BY-SA",
+  "year": 2007
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-photography",
+  "topic": "science",
+  "title": "Первая фотография",
+  "caption": "Жозеф Ньепс, 1826. Первая дошедшая до нас фотография — экспозиция 8 часов на оловянной пластине с битумом.",
+  "image": "fact-science-photography.webp",
+  "image_width": 1280,
+  "image_height": 1077,
+  "alt": "View from the Window at Le Gras — первая фотография",
+  "credit": "Nicéphore Niépce · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras",
+  "license": "PD",
+  "year": 1826
+}

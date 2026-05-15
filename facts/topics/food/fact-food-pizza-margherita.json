@@ -1,0 +1,18 @@
+{
+  "id": "fact-food-pizza-margherita",
+  "topic": "food",
+  "title": "Пицца Маргарита",
+  "caption": "По легенде 1889 года: пиццайоло Эспозито приготовил её в Неаполе для королевы Маргариты — томат, моцарелла, базилик.",
+  "image": "fact-food-pizza-margherita.webp",
+  "image_width": 1280,
+  "image_height": 851,
+  "alt": "Пицца Маргарита с моцареллой и базиликом",
+  "credit": "stu_spivack · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pizza_Margherita",
+  "license": "CC-BY-SA",
+  "year": 1889,
+  "meta": {
+    "country_code": "IT",
+    "city": "Napoli"
+  }
+}

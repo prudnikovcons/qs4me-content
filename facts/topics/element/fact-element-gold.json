@@ -1,0 +1,18 @@
+{
+  "id": "fact-element-gold",
+  "topic": "element",
+  "title": "Золото · Au (79)",
+  "caption": "79-й элемент. Из 1 грамма золота можно вытянуть проволоку длиной 2,4 км — самый ковкий металл в природе.",
+  "image": "fact-element-gold.webp",
+  "image_width": 1280,
+  "image_height": 829,
+  "alt": "Самородок золота на белом фоне",
+  "credit": "Alchemist-hp (talk) www.pse-mendelejew.de · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Gold",
+  "license": "CC-BY-SA",
+  "year": 2009,
+  "meta": {
+    "atomic_number": 79,
+    "symbol": "Au"
+  }
+}

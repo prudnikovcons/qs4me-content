@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-sydney-opera",
+  "topic": "architecture",
+  "title": "Сиднейский оперный театр",
+  "caption": "Йорн Утцон, 1973. Крыша из 1 056 006 керамических плиток. Стройка шла 16 лет вместо запланированных 4.",
+  "image": "fact-architecture-sydney-opera.webp",
+  "image_width": 1280,
+  "image_height": 786,
+  "alt": "Сиднейский оперный театр",
+  "credit": "Bernard Spragg. NZ from Christchurch, New Zealand · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+  "license": "CC0",
+  "year": 1973,
+  "meta": {
+    "country_code": "AU"
+  }
+}

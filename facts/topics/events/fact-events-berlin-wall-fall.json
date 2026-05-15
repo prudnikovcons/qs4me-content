@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-berlin-wall-fall",
+  "topic": "events",
+  "title": "Падение Берлинской стены",
+  "caption": "9 ноября 1989. После 28 лет стена пала за ночь — пресс-конференция ГДР по ошибке объявила свободу выезда «немедленно».",
+  "image": "fact-events-berlin-wall-fall.webp",
+  "image_width": 661,
+  "image_height": 498,
+  "alt": "Падение Берлинской стены",
+  "credit": "Unknown photographer, Reproduction by Lear 21 at English Wikipedia. · CC-BY-SA ·",
+  "source": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
+  "license": "CC-BY-SA",
+  "year": 1989
+}

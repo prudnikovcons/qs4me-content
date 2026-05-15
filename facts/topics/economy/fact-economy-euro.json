@@ -1,0 +1,14 @@
+{
+  "id": "fact-economy-euro",
+  "topic": "economy",
+  "title": "Евро",
+  "caption": "Введён 1 января 1999 в безналичной форме, банкноты с 2002. Сегодня в 20 странах, около 350 млн человек.",
+  "image": "fact-economy-euro.webp",
+  "image_width": 1280,
+  "image_height": 959,
+  "alt": "Банкноты евро",
+  "credit": "The RedBurn · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Euro",
+  "license": "CC-BY-SA",
+  "year": 1999
+}

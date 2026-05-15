@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-borscht",
+  "topic": "food",
+  "title": "Борщ",
+  "caption": "Свекольный суп в Восточной Европе с XV века. В 2022 ЮНЕСКО внесла украинский борщ в нематериальное наследие.",
+  "image": "fact-food-borscht.webp",
+  "image_width": 1280,
+  "image_height": 837,
+  "alt": "Тарелка борща со сметаной",
+  "credit": "liz west from Boxborough, MA · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Borscht",
+  "license": "CC-BY",
+  "year": 2022
+}

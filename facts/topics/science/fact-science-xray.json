@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-xray",
+  "topic": "science",
+  "title": "Рентгеновские лучи",
+  "caption": "Вильгельм Рентген, 8 ноября 1895. Случайно открыл «икс-лучи», первый снимок — кисть его жены с обручальным кольцом.",
+  "image": "fact-science-xray.webp",
+  "image_width": 1280,
+  "image_height": 836,
+  "alt": "Первый рентгеновский снимок — рука Анны Рентген",
+  "credit": "NickSpiker · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/X-ray",
+  "license": "CC-BY-SA",
+  "year": 1895
+}
