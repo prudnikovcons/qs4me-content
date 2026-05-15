@@ -8,7 +8,8 @@
     "build-index": "node scripts/build-index.mjs",
     "build-bundle": "node scripts/build-bundle.mjs",
     "build": "pnpm validate && pnpm build-index && pnpm build-bundle",
-    "collect": "node scripts/collect.mjs"
+    "collect": "node scripts/collect.mjs",
+    "catalog": "node scripts/build-catalog.mjs"
   },
   "devDependencies": {
     "ajv": "^8.17.1",
