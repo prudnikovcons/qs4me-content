@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-habitable-zone",
+  "topic": "terms",
+  "title": "Зона обитаемости",
+  "caption": "«Зона Златовласки» — расстояние от звезды, где возможна жидкая вода. У Солнца — 0,95–1,67 а.е. Земля прямо в середине.",
+  "image": "fact-terms-habitable-zone.webp",
+  "image_width": 1280,
+  "image_height": 1415,
+  "alt": "Зона обитаемости Солнечной системы",
+  "credit": "NASA / JPL-Caltech / Olivier de Goursac · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Circumstellar_habitable_zone",
+  "license": "PD",
+  "year": 2013
+}

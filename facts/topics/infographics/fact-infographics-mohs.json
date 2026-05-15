@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-mohs",
+  "topic": "infographics",
+  "title": "Шкала Мооса",
+  "caption": "Фридрих Моос, 1812. 10 баллов твёрдости минералов: тальк (1) → алмаз (10). Между алмазом и корундом (9) — в 4 раза разница.",
+  "image": "fact-infographics-mohs.webp",
+  "image_width": 1280,
+  "image_height": 1691,
+  "alt": "Шкала твёрдости Мооса",
+  "credit": "Hannes Grobe · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mohs_scale_of_mineral_hardness",
+  "license": "CC-BY",
+  "year": 1812
+}

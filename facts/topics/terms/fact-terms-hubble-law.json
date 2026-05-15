@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-hubble-law",
+  "topic": "terms",
+  "title": "Закон Хаббла",
+  "caption": "Эдвин Хаббл, 1929. Скорость удаления галактик пропорциональна расстоянию: v = H₀·d. Подтверждает расширение Вселенной.",
+  "image": "fact-terms-hubble-law.webp",
+  "image_width": 735,
+  "image_height": 625,
+  "alt": "График закона Хаббла",
+  "credit": "w:en:User:ScienceApologist · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Hubble's_law",
+  "license": "PD",
+  "year": 1929
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-monty-hall",
+  "topic": "terms",
+  "title": "Парадокс Монти Холла",
+  "caption": "Сценарий из шоу 1990-х. За 3 дверьми — авто и 2 козы. Меняя выбор после подсказки, вероятность выигрыша растёт с 1/3 до 2/3.",
+  "image": "fact-terms-monty-hall.webp",
+  "image_width": 1280,
+  "image_height": 711,
+  "alt": "Схема парадокса Монти Холла",
+  "credit": "Cepheus · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Monty_Hall_problem",
+  "license": "PD",
+  "year": 1990
+}
