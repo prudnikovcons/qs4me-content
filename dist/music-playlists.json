@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "slug": "before-sleep",
+    "name_ru": "Перед сном",
+    "description_ru": "Шесть медленных пьес с угасающими концовками. Ночные жанры романтиков — ноктюрны Шопена в исполнении Рахманинова и Марыли Йонас, Adagio из Лунной сонаты Бетховена, мазурка предсмертного Шопена 1849 года. Музыка, которая заканчивается тишиной.",
+    "mood": "tender",
+    "best_time": "night",
+    "track_ids": [
+      "chopin-nocturne-9-2",
+      "beethoven-moonlight-1-adagio",
+      "chopin-nocturne-posth-cis",
+      "chopin-mazurka-67-2",
+      "schubert-moment-5",
+      "mozart-eine-kleine-2-romanze"
+    ],
+    "cover_track_id": "chopin-nocturne-9-2"
+  },
+  {
+    "slug": "deep-work",
+    "name_ru": "Глубокая работа",
+    "description_ru": "Семь треков для тех часов, когда нужно держать внимание долго и без срывов. Полифонический Бах, фортепианные миниатюры Шопена и Шуберта — повторяющиеся структуры и ровная динамика. Никаких резких всплесков, никаких длинных арий — фон, который не претендует на внимание.",
+    "mood": "focused",
+    "best_time": "work",
+    "track_ids": [
+      "bach-brandenburg-2-1",
+      "chopin-mazurka-30-2",
+      "chopin-mazurka-67-2",
+      "chopin-waltz-70-1",
+      "chopin-waltz-70-3",
+      "chopin-nocturne-posth-cis",
+      "schubert-moment-4"
+    ],
+    "cover_track_id": "bach-brandenburg-2-1"
+  },
+  {
+    "slug": "morning-calm",
+    "name_ru": "Утреннее затишье",
+    "description_ru": "Шесть камерных пьес для мягкого старта дня. Без фортиссимо, без драматических кульминаций — серенадная классика конца XVIII и фортепианная миниатюра романтической эпохи. Подходит как фон под чтение, кофе или утренние письма.",
+    "mood": "calm",
+    "best_time": "morning",
+    "track_ids": [
+      "mozart-eine-kleine-2-romanze",
+      "schubert-moment-3",
+      "chopin-waltz-70-3",
+      "chopin-mazurka-30-2",
+      "tchaikovsky-nutcracker-overture",
+      "mozart-sonata-545-allegro"
+    ],
+    "cover_track_id": "mozart-eine-kleine-2-romanze"
+  },
+  {
+    "slug": "music-with-history",
+    "name_ru": "Музыка с историей",
+    "description_ru": "Шесть треков, у каждого из которых — отдельный сюжет за рамками самих нот. Финал Баха, отправленный к звёздам на «Вояджере». Шопен, записанный Рахманиновым в 1927-м. Челеста, привезённая Чайковским тайно из Парижа. Поэма Дюка, ставшая частью «Фантазии» Диснея. Турецкий марш Моцарта, родившийся из венского ориентализма после войн с османами.",
+    "mood": "introspective",
+    "best_time": "anytime",
+    "track_ids": [
+      "chopin-nocturne-9-2",
+      "bach-brandenburg-2-3",
+      "tchaikovsky-nutcracker-sugar-plum",
+      "dukas-sorcerers-apprentice",
+      "mozart-rondo-alla-turca",
+      "beethoven-moonlight-3-presto"
+    ],
+    "cover_track_id": "dukas-sorcerers-apprentice"
+  }
+]

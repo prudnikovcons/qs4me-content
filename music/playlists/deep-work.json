@@ -1,0 +1,17 @@
+{
+  "slug": "deep-work",
+  "name_ru": "Глубокая работа",
+  "description_ru": "Семь треков для тех часов, когда нужно держать внимание долго и без срывов. Полифонический Бах, фортепианные миниатюры Шопена и Шуберта — повторяющиеся структуры и ровная динамика. Никаких резких всплесков, никаких длинных арий — фон, который не претендует на внимание.",
+  "mood": "focused",
+  "best_time": "work",
+  "track_ids": [
+    "bach-brandenburg-2-1",
+    "chopin-mazurka-30-2",
+    "chopin-mazurka-67-2",
+    "chopin-waltz-70-1",
+    "chopin-waltz-70-3",
+    "chopin-nocturne-posth-cis",
+    "schubert-moment-4"
+  ],
+  "cover_track_id": "bach-brandenburg-2-1"
+}
