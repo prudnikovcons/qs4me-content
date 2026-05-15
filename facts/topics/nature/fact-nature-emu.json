@@ -1,0 +1,15 @@
+{
+  "id": "fact-nature-emu",
+  "topic": "nature",
+  "title": "Эму",
+  "caption": "Австралийский страус. Высота 1,9 м. Не летает. Скорость 50 км/ч. Самец высиживает яйца 8 недель — не ест, теряет 1/3 массы.",
+  "image": "fact-nature-emu.webp",
+  "image_width": 1280,
+  "image_height": 1024,
+  "alt": "Птица Эму",
+  "credit": "JJ Harrison (https://www.jjharrison.com.au/) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Emu",
+  "license": "CC-BY-SA",
+  "year": 2020
+}
+

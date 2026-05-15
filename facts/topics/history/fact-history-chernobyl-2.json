@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-chernobyl-2",
+  "topic": "history",
+  "title": "Чернобыль",
+  "caption": "26 апреля 1986, 1:23. Авария на 4-м реакторе ЧАЭС. 30 человек погибли в первые дни. Радиоактивное облако накрыло Европу. 116 000 эвакуированы.",
+  "image": "fact-history-chernobyl-2.webp",
+  "image_width": 1280,
+  "image_height": 1966,
+  "alt": "Чернобыль",
+  "credit": "IAEA Imagebank · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+  "license": "CC-BY-SA",
+  "year": 1986
+}

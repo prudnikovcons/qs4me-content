@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-deepblue-kasparov",
+  "topic": "events",
+  "title": "Deep Blue vs Каспаров",
+  "caption": "11 мая 1997. IBM Deep Blue выиграл матч у Гарри Каспарова 3,5-2,5. Первая победа машины над чемпионом мира в классических шахматах.",
+  "image": "fact-events-deepblue-kasparov.webp",
+  "image_width": 400,
+  "image_height": 601,
+  "alt": "Deep Blue",
+  "credit": "James the photographer · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov",
+  "license": "CC-BY",
+  "year": 1997
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-portugal-porto",
+  "topic": "country",
+  "title": "Португалия · Порту",
+  "caption": "2-й по величине город Португалии. Дома вдоль реки Дору — UNESCO с 1996. Винные подвалы порто в Виле-Нове-де-Гайа.",
+  "image": "fact-country-portugal-porto.webp",
+  "image_width": 1280,
+  "image_height": 790,
+  "alt": "Порту",
+  "credit": "Diego Delso · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Porto",
+  "license": "CC-BY-SA",
+  "year": 1996,
+  "meta": {
+    "country_code": "PT"
+  }
+}

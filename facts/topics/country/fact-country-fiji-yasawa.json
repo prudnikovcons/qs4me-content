@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-fiji-yasawa",
+  "topic": "country",
+  "title": "Фиджи · Ясава",
+  "caption": "Архипелаг из 20 вулканических островов в Тихом. «Голубая лагуна» (1980, фильм) снят здесь. Кокос, манго, имбирь. Тропический рай.",
+  "image": "fact-country-fiji-yasawa.webp",
+  "image_width": 568,
+  "image_height": 480,
+  "alt": "Острова Ясава",
+  "credit": "United States · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Yasawa_Islands",
+  "license": "PD",
+  "year": 1947,
+  "meta": {
+    "country_code": "FJ"
+  }
+}

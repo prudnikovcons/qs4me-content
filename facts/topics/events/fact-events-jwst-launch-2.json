@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-jwst-launch-2",
+  "topic": "events",
+  "title": "Запуск JWST",
+  "caption": "25 декабря 2021. Космический телескоп James Webb. $10 млрд за 25 лет разработки. Зеркало 6,5 м — больше Hubble в 6 раз.",
+  "image": "fact-events-jwst-launch-2.webp",
+  "image_width": 775,
+  "image_height": 664,
+  "alt": "Запуск JWST",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+  "license": "PD",
+  "year": 2021
+}

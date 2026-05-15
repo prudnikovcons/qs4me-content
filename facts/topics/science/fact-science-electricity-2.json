@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-electricity-2",
+  "topic": "science",
+  "title": "Электричество",
+  "caption": "Бенджамин Франклин 1752 — змей в грозе показал, что молния = электричество. Вольта 1800 — первая батарея. Эдисон 1879 — первая лампа.",
+  "image": "fact-science-electricity-2.webp",
+  "image_width": 1280,
+  "image_height": 1503,
+  "alt": "Электричество",
+  "credit": "mattbuck (category) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Electricity",
+  "license": "CC-BY-SA",
+  "year": 1879
+}

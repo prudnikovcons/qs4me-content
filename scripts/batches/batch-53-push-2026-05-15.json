@@ -1,0 +1,276 @@
+[
+  {
+    "id": "fact-nature-pelican-brown",
+    "topic": "nature",
+    "title": "Бурый пеликан",
+    "caption": "Северная и Южная Америка. Единственный пеликан, ныряющий за рыбой с высоты 20 м. Воздушные мешки под кожей смягчают удар.",
+    "alt": "Бурый пеликан",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Brown_pelican"
+  },
+  {
+    "id": "fact-nature-anhinga",
+    "topic": "nature",
+    "title": "Змеешейка",
+    "caption": "«Дартер». Птица-рыбак с длинной шеей S-образной формы. Перья не водонепроницаемые — сушит крылья, расправив их на солнце.",
+    "alt": "Змеешейка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Anhinga"
+  },
+  {
+    "id": "fact-nature-cormorant",
+    "topic": "nature",
+    "title": "Баклан",
+    "caption": "40 видов морских ныряющих птиц. В Японии и Китае с VI в. бакланов учили ловить рыбу для рыбаков — кольцо на шее не давало проглотить.",
+    "alt": "Баклан",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cormorant"
+  },
+  {
+    "id": "fact-nature-snowy-owl",
+    "topic": "nature",
+    "title": "Полярная сова",
+    "caption": "Хедвиг из «Гарри Поттера». Арктика. Белая (самцы) или с серыми пестринами (самки). Активна днём — нет ночи в полярное лето.",
+    "alt": "Полярная сова",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Snowy_owl"
+  },
+  {
+    "id": "fact-nature-eagle-owl",
+    "topic": "nature",
+    "title": "Филин",
+    "caption": "Крупнейшая сова мира. Размах крыльев до 2 м. Охотится на ежей и зайцев. «Глаза» — оранжево-красные радужки 4 см.",
+    "alt": "Филин",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eurasian_eagle-owl"
+  },
+  {
+    "id": "fact-nature-osprey",
+    "topic": "nature",
+    "title": "Скопа",
+    "caption": "Хищная птица-рыболов. На всех континентах кроме Антарктиды. Видит рыбу с воздуха через воду. Лапы с шипами для удержания скользкой добычи.",
+    "alt": "Скопа",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Osprey"
+  },
+  {
+    "id": "fact-nature-golden-eagle",
+    "topic": "nature",
+    "title": "Беркут",
+    "caption": "Размах крыльев до 2,3 м. Скорость в пике 240 км/ч. В Казахстане традиция охоты с беркутами 6000 лет. На гербах Германии, Австрии, Мексики.",
+    "alt": "Беркут",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Golden_eagle"
+  },
+  {
+    "id": "fact-nature-bald-eagle-2",
+    "topic": "nature",
+    "title": "Белоголовый орлан",
+    "caption": "Национальный символ США с 1782. Зрение в 8 раз острее человеческого. Гнёзда — до 2,5 тонн, крупнейшие у птиц мира.",
+    "alt": "Белоголовый орлан",
+    "year": 1782,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bald_eagle"
+  },
+  {
+    "id": "fact-nature-harpy-eagle",
+    "topic": "nature",
+    "title": "Гарпия",
+    "caption": "Крупнейший орёл Америк. Когти длиннее, чем у медведя гризли. Добывает обезьян и ленивцев с верхушек деревьев Амазонии.",
+    "alt": "Гарпия",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Harpy_eagle"
+  },
+  {
+    "id": "fact-nature-secretary-bird",
+    "topic": "nature",
+    "title": "Птица-секретарь",
+    "caption": "Африка. Хищник, охотится пешком по саванне. Убивает змей ударом ноги — сила удара 195 Н, 15 миллисекунд контакта. Имя — от «писательских» перьев.",
+    "alt": "Птица-секретарь",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Secretarybird"
+  },
+  {
+    "id": "fact-nature-marabou",
+    "topic": "nature",
+    "title": "Марабу",
+    "caption": "Африканский аист-падальщик. Размах крыльев до 3,2 м. Лысая голова. Один из самых уродливых, но крайне полезный — санитар саванны.",
+    "alt": "Марабу",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Marabou_stork"
+  },
+  {
+    "id": "fact-nature-shoebill",
+    "topic": "nature",
+    "title": "Китоглав",
+    "caption": "Африка. Клюв-башмак до 24 см. «Птица-статуя» — стоит часами неподвижно. 5000-8000 особей в дикой природе.",
+    "alt": "Китоглав",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Shoebill"
+  },
+  {
+    "id": "fact-nature-kookaburra",
+    "topic": "nature",
+    "title": "Кукабарра",
+    "caption": "Австралия. «Смеющийся охотник» — крик напоминает человеческий смех. Едят змей, ящериц, мелких млекопитающих. Размер крупной вороны.",
+    "alt": "Кукабарра",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kookaburra"
+  },
+  {
+    "id": "fact-nature-bird-of-paradise",
+    "topic": "nature",
+    "title": "Райские птицы",
+    "caption": "42 вида, в основном Новая Гвинея. Самцы с яркими перьями исполняют сложные танцы. Перья ценились — золотая лихорадка в торговле XIX в.",
+    "alt": "Райская птица",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bird-of-paradise"
+  },
+  {
+    "id": "fact-nature-quetzal",
+    "topic": "nature",
+    "title": "Кетсаль",
+    "caption": "Центральная Америка. Священная птица майя и ацтеков — символ свободы. Перья из хвоста до 1 м у самцов. Национальная птица Гватемалы.",
+    "alt": "Кетсаль",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Resplendent_quetzal"
+  },
+  {
+    "id": "fact-nature-cardinal-bird",
+    "topic": "nature",
+    "title": "Кардинал",
+    "caption": "Северная Америка. Самцы ярко-красные круглый год. Не мигрируют. Государственная птица 7 штатов США. Имя — от красных мантий кардиналов.",
+    "alt": "Кардинал",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Northern_cardinal"
+  },
+  {
+    "id": "fact-nature-robin",
+    "topic": "nature",
+    "title": "Малиновка",
+    "caption": "Европейская зарянка. Любимая птица британцев — голосование 2015. Поёт круглый год. Самки и самцы выглядят одинаково — единственный способ отличить песня.",
+    "alt": "Зарянка",
+    "year": 2015,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "European_robin"
+  },
+  {
+    "id": "fact-nature-sparrow",
+    "topic": "nature",
+    "title": "Воробей",
+    "caption": "Домовой воробей — одна из самых распространённых птиц мира благодаря человеку. К 2000 — 700 миллионов особей. Сокращение в Европе на 50% с 1980.",
+    "alt": "Воробей",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "House_sparrow"
+  },
+  {
+    "id": "fact-nature-canary",
+    "topic": "nature",
+    "title": "Канарейка",
+    "caption": "Канарские острова. С XVII века — домашняя певчая птица. В шахтах XX века — детектор угарного газа: умирала первой, шахтёры успевали выбраться.",
+    "alt": "Канарейка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Atlantic_canary"
+  },
+  {
+    "id": "fact-nature-cuckoo-2",
+    "topic": "nature",
+    "title": "Кукушка",
+    "caption": "Гнездовой паразит. Самка откладывает яйцо в чужие гнёзда, имитируя их окрас. Птенец вылупляется первым, выбрасывает остальных яиц.",
+    "alt": "Кукушка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Common_cuckoo"
+  },
+  {
+    "id": "fact-nature-dove",
+    "topic": "nature",
+    "title": "Голубь",
+    "caption": "Сизый голубь — городской вездесущ. Магнитное чувство для навигации. Использовался для почты — голуби Reuters работали до 1860-х.",
+    "alt": "Голубь",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rock_dove"
+  },
+  {
+    "id": "fact-nature-mallard",
+    "topic": "nature",
+    "title": "Кряква",
+    "caption": "Самая распространённая утка мира. Самец зимой — зелёная голова, белый воротничок. Предок всех домашних уток (кроме мускусной).",
+    "alt": "Кряква",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mallard"
+  },
+  {
+    "id": "fact-nature-goose",
+    "topic": "nature",
+    "title": "Серый гусь",
+    "caption": "Предок домашнего гуся. Одомашнен Древним Египтом 4000 лет назад. Сегодня — 6 миллиардов гусей в мире. Капитолийские гуси спасли Рим 390 до н.э.",
+    "alt": "Серый гусь",
+    "year": -390,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Greylag_goose"
+  },
+  {
+    "id": "fact-nature-swan-trumpeter",
+    "topic": "nature",
+    "title": "Лебедь-кликун",
+    "caption": "Северная Евразия. На гербе Финляндии. К 1950 в Финляндии оставалось 15 пар — на грани исчезновения. Восстановлен — 8000 пар 2020.",
+    "alt": "Лебедь-кликун",
+    "year": 2020,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Whooper_swan"
+  },
+  {
+    "id": "fact-nature-pheasant",
+    "topic": "nature",
+    "title": "Фазан",
+    "caption": "Обыкновенный фазан. Родина — Кавказ, расселён по всему миру. Самцы яркие, самки маскированы. Главная дичь Европы — 8 миллионов отстреливают в год.",
+    "alt": "Фазан",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Common_pheasant"
+  },
+  {
+    "id": "fact-nature-turkey",
+    "topic": "nature",
+    "title": "Индейка",
+    "caption": "Северная Америка. Бенджамин Франклин предлагал индейку национальной птицей США (вместо орлана). Самцы устраивают «бородовые поединки».",
+    "alt": "Индейка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wild_turkey"
+  },
+  {
+    "id": "fact-nature-quail",
+    "topic": "nature",
+    "title": "Перепел",
+    "caption": "Семейство фазановых. Малый — длина 18 см, самая маленькая из охотничьих птиц. Перепелиные яйца — в 5 раз меньше куриных, но богаче ими.",
+    "alt": "Перепел",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quail"
+  },
+  {
+    "id": "fact-nature-grouse",
+    "topic": "nature",
+    "title": "Глухарь",
+    "caption": "Самый крупный из тетеревиных. Самцы до 6 кг. Брачные токования — самец «глохнет» в момент пения. Лосиный лес Скандинавии — основное место.",
+    "alt": "Глухарь",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Western_capercaillie"
+  },
+  {
+    "id": "fact-nature-stork-white",
+    "topic": "nature",
+    "title": "Белый аист",
+    "caption": "Не поёт — не имеет голосовых связок. Щёлкает клювом. Миграция Европа-Африка 10 000 км. Народное поверье — приносит детей в дом.",
+    "alt": "Белый аист",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "White_stork"
+  },
+  {
+    "id": "fact-nature-emperor-penguin-2",
+    "topic": "nature",
+    "title": "Императорский пингвин",
+    "caption": "Антарктида. Самец 2 месяца держит яйцо на лапах в −50 °C, теряет 45% массы. Ныряет на 565 м — рекорд среди птиц. Высота 120 см.",
+    "alt": "Императорский пингвин",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Emperor_penguin"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-eurovision",
+  "topic": "events",
+  "title": "Евровидение",
+  "caption": "С 1956. Старейший музыкальный телеконкурс мира. 200 миллионов зрителей. ABBA выиграла 1974 («Waterloo») — стартовая точка карьеры группы.",
+  "image": "fact-events-eurovision.webp",
+  "image_width": 1280,
+  "image_height": 422,
+  "alt": "Евровидение",
+  "credit": "Sebastian Wallroth · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest",
+  "license": "PD",
+  "year": 1956
+}

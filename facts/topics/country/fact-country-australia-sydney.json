@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-australia-sydney",
+  "topic": "country",
+  "title": "Австралия · Сидней",
+  "caption": "Крупнейший город Австралии — 5,3 млн жителей. Оперный театр Йорна Утцона (1973), Харбор-бридж (1932). Олимпиада 2000.",
+  "image": "fact-country-australia-sydney.webp",
+  "image_width": 1280,
+  "image_height": 640,
+  "alt": "Сидней",
+  "credit": "Benh LIEU SONG (Flickr) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Sydney",
+  "license": "CC-BY-SA",
+  "year": 1973,
+  "meta": {
+    "country_code": "AU"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-watson-jeopardy",
+  "topic": "events",
+  "title": "Watson на Jeopardy",
+  "caption": "14-16 февраля 2011. IBM Watson выиграл у чемпионов Jeopardy! Кена Дженнингса и Брэда Раттера $1 млн. Первая победа ИИ в реальном TV-шоу.",
+  "image": "fact-events-watson-jeopardy.webp",
+  "image_width": 1280,
+  "image_height": 857,
+  "alt": "IBM Watson",
+  "credit": "Clockready · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Watson_(computer)",
+  "license": "CC-BY-SA",
+  "year": 2011
+}

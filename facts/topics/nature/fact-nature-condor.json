@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-condor",
+  "topic": "nature",
+  "title": "Андский кондор",
+  "caption": "Самая большая хищная птица мира — размах 3,3 м, вес 15 кг. Парит без взмахов 5 часов. Живёт 70+ лет. На грани исчезновения.",
+  "image": "fact-nature-condor.webp",
+  "image_width": 1280,
+  "image_height": 1601,
+  "alt": "Андский кондор",
+  "credit": "Greg Hume · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Andean_condor",
+  "license": "CC-BY-SA",
+  "year": 2010
+}

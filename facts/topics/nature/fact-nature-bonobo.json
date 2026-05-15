@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-bonobo",
+  "topic": "nature",
+  "title": "Бонобо",
+  "caption": "Конго, открыт 1929. 98,7% ДНК совпадает с человеком (как и шимпанзе). Матриархат — самки доминируют. Решают конфликты сексом, не насилием.",
+  "image": "fact-nature-bonobo.webp",
+  "image_width": 1158,
+  "image_height": 1148,
+  "alt": "Бонобо",
+  "credit": "natataek · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Bonobo",
+  "license": "CC-BY-SA",
+  "year": 2013,
+  "meta": {
+    "species": "Pan paniscus"
+  }
+}

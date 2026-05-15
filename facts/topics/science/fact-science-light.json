@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-light",
+  "topic": "science",
+  "title": "Свет · природа",
+  "caption": "Дуализм: и волна, и частица (фотон). Скорость в вакууме 299 792 458 м/с (точно). Длины волн от 380 нм (фиолетовый) до 750 нм (красный).",
+  "image": "fact-science-light.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Свет призма",
+  "credit": "User:Kelvinsong · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Light",
+  "license": "CC0",
+  "year": 2013
+}

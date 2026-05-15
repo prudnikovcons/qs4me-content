@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-magnetism",
+  "topic": "science",
+  "title": "Магнетизм",
+  "caption": "Открыт у магнитного железняка в Магнесии (Греция) ~600 до н.э. Компас в Китае ~200 до н.э. Электромагнетизм объединил Максвелл 1865.",
+  "image": "fact-science-magnetism.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Магнит и металл",
+  "credit": "Maciej J. Mrowinski · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Magnetism",
+  "license": "CC-BY-SA",
+  "year": 1865
+}

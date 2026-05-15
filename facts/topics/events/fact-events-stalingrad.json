@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-stalingrad",
+  "topic": "events",
+  "title": "Сталинградская битва",
+  "caption": "23 августа 1942 — 2 февраля 1943. 1,1 миллиона потерь СССР, 850 000 у вермахта. 6-я армия Паулюса капитулирует. Перелом WWII.",
+  "image": "fact-events-stalingrad.webp",
+  "image_width": 1024,
+  "image_height": 722,
+  "alt": "Сталинградская битва",
+  "credit": "Unknown authorUnknown author · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad",
+  "license": "PD",
+  "year": 1943
+}

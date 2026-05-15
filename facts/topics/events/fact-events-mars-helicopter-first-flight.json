@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-mars-helicopter-first-flight",
+  "topic": "events",
+  "title": "Первый полёт Ingenuity",
+  "caption": "19 апреля 2021. Вертолёт NASA на Марсе. 40 секунд парения на высоте 3 м. Атмосфера в 1% земной — потребовались лопасти 1,2 м и 2400 об/мин.",
+  "image": "fact-events-mars-helicopter-first-flight.webp",
+  "image_width": 600,
+  "image_height": 600,
+  "alt": "Ingenuity",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Ingenuity_(helicopter)",
+  "license": "PD",
+  "year": 2021
+}

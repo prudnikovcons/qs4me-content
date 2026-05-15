@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-blue-mosque-istanbul",
+  "topic": "architecture",
+  "title": "Голубая мечеть Стамбула",
+  "caption": "1616, султан Ахмед I. 6 минаретов (Мекка имела 6 на тот момент — скандал). 260 окон, 20 000 синих изникских изразцов. Купол 23,5 м.",
+  "image": "fact-architecture-blue-mosque-istanbul.webp",
+  "image_width": 1280,
+  "image_height": 1079,
+  "alt": "Голубая мечеть",
+  "credit": "Pedro Szekely from Los Angeles, USA · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Sultan_Ahmed_Mosque",
+  "license": "CC-BY-SA",
+  "year": 1616,
+  "meta": {
+    "country_code": "TR"
+  }
+}

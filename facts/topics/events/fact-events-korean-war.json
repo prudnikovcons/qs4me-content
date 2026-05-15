@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-korean-war",
+  "topic": "events",
+  "title": "Корейская война",
+  "caption": "25 июня 1950 – 27 июля 1953. Первая «горячая война» Холодной. 3 года перестроек на 38-й параллели. Технически — не закончена, только перемирие.",
+  "image": "fact-events-korean-war.webp",
+  "image_width": 1280,
+  "image_height": 1027,
+  "alt": "Корейская война",
+  "credit": "Photo by Corporal Peter McDonald, USMC · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Korean_War",
+  "license": "PD",
+  "year": 1953
+}

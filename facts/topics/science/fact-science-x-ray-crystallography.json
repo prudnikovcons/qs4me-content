@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-x-ray-crystallography",
+  "topic": "science",
+  "title": "Рентгеновская кристаллография",
+  "caption": "Макс фон Лауэ 1912, отец и сын Брэгги 1913 — Нобель 1915 и 1914. Структуры ДНК, инсулина, гемоглобина — всё расшифровано рентгеном.",
+  "image": "fact-science-x-ray-crystallography.webp",
+  "image_width": 1280,
+  "image_height": 863,
+  "alt": "Рентгеновская кристаллография",
+  "credit": "Kaspar Kallip · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/X-ray_crystallography",
+  "license": "CC-BY-SA",
+  "year": 1912
+}

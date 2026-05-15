@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-ww1",
+  "topic": "history",
+  "title": "Первая мировая война",
+  "caption": "1914-1918. 4 года 3 месяца 2 недели. 17 миллионов погибли. 21 миллион ранены. Окопная война, газ, танки, авиация — индустриализация смерти.",
+  "image": "fact-history-ww1.webp",
+  "image_width": 1280,
+  "image_height": 957,
+  "alt": "Первая мировая",
+  "credit": "Collection DocAnciens/docpix.fr · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/World_War_I",
+  "license": "PD",
+  "year": 1918
+}

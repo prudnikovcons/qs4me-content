@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-arepa",
+  "topic": "food",
+  "title": "Арепа",
+  "caption": "Кукурузная лепёшка Венесуэлы и Колумбии. Известна с доколумбовой эпохи. Доказательства археологии — 3000 лет. Сегодня — национальный продукт.",
+  "image": "fact-food-arepa.webp",
+  "image_width": 1000,
+  "image_height": 667,
+  "alt": "Арепа",
+  "credit": "Steven Depolo from Grand Rapids, MI, USA · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Arepa",
+  "license": "CC-BY",
+  "year": 2010
+}

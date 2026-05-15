@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-bitcoin-genesis",
+  "topic": "events",
+  "title": "Bitcoin Genesis Block",
+  "caption": "3 января 2009. Сатоши Накамото добыл блок 0 в сети Bitcoin. В нём сообщение: «The Times 03/Jan/2009 Chancellor on brink of second bailout».",
+  "image": "fact-events-bitcoin-genesis.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Bitcoin Genesis Block",
+  "credit": "Grayliptrot · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Bitcoin",
+  "license": "PD",
+  "year": 2009
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-fission",
+  "topic": "science",
+  "title": "Ядерное деление",
+  "caption": "Открыто Ган и Штрассман, 1938. Уран-235 расщепляется на 2 ядра + 200 МэВ + 2-3 нейтрона. Цепная реакция → реактор или бомба.",
+  "image": "fact-science-fission.webp",
+  "image_width": 1280,
+  "image_height": 1999,
+  "alt": "Схема ядерного деления",
+  "credit": "Created by Fastfission in Illustrator. The SVG code is valid. This vector image ",
+  "source": "https://en.wikipedia.org/wiki/Nuclear_fission",
+  "license": "PD",
+  "year": 1938
+}

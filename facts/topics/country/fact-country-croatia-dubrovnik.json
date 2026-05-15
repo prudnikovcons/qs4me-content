@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-croatia-dubrovnik",
+  "topic": "country",
+  "title": "Хорватия · Дубровник",
+  "caption": "Средневековый город-крепость на Адриатике. Стены 1940 м длиной, до 25 м высоты. UNESCO с 1979. Королевская гавань в Game of Thrones.",
+  "image": "fact-country-croatia-dubrovnik.webp",
+  "image_width": 1280,
+  "image_height": 794,
+  "alt": "Дубровник",
+  "credit": "Zysko serhii · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Dubrovnik",
+  "license": "CC-BY-SA",
+  "year": 1979,
+  "meta": {
+    "country_code": "HR"
+  }
+}

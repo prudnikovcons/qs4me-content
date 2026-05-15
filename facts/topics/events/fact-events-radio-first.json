@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-radio-first",
+  "topic": "events",
+  "title": "Первая радиопередача",
+  "caption": "Маркони, 12 декабря 1901. Первая трансатлантическая радиопередача — буква S по Морзе из Корнуолла в Ньюфаундленд. Нобель 1909.",
+  "image": "fact-events-radio-first.webp",
+  "image_width": 987,
+  "image_height": 1314,
+  "alt": "Маркони",
+  "credit": "Pach Brothers · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Guglielmo_Marconi",
+  "license": "PD",
+  "year": 1901
+}

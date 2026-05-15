@@ -1,0 +1,17 @@
+{
+  "id": "fact-ratings-mississippi",
+  "topic": "ratings",
+  "title": "Миссисипи · 3766 км",
+  "caption": "Главная река США. От Миннесоты до Мексиканского залива. Бассейн 3,2 млн км² — 41% территории континентальных США.",
+  "image": "fact-ratings-mississippi.webp",
+  "image_width": 900,
+  "image_height": 675,
+  "alt": "Миссисипи",
+  "credit": "NPS photo · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mississippi_River",
+  "license": "PD",
+  "year": 2021,
+  "meta": {
+    "country_code": "US"
+  }
+}

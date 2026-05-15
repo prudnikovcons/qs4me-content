@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-haiti-earthquake",
+  "topic": "events",
+  "title": "Землетрясение в Гаити",
+  "caption": "12 января 2010, магнитуда 7,0. 220 000 погибших, 300 000 раненых. Столица Порт-о-Пренс разрушена. Крупнейшая гуманитарная катастрофа XXI века.",
+  "image": "fact-events-haiti-earthquake.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Землетрясение Гаити 2010",
+  "credit": "Trocaire from Ireland · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/2010_Haiti_earthquake",
+  "license": "CC-BY",
+  "year": 2010
+}

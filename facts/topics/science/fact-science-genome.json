@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-genome",
+  "topic": "science",
+  "title": "Геном человека",
+  "caption": "Human Genome Project, 1990-2003. Расшифровано 3 миллиарда пар оснований. 22 000 генов. Стоимость секвенирования упала с $3 млрд до $200.",
+  "image": "fact-science-genome.webp",
+  "image_width": 1163,
+  "image_height": 1155,
+  "alt": "Геном человека",
+  "credit": "U.S. Department of Energy, Human Genome Project · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+  "license": "PD",
+  "year": 2003
+}

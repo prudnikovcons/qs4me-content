@@ -1,0 +1,581 @@
+[
+  {
+    "id": "fact-space-mars-rovers",
+    "topic": "space",
+    "title": "Марсоходы NASA",
+    "caption": "Sojourner (1997, 12 кг), Spirit и Opportunity (2004, 185 кг), Curiosity (2012, 899 кг), Perseverance (2021, 1025 кг). 30 лет эволюции — от тостера до автомобиля.",
+    "alt": "Марсоходы NASA",
+    "year": 2021,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mars_rover"
+  },
+  {
+    "id": "fact-space-mars-helicopter",
+    "topic": "space",
+    "title": "Ingenuity на Марсе",
+    "caption": "Первый вертолёт NASA на Марсе. 19 апреля 2021 — первый полёт. 72 успешных полёта за 3 года. Сломал лопасть 18 января 2024 — закончил миссию.",
+    "alt": "Ingenuity",
+    "year": 2021,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ingenuity_(helicopter)"
+  },
+  {
+    "id": "fact-space-juno",
+    "topic": "space",
+    "title": "Juno · к Юпитеру",
+    "caption": "NASA, запуск 2011, прибытие 4 июля 2016. Изучает магнитосферу Юпитера. Снимки полярных циклонов на полюсах — 12 штормов размером с Землю.",
+    "alt": "Зонд Juno",
+    "year": 2016,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Juno_(spacecraft)"
+  },
+  {
+    "id": "fact-space-europa",
+    "topic": "space",
+    "title": "Европа · луна Юпитера",
+    "caption": "Подо льдом 10-30 км — океан жидкой воды глубиной 100 км. Больше воды, чем во всех океанах Земли. Главный кандидат на внеземную жизнь. Europa Clipper запущен 2024.",
+    "alt": "Луна Юпитера Европа",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Europa_(moon)"
+  },
+  {
+    "id": "fact-space-enceladus",
+    "topic": "space",
+    "title": "Энцелад · луна Сатурна",
+    "caption": "504 км в диаметре. Гейзеры на южном полюсе выбрасывают воду из подлёдного океана. Cassini пролетел через гейзеры в 2008. Жизнь возможна.",
+    "alt": "Энцелад",
+    "year": 2008,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Enceladus"
+  },
+  {
+    "id": "fact-space-titan",
+    "topic": "space",
+    "title": "Титан · луна Сатурна",
+    "caption": "Крупнейшая луна Сатурна, больше Меркурия. Атмосфера в 1,5 раза плотнее земной. Реки и озёра из жидкого метана. Зонд Huygens сел 14 января 2005.",
+    "alt": "Титан",
+    "year": 2005,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Titan_(moon)"
+  },
+  {
+    "id": "fact-space-io",
+    "topic": "space",
+    "title": "Ио · луна Юпитера",
+    "caption": "Самое вулканически активное тело Солнечной системы. 400 действующих вулканов. Лава 1300 °C — горячее земной. Открыта Галилеем 8 января 1610.",
+    "alt": "Луна Ио",
+    "year": 1610,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Io_(moon)"
+  },
+  {
+    "id": "fact-space-ganymede",
+    "topic": "space",
+    "title": "Ганимед · крупнейшая луна",
+    "caption": "Луна Юпитера, самая большая в Солнечной — 5268 км (больше Меркурия). Единственная луна с собственным магнитным полем. Подлёдный океан больше земных.",
+    "alt": "Ганимед",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ganymede_(moon)"
+  },
+  {
+    "id": "fact-space-andromeda-2",
+    "topic": "space",
+    "title": "Галактика Андромеды M31",
+    "caption": "Ближайшая крупная галактика. 2,5 миллиона световых лет. Через 4,5 млрд лет столкнётся с Млечным Путём — образуется Milkomeda.",
+    "alt": "Галактика Андромеды",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Andromeda_Galaxy"
+  },
+  {
+    "id": "fact-space-pleiades",
+    "topic": "space",
+    "title": "Плеяды",
+    "caption": "Звёздное скопление в Тельце. 7 видимых звёзд, более 1000 в скоплении. 444 световых года. На печатях бронзового века (1600 до н.э.) — древнейшее звёздное изображение.",
+    "alt": "Плеяды",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pleiades"
+  },
+  {
+    "id": "fact-space-orion-constellation",
+    "topic": "space",
+    "title": "Созвездие Ориона",
+    "caption": "Узнаваемый «пояс» — 3 звезды на одной линии. Бетельгейзе и Ригель — ярчайшие. Видно с обоих полушарий. Использовалось мореходами 5000 лет.",
+    "alt": "Орион",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Orion_(constellation)"
+  },
+  {
+    "id": "fact-space-uy-scuti",
+    "topic": "space",
+    "title": "UY Щита",
+    "caption": "Один из крупнейших известных красных сверхгигантов. Радиус в 1700 раз больше Солнца. Если поместить вместо Солнца, поглотит Юпитер.",
+    "alt": "UY Щита",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "UY_Scuti"
+  },
+  {
+    "id": "fact-space-cygnus-x-1",
+    "topic": "space",
+    "title": "Лебедь X-1",
+    "caption": "Первая обнаруженная чёрная дыра (1971). 21 солнечная масса. Расстояние 7100 световых лет. Стивен Хокинг проиграл пари Кипу Торну — это чёрная дыра.",
+    "alt": "Лебедь X-1",
+    "year": 1971,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cygnus_X-1"
+  },
+  {
+    "id": "fact-space-betelgeuse-2",
+    "topic": "space",
+    "title": "Бетельгейзе",
+    "caption": "Красный сверхгигант в Орионе. 642 световых года. Радиус в 887 раз больше Солнца. Готов взорваться сверхновой в ближайшие 100 000 лет — день станет ярче ночи.",
+    "alt": "Бетельгейзе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Betelgeuse"
+  },
+  {
+    "id": "fact-space-vega",
+    "topic": "space",
+    "title": "Вега",
+    "caption": "5-я по яркости звезда ночного неба. 25 световых лет от Земли. Будет полярной звездой через 12 000 лет (была — 12 000 лет назад) из-за прецессии Земли.",
+    "alt": "Вега",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vega"
+  },
+  {
+    "id": "fact-science-fission",
+    "topic": "science",
+    "title": "Ядерное деление",
+    "caption": "Открыто Ган и Штрассман, 1938. Уран-235 расщепляется на 2 ядра + 200 МэВ + 2-3 нейтрона. Цепная реакция → реактор или бомба.",
+    "alt": "Схема ядерного деления",
+    "year": 1938,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nuclear_fission"
+  },
+  {
+    "id": "fact-science-fusion-process",
+    "topic": "science",
+    "title": "Ядерный синтез",
+    "caption": "Слияние ядер с выделением энергии. На Солнце 4 H → He, 4 миллиона тонн массы в секунду переходят в энергию. На Земле — водородные бомбы и ITER.",
+    "alt": "Схема термоядерного синтеза",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nuclear_fusion"
+  },
+  {
+    "id": "fact-science-relativity-special",
+    "topic": "science",
+    "title": "Специальная теория относительности",
+    "caption": "Эйнштейн, 1905 — «чудесный год». 4 статьи за полгода. SR показала: время и пространство относительны, c постоянна. E = mc².",
+    "alt": "Эйнштейн в 1905",
+    "year": 1905,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Special_relativity"
+  },
+  {
+    "id": "fact-science-quantum-electrodynamics",
+    "topic": "science",
+    "title": "Квантовая электродинамика",
+    "caption": "Описывает свет и материю. Фейнман, Швингер, Томонага, Нобель 1965. Магнитный момент электрона совпал с теорией на 12 знаков точно — точнейшая теория физики.",
+    "alt": "Диаграмма Фейнмана",
+    "year": 1965,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quantum_electrodynamics"
+  },
+  {
+    "id": "fact-science-laser-2",
+    "topic": "science",
+    "title": "Лазер",
+    "caption": "Теодор Мейман, 16 мая 1960. Первый рабочий рубиновый лазер. Сегодня — медицина (LASIK), интернет (оптоволокно), CD/DVD, сварка, военные. $20 млрд рынок.",
+    "alt": "Лазерный луч",
+    "year": 1960,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Laser"
+  },
+  {
+    "id": "fact-science-cern-collider",
+    "topic": "science",
+    "title": "CERN · LHC",
+    "caption": "Большой адронный коллайдер, 2008. Кольцо 27 км под Швейцарией/Францией. Сталкивает протоны при 13,6 ТэВ. Бозон Хиггса открыт 4 июля 2012.",
+    "alt": "Туннель LHC",
+    "year": 2008,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Large_Hadron_Collider"
+  },
+  {
+    "id": "fact-science-graviton",
+    "topic": "science",
+    "title": "Гравитон",
+    "caption": "Гипотетическая частица гравитации. Предсказана 1934. Не открыта — слабее всех бозонов. Для прямой регистрации нужен детектор размером с Юпитер.",
+    "alt": "Гипотетический гравитон",
+    "year": 1934,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Graviton"
+  },
+  {
+    "id": "fact-science-dark-matter",
+    "topic": "science",
+    "title": "Тёмная материя",
+    "caption": "Невидимая материя 85% массы Вселенной. Не взаимодействует со светом. Доказательства: вращение галактик (Вера Рубин, 1970-е), гравитационное линзирование. Не найдена прямо.",
+    "alt": "Распределение тёмной материи",
+    "year": 1970,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dark_matter"
+  },
+  {
+    "id": "fact-science-dark-energy",
+    "topic": "science",
+    "title": "Тёмная энергия",
+    "caption": "68% энергии Вселенной. Заставляет Вселенную расширяться ускоренно. Открыта в 1998 наблюдениями сверхновых типа Ia. Нобель 2011.",
+    "alt": "Иллюстрация тёмной энергии",
+    "year": 1998,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dark_energy"
+  },
+  {
+    "id": "fact-science-cosmic-microwave",
+    "topic": "science",
+    "title": "Реликтовое излучение",
+    "caption": "Свет из ранней Вселенной (380 000 лет после Большого взрыва). Температура 2,725 К. Открыто Пензиасом и Уилсоном случайно в 1964 (Нобель 1978).",
+    "alt": "Карта реликтового излучения",
+    "year": 1964,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cosmic_microwave_background"
+  },
+  {
+    "id": "fact-art-pollock-no-5",
+    "topic": "art",
+    "title": "No. 5, 1948 · Поллок",
+    "caption": "Джексон Поллок, 1948. 244×122 см. Action painting — краска капается с кистей на холст на полу. Продана за $140 млн в 2006 — рекорд того времени.",
+    "alt": "No. 5 Поллока",
+    "year": 1948,
+    "meta": { "artist": "Jackson Pollock" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "No._5,_1948"
+  },
+  {
+    "id": "fact-art-rothko-no-6",
+    "topic": "art",
+    "title": "No. 6 · Ротко",
+    "caption": "Марк Ротко, 1951. Color field painting. Парящие цветовые блоки на холсте. Продана за $186 млн в 2014 частной коллекции — рекорд для современного искусства.",
+    "alt": "Ротко No. 6",
+    "year": 1951,
+    "meta": { "artist": "Mark Rothko" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mark_Rothko"
+  },
+  {
+    "id": "fact-art-warhol-marilyn",
+    "topic": "art",
+    "title": "Мерилин Монро · Уорхол",
+    "caption": "Энди Уорхол, 1962. Шёлкография 205×289 см. 50 портретов Мэрилин через 4 месяца после её смерти. Tate Modern с 1980.",
+    "alt": "Мерилин Уорхола",
+    "year": 1962,
+    "meta": { "artist": "Andy Warhol" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Marilyn_Diptych"
+  },
+  {
+    "id": "fact-art-warhol-soup",
+    "topic": "art",
+    "title": "Банки супа Кэмпбелл",
+    "caption": "Энди Уорхол, 1962. 32 холста — все вкусы супа Campbell's. Первая выставка стоила $100 за каждый холст. Сегодня — иконы поп-арта. MoMA.",
+    "alt": "Банки супа Кэмпбелл",
+    "year": 1962,
+    "meta": { "artist": "Andy Warhol" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Campbell's_Soup_Cans"
+  },
+  {
+    "id": "fact-art-balloon-dog",
+    "topic": "art",
+    "title": "Балонный пёс · Кунс",
+    "caption": "Джефф Кунс, 1994-2000. Серия из 5 нержавеющих скульптур разных цветов. Оранжевая продана за $58,4 млн в 2013 — рекорд для живого художника.",
+    "alt": "Балонный пёс Кунса",
+    "year": 2013,
+    "meta": { "artist": "Jeff Koons" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Balloon_Dog"
+  },
+  {
+    "id": "fact-art-comedian-banana",
+    "topic": "art",
+    "title": "«Комедиант» Каттелан",
+    "caption": "Маурицио Каттелан, 2019. Банан, приклеенный скотчем к стене. Продано 3 копии за $120 000 каждая на Art Basel. Один зритель съел банан — стало частью искусства.",
+    "alt": "Комедиант Каттелана",
+    "year": 2019,
+    "meta": { "artist": "Maurizio Cattelan" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Comedian_(artwork)"
+  },
+  {
+    "id": "fact-art-fountain-duchamp",
+    "topic": "art",
+    "title": "Фонтан · Дюшан",
+    "caption": "Марсель Дюшан, 1917. Писсуар, подписанный «R. Mutt» и выставленный на нью-йоркской ярмарке. Первый «readymade». Перевернул определение искусства XX века.",
+    "alt": "Фонтан Дюшана",
+    "year": 1917,
+    "meta": { "artist": "Marcel Duchamp" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fountain_(Duchamp)"
+  },
+  {
+    "id": "fact-art-bicycle-wheel-duchamp",
+    "topic": "art",
+    "title": "Велосипедное колесо · Дюшан",
+    "caption": "Марсель Дюшан, 1913. Первый «readymade» — колесо на табурете. Оригинал потерян, есть 8 авторских реплик 1951-1964 в музеях по миру.",
+    "alt": "Велосипедное колесо",
+    "year": 1913,
+    "meta": { "artist": "Marcel Duchamp" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bicycle_Wheel"
+  },
+  {
+    "id": "fact-art-fallen-merit-piss",
+    "topic": "art",
+    "title": "Манцони · «Дерьмо художника»",
+    "caption": "Пьеро Манцони, 1961. 90 жестянок «дерьма» по 30 г. Каждая стоила столько же, сколько 30 г золота на тот момент. №54 продана за $250 000 в 2008.",
+    "alt": "Manzoni Merda d'artista",
+    "year": 1961,
+    "meta": { "artist": "Piero Manzoni" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Artist's_Shit"
+  },
+  {
+    "id": "fact-art-bourgeois-spider",
+    "topic": "art",
+    "title": "Маман · Луиз Буржуа",
+    "caption": "Луиз Буржуа, 1999. Стальной паук 9,2 м высотой. Образ её матери (вышивальщицы). Серия — 7 авторских копий в Лондоне, Бильбао, Оттаве, Токио, Сеуле.",
+    "alt": "Маман Луиз Буржуа",
+    "year": 1999,
+    "meta": { "artist": "Louise Bourgeois" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Maman_(sculpture)"
+  },
+  {
+    "id": "fact-art-hirst-shark",
+    "topic": "art",
+    "title": "Дэмьен Хёрст · акула",
+    "caption": "«Физическая невозможность смерти в воображении живущего» (1991). Тигровая акула 4,3 м в формальдегиде. Цена 2004 — $12 млн. Икона YBA.",
+    "alt": "Акула Хёрста",
+    "year": 1991,
+    "meta": { "artist": "Damien Hirst" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living"
+  },
+  {
+    "id": "fact-nature-mountain-gorilla",
+    "topic": "nature",
+    "title": "Горные гориллы",
+    "caption": "Руанда, Уганда, ДРК. Самые крупные приматы — самцы до 195 кг. Изучала Дайан Фосси с 1967 (убита 1985). Осталось 1000 особей.",
+    "alt": "Горная горилла",
+    "year": 1985,
+    "meta": { "species": "Gorilla beringei beringei" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mountain_gorilla"
+  },
+  {
+    "id": "fact-nature-bonobo",
+    "topic": "nature",
+    "title": "Бонобо",
+    "caption": "Конго, открыт 1929. 98,7% ДНК совпадает с человеком (как и шимпанзе). Матриархат — самки доминируют. Решают конфликты сексом, не насилием.",
+    "alt": "Бонобо",
+    "meta": { "species": "Pan paniscus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bonobo"
+  },
+  {
+    "id": "fact-nature-orangutan",
+    "topic": "nature",
+    "title": "Орангутан",
+    "caption": "Борнео и Суматра. «Лесной человек» по-малайски. Используют инструменты. Карты ум — мать учит детёныша 8 лет, дольше любых других млекопитающих после человека.",
+    "alt": "Орангутан",
+    "meta": { "species": "Pongo" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Orangutan"
+  },
+  {
+    "id": "fact-nature-meerkat",
+    "topic": "nature",
+    "title": "Сурикат",
+    "caption": "Пустыня Калахари. Социальные — колонии до 50 особей. Сторожевой всегда стоит на задних лапах. «Тимон» из «Короля Льва» — сурикат.",
+    "alt": "Сурикаты",
+    "meta": { "species": "Suricata suricatta" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Meerkat"
+  },
+  {
+    "id": "fact-nature-red-panda",
+    "topic": "nature",
+    "title": "Малая панда",
+    "caption": "Восточные Гималаи и юг Китая. Размером с домашнего кота. Не родственник большой панде — отдельное семейство. 10 000 особей в дикой природе.",
+    "alt": "Малая панда",
+    "meta": { "species": "Ailurus fulgens" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Red_panda"
+  },
+  {
+    "id": "fact-nature-quokka",
+    "topic": "nature",
+    "title": "Квокка",
+    "caption": "«Самое счастливое животное мира». Сумчатый с улыбкой. Только Западная Австралия, остров Роттнест. Селфи с квоккой — обычай туристов.",
+    "alt": "Квокка",
+    "meta": { "species": "Setonix brachyurus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quokka"
+  },
+  {
+    "id": "fact-nature-mantis-shrimp-eyes",
+    "topic": "nature",
+    "title": "Глаза рака-богомола",
+    "caption": "16 типов рецепторов цвета (у человека 3). Видит ультрафиолет и поляризованный свет. Глаза независимо вращаются на 360°. Сложнейшая зрительная система на Земле.",
+    "alt": "Рак-богомол",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mantis_shrimp"
+  },
+  {
+    "id": "fact-nature-axolotl-2",
+    "topic": "nature",
+    "title": "Аксолотль",
+    "caption": "Мексиканская саламандра. Регенерирует конечности, органы, мозг, сердце за 40-60 дней без шрамов. Не стареет в воде. Ключ к секретам регенерации.",
+    "alt": "Аксолотль",
+    "meta": { "species": "Ambystoma mexicanum" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Axolotl"
+  },
+  {
+    "id": "fact-nature-pufferfish",
+    "topic": "nature",
+    "title": "Рыба-фугу",
+    "caption": "Раздувается в 3 раза для защиты. Содержит тетродотоксин — в 1200 раз сильнее цианида. В Японии — деликатес. Повар учится 11 лет, имеет лицензию.",
+    "alt": "Рыба-фугу",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pufferfish"
+  },
+  {
+    "id": "fact-nature-narwhal-tusk",
+    "topic": "nature",
+    "title": "Бивень нарвала",
+    "caption": "На самом деле — зуб, выросший из верхней челюсти. До 3 м длиной. 10 миллионов нервных окончаний — сенсорный орган для химического анализа воды.",
+    "alt": "Нарвал с бивнем",
+    "meta": { "species": "Monodon monoceros" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Narwhal"
+  },
+  {
+    "id": "fact-nature-coral-bleaching-2",
+    "topic": "nature",
+    "title": "Кораллы Большого Барьерного",
+    "caption": "2300 км вдоль Австралии. 6 массовых обесцвечиваний с 1998. К 2050 — 95% кораллов под угрозой при +2 °C потепления.",
+    "alt": "Большой Барьерный риф",
+    "year": 1998,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Great_Barrier_Reef"
+  },
+  {
+    "id": "fact-nature-polar-bear-decline",
+    "topic": "nature",
+    "title": "Полярный медведь · уязвимость",
+    "caption": "26 000 особей в Арктике 2024. Зависят от морского льда. С 1980 потеряно 50% летнего льда. Прогноз — 30% сокращение популяции к 2050.",
+    "alt": "Полярный медведь на льдине",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Polar_bear"
+  },
+  {
+    "id": "fact-nature-blue-whale-comeback",
+    "topic": "nature",
+    "title": "Возвращение синего кита",
+    "caption": "300 000 особей до китобойного промысла, к 1970-м — 1000. С запрета в 1986 — растёт. К 2024 — 5000-10000 особей. Самый крупный когда-либо живший.",
+    "alt": "Синий кит",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Blue_whale"
+  },
+  {
+    "id": "fact-nature-deforestation-amazon",
+    "topic": "nature",
+    "title": "Вырубка Амазонии",
+    "caption": "С 1970 потеряно 17% леса (бывшая Великобритания). 12 000 км² в год — пик 2004. Лула снизил темп в 2023, но кризис остаётся.",
+    "alt": "Вырубка Амазонии",
+    "year": 2023,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Deforestation_in_the_Amazon"
+  },
+  {
+    "id": "fact-nature-rewilding",
+    "topic": "nature",
+    "title": "Реинтродукция волков · Йеллоустон",
+    "caption": "1995. После 70 лет отсутствия волков. Перестроилась вся экосистема — олени перестали пастись у рек, восстановились бобры, рыбы. Каскад трофического влияния.",
+    "alt": "Волки в Йеллоустоне",
+    "year": 1995,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "History_of_wolves_in_Yellowstone"
+  },
+  {
+    "id": "fact-space-james-webb",
+    "topic": "space",
+    "title": "Телескоп Джеймса Уэбба",
+    "caption": "Запуск 25 декабря 2021. Точка Лагранжа L2 в 1,5 млн км от Земли. Зеркало 6,5 м из 18 шестиугольников. Видит ИК — глубже Хаббла. $10 млрд стоимость.",
+    "alt": "Телескоп Уэбба",
+    "year": 2021,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "James_Webb_Space_Telescope"
+  },
+  {
+    "id": "fact-space-curiosity-2",
+    "topic": "space",
+    "title": "Curiosity на Марсе",
+    "caption": "Марсоход NASA, посадка 6 августа 2012. Размером с автомобиль (2,9 м, 899 кг). 32 км пройдено за 12 лет в кратере Гейл. Стартовал на 90 дней.",
+    "alt": "Curiosity селфи",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Curiosity_(rover)"
+  },
+  {
+    "id": "fact-space-asteroid-belt",
+    "topic": "space",
+    "title": "Пояс астероидов",
+    "caption": "Между Марсом и Юпитером. 1 миллион известных астероидов более 1 км. Общая масса в 25 раз меньше Луны. Церера — крупнейший, 940 км.",
+    "alt": "Пояс астероидов",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Asteroid_belt"
+  },
+  {
+    "id": "fact-space-kuiper-belt",
+    "topic": "space",
+    "title": "Пояс Койпера",
+    "caption": "За Нептуном, 30-50 а.е. от Солнца. Тысячи ледяных объектов, в т.ч. Плутон, Эрида, Хаумеа, Макемаке. Гипотетическая «Планета 9» по гравитации — где-то здесь.",
+    "alt": "Пояс Койпера",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kuiper_belt"
+  },
+  {
+    "id": "fact-space-oort-cloud",
+    "topic": "space",
+    "title": "Облако Оорта",
+    "caption": "Сферическая оболочка кометных объектов, 2 000–200 000 а.е. от Солнца. Источник долгопериодических комет (Галлей и др.). Внешняя граница Солнечной системы.",
+    "alt": "Облако Оорта",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Oort_cloud"
+  },
+  {
+    "id": "fact-space-heliopause",
+    "topic": "space",
+    "title": "Гелиопауза",
+    "caption": "Граница, где солнечный ветер встречается с межзвёздной средой. 121 а.е. от Солнца. Voyager 1 пересёк 25 августа 2012 — первый рукотворный объект в межзвёздном пространстве.",
+    "alt": "Гелиопауза и Voyager",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Heliosphere"
+  },
+  {
+    "id": "fact-space-mariner-craft",
+    "topic": "space",
+    "title": "Программа Mariner",
+    "caption": "1962-1973. 10 зондов NASA к Меркурию, Венере, Марсу. Mariner 4 — первое фото Марса (1965). Mariner 10 — единственный к Меркурию до 2008.",
+    "alt": "Зонд Mariner",
+    "year": 1965,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mariner_program"
+  }
+]

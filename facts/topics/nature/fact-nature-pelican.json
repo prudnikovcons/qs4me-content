@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-pelican",
+  "topic": "nature",
+  "title": "Пеликан",
+  "caption": "Розовый пеликан. Размах крыльев 3,6 м — один из самых больших среди птиц. Мешок горловой вмещает 13 литров — больше желудка.",
+  "image": "fact-nature-pelican.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Пеликан",
+  "credit": "Rui Ornelas from Lisboa, Portugal · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pelican",
+  "license": "CC-BY",
+  "year": 2006
+}

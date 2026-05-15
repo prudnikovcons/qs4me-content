@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-women-vote",
+  "topic": "history",
+  "title": "Женское избирательное право",
+  "caption": "Новая Зеландия — первая, 19 сентября 1893. Финляндия 1906, Россия 1917, США 1920, Британия 1928, Швейцария 1971, Саудовская Аравия 2015.",
+  "image": "fact-history-women-vote.webp",
+  "image_width": 1280,
+  "image_height": 841,
+  "alt": "Суфражистки",
+  "credit": "Our World In Data · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Women's_suffrage",
+  "license": "CC-BY",
+  "year": 1893
+}

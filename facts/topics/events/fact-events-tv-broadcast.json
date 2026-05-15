@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-tv-broadcast",
+  "topic": "events",
+  "title": "Первое ТВ-вещание",
+  "caption": "BBC, 2 ноября 1936. Из Александра-Палас. 405 строк, 25 кадров/сек. Около 100 семей в Лондоне могли смотреть.",
+  "image": "fact-events-tv-broadcast.webp",
+  "image_width": 1280,
+  "image_height": 1255,
+  "alt": "Первое ТВ-вещание",
+  "credit": "Evert F. Baumgardner · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/History_of_television",
+  "license": "PD",
+  "year": 1936
+}

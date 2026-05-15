@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-dark-energy",
+  "topic": "science",
+  "title": "Тёмная энергия",
+  "caption": "68% энергии Вселенной. Заставляет Вселенную расширяться ускоренно. Открыта в 1998 наблюдениями сверхновых типа Ia. Нобель 2011.",
+  "image": "fact-science-dark-energy.webp",
+  "image_width": 1280,
+  "image_height": 640,
+  "alt": "Иллюстрация тёмной энергии",
+  "credit": "NASA / WMAP Science Team · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Dark_energy",
+  "license": "PD",
+  "year": 1998
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-switzerland-jungfrau",
+  "topic": "country",
+  "title": "Швейцария · Юнгфрау",
+  "caption": "Альпийская вершина 4158 м. Самая высокая железнодорожная станция Европы (3454 м) — Юнгфрауйох. UNESCO с 2001.",
+  "image": "fact-country-switzerland-jungfrau.webp",
+  "image_width": 720,
+  "image_height": 540,
+  "alt": "Юнгфрау",
+  "credit": "4000er · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Jungfrau",
+  "license": "PD",
+  "year": 2001,
+  "meta": {
+    "country_code": "CH"
+  }
+}

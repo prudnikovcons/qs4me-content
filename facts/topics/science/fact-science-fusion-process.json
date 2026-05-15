@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-fusion-process",
+  "topic": "science",
+  "title": "Ядерный синтез",
+  "caption": "Слияние ядер с выделением энергии. На Солнце 4 H → He, 4 миллиона тонн массы в секунду переходят в энергию. На Земле — водородные бомбы и ITER.",
+  "image": "fact-science-fusion-process.webp",
+  "image_width": 485,
+  "image_height": 569,
+  "alt": "Схема термоядерного синтеза",
+  "credit": "Xiang Gao, Yao Yang, Tao Zhang, Haiqing Liu, Guoqiang Li, Tingfeng Ming, Zixi Li",
+  "source": "https://en.wikipedia.org/wiki/Nuclear_fusion",
+  "license": "CC-BY",
+  "year": 2017
+}

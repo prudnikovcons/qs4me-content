@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-thermodynamics",
+  "topic": "science",
+  "title": "Законы термодинамики",
+  "caption": "4 закона (включая «нулевой»). 1-й — энергия сохраняется. 2-й — энтропия растёт. Сформулированы Клаузиусом, Кельвином, Гиббсом, 1850-1870-е.",
+  "image": "fact-science-thermodynamics.webp",
+  "image_width": 1280,
+  "image_height": 564,
+  "alt": "Термодинамика",
+  "credit": "Eric Gaba (Sting - fr:Sting) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Laws_of_thermodynamics",
+  "license": "PD",
+  "year": 1850
+}

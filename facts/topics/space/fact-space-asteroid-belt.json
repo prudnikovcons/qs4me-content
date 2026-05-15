@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-asteroid-belt",
+  "topic": "space",
+  "title": "Пояс астероидов",
+  "caption": "Между Марсом и Юпитером. 1 миллион известных астероидов более 1 км. Общая масса в 25 раз меньше Луны. Церера — крупнейший, 940 км.",
+  "image": "fact-space-asteroid-belt.webp",
+  "image_width": 600,
+  "image_height": 600,
+  "alt": "Пояс астероидов",
+  "credit": "Mdf at English Wikipedia · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Asteroid_belt",
+  "license": "PD",
+  "year": 2006
+}

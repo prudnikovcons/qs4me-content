@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-titan",
+  "topic": "space",
+  "title": "Титан · луна Сатурна",
+  "caption": "Крупнейшая луна Сатурна, больше Меркурия. Атмосфера в 1,5 раза плотнее земной. Реки и озёра из жидкого метана. Зонд Huygens сел 14 января 2005.",
+  "image": "fact-space-titan.webp",
+  "image_width": 750,
+  "image_height": 750,
+  "alt": "Титан",
+  "credit": "NASA/JPL-Caltech/SSI/Kevin M. Gill · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Titan_(moon)",
+  "license": "CC-BY",
+  "year": 2005
+}

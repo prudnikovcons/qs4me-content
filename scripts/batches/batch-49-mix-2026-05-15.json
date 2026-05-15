@@ -1,0 +1,579 @@
+[
+  {
+    "id": "fact-events-arab-spring",
+    "topic": "events",
+    "title": "Арабская весна",
+    "caption": "2010-2012. Революции против диктатур. Начало — Мохамед Буазизи, тунисский торговец, поджёг себя 17 декабря 2010. Сменили лидеров 4 стран.",
+    "alt": "Арабская весна",
+    "year": 2010,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Arab_Spring"
+  },
+  {
+    "id": "fact-events-fukushima-2",
+    "topic": "events",
+    "title": "Фукусима · цунами",
+    "caption": "11 марта 2011, 14:46. Землетрясение M9,1 у Японии — 4-е по силе в истории. Цунами 14 м, 18 500 погибших. АЭС Фукусима-1 — авария 7 уровня.",
+    "alt": "Цунами Фукусима",
+    "year": 2011,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fukushima_nuclear_accident"
+  },
+  {
+    "id": "fact-events-haiti-earthquake",
+    "topic": "events",
+    "title": "Землетрясение в Гаити",
+    "caption": "12 января 2010, магнитуда 7,0. 220 000 погибших, 300 000 раненых. Столица Порт-о-Пренс разрушена. Крупнейшая гуманитарная катастрофа XXI века.",
+    "alt": "Землетрясение Гаити 2010",
+    "year": 2010,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "2010_Haiti_earthquake"
+  },
+  {
+    "id": "fact-events-cuban-revolution",
+    "topic": "events",
+    "title": "Кубинская революция",
+    "caption": "1953-1959. Фидель Кастро свергает Батисту. 1 января 1959 — победа. Че Гевара — главный соратник. Куба становится коммунистической в 1961.",
+    "alt": "Кастро и Че Гевара",
+    "year": 1959,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cuban_Revolution"
+  },
+  {
+    "id": "fact-events-coronation-elizabeth-2",
+    "topic": "events",
+    "title": "Коронация Елизаветы II",
+    "caption": "2 июня 1953, Вестминстерское аббатство. Первая в прямом ТВ-эфире — 27 млн зрителей в Британии. Правила 70 лет 214 дней — рекорд для британского монарха.",
+    "alt": "Коронация Елизаветы II",
+    "year": 1953,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Coronation_of_Elizabeth_II"
+  },
+  {
+    "id": "fact-events-falling-of-roman-empire-2",
+    "topic": "events",
+    "title": "Разграбление Рима 410",
+    "caption": "24 августа 410 г. Вестготы Алариха разграбили Рим. Первое падение Вечного города за 800 лет. Шок Запада. Святой Августин написал «О граде Божьем».",
+    "alt": "Разграбление Рима 410",
+    "year": 410,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sack_of_Rome_(410)"
+  },
+  {
+    "id": "fact-events-norman-conquest",
+    "topic": "events",
+    "title": "Нормандское завоевание",
+    "caption": "1066. Вильгельм Завоеватель пересёк Ла-Манш. Битва при Гастингсе 14 октября — короновался в Вестминстере 25 декабря. Конец англосаксонской Англии.",
+    "alt": "Гобелен из Байё",
+    "year": 1066,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Norman_Conquest"
+  },
+  {
+    "id": "fact-events-100-years-war-end",
+    "topic": "events",
+    "title": "Конец Столетней войны",
+    "caption": "17 июля 1453. Битва при Кастильоне — Франция разбила Англию. Финал войны 1337-1453 (116 лет). Англия потеряла все континентальные владения, кроме Кале.",
+    "alt": "Битва при Кастильоне",
+    "year": 1453,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Battle_of_Castillon"
+  },
+  {
+    "id": "fact-events-trafalgar",
+    "topic": "events",
+    "title": "Битва при Трафальгаре",
+    "caption": "21 октября 1805. Британский флот Нельсона разбил франко-испанский 27 кораблей против 33. Нельсон убит. Британия — морская сверхдержава на 100 лет.",
+    "alt": "Битва при Трафальгаре",
+    "year": 1805,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Battle_of_Trafalgar"
+  },
+  {
+    "id": "fact-events-waterloo",
+    "topic": "events",
+    "title": "Битва при Ватерлоо",
+    "caption": "18 июня 1815. Седьмая коалиция (Веллингтон + Блюхер) разбила Наполеона. 12 часов битвы, 47 000 потерь. Конец Наполеона I — ссылка на Святую Елену.",
+    "alt": "Битва при Ватерлоо",
+    "year": 1815,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Battle_of_Waterloo"
+  },
+  {
+    "id": "fact-events-stalingrad",
+    "topic": "events",
+    "title": "Сталинградская битва",
+    "caption": "23 августа 1942 — 2 февраля 1943. 1,1 миллиона потерь СССР, 850 000 у вермахта. 6-я армия Паулюса капитулирует. Перелом WWII.",
+    "alt": "Сталинградская битва",
+    "year": 1943,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Battle_of_Stalingrad"
+  },
+  {
+    "id": "fact-events-kursk",
+    "topic": "events",
+    "title": "Курская битва",
+    "caption": "5 июля – 23 августа 1943. Крупнейшее танковое сражение в истории. 7000 танков, 4 миллиона солдат. Перелом — Германия теряла инициативу до конца WWII.",
+    "alt": "Курская битва",
+    "year": 1943,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Battle_of_Kursk"
+  },
+  {
+    "id": "fact-events-leningrad-blockade",
+    "topic": "events",
+    "title": "Блокада Ленинграда",
+    "caption": "8 сентября 1941 – 27 января 1944. 872 дня. От 1,5 млн погибших — 800 тыс. от голода. Самая длинная и смертоносная осада в истории.",
+    "alt": "Блокада Ленинграда",
+    "year": 1944,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Siege_of_Leningrad"
+  },
+  {
+    "id": "fact-events-vietnam-war",
+    "topic": "events",
+    "title": "Вьетнамская война",
+    "caption": "1955-1975. США vs Северный Вьетнам. 1,1 миллиона вьетнамских солдат + 627 000 гражданских + 58 000 американских погибли. Эвакуация Сайгона 30 апреля 1975.",
+    "alt": "Вьетнамская война",
+    "year": 1975,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vietnam_War"
+  },
+  {
+    "id": "fact-events-korean-war",
+    "topic": "events",
+    "title": "Корейская война",
+    "caption": "25 июня 1950 – 27 июля 1953. Первая «горячая война» Холодной. 3 года перестроек на 38-й параллели. Технически — не закончена, только перемирие.",
+    "alt": "Корейская война",
+    "year": 1953,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Korean_War"
+  },
+  {
+    "id": "fact-events-iran-iraq-war",
+    "topic": "events",
+    "title": "Ирано-иракская война",
+    "caption": "1980-1988. 8 лет. 1-1,2 миллиона погибших. Окопная война в стиле WWI, применение химического оружия. Финансировалась обеими сверхдержавами.",
+    "alt": "Ирано-иракская война",
+    "year": 1988,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Iran–Iraq_War"
+  },
+  {
+    "id": "fact-events-irish-troubles",
+    "topic": "events",
+    "title": "Конфликт в Северной Ирландии",
+    "caption": "1968-1998. «The Troubles» — 3500 погибших. IRA vs британская армия и юнионисты. Закончено Соглашением Страстной пятницы 10 апреля 1998.",
+    "alt": "Соглашение Страстной пятницы",
+    "year": 1998,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Troubles"
+  },
+  {
+    "id": "fact-events-fall-of-rome-empire",
+    "topic": "events",
+    "title": "Падение Византии",
+    "caption": "29 мая 1453. Мехмед II берёт Константинополь после 53 дней осады. 1100-летняя империя завершается. Конец Средневековья по западной хронологии.",
+    "alt": "Падение Константинополя",
+    "year": 1453,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fall_of_Constantinople"
+  },
+  {
+    "id": "fact-events-discovery-king-tut",
+    "topic": "events",
+    "title": "Открытие Тутанхамона",
+    "caption": "4 ноября 1922. Говард Картер находит гробницу в Долине царей. 26 ноября видит первые признаки — «чудесные вещи». 5398 артефактов, маска 11 кг золота.",
+    "alt": "Открытие Тутанхамона",
+    "year": 1922,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tutankhamun"
+  },
+  {
+    "id": "fact-events-troy-discovery",
+    "topic": "events",
+    "title": "Открытие Трои",
+    "caption": "Генрих Шлиман, 1873. Раскопки на холме Гиссарлык в Турции нашли руины города ~3000 до н.э. Доказал реальность гомеровских поэм.",
+    "alt": "Раскопки Трои",
+    "year": 1873,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Heinrich_Schliemann"
+  },
+  {
+    "id": "fact-history-french-foreign-legion",
+    "topic": "history",
+    "title": "Французский Иностранный легион",
+    "caption": "Основан 9 марта 1831 королём Луи-Филиппом. Только иностранцы. Воюет до сегодня. 7000+ солдат из 140 стран. Кому 5 лет — может стать гражданином Франции.",
+    "alt": "Иностранный легион",
+    "year": 1831,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "French_Foreign_Legion"
+  },
+  {
+    "id": "fact-history-knights-templar",
+    "topic": "history",
+    "title": "Орден тамплиеров",
+    "caption": "1119-1312. Военно-монашеский орден, охранявший паломников. Богатейший в Европе. Разгромлен Филиппом IV в пятницу 13 октября 1307 — отсюда суеверие.",
+    "alt": "Тамплиер",
+    "year": 1307,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Knights_Templar"
+  },
+  {
+    "id": "fact-history-inquisition",
+    "topic": "history",
+    "title": "Инквизиция",
+    "caption": "1184-1834. Католический трибунал по борьбе с ересью. Испанская инквизиция (1478) — 3000 казнённых. Сожжён Джордано Бруно 17 февраля 1600.",
+    "alt": "Инквизиция",
+    "year": 1184,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Inquisition"
+  },
+  {
+    "id": "fact-history-spanish-armada",
+    "topic": "history",
+    "title": "Непобедимая армада",
+    "caption": "1588. Филипп II Испанский послал 130 кораблей и 26 000 моряков на Англию. Разбита Дрейком и штормом в Ла-Манше. Конец испанского доминирования на море.",
+    "alt": "Испанская армада",
+    "year": 1588,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Spanish_Armada"
+  },
+  {
+    "id": "fact-history-meiji-restoration",
+    "topic": "history",
+    "title": "Реставрация Мэйдзи",
+    "caption": "1868. Конец 700 лет сёгуната Токугавы. Власть императору Муцухито. За 40 лет Япония из изолированной феодальной страны стала индустриальной империей.",
+    "alt": "Император Мэйдзи",
+    "year": 1868,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Meiji_Restoration"
+  },
+  {
+    "id": "fact-history-cultural-revolution",
+    "topic": "history",
+    "title": "Культурная революция в Китае",
+    "caption": "1966-1976. Мао мобилизовал Хунвэйбинов против «буржуазии». 1,5-20 миллионов погибли. Старая интеллигенция разгромлена. Закончилась со смертью Мао.",
+    "alt": "Хунвэйбины",
+    "year": 1966,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cultural_Revolution"
+  },
+  {
+    "id": "fact-history-perestroika",
+    "topic": "history",
+    "title": "Перестройка",
+    "caption": "1985-1991. Реформы Михаила Горбачёва. Гласность, демократизация. Привели к распаду СССР 26 декабря 1991. Холодная война кончилась без выстрелов.",
+    "alt": "Горбачёв",
+    "year": 1985,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Perestroika"
+  },
+  {
+    "id": "fact-history-french-revolution-2",
+    "topic": "history",
+    "title": "Декларация прав человека",
+    "caption": "26 августа 1789, Национальное собрание Франции. 17 статей. Свобода, равенство, безопасность, сопротивление угнетению. Прообраз современных конституций.",
+    "alt": "Декларация прав 1789",
+    "year": 1789,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Declaration_of_the_Rights_of_Man_and_of_the_Citizen"
+  },
+  {
+    "id": "fact-history-magna-carta-2",
+    "topic": "history",
+    "title": "Великая хартия вольностей",
+    "caption": "1215. Иоанн Безземельный подписал в Раннимиде. 63 статьи ограничивают власть короля. Базис конституционных свобод. 17 копий XIII в. сохранилось.",
+    "alt": "Магна Карта",
+    "year": 1215,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Magna_Carta"
+  },
+  {
+    "id": "fact-history-westphalia-2",
+    "topic": "history",
+    "title": "Вестфальский мир",
+    "caption": "24 октября 1648. Закончил Тридцатилетнюю войну в Европе. Признал суверенитет государств. Базис современной системы международных отношений.",
+    "alt": "Подписание Вестфальского мира",
+    "year": 1648,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Peace_of_Westphalia"
+  },
+  {
+    "id": "fact-history-versailles-treaty-2",
+    "topic": "history",
+    "title": "Версальский договор",
+    "caption": "28 июня 1919. Германия обязалась выплатить 132 млрд золотых марок репараций. Условия отзовутся — Гитлер пришёл к власти на этих обидах в 1933.",
+    "alt": "Версальский договор",
+    "year": 1919,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Treaty_of_Versailles"
+  },
+  {
+    "id": "fact-history-spanish-civil-war",
+    "topic": "history",
+    "title": "Гражданская война в Испании",
+    "caption": "1936-1939. Республиканцы vs националисты Франко. 500 000 погибших. Прокси-война СССР vs Германия+Италия. Победа Франко — диктатура до 1975.",
+    "alt": "Гражданская война в Испании",
+    "year": 1939,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Spanish_Civil_War"
+  },
+  {
+    "id": "fact-history-cuban-missile-2",
+    "topic": "history",
+    "title": "Карибский кризис",
+    "caption": "16-28 октября 1962. 13 дней мир был в шаге от ядерной войны. Кеннеди-Хрущёв. После — установлена «красная линия» между Москвой и Вашингтоном.",
+    "alt": "Карибский кризис",
+    "year": 1962,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cuban_Missile_Crisis"
+  },
+  {
+    "id": "fact-history-chernobyl-2",
+    "topic": "history",
+    "title": "Чернобыль",
+    "caption": "26 апреля 1986, 1:23. Авария на 4-м реакторе ЧАЭС. 30 человек погибли в первые дни. Радиоактивное облако накрыло Европу. 116 000 эвакуированы.",
+    "alt": "Чернобыль",
+    "year": 1986,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Chernobyl_disaster"
+  },
+  {
+    "id": "fact-history-rwanda-genocide",
+    "topic": "history",
+    "title": "Геноцид в Руанде",
+    "caption": "Апрель-июль 1994. За 100 дней хуту убили 800 000 тутси и умеренных хуту. Мачете и автоматы. ООН не вмешалась. Сейчас Руанда — пример восстановления.",
+    "alt": "Геноцид в Руанде",
+    "year": 1994,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rwandan_genocide"
+  },
+  {
+    "id": "fact-history-srebrenica",
+    "topic": "history",
+    "title": "Геноцид в Сребренице",
+    "caption": "11-22 июля 1995. Боснийско-сербские силы убили 8372 мусульман-мужчин. Первый геноцид на земле Европы после WWII. Признан гаагским трибуналом.",
+    "alt": "Сребреница",
+    "year": 1995,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Srebrenica_massacre"
+  },
+  {
+    "id": "fact-science-newton",
+    "topic": "science",
+    "title": "Ньютоновская физика",
+    "caption": "Исаак Ньютон, «Принципы» 1687. 3 закона движения + закон тяготения. F = ma, F = G·m₁m₂/r². Описывает мир макромасштабов 400 лет.",
+    "alt": "Ньютон с яблоком",
+    "year": 1687,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Isaac_Newton"
+  },
+  {
+    "id": "fact-science-relativity-2",
+    "topic": "science",
+    "title": "Теория относительности",
+    "caption": "Эйнштейн, 1905 (специальная) и 1915 (общая). Время и пространство относительны, гравитация — искривление пространства-времени. Перевернула физику XX в.",
+    "alt": "Эйнштейн",
+    "year": 1915,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Theory_of_relativity"
+  },
+  {
+    "id": "fact-science-electricity-2",
+    "topic": "science",
+    "title": "Электричество",
+    "caption": "Бенджамин Франклин 1752 — змей в грозе показал, что молния = электричество. Вольта 1800 — первая батарея. Эдисон 1879 — первая лампа.",
+    "alt": "Электричество",
+    "year": 1879,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Electricity"
+  },
+  {
+    "id": "fact-science-thermodynamics",
+    "topic": "science",
+    "title": "Законы термодинамики",
+    "caption": "4 закона (включая «нулевой»). 1-й — энергия сохраняется. 2-й — энтропия растёт. Сформулированы Клаузиусом, Кельвином, Гиббсом, 1850-1870-е.",
+    "alt": "Термодинамика",
+    "year": 1850,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Laws_of_thermodynamics"
+  },
+  {
+    "id": "fact-science-genome",
+    "topic": "science",
+    "title": "Геном человека",
+    "caption": "Human Genome Project, 1990-2003. Расшифровано 3 миллиарда пар оснований. 22 000 генов. Стоимость секвенирования упала с $3 млрд до $200.",
+    "alt": "Геном человека",
+    "year": 2003,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Human_Genome_Project"
+  },
+  {
+    "id": "fact-science-stem-cells",
+    "topic": "science",
+    "title": "Стволовые клетки",
+    "caption": "Способны дифференцироваться в любую клетку. Эмбриональные открыты 1981 (Эванс, Кауфман). iPSC — Яманака 2006 (Нобель 2012) — взрослые клетки → стволовые.",
+    "alt": "Стволовые клетки",
+    "year": 2006,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stem_cell"
+  },
+  {
+    "id": "fact-science-magnetism",
+    "topic": "science",
+    "title": "Магнетизм",
+    "caption": "Открыт у магнитного железняка в Магнесии (Греция) ~600 до н.э. Компас в Китае ~200 до н.э. Электромагнетизм объединил Максвелл 1865.",
+    "alt": "Магнит и металл",
+    "year": 1865,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Magnetism"
+  },
+  {
+    "id": "fact-science-gravity-2",
+    "topic": "science",
+    "title": "Гравитация",
+    "caption": "Ньютон, 1687 — F = G·m₁m₂/r². Эйнштейн, 1915 — искривление пространства-времени. Самая слабая из 4 фундаментальных сил, но действует на бесконечных расстояниях.",
+    "alt": "Гравитация",
+    "year": 1687,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gravity"
+  },
+  {
+    "id": "fact-science-light",
+    "topic": "science",
+    "title": "Свет · природа",
+    "caption": "Дуализм: и волна, и частица (фотон). Скорость в вакууме 299 792 458 м/с (точно). Длины волн от 380 нм (фиолетовый) до 750 нм (красный).",
+    "alt": "Свет призма",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Light"
+  },
+  {
+    "id": "fact-science-time",
+    "topic": "science",
+    "title": "Время",
+    "caption": "Эйнштейн: время относительно. Атомные часы Cs-133 — определение секунды с 1967. Точность лучших — 1 с за возраст Вселенной (1 в 10^18).",
+    "alt": "Атомные часы",
+    "year": 1967,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Time"
+  },
+  {
+    "id": "fact-science-evolution-2",
+    "topic": "science",
+    "title": "Эволюция",
+    "caption": "Дарвин, 1859 — «Происхождение видов». Естественный отбор. Все 8,7 млн видов — потомки общего предка LUCA (3,8 млрд лет назад).",
+    "alt": "Древо эволюции",
+    "year": 1859,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Evolution"
+  },
+  {
+    "id": "fact-science-mendelian-genetics",
+    "topic": "science",
+    "title": "Менделевская генетика",
+    "caption": "Грегор Мендель, 1866. 8 лет скрещивал горох — 29 000 растений. Открыл закономерности наследственности. Признан через 35 лет после смерти.",
+    "alt": "Грегор Мендель",
+    "year": 1866,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mendelian_inheritance"
+  },
+  {
+    "id": "fact-science-immune-system-2",
+    "topic": "science",
+    "title": "Иммунная система",
+    "caption": "Открыта Мечниковым (фагоциты, 1882) и Эрлихом (антитела, 1890). Врождённый и приобретённый иммунитет. 7500 лейкоцитов в 1 капле крови.",
+    "alt": "Иммунная система",
+    "year": 1882,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Immune_system"
+  },
+  {
+    "id": "fact-science-photosynthesis-2",
+    "topic": "science",
+    "title": "Фотосинтез",
+    "caption": "6 CO₂ + 6 H₂O + свет → C₆H₁₂O₆ + 6 O₂. На Земле растения связывают 130 ТВт энергии — в 8 раз больше, чем потребляет человечество.",
+    "alt": "Фотосинтез",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Photosynthesis"
+  },
+  {
+    "id": "fact-science-respiration",
+    "topic": "science",
+    "title": "Клеточное дыхание",
+    "caption": "C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O + ~30 АТФ. КПД 40%. Идёт в митохондриях. У человека — 200 миллионов клеток в день погибают, новые рождаются.",
+    "alt": "Клеточное дыхание",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cellular_respiration"
+  },
+  {
+    "id": "fact-science-acid-base",
+    "topic": "science",
+    "title": "Кислоты и основания",
+    "caption": "Теория Бренстеда-Лоури, 1923: кислота — донор протона. Шкала pH (0-14) — Сёрен Сёренсен, 1909. Желудочный сок: pH 1,5, кровь: 7,4, океан: 8,1.",
+    "alt": "Шкала pH",
+    "year": 1923,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Acid–base_reaction"
+  },
+  {
+    "id": "fact-science-catalysis",
+    "topic": "science",
+    "title": "Катализ",
+    "caption": "Берцелиус ввёл термин 1835. Катализатор ускоряет реакцию, не расходуясь. 90% химических процессов мира идут с катализатором. Гетерогенный (поверхность) и гомогенный.",
+    "alt": "Катализ",
+    "year": 1835,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Catalysis"
+  },
+  {
+    "id": "fact-science-chirality",
+    "topic": "science",
+    "title": "Хиральность",
+    "caption": "Пастер, 1848. Молекулы и их зеркальные двойники не накладываются. 19 из 20 аминокислот живых организмов — левосторонние. Загадка происхождения жизни.",
+    "alt": "Хиральность",
+    "year": 1848,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Chirality_(chemistry)"
+  },
+  {
+    "id": "fact-science-superfluid",
+    "topic": "science",
+    "title": "Сверхтекучесть",
+    "caption": "Капица, 1937. Жидкий гелий ниже 2,17 К течёт без вязкости — поднимается по стенкам сосуда. Нобель 1978. Базис понимания сверхпроводимости.",
+    "alt": "Сверхтекучий гелий",
+    "year": 1937,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Superfluidity"
+  },
+  {
+    "id": "fact-science-piezoelectric",
+    "topic": "science",
+    "title": "Пьезоэффект",
+    "caption": "Кварц и др. кристаллы дают электричество при давлении. Открыт братьями Кюри 1880. Используется в часах, зажигалках, ультразвуке, микрофонах.",
+    "alt": "Пьезокристалл",
+    "year": 1880,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Piezoelectricity"
+  },
+  {
+    "id": "fact-science-superconductivity-2",
+    "topic": "science",
+    "title": "Сверхпроводимость",
+    "caption": "Хейке Камерлинг-Оннес, 1911. Ртуть при −269 °C теряет сопротивление полностью. Высокотемпературные сверхпроводники найдены 1986 (Беднорц, Мюллер, Нобель 1987).",
+    "alt": "Сверхпроводник левитирует магнит",
+    "year": 1911,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Superconductivity"
+  },
+  {
+    "id": "fact-science-x-ray-crystallography",
+    "topic": "science",
+    "title": "Рентгеновская кристаллография",
+    "caption": "Макс фон Лауэ 1912, отец и сын Брэгги 1913 — Нобель 1915 и 1914. Структуры ДНК, инсулина, гемоглобина — всё расшифровано рентгеном.",
+    "alt": "Рентгеновская кристаллография",
+    "year": 1912,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "X-ray_crystallography"
+  }
+]

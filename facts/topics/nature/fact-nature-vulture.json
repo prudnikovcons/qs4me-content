@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-vulture",
+  "topic": "nature",
+  "title": "Стервятник",
+  "caption": "Падальщик. Без перьев на голове — для гигиены при поедании трупов. Желудочная кислота pH 0 — убивает любые бактерии.",
+  "image": "fact-nature-vulture.webp",
+  "image_width": 1280,
+  "image_height": 1039,
+  "alt": "Стервятник",
+  "credit": "Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8.jpg: Jorge Láscar from Bogotá, C",
+  "source": "https://en.wikipedia.org/wiki/Vulture",
+  "license": "CC-BY-SA",
+  "year": 2010
+}

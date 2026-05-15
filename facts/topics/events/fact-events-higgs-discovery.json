@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-higgs-discovery",
+  "topic": "events",
+  "title": "Открытие бозона Хиггса",
+  "caption": "4 июля 2012, ЦЕРН. Подтверждено существование бозона Хиггса на LHC. Предсказан в 1964. Нобель Энглерту и Хиггсу 2013.",
+  "image": "fact-events-higgs-discovery.webp",
+  "image_width": 720,
+  "image_height": 937,
+  "alt": "Открытие Хиггса",
+  "credit": "CERN for the ATLAS and CMS Collaborations · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Higgs_boson",
+  "license": "CC-BY-SA",
+  "year": 2012
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-6-day-war",
+  "topic": "events",
+  "title": "Шестидневная война",
+  "caption": "5-10 июня 1967. Израиль против Египта, Иордании, Сирии. За 6 дней захватил Синай, Голан, Западный берег. Перестроила Ближний Восток.",
+  "image": "fact-events-6-day-war.webp",
+  "image_width": 1280,
+  "image_height": 2208,
+  "alt": "Шестидневная война",
+  "credit": "Zvikorn · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Six-Day_War",
+  "license": "CC-BY-SA",
+  "year": 1967
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-food-poutine",
+  "topic": "food",
+  "title": "Путин",
+  "caption": "Канадское блюдо: картошка фри с сырными гранулами и подливкой. Появилось в Квебеке 1957. Национальное блюдо Канады с 1980-х.",
+  "image": "fact-food-poutine.webp",
+  "image_width": 1240,
+  "image_height": 698,
+  "alt": "Путин",
+  "credit": "Camelia.boban · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Poutine",
+  "license": "CC-BY-SA",
+  "year": 1957,
+  "meta": {
+    "country_code": "CA"
+  }
+}

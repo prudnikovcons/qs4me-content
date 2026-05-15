@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-mariner-craft",
+  "topic": "space",
+  "title": "Программа Mariner",
+  "caption": "1962-1973. 10 зондов NASA к Меркурию, Венере, Марсу. Mariner 4 — первое фото Марса (1965). Mariner 10 — единственный к Меркурию до 2008.",
+  "image": "fact-space-mariner-craft.webp",
+  "image_width": 1280,
+  "image_height": 1600,
+  "alt": "Зонд Mariner",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mariner_program",
+  "license": "PD",
+  "year": 1965
+}

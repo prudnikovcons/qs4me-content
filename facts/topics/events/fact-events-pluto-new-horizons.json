@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-pluto-new-horizons",
+  "topic": "events",
+  "title": "New Horizons у Плутона",
+  "caption": "14 июля 2015. Зонд NASA пролетел в 12 500 км от Плутона. Первые детальные снимки. Открыл сердце Плутона — равнину Спутника из азотного льда.",
+  "image": "fact-events-pluto-new-horizons.webp",
+  "image_width": 800,
+  "image_height": 746,
+  "alt": "Плутон от New Horizons",
+  "credit": "National Aeronautics and Space Administration (NASA), Applied Physics Laboratory",
+  "source": "https://en.wikipedia.org/wiki/New_Horizons",
+  "license": "PD",
+  "year": 2015
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-spacex-crewed",
+  "topic": "events",
+  "title": "Crew Dragon Demo-2",
+  "caption": "30 мая 2020. Первый пилотируемый полёт SpaceX (NASA Bob Behnken, Doug Hurley) к МКС. Первый коммерческий пилотируемый старт в истории.",
+  "image": "fact-events-spacex-crewed.webp",
+  "image_width": 1280,
+  "image_height": 1529,
+  "alt": "Crew Dragon Demo-2",
+  "credit": "Joel Kowsky · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2",
+  "license": "PD",
+  "year": 2020
+}

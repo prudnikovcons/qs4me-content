@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-india-delhi",
+  "topic": "country",
+  "title": "Индия · Дели",
+  "caption": "Столица Индии. 7 исторических столиц на одной территории за 1000 лет. Делийский султанат (1206-1526), Великие Моголы (1526-1857).",
+  "image": "fact-country-india-delhi.webp",
+  "image_width": 1280,
+  "image_height": 1518,
+  "alt": "Дели",
+  "credit": "Marcin Białek · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Delhi",
+  "license": "CC-BY-SA",
+  "year": 1206,
+  "meta": {
+    "country_code": "IN"
+  }
+}

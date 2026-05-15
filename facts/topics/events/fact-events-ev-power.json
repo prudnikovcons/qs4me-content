@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-ev-power",
+  "topic": "events",
+  "title": "Первая электростанция",
+  "caption": "Pearl Street Station, Нью-Йорк. Открыта Эдисоном 4 сентября 1882. 85 клиентов. Постоянный ток. Конец эры свечей и керосина.",
+  "image": "fact-events-ev-power.webp",
+  "image_width": 600,
+  "image_height": 919,
+  "alt": "Pearl Street Station",
+  "credit": "Earl Morter · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pearl_Street_Station",
+  "license": "PD",
+  "year": 1882
+}

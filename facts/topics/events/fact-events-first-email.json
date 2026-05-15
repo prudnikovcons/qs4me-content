@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-first-email",
+  "topic": "events",
+  "title": "Первый email",
+  "caption": "Рэй Томлинсон, октябрь 1971. Отправил себе сообщение между 2 компьютерами в ARPANET. Использовал @ для разделения имени и хоста.",
+  "image": "fact-events-first-email.webp",
+  "image_width": 490,
+  "image_height": 652,
+  "alt": "Первый email",
+  "credit": "Andreu Veà, WiWiW.org · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Ray_Tomlinson",
+  "license": "CC-BY-SA",
+  "year": 1971
+}

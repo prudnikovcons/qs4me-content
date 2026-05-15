@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-woodpecker",
+  "topic": "nature",
+  "title": "Дятел",
+  "caption": "Бьёт клювом по дереву 20 раз в секунду, ускорение в момент удара 1200g. Череп специально устроен для защиты мозга.",
+  "image": "fact-nature-woodpecker.webp",
+  "image_width": 1280,
+  "image_height": 1419,
+  "alt": "Дятел",
+  "credit": "Joshlaymon · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Woodpecker",
+  "license": "CC-BY-SA",
+  "year": 2012
+}

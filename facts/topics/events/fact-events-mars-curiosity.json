@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-mars-curiosity",
+  "topic": "events",
+  "title": "Посадка Curiosity",
+  "caption": "6 августа 2012. Марсоход NASA сел в кратере Гейл. «7 минут ужаса» — посадка без связи с Землёй. Самая сложная мягкая посадка в истории.",
+  "image": "fact-events-mars-curiosity.webp",
+  "image_width": 1280,
+  "image_height": 1764,
+  "alt": "Curiosity на Марсе",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Curiosity_(rover)",
+  "license": "PD",
+  "year": 2012
+}

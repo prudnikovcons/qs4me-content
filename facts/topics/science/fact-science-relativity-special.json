@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-relativity-special",
+  "topic": "science",
+  "title": "Специальная теория относительности",
+  "caption": "Эйнштейн, 1905 — «чудесный год». 4 статьи за полгода. SR показала: время и пространство относительны, c постоянна. E = mc².",
+  "image": "fact-science-relativity-special.webp",
+  "image_width": 1280,
+  "image_height": 1673,
+  "alt": "Эйнштейн в 1905",
+  "credit": "Lucien Chavan [1] (1868 - 1942), a friend of Einstein's when he was living in Be",
+  "source": "https://en.wikipedia.org/wiki/Special_relativity",
+  "license": "PD",
+  "year": 1905
+}

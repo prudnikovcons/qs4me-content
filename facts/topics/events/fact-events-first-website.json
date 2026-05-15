@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-first-website",
+  "topic": "events",
+  "title": "Первый веб-сайт",
+  "caption": "Тим Бернерс-Ли, ЦЕРН, 6 августа 1991. info.cern.ch — описание проекта WWW. До сих пор работает.",
+  "image": "fact-events-first-website.webp",
+  "image_width": 1280,
+  "image_height": 692,
+  "alt": "Первый веб-сайт",
+  "credit": "Liamd967 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "license": "CC-BY-SA",
+  "year": 1991
+}

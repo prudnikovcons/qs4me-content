@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-srebrenica",
+  "topic": "history",
+  "title": "Геноцид в Сребренице",
+  "caption": "11-22 июля 1995. Боснийско-сербские силы убили 8372 мусульман-мужчин. Первый геноцид на земле Европы после WWII. Признан гаагским трибуналом.",
+  "image": "fact-history-srebrenica.webp",
+  "image_width": 1280,
+  "image_height": 760,
+  "alt": "Сребреница",
+  "credit": "Michael Büker · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Srebrenica_massacre",
+  "license": "CC-BY-SA",
+  "year": 1995
+}

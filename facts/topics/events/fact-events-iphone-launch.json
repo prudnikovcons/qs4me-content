@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-iphone-launch",
+  "topic": "events",
+  "title": "Запуск iPhone",
+  "caption": "29 июня 2007. Apple Store в США. Стив Джобс представил 9 января. 6,1 миллиона продано за первый год. К 2024 — 2,3 млрд устройств.",
+  "image": "fact-events-iphone-launch.webp",
+  "image_width": 1280,
+  "image_height": 2443,
+  "alt": "Запуск iPhone",
+  "credit": "Rafael Fernandez · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)",
+  "license": "CC-BY-SA",
+  "year": 2007
+}

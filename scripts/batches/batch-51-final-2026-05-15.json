@@ -1,0 +1,604 @@
+[
+  {
+    "id": "fact-nature-zebra",
+    "topic": "nature",
+    "title": "Зебра",
+    "caption": "3 вида в Африке. Полосы уникальны как отпечатки пальцев. Гипотеза: полосы сбивают с толку слепней. Стадо до 1000 особей в миграции.",
+    "alt": "Зебра",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Zebra"
+  },
+  {
+    "id": "fact-nature-wolf",
+    "topic": "nature",
+    "title": "Серый волк",
+    "caption": "Самый широкораспространённый хищник в истории. Стаи 4-9 особей. От волков произошли все домашние собаки 15 000 лет назад.",
+    "alt": "Серый волк",
+    "meta": { "species": "Canis lupus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wolf"
+  },
+  {
+    "id": "fact-nature-fox",
+    "topic": "nature",
+    "title": "Лисица",
+    "caption": "Обыкновенная лисица — самый широкораспространённый дикий хищник мира. Слышит мышь под 30 см снега. Прыгает 3 м вверх.",
+    "alt": "Рыжая лисица",
+    "meta": { "species": "Vulpes vulpes" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Red_fox"
+  },
+  {
+    "id": "fact-nature-raccoon",
+    "topic": "nature",
+    "title": "Енот",
+    "caption": "Северная Америка. Слово от алгонкинского «aroughcoune» (тот, кто моет). Чувствительные передние лапы — почти как кисти рук.",
+    "alt": "Енот",
+    "meta": { "species": "Procyon lotor" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Raccoon"
+  },
+  {
+    "id": "fact-nature-skunk",
+    "topic": "nature",
+    "title": "Скунс",
+    "caption": "Северная и Центральная Америка. Распыляет жидкость с тиолами на 3 м. Запах сохраняется неделями. Только при крайней опасности.",
+    "alt": "Скунс",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Skunk"
+  },
+  {
+    "id": "fact-nature-porcupine",
+    "topic": "nature",
+    "title": "Дикобраз",
+    "caption": "30 000 игл на теле, каждая до 40 см. Не стреляет — иглы легко отделяются при контакте. Природная сигнализация — клацает зубами при тревоге.",
+    "alt": "Дикобраз",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Porcupine"
+  },
+  {
+    "id": "fact-nature-hedgehog",
+    "topic": "nature",
+    "title": "Ёж",
+    "caption": "5000 иголок. Сворачивается клубком при опасности. Существует 15 видов. Африканский карликовый — популярный домашний питомец с 1990-х.",
+    "alt": "Ёж",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hedgehog"
+  },
+  {
+    "id": "fact-nature-armadillo",
+    "topic": "nature",
+    "title": "Броненосец",
+    "caption": "Единственное млекопитающее с костным панцирем. Девятипоясный — переплывает реки на дне, задержав дыхание 6 минут. Носитель проказы.",
+    "alt": "Броненосец",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Armadillo"
+  },
+  {
+    "id": "fact-nature-anteater",
+    "topic": "nature",
+    "title": "Муравьед",
+    "caption": "Гигантский муравьед — без зубов. Язык 60 см, движется 150 раз в минуту. Съедает 30 000 муравьёв в день. Когти на передних лапах 10 см.",
+    "alt": "Муравьед",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Anteater"
+  },
+  {
+    "id": "fact-nature-sloth-2",
+    "topic": "nature",
+    "title": "Ленивец",
+    "caption": "Двух- и трёхпалые ленивцы. Спит 15-20 часов в сутки. Скорость 0,24 км/ч. Водоросли растут в шерсти — служат камуфляжем.",
+    "alt": "Ленивец",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sloth"
+  },
+  {
+    "id": "fact-nature-tapir",
+    "topic": "nature",
+    "title": "Тапир",
+    "caption": "Дальний родственник лошадей и носорогов. Хобот для срывания листьев. Существует 50 миллионов лет — почти не изменился.",
+    "alt": "Тапир",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tapir"
+  },
+  {
+    "id": "fact-nature-rhinoceros",
+    "topic": "nature",
+    "title": "Носорог",
+    "caption": "5 видов. Чёрный, белый, индийский, яванский, суматранский. Рог из кератина — как ногти. Северный белый: 2 самки на Земле, вид обречён.",
+    "alt": "Носорог",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rhinoceros"
+  },
+  {
+    "id": "fact-nature-camel",
+    "topic": "nature",
+    "title": "Верблюд",
+    "caption": "Одногорбый дромадер и двугорбый бактриан. Горб — жир (не вода!). Без воды 2 недели. Пьёт 200 литров за раз.",
+    "alt": "Верблюды",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Camel"
+  },
+  {
+    "id": "fact-nature-llama",
+    "topic": "nature",
+    "title": "Лама",
+    "caption": "Южная Америка. Одомашнена инками 4500 лет назад. Главное вьючное животное Анд. Плюёт при раздражении — обильно и метко.",
+    "alt": "Лама",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Llama"
+  },
+  {
+    "id": "fact-nature-alpaca",
+    "topic": "nature",
+    "title": "Альпака",
+    "caption": "Меньшая родственница ламы. Шерсть мягче кашемира, без ланолина (гипоаллергенна). Перу — 80% мирового поголовья (3,7 млн).",
+    "alt": "Альпака",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alpaca"
+  },
+  {
+    "id": "fact-nature-yak",
+    "topic": "nature",
+    "title": "Як",
+    "caption": "Гималайский крупный рогатый. Живёт на высотах 4000-6000 м. Эритроциты в 3 раза мельче и в 3 раза эффективнее по кислороду. Тибетский транспорт.",
+    "alt": "Як",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yak"
+  },
+  {
+    "id": "fact-nature-bison",
+    "topic": "nature",
+    "title": "Зубр",
+    "caption": "Крупнейший наземный млекопитающий Европы. Самцы до 1000 кг. К 1927 — почти вымер (54 особи). Восстановлен в Беловежской пуще.",
+    "alt": "Зубр",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "European_bison"
+  },
+  {
+    "id": "fact-nature-moose",
+    "topic": "nature",
+    "title": "Лось",
+    "caption": "Крупнейший олень — самцы до 800 кг. Размах рогов 2 м, меняются ежегодно. В Швеции лосиных аварий больше, чем убитых пешеходов.",
+    "alt": "Лось",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Moose"
+  },
+  {
+    "id": "fact-nature-reindeer",
+    "topic": "nature",
+    "title": "Северный олень",
+    "caption": "Единственный олень, у которого рога есть и у самок. Видит ультрафиолет — отличает лишайник от снега. Скорость 80 км/ч.",
+    "alt": "Северный олень",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Reindeer"
+  },
+  {
+    "id": "fact-nature-deer",
+    "topic": "nature",
+    "title": "Олень благородный",
+    "caption": "Один из крупнейших оленей. Самцы (марал) до 240 кг. Рога сбрасывают каждый март. Гон в сентябре-октябре.",
+    "alt": "Благородный олень",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Red_deer"
+  },
+  {
+    "id": "fact-nature-antelope",
+    "topic": "nature",
+    "title": "Импала",
+    "caption": "Африканская антилопа. Прыжки до 10 м длиной и 3 м высотой. При побеге зигзагом — сбивает хищника. Стадо до 200 самок с одним самцом.",
+    "alt": "Импала",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Impala"
+  },
+  {
+    "id": "fact-nature-springbok",
+    "topic": "nature",
+    "title": "Спрингбок",
+    "caption": "Национальный символ ЮАР. Прыжки «pronking» — вверх до 4 м, ноги прямые. Скорость 88 км/ч. Спит стоя.",
+    "alt": "Спрингбок",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Springbok"
+  },
+  {
+    "id": "fact-nature-gnu",
+    "topic": "nature",
+    "title": "Антилопа гну",
+    "caption": "Великая миграция в Серенгети — 1,5 миллиона голов идут по кругу 800 км. Самая впечатляющая миграция млекопитающих на Земле.",
+    "alt": "Антилопы гну",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wildebeest"
+  },
+  {
+    "id": "fact-nature-rhino-white",
+    "topic": "nature",
+    "title": "Белый носорог",
+    "caption": "Крупнейший носорог — до 3600 кг. Северный подвид — функционально вымер (2 самки в Кении). Учёные пытаются ЭКО спасти вид.",
+    "alt": "Белый носорог",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "White_rhinoceros"
+  },
+  {
+    "id": "fact-nature-cheetah-cubs",
+    "topic": "nature",
+    "title": "Гепард · охота",
+    "caption": "Разгон 0-100 за 3 секунды. Максимум 112 км/ч на 30 секундах. После — отдыхает 20 минут чтобы охладиться.",
+    "alt": "Гепард на охоте",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cheetah"
+  },
+  {
+    "id": "fact-nature-elephant-asian",
+    "topic": "nature",
+    "title": "Азиатский слон",
+    "caption": "Меньше африканского — 5 тонн. Уши мельче (округлые). Бивни только у самцов. 30 000 в дикой природе — в 10 раз меньше африканских.",
+    "alt": "Азиатский слон",
+    "meta": { "species": "Elephas maximus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Asian_elephant"
+  },
+  {
+    "id": "fact-nature-elephant-african-forest",
+    "topic": "nature",
+    "title": "Лесной слон",
+    "caption": "Признан отдельным видом 2010. Меньше саванного — 2-4 тонны. Бивни прямые, не загнутые. Под угрозой — потеряно 86% за 31 год.",
+    "alt": "Лесной слон",
+    "year": 2010,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "African_forest_elephant"
+  },
+  {
+    "id": "fact-nature-pig-wild",
+    "topic": "nature",
+    "title": "Кабан",
+    "caption": "Дикий предок свиньи. 16 подвидов. Самцы — клыки до 12 см. Очень быстро бегает — до 50 км/ч. Опасен при защите потомства.",
+    "alt": "Кабан",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wild_boar"
+  },
+  {
+    "id": "fact-nature-warthog",
+    "topic": "nature",
+    "title": "Бородавочник",
+    "caption": "Африканский дикий кабан. 4 клыка-бивня. Бородавки на морде — толстый защитный слой. Пумба из «Короля Льва» — он.",
+    "alt": "Бородавочник",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Common_warthog"
+  },
+  {
+    "id": "fact-nature-hyena",
+    "topic": "nature",
+    "title": "Пятнистая гиена",
+    "caption": "Топ-хищник саванны после льва. Челюсти — сила укуса 1100 фунтов. Дробят кости. Социальные — клан до 80 особей, матриархат.",
+    "alt": "Пятнистая гиена",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Spotted_hyena"
+  },
+  {
+    "id": "fact-nature-mongoose",
+    "topic": "nature",
+    "title": "Мангуст",
+    "caption": "Иммунитет к ядам змей. Сериал «Рикки-Тикки-Тави» Киплинга — про мангуста. 33 вида. Распространены в Африке и Южной Азии.",
+    "alt": "Мангуст",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mongoose"
+  },
+  {
+    "id": "fact-nature-pangolin-2",
+    "topic": "nature",
+    "title": "Панголин",
+    "caption": "Единственное млекопитающее с чешуёй из кератина. 8 видов в Африке и Азии. Самое контрабандное животное — 1 миллион за 10 лет.",
+    "alt": "Панголин",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pangolin"
+  },
+  {
+    "id": "fact-nature-bat",
+    "topic": "nature",
+    "title": "Летучая мышь",
+    "caption": "Единственное летающее млекопитающее. 1400+ видов — 20% всех видов млекопитающих. Эхолокация. Самая большая летучая лисица — размах 1,7 м.",
+    "alt": "Летучая мышь",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bat"
+  },
+  {
+    "id": "fact-nature-rabbit",
+    "topic": "nature",
+    "title": "Кролик",
+    "caption": "Одомашнен римлянами ~50 до н.э. Беременность 30 дней, 4-12 крольчат за помёт, 4-7 помётов в год. В Австралии 200 миллионов — катастрофа экологии.",
+    "alt": "Кролик",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rabbit"
+  },
+  {
+    "id": "fact-nature-hare",
+    "topic": "nature",
+    "title": "Заяц",
+    "caption": "Не родственник кролику — отдельное семейство. Зайчата рождаются зрячими и шерстистыми (кроличата — слепыми голыми). Скорость до 80 км/ч.",
+    "alt": "Заяц",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hare"
+  },
+  {
+    "id": "fact-nature-squirrel",
+    "topic": "nature",
+    "title": "Белка",
+    "caption": "278 видов. Запасает орехи на зиму — забывает 25%, эти прорастают. Главный сажатель дубов в Европе и Северной Америке.",
+    "alt": "Белка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Squirrel"
+  },
+  {
+    "id": "fact-nature-mouse",
+    "topic": "nature",
+    "title": "Домовая мышь",
+    "caption": "Самый успешный млекопитающий после человека. На всех континентах кроме Антарктиды. 6-10 помётов в год, до 200 потомков. Геном расшифрован 2002.",
+    "alt": "Мышь",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "House_mouse"
+  },
+  {
+    "id": "fact-nature-rat",
+    "topic": "nature",
+    "title": "Серая крыса",
+    "caption": "Распространилась с человеком по всему миру. В Нью-Йорке — оценка 2 млн крыс. Помнит маршруты, решает задачи. IQ сопоставим с собакой.",
+    "alt": "Серая крыса",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Brown_rat"
+  },
+  {
+    "id": "fact-nature-hamster",
+    "topic": "nature",
+    "title": "Сирийский хомяк",
+    "caption": "Все домашние сирийские хомяки — потомки одной самки и её 12 потомков, найденных в 1930 в Сирии. Карликовых видов нашли позже.",
+    "alt": "Хомяк",
+    "year": 1930,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Golden_hamster"
+  },
+  {
+    "id": "fact-nature-mole",
+    "topic": "nature",
+    "title": "Крот",
+    "caption": "Подземный млекопитающий. Лапы — для копания. Звездонос — самые быстрые «зубы» среди млекопитающих, 0,2 секунды на укол добычи.",
+    "alt": "Крот",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mole_(animal)"
+  },
+  {
+    "id": "fact-nature-shrew",
+    "topic": "nature",
+    "title": "Землеройка",
+    "caption": "Одно из самых мелких млекопитающих — 2-5 г. Сердце 1300 ударов/мин. Ядовитая слюна. Умрёт за 8 часов без еды.",
+    "alt": "Землеройка",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Shrew"
+  },
+  {
+    "id": "fact-nature-tasmanian-devil-2",
+    "topic": "nature",
+    "title": "Тасманийский дьявол",
+    "caption": "Крупнейший хищный сумчатый. До 12 кг. Заразный лицевой рак с 1996 поставил вид на грань исчезновения.",
+    "alt": "Тасманийский дьявол",
+    "year": 1996,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tasmanian_devil"
+  },
+  {
+    "id": "fact-nature-numbat",
+    "topic": "nature",
+    "title": "Намбат",
+    "caption": "«Полосатый муравьед». Только в Западной Австралии. Дневной — в отличие от большинства сумчатых. Ест только термитов — 20 000 в день.",
+    "alt": "Намбат",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Numbat"
+  },
+  {
+    "id": "fact-nature-wombat",
+    "topic": "nature",
+    "title": "Вомбат",
+    "caption": "Австралийский сумчатый. Уникум — кал кубический. Метит территорию. Использует мощный задний щит костей как «бронированную дверь» норы.",
+    "alt": "Вомбат",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wombat"
+  },
+  {
+    "id": "fact-nature-echidna",
+    "topic": "nature",
+    "title": "Ехидна",
+    "caption": "Австралия и Новая Гвинея. Откладывает яйца — как утконос. Покрыта иглами. Может прятать иглы под мускулатуру.",
+    "alt": "Ехидна",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Echidna"
+  },
+  {
+    "id": "fact-nature-cassowary",
+    "topic": "nature",
+    "title": "Казуар",
+    "caption": "Австралия и Новая Гвинея. До 1,8 м. Когти 12 см — может убить человека одним ударом. Самая опасная птица мира по Гиннессу.",
+    "alt": "Казуар",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cassowary"
+  },
+  {
+    "id": "fact-nature-emu",
+    "topic": "nature",
+    "title": "Эму",
+    "caption": "Австралийский страус. Высота 1,9 м. Не летает. Скорость 50 км/ч. Самец высиживает яйца 8 недель — не ест, теряет 1/3 массы.",
+    "alt": "Эму",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Emu"
+  },
+  {
+    "id": "fact-nature-rhea",
+    "topic": "nature",
+    "title": "Нанду",
+    "caption": "Южная Америка. «Американский страус». Не летает. Размер 1,5 м, 40 кг. Самец высиживает до 80 яиц от разных самок одновременно.",
+    "alt": "Нанду",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rhea_(bird)"
+  },
+  {
+    "id": "fact-nature-condor",
+    "topic": "nature",
+    "title": "Андский кондор",
+    "caption": "Самая большая хищная птица мира — размах 3,3 м, вес 15 кг. Парит без взмахов 5 часов. Живёт 70+ лет. На грани исчезновения.",
+    "alt": "Андский кондор",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Andean_condor"
+  },
+  {
+    "id": "fact-nature-falcon-peregrine-2",
+    "topic": "nature",
+    "title": "Сапсан",
+    "caption": "Самое быстрое существо в природе. В пикирующем полёте 389 км/ч. Распространён на всех континентах кроме Антарктиды.",
+    "alt": "Сапсан в пике",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Peregrine_falcon"
+  },
+  {
+    "id": "fact-nature-vulture",
+    "topic": "nature",
+    "title": "Стервятник",
+    "caption": "Падальщик. Без перьев на голове — для гигиены при поедании трупов. Желудочная кислота pH 0 — убивает любые бактерии.",
+    "alt": "Стервятник",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vulture"
+  },
+  {
+    "id": "fact-nature-frigatebird",
+    "topic": "nature",
+    "title": "Фрегат",
+    "caption": "Самец надувает красный мешок для привлечения самки. Не намокает — но и не садится на воду. 26 дней без сна в полёте.",
+    "alt": "Фрегат",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Frigatebird"
+  },
+  {
+    "id": "fact-nature-blue-footed-booby",
+    "topic": "nature",
+    "title": "Голубоногая олуша",
+    "caption": "Галапагосы. Голубые лапы — от каротиноидов в пище. Чем синее — тем здоровее. Танец самцов с поднятием лап как символ.",
+    "alt": "Голубоногая олуша",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Blue-footed_booby"
+  },
+  {
+    "id": "fact-nature-swan",
+    "topic": "nature",
+    "title": "Лебедь-шипун",
+    "caption": "Самая тяжёлая летающая птица — до 15 кг. Шея с 25 позвонками (у людей 7). Парные на всю жизнь.",
+    "alt": "Лебедь-шипун",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mute_swan"
+  },
+  {
+    "id": "fact-nature-pelican",
+    "topic": "nature",
+    "title": "Пеликан",
+    "caption": "Розовый пеликан. Размах крыльев 3,6 м — один из самых больших среди птиц. Мешок горловой вмещает 13 литров — больше желудка.",
+    "alt": "Пеликан",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pelican"
+  },
+  {
+    "id": "fact-nature-stork",
+    "topic": "nature",
+    "title": "Аист",
+    "caption": "Белый аист. Не поёт (нет голосовых связок) — щёлкает клювом. Миграция Европа-Африка 10 000 км. Народное поверье — приносит детей.",
+    "alt": "Белый аист",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "White_stork"
+  },
+  {
+    "id": "fact-nature-heron",
+    "topic": "nature",
+    "title": "Цапля",
+    "caption": "65 видов. Серая цапля стоит неподвижно часами, ожидая рыбу. Шея S-образно складывается перед ударом. Распространена в Евразии и Африке.",
+    "alt": "Серая цапля",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Heron"
+  },
+  {
+    "id": "fact-nature-ibis",
+    "topic": "nature",
+    "title": "Священный ибис",
+    "caption": "Был священной птицей в Древнем Египте — символом бога Тота. Сегодня вымер в Египте, но обычен в Африке к югу от Сахары.",
+    "alt": "Священный ибис",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "African_sacred_ibis"
+  },
+  {
+    "id": "fact-nature-spoonbill",
+    "topic": "nature",
+    "title": "Колпица",
+    "caption": "Длинный плоский клюв-лопата. Ловит еду, водя клювом из стороны в сторону. Колониальная — гнездится с цаплями и ибисами.",
+    "alt": "Колпица",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Spoonbill"
+  },
+  {
+    "id": "fact-nature-toucan",
+    "topic": "nature",
+    "title": "Тукан",
+    "caption": "Большой клюв — 1/3 длины тела. Тонкий, лёгкий, полый внутри. Используется для терморегуляции — клюв-радиатор для горячего климата.",
+    "alt": "Тукан",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Toucan"
+  },
+  {
+    "id": "fact-nature-parrot-macaw",
+    "topic": "nature",
+    "title": "Ара",
+    "caption": "Крупнейшие попугаи. Гиацинтовый ара — 1 м длины. Живут 60+ лет. Парные на всю жизнь. Сила укуса — 200 кг/см².",
+    "alt": "Ара",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Macaw"
+  },
+  {
+    "id": "fact-nature-cockatoo",
+    "topic": "nature",
+    "title": "Какаду",
+    "caption": "21 вид. Хохолок поднимается при возбуждении. Самые умные птицы — могут решать задачи на уровне 4-5-летних детей.",
+    "alt": "Какаду",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cockatoo"
+  },
+  {
+    "id": "fact-nature-crow",
+    "topic": "nature",
+    "title": "Серая ворона",
+    "caption": "Одна из самых умных птиц — узнаёт людей в лицо, использует инструменты, играет. IQ как у 7-летнего ребёнка.",
+    "alt": "Серая ворона",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hooded_crow"
+  },
+  {
+    "id": "fact-nature-raven",
+    "topic": "nature",
+    "title": "Ворон",
+    "caption": "Крупнейший воробьинообразный. Не «ворона». Размах 1,5 м. Живёт 30+ лет. Может научиться имитировать человеческую речь.",
+    "alt": "Ворон",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Common_raven"
+  },
+  {
+    "id": "fact-nature-magpie",
+    "topic": "nature",
+    "title": "Сорока",
+    "caption": "Одна из немногих животных, узнающих себя в зеркале (mark test 2008). Чёрно-белая, длинный хвост. Любит блестящие предметы — это правда.",
+    "alt": "Сорока",
+    "year": 2008,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Magpie"
+  },
+  {
+    "id": "fact-nature-woodpecker",
+    "topic": "nature",
+    "title": "Дятел",
+    "caption": "Бьёт клювом по дереву 20 раз в секунду, ускорение в момент удара 1200g. Череп специально устроен для защиты мозга.",
+    "alt": "Дятел",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Woodpecker"
+  }
+]

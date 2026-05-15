@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-acid-base",
+  "topic": "science",
+  "title": "Кислоты и основания",
+  "caption": "Теория Бренстеда-Лоури, 1923: кислота — донор протона. Шкала pH (0-14) — Сёрен Сёренсен, 1909. Желудочный сок: pH 1,5, кровь: 7,4, океан: 8,1.",
+  "image": "fact-science-acid-base.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Шкала pH",
+  "credit": "Petrovskyz · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Acid%E2%80%93base_reaction",
+  "license": "CC-BY-SA",
+  "year": 1923
+}

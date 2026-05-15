@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-newton",
+  "topic": "science",
+  "title": "Ньютоновская физика",
+  "caption": "Исаак Ньютон, «Принципы» 1687. 3 закона движения + закон тяготения. F = ma, F = G·m₁m₂/r². Описывает мир макромасштабов 400 лет.",
+  "image": "fact-science-newton.webp",
+  "image_width": 1280,
+  "image_height": 1541,
+  "alt": "Ньютон с яблоком",
+  "credit": "Godfrey Kneller · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Isaac_Newton",
+  "license": "PD",
+  "year": 1687
+}

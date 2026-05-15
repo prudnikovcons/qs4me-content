@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "fact-ratings-yangtze",
+    "topic": "ratings",
+    "title": "Янцзы · 6300 км",
+    "caption": "3-я по длине река мира. Китай. Через 11 провинций. ГЭС «Три ущелья» крупнейшая в мире.",
+    "alt": "Янцзы",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yangtze"
+  },
+  {
+    "id": "fact-ratings-ganges",
+    "topic": "ratings",
+    "title": "Ганг · 2525 км",
+    "caption": "Священная река Индии. Источник питьевой воды для 400 миллионов человек — больше любой другой реки мира.",
+    "alt": "Ганг",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ganges"
+  },
+  {
+    "id": "fact-ratings-volga",
+    "topic": "ratings",
+    "title": "Волга · 3530 км",
+    "caption": "Длиннейшая река Европы. 11 крупных городов России на ней. Впадает в Каспийское море. Замерзает на 100-160 дней.",
+    "alt": "Волга",
+    "meta": { "country_code": "RU" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Volga"
+  },
+  {
+    "id": "fact-ratings-mississippi",
+    "topic": "ratings",
+    "title": "Миссисипи · 3766 км",
+    "caption": "Главная река США. От Миннесоты до Мексиканского залива. Бассейн 3,2 млн км² — 41% территории континентальных США.",
+    "alt": "Миссисипи",
+    "meta": { "country_code": "US" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mississippi_River"
+  },
+  {
+    "id": "fact-ratings-baikal",
+    "topic": "ratings",
+    "title": "Байкал · 1642 м",
+    "caption": "Глубочайшее озеро мира. 20% мировой пресной воды. 25 миллионов лет — старейшее озеро Земли.",
+    "alt": "Байкал",
+    "meta": { "country_code": "RU" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lake_Baikal"
+  },
+  {
+    "id": "fact-ratings-tanganyika",
+    "topic": "ratings",
+    "title": "Танганьика · 1470 м",
+    "caption": "Второе по глубине озеро мира. Африка. 12-13 миллионов лет. 250 видов рыб эндемичны — нигде больше.",
+    "alt": "Танганьика",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lake_Tanganyika"
+  },
+  {
+    "id": "fact-ratings-titicaca",
+    "topic": "ratings",
+    "title": "Титикака · 3812 м",
+    "caption": "Самое высокогорное судоходное озеро мира. Между Боливией и Перу. Дом инкскому богу Виракочи.",
+    "alt": "Титикака",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lake_Titicaca"
+  },
+  {
+    "id": "fact-ratings-iguazu",
+    "topic": "ratings",
+    "title": "Игуасу · 275 водопадов",
+    "caption": "На границе Аргентины и Бразилии. Шире Ниагары в 4 раза. Главный — «Глотка Дьявола», 82 м высотой.",
+    "alt": "Игуасу",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Iguazu_Falls"
+  },
+  {
+    "id": "fact-ratings-victoria-falls",
+    "topic": "ratings",
+    "title": "Виктория · 1708 м ширины",
+    "caption": "Водопад на Замбези. Высота 108 м. Самый широкий водопад мира. Открыт Дэвидом Ливингстоном 16 ноября 1855.",
+    "alt": "Виктория",
+    "year": 1855,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Victoria_Falls"
+  },
+  {
+    "id": "fact-ratings-grand-canyon-stats",
+    "topic": "ratings",
+    "title": "Гранд-Каньон · 446 км",
+    "caption": "Длина 446 км, глубина до 1857 м. Колорадо размывала каньон 5-6 миллионов лет. 6 миллионов посетителей в год.",
+    "alt": "Гранд-Каньон",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Grand_Canyon"
+  },
+  {
+    "id": "fact-ratings-sahara-2",
+    "topic": "ratings",
+    "title": "Сахара · 9,2 млн км²",
+    "caption": "Крупнейшая жаркая пустыня. Размером с США. 2500 лет назад была саванной с озёрами.",
+    "alt": "Сахара",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sahara"
+  },
+  {
+    "id": "fact-ratings-gobi-stats",
+    "topic": "ratings",
+    "title": "Гоби · 1,3 млн км²",
+    "caption": "5-я по величине пустыня. Зимой −40 °C, летом +50 °C. В 1922 нашли первые яйца динозавров.",
+    "alt": "Гоби",
+    "year": 1922,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gobi_Desert"
+  },
+  {
+    "id": "fact-ratings-greenland-icesheet",
+    "topic": "ratings",
+    "title": "Ледник Гренландии",
+    "caption": "2,17 млн км², 80% острова. Толщина до 3 км. Если растает — уровень океана поднимется на 7,4 м.",
+    "alt": "Ледник Гренландии",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Greenland_ice_sheet"
+  },
+  {
+    "id": "fact-ratings-antarctica-icesheet",
+    "topic": "ratings",
+    "title": "Антарктический ледник",
+    "caption": "Содержит 60% пресной воды Земли. Толщина льда до 4776 м. Если растает — океан поднимется на 58 м.",
+    "alt": "Антарктида",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Antarctic_ice_sheet"
+  },
+  {
+    "id": "fact-ratings-pacific-island-tuvalu",
+    "topic": "ratings",
+    "title": "Тувалу · 26 км²",
+    "caption": "4-я по размеру наименьшая страна мира. Полинезия. 11 000 жителей. Может уйти под воду к 2050 от поднимающегося океана.",
+    "alt": "Тувалу",
+    "meta": { "country_code": "TV" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tuvalu"
+  },
+  {
+    "id": "fact-ratings-monaco-2",
+    "topic": "ratings",
+    "title": "Монако · 2,02 км²",
+    "caption": "2-я наименьшая страна мира (после Ватикана). 39 000 жителей. 1 из 3 — миллионер. Самая густонаселённая.",
+    "alt": "Монако",
+    "meta": { "country_code": "MC" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Monaco"
+  },
+  {
+    "id": "fact-ratings-cn-tower-stats",
+    "topic": "ratings",
+    "title": "Бурдж-Халифа · 828 м",
+    "caption": "Самое высокое здание мира с 2010. Дубай. 163 этажа. К 2030 уступит Джидда-Тауэр (1 км) в Саудовской Аравии.",
+    "alt": "Бурдж-Халифа",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Burj_Khalifa"
+  },
+  {
+    "id": "fact-events-fall-of-rome-fall",
+    "topic": "events",
+    "title": "Падение Западного Рима",
+    "caption": "4 сентября 476. Одоакр сверг последнего императора Ромула Августула. Конец Западной Римской империи. Начало Средневековья.",
+    "alt": "Падение Рима",
+    "year": 476,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fall_of_the_Western_Roman_Empire"
+  },
+  {
+    "id": "fact-events-spanish-flu-2",
+    "topic": "events",
+    "title": "Испанский грипп",
+    "caption": "1918-1920. 500 миллионов заразились (треть населения). 50-100 миллионов погибли — больше WWI.",
+    "alt": "Испанский грипп",
+    "year": 1918,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "1918_flu_pandemic"
+  },
+  {
+    "id": "fact-events-1969-moon",
+    "topic": "events",
+    "title": "Аполлон-11 на Луне",
+    "caption": "20 июля 1969, 20:17 UTC. Армстронг и Олдрин на Луне 21 час 36 минут. 650 миллионов смотрели прямую трансляцию.",
+    "alt": "Аполлон-11",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Apollo_11"
+  },
+  {
+    "id": "fact-events-3rd-reich-fall",
+    "topic": "events",
+    "title": "Капитуляция Германии",
+    "caption": "8 мая 1945, 22:43. Подписан акт безоговорочной капитуляции в Карлсхорсте. День Победы в Европе. Германский Рейх перестал существовать.",
+    "alt": "Капитуляция Германии",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "German_Instrument_of_Surrender"
+  },
+  {
+    "id": "fact-events-vj-day-photo",
+    "topic": "events",
+    "title": "VJ Day · поцелуй",
+    "caption": "14 августа 1945. Альфред Эйзенштадт снял поцелуй матроса и медсестры на Таймс-сквер. Конец WWII в Тихом океане.",
+    "alt": "Поцелуй на Таймс-сквер",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "V-J_Day_in_Times_Square"
+  },
+  {
+    "id": "fact-events-october-revolution-2",
+    "topic": "events",
+    "title": "Октябрьская революция",
+    "caption": "25-26 октября 1917 (7-8 ноября н.ст.). Большевики свергли Временное правительство. СССР существовал 69 лет до 1991.",
+    "alt": "Октябрьская революция",
+    "year": 1917,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "October_Revolution"
+  },
+  {
+    "id": "fact-events-storming-bastille-2",
+    "topic": "events",
+    "title": "Штурм Бастилии",
+    "caption": "14 июля 1789. Толпа парижан штурмовала тюрьму-крепость. Освободили 7 узников. Стало национальным праздником Франции.",
+    "alt": "Штурм Бастилии",
+    "year": 1789,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Storming_of_the_Bastille"
+  },
+  {
+    "id": "fact-events-suez-1869",
+    "topic": "events",
+    "title": "Открытие Суэцкого канала",
+    "caption": "17 ноября 1869. 193 км соединили Средиземное и Красное моря. Сократил путь Европа-Азия на 7000 км.",
+    "alt": "Суэцкий канал",
+    "year": 1869,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Suez_Canal"
+  },
+  {
+    "id": "fact-events-transatlantic-cable",
+    "topic": "events",
+    "title": "Трансатлантический кабель",
+    "caption": "27 июля 1866. 4200 км медного кабеля от Ирландии до Канады. Лондон-Нью-Йорк за минуты вместо 10 дней.",
+    "alt": "Трансатлантический кабель",
+    "year": 1866,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Transatlantic_telegraph_cable"
+  },
+  {
+    "id": "fact-events-trinity-1945",
+    "topic": "events",
+    "title": "Тринити · 1945",
+    "caption": "16 июля 1945, 5:29 утра, Нью-Мексико. Первое ядерное испытание. 21 килотонна. Вспышка ярче 1000 солнц.",
+    "alt": "Тринити",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Trinity_(nuclear_test)"
+  },
+  {
+    "id": "fact-events-sputnik-launch",
+    "topic": "events",
+    "title": "Запуск Спутник-1",
+    "caption": "4 октября 1957. Первый искусственный спутник. Диаметр 58 см, 92 дня на орбите. Начало космической эры.",
+    "alt": "Спутник-1",
+    "year": 1957,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sputnik_1"
+  },
+  {
+    "id": "fact-events-titanic-1912",
+    "topic": "events",
+    "title": "Гибель Титаника",
+    "caption": "15 апреля 1912. После столкновения с айсбергом затонул за 2 часа 40 минут. 1503 погибших из 2224 на борту.",
+    "alt": "Титаник",
+    "year": 1912,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Titanic"
+  },
+  {
+    "id": "fact-events-eiffel-1889",
+    "topic": "events",
+    "title": "Открытие Эйфелевой башни",
+    "caption": "31 марта 1889. К Всемирной выставке. Высота 324 м со шпилем. 2,5 миллиона заклёпок, 18 038 деталей.",
+    "alt": "Эйфелева башня",
+    "year": 1889,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eiffel_Tower"
+  },
+  {
+    "id": "fact-events-statue-liberty-1886",
+    "topic": "events",
+    "title": "Открытие Статуи Свободы",
+    "caption": "28 октября 1886. Подарок Франции к 100-летию США. 93 м с пьедесталом. 204 тонны меди.",
+    "alt": "Статуя Свободы",
+    "year": 1886,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Statue_of_Liberty"
+  },
+  {
+    "id": "fact-events-suez-crisis",
+    "topic": "events",
+    "title": "Суэцкий кризис",
+    "caption": "29 октября — 7 ноября 1956. Британия, Франция, Израиль атаковали Египет. США и СССР обвинили — конец Британской империи.",
+    "alt": "Суэцкий кризис",
+    "year": 1956,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Suez_Crisis"
+  },
+  {
+    "id": "fact-events-6-day-war",
+    "topic": "events",
+    "title": "Шестидневная война",
+    "caption": "5-10 июня 1967. Израиль против Египта, Иордании, Сирии. За 6 дней захватил Синай, Голан, Западный берег. Перестроила Ближний Восток.",
+    "alt": "Шестидневная война",
+    "year": 1967,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Six-Day_War"
+  },
+  {
+    "id": "fact-events-yom-kippur",
+    "topic": "events",
+    "title": "Война Судного дня",
+    "caption": "6-25 октября 1973. Египет и Сирия атаковали Израиль в Йом-Киппур. Привела к нефтяному эмбарго — глобальный кризис 1973.",
+    "alt": "Война Судного дня",
+    "year": 1973,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yom_Kippur_War"
+  },
+  {
+    "id": "fact-events-iran-revolution",
+    "topic": "events",
+    "title": "Иранская революция",
+    "caption": "1978-1979. Свержение шаха Пехлеви. Аятолла Хомейни вернулся из эмиграции 1 февраля 1979. Иран стал теократией.",
+    "alt": "Иранская революция",
+    "year": 1979,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Iranian_Revolution"
+  },
+  {
+    "id": "fact-events-velvet-revolution",
+    "topic": "events",
+    "title": "Бархатная революция",
+    "caption": "17 ноября — 29 декабря 1989. Чехословакия. Без насилия свергли коммунистический режим. Вацлав Гавел — президент.",
+    "alt": "Бархатная революция",
+    "year": 1989,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Velvet_Revolution"
+  },
+  {
+    "id": "fact-events-romanian-revolution",
+    "topic": "events",
+    "title": "Румынская революция 1989",
+    "caption": "16-25 декабря 1989. Свержение Чаушеску. Единственная коммунистическая революция Восточной Европы с насилием. Чаушеску и жена расстреляны 25 декабря.",
+    "alt": "Румынская революция",
+    "year": 1989,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Romanian_Revolution"
+  },
+  {
+    "id": "fact-events-orange-revolution",
+    "topic": "events",
+    "title": "Оранжевая революция",
+    "caption": "Ноябрь 2004 — январь 2005. Украина. Протесты против фальсификаций выборов. Президентом стал Ющенко.",
+    "alt": "Оранжевая революция",
+    "year": 2004,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Orange_Revolution"
+  },
+  {
+    "id": "fact-events-maidan",
+    "topic": "events",
+    "title": "Евромайдан",
+    "caption": "21 ноября 2013 — 22 февраля 2014. Протесты в Киеве за подписание соглашения с ЕС. Свержение Януковича.",
+    "alt": "Евромайдан",
+    "year": 2014,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Revolution_of_Dignity"
+  },
+  {
+    "id": "fact-history-mongol-invasion",
+    "topic": "history",
+    "title": "Монгольское нашествие на Русь",
+    "caption": "1237-1240. Хан Батый разорил Рязань, Москву, Владимир, Киев. 240 лет монгольского ига до Стояния на Угре 1480.",
+    "alt": "Монгольское нашествие",
+    "year": 1240,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mongol_invasion_of_Rus'"
+  },
+  {
+    "id": "fact-history-byzantine-empire-fall",
+    "topic": "history",
+    "title": "Падение Византии 1453",
+    "caption": "29 мая 1453. Мехмед II штурмом взял Константинополь после 53 дней осады. 1100 лет Византии — конец Средневековья.",
+    "alt": "Падение Константинополя",
+    "year": 1453,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fall_of_Constantinople"
+  },
+  {
+    "id": "fact-history-saint-bartholomew",
+    "topic": "history",
+    "title": "Варфоломеевская ночь",
+    "caption": "24 августа 1572, Париж. По приказу Екатерины Медичи католики устроили резню гугенотов. 5000-30 000 убитых за неделю.",
+    "alt": "Варфоломеевская ночь",
+    "year": 1572,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "St._Bartholomew's_Day_massacre"
+  },
+  {
+    "id": "fact-history-30-years-war",
+    "topic": "history",
+    "title": "Тридцатилетняя война",
+    "caption": "1618-1648. Религиозная война между католиками и протестантами в Европе. 8 миллионов погибли. Закончена Вестфальским миром.",
+    "alt": "Тридцатилетняя война",
+    "year": 1648,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Thirty_Years'_War"
+  },
+  {
+    "id": "fact-history-7-years-war",
+    "topic": "history",
+    "title": "Семилетняя война",
+    "caption": "1756-1763. Первая глобальная война — Европа, Северная Америка, Индия, Карибы. Британия победила Францию. Канада стала британской.",
+    "alt": "Семилетняя война",
+    "year": 1763,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Seven_Years'_War"
+  },
+  {
+    "id": "fact-history-napoleonic-wars",
+    "topic": "history",
+    "title": "Наполеоновские войны",
+    "caption": "1803-1815. Наполеон против всей Европы. 7 коалиций. До 6 миллионов погибли. Закончились битвой при Ватерлоо 18 июня 1815.",
+    "alt": "Наполеоновские войны",
+    "year": 1815,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Napoleonic_Wars"
+  },
+  {
+    "id": "fact-history-crimean-war",
+    "topic": "history",
+    "title": "Крымская война",
+    "caption": "1853-1856. Россия против Османской империи, Британии, Франции, Сардинии. 800 000 погибли. Первая «современная» война — телеграф, фотография.",
+    "alt": "Крымская война",
+    "year": 1856,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Crimean_War"
+  },
+  {
+    "id": "fact-history-ww1",
+    "topic": "history",
+    "title": "Первая мировая война",
+    "caption": "1914-1918. 4 года 3 месяца 2 недели. 17 миллионов погибли. 21 миллион ранены. Окопная война, газ, танки, авиация — индустриализация смерти.",
+    "alt": "Первая мировая",
+    "year": 1918,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "World_War_I"
+  },
+  {
+    "id": "fact-history-ww2",
+    "topic": "history",
+    "title": "Вторая мировая война",
+    "caption": "1939-1945. 6 лет. 70-85 миллионов погибли — самый кровопролитный конфликт в истории. Ядерное оружие применено впервые.",
+    "alt": "Вторая мировая",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "World_War_II"
+  },
+  {
+    "id": "fact-history-cold-war-2",
+    "topic": "history",
+    "title": "Холодная война",
+    "caption": "1947-1991. США vs СССР. На пике 1986 — 45 000 ядерных боеголовок. Без прямого военного столкновения сверхдержав. Конец — распад СССР.",
+    "alt": "Холодная война",
+    "year": 1991,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cold_War"
+  },
+  {
+    "id": "fact-history-cuban-missile-3",
+    "topic": "history",
+    "title": "Карибский кризис",
+    "caption": "16-28 октября 1962. 13 дней мир в шаге от ядерной войны. Кеннеди-Хрущёв. После — установлена красная линия Москва-Вашингтон.",
+    "alt": "Карибский кризис",
+    "year": 1962,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cuban_Missile_Crisis"
+  },
+  {
+    "id": "fact-history-prague-spring",
+    "topic": "history",
+    "title": "Пражская весна",
+    "caption": "Январь-август 1968. Реформы Дубчека в Чехословакии — «социализм с человеческим лицом». 21 августа 1968 — танки Варшавского договора.",
+    "alt": "Пражская весна",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Prague_Spring"
+  },
+  {
+    "id": "fact-history-hungary-1956",
+    "topic": "history",
+    "title": "Венгерское восстание 1956",
+    "caption": "23 октября — 10 ноября 1956. Антисоветское восстание подавлено за 12 дней Советской армией. 2500 убитых, 200 000 эмигрировали.",
+    "alt": "Венгерское восстание 1956",
+    "year": 1956,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hungarian_Revolution_of_1956"
+  },
+  {
+    "id": "fact-history-vietnam-end",
+    "topic": "history",
+    "title": "Конец Вьетнамской войны",
+    "caption": "30 апреля 1975. Падение Сайгона. Северный Вьетнам захватил Юг. Эвакуация американцев с крыши посольства за 19 часов.",
+    "alt": "Падение Сайгона",
+    "year": 1975,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fall_of_Saigon"
+  },
+  {
+    "id": "fact-history-afghan-war",
+    "topic": "history",
+    "title": "Афганская война СССР",
+    "caption": "1979-1989. 9 лет 50 дней. 15 000 советских погибли, 1 миллион афганцев. Из Афганистана 15 февраля 1989 ушёл генерал Громов последним.",
+    "alt": "Афганская война",
+    "year": 1989,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Soviet–Afghan_War"
+  },
+  {
+    "id": "fact-history-iran-iraq",
+    "topic": "history",
+    "title": "Ирано-иракская война",
+    "caption": "1980-1988. 8 лет. 1-1,2 миллиона погибших. Окопная война WWI-стиля. Применение химоружия. Финансировалась обеими сверхдержавами.",
+    "alt": "Ирано-иракская война",
+    "year": 1988,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Iran–Iraq_War"
+  },
+  {
+    "id": "fact-history-gulf-war",
+    "topic": "history",
+    "title": "Война в Заливе 1991",
+    "caption": "17 января — 28 февраля 1991. Освобождение Кувейта от Ирака. 34 страны коалиции. CNN — первая прямая телетрансляция войны.",
+    "alt": "Война в Заливе",
+    "year": 1991,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gulf_War"
+  },
+  {
+    "id": "fact-history-9-11-2",
+    "topic": "history",
+    "title": "Теракты 11 сентября",
+    "caption": "11 сентября 2001. 4 захваченных самолёта врезались в башни-близнецы WTC и Пентагон. 2977 погибших. Начало войны с терроризмом.",
+    "alt": "11 сентября",
+    "year": 2001,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "September_11_attacks"
+  },
+  {
+    "id": "fact-history-afghan-war-us",
+    "topic": "history",
+    "title": "Война США в Афганистане",
+    "caption": "2001-2021. 20 лет — самая длинная война США. 2461 американский военный погиб, 47 245 афганцев. Закончилась захватом Кабула талибами.",
+    "alt": "Война в Афганистане",
+    "year": 2021,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "War_in_Afghanistan_(2001–2021)"
+  },
+  {
+    "id": "fact-history-iraq-war",
+    "topic": "history",
+    "title": "Война в Ираке",
+    "caption": "2003-2011. США вторглись в поисках ОМП (не нашли). Свергнут Саддам Хусейн (повешен 2006). 200 000-1 миллион иракцев погибли.",
+    "alt": "Война в Ираке",
+    "year": 2011,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Iraq_War"
+  },
+  {
+    "id": "fact-history-syrian-war",
+    "topic": "history",
+    "title": "Гражданская война в Сирии",
+    "caption": "С 2011. Начало — Арабская весна. 500 000+ погибших, 13 миллионов беженцев. Асад сохранил власть с помощью России и Ирана.",
+    "alt": "Сирийская война",
+    "year": 2011,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Syrian_civil_war"
+  },
+  {
+    "id": "fact-history-ww2-end-asia",
+    "topic": "history",
+    "title": "Капитуляция Японии",
+    "caption": "2 сентября 1945. Японцы подписали капитуляцию на палубе линкора «Миссури» в Токийском заливе. Конец Второй мировой войны.",
+    "alt": "Капитуляция Японии",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Surrender_of_Japan"
+  },
+  {
+    "id": "fact-history-nuremberg-trials",
+    "topic": "history",
+    "title": "Нюрнбергский процесс",
+    "caption": "20 ноября 1945 — 1 октября 1946. Международный военный трибунал над нацистскими лидерами. 12 приговорены к смерти, 7 — к тюрьме.",
+    "alt": "Нюрнбергский процесс",
+    "year": 1946,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nuremberg_trials"
+  },
+  {
+    "id": "fact-history-marshall-plan",
+    "topic": "history",
+    "title": "План Маршалла",
+    "caption": "1948-1952. США выделили $13 млрд ($170 млрд в сегодняшних ценах) на восстановление Западной Европы. Спас экономику и удержал её от советского влияния.",
+    "alt": "План Маршалла",
+    "year": 1948,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Marshall_Plan"
+  },
+  {
+    "id": "fact-history-un-founding",
+    "topic": "history",
+    "title": "Основание ООН",
+    "caption": "26 июня 1945, Сан-Франциско. 51 страна-учредитель. К 2024 — 193 страны. Совбез из 5 постоянных членов с правом вето.",
+    "alt": "Основание ООН",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "United_Nations"
+  },
+  {
+    "id": "fact-history-nato-founding",
+    "topic": "history",
+    "title": "Основание НАТО",
+    "caption": "4 апреля 1949, Вашингтон. 12 стран-учредителей против СССР. Статья 5 — нападение на одного = нападение на всех. К 2024 — 32 страны.",
+    "alt": "Основание НАТО",
+    "year": 1949,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "NATO"
+  },
+  {
+    "id": "fact-history-warsaw-pact",
+    "topic": "history",
+    "title": "Варшавский договор",
+    "caption": "14 мая 1955 — 1 июля 1991. Военный блок СССР и стран соцлагеря. Ответ на НАТО. Распущен после распада соцлагеря.",
+    "alt": "Варшавский договор",
+    "year": 1991,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Warsaw_Pact"
+  },
+  {
+    "id": "fact-history-eu-founding",
+    "topic": "history",
+    "title": "Маастрихтский договор",
+    "caption": "7 февраля 1992. Создание ЕС из европейских сообществ. Введение свободного движения людей, товаров, услуг, капитала. Базис для евро.",
+    "alt": "Маастрихт",
+    "year": 1992,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Maastricht_Treaty"
+  },
+  {
+    "id": "fact-history-brexit",
+    "topic": "history",
+    "title": "Brexit",
+    "caption": "31 января 2020. Великобритания покинула ЕС после 47 лет членства. Референдум 23 июня 2016 — 51,9% за выход. Конец «общеевропейского проекта».",
+    "alt": "Brexit",
+    "year": 2020,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Brexit"
+  },
+  {
+    "id": "fact-history-women-vote",
+    "topic": "history",
+    "title": "Женское избирательное право",
+    "caption": "Новая Зеландия — первая, 19 сентября 1893. Финляндия 1906, Россия 1917, США 1920, Британия 1928, Швейцария 1971, Саудовская Аравия 2015.",
+    "alt": "Суфражистки",
+    "year": 1893,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Women's_suffrage"
+  },
+  {
+    "id": "fact-history-mlk-civil-rights",
+    "topic": "history",
+    "title": "Закон о гражданских правах",
+    "caption": "2 июля 1964, США. Президент Линдон Джонсон подписал. Запретил расовую сегрегацию в общественных местах, школах, на работе.",
+    "alt": "Закон о гражданских правах",
+    "year": 1964,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Civil_Rights_Act_of_1964"
+  },
+  {
+    "id": "fact-history-apartheid-end",
+    "topic": "history",
+    "title": "Конец апартеида",
+    "caption": "27 апреля 1994, ЮАР. Первые мультирасовые выборы. Нельсон Мандела стал президентом. После 46 лет официальной расовой сегрегации.",
+    "alt": "Конец апартеида",
+    "year": 1994,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "End_of_apartheid"
+  },
+  {
+    "id": "fact-history-india-partition",
+    "topic": "history",
+    "title": "Раздел Индии",
+    "caption": "15 августа 1947. Независимость от Британии + раздел на Индию и Пакистан. 14 миллионов переместились — крупнейшая миграция в истории. 1-2 миллиона погибли.",
+    "alt": "Раздел Индии",
+    "year": 1947,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Partition_of_India"
+  },
+  {
+    "id": "fact-events-ev-power",
+    "topic": "events",
+    "title": "Первая электростанция",
+    "caption": "Pearl Street Station, Нью-Йорк. Открыта Эдисоном 4 сентября 1882. 85 клиентов. Постоянный ток. Конец эры свечей и керосина.",
+    "alt": "Pearl Street Station",
+    "year": 1882,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pearl_Street_Station"
+  },
+  {
+    "id": "fact-events-radio-first",
+    "topic": "events",
+    "title": "Первая радиопередача",
+    "caption": "Маркони, 12 декабря 1901. Первая трансатлантическая радиопередача — буква S по Морзе из Корнуолла в Ньюфаундленд. Нобель 1909.",
+    "alt": "Маркони",
+    "year": 1901,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Guglielmo_Marconi"
+  },
+  {
+    "id": "fact-events-tv-broadcast",
+    "topic": "events",
+    "title": "Первое ТВ-вещание",
+    "caption": "BBC, 2 ноября 1936. Из Александра-Палас. 405 строк, 25 кадров/сек. Около 100 семей в Лондоне могли смотреть.",
+    "alt": "Первое ТВ-вещание",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "History_of_television"
+  },
+  {
+    "id": "fact-events-first-email",
+    "topic": "events",
+    "title": "Первый email",
+    "caption": "Рэй Томлинсон, октябрь 1971. Отправил себе сообщение между 2 компьютерами в ARPANET. Использовал @ для разделения имени и хоста.",
+    "alt": "Первый email",
+    "year": 1971,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ray_Tomlinson"
+  },
+  {
+    "id": "fact-events-first-website",
+    "topic": "events",
+    "title": "Первый веб-сайт",
+    "caption": "Тим Бернерс-Ли, ЦЕРН, 6 августа 1991. info.cern.ch — описание проекта WWW. До сих пор работает.",
+    "alt": "Первый веб-сайт",
+    "year": 1991,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "World_Wide_Web"
+  },
+  {
+    "id": "fact-events-google-founded",
+    "topic": "events",
+    "title": "Основание Google",
+    "caption": "4 сентября 1998. Ларри Пейдж и Сергей Брин в гараже. Изначально называлась BackRub. Алгоритм PageRank — революция в поиске.",
+    "alt": "Основание Google",
+    "year": 1998,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Google"
+  },
+  {
+    "id": "fact-events-facebook-founded",
+    "topic": "events",
+    "title": "Основание Facebook",
+    "caption": "4 февраля 2004. Марк Цукерберг и команда в общежитии Гарварда. Изначально TheFacebook — только для студентов Гарварда. Сегодня — 3 млрд пользователей.",
+    "alt": "Основание Facebook",
+    "year": 2004,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Facebook"
+  },
+  {
+    "id": "fact-events-iphone-launch",
+    "topic": "events",
+    "title": "Запуск iPhone",
+    "caption": "29 июня 2007. Apple Store в США. Стив Джобс представил 9 января. 6,1 миллиона продано за первый год. К 2024 — 2,3 млрд устройств.",
+    "alt": "Запуск iPhone",
+    "year": 2007,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "IPhone_(1st_generation)"
+  },
+  {
+    "id": "fact-events-bitcoin-genesis",
+    "topic": "events",
+    "title": "Bitcoin Genesis Block",
+    "caption": "3 января 2009. Сатоши Накамото добыл блок 0 в сети Bitcoin. В нём сообщение: «The Times 03/Jan/2009 Chancellor on brink of second bailout».",
+    "alt": "Bitcoin Genesis Block",
+    "year": 2009,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bitcoin"
+  },
+  {
+    "id": "fact-events-deepmind-go-2",
+    "topic": "events",
+    "title": "AlphaGo обыграл Ли Седоля",
+    "caption": "9-15 марта 2016, Сеул. ИИ AlphaGo (DeepMind) выиграл матч в го у 18-кратного чемпиона мира 4-1. Поле Го — 10^170 позиций.",
+    "alt": "AlphaGo vs Ли Седоль",
+    "year": 2016,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "AlphaGo_versus_Lee_Sedol"
+  },
+  {
+    "id": "fact-events-chatgpt-launch-2",
+    "topic": "events",
+    "title": "Запуск ChatGPT",
+    "caption": "OpenAI, 30 ноября 2022. 1 миллион пользователей за 5 дней. 100 миллионов за 2 месяца. Самое быстрое внедрение продукта в истории.",
+    "alt": "ChatGPT",
+    "year": 2022,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "ChatGPT"
+  },
+  {
+    "id": "fact-events-spacex-falcon-2",
+    "topic": "events",
+    "title": "Falcon Heavy запуск",
+    "caption": "6 февраля 2018. SpaceX запустил самую мощную действующую ракету. На борту — Tesla Roadster Илона Маска с манекеном Starman.",
+    "alt": "Falcon Heavy",
+    "year": 2018,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Falcon_Heavy"
+  },
+  {
+    "id": "fact-events-mars-curiosity",
+    "topic": "events",
+    "title": "Посадка Curiosity",
+    "caption": "6 августа 2012. Марсоход NASA сел в кратере Гейл. «7 минут ужаса» — посадка без связи с Землёй. Самая сложная мягкая посадка в истории.",
+    "alt": "Curiosity на Марсе",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Curiosity_(rover)"
+  },
+  {
+    "id": "fact-events-perseverance-launch",
+    "topic": "events",
+    "title": "Посадка Perseverance",
+    "caption": "18 февраля 2021. Сел в кратере Езеро (озеро 3,5 млрд лет назад). Ищет древнюю жизнь. Доставит образцы на Землю к 2033.",
+    "alt": "Perseverance",
+    "year": 2021,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Perseverance_(rover)"
+  },
+  {
+    "id": "fact-events-jwst-launch-2",
+    "topic": "events",
+    "title": "Запуск JWST",
+    "caption": "25 декабря 2021. Космический телескоп James Webb. $10 млрд за 25 лет разработки. Зеркало 6,5 м — больше Hubble в 6 раз.",
+    "alt": "Запуск JWST",
+    "year": 2021,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "James_Webb_Space_Telescope"
+  },
+  {
+    "id": "fact-events-ligo-detection",
+    "topic": "events",
+    "title": "Первое обнаружение гравитационных волн",
+    "caption": "14 сентября 2015, LIGO. Слияние двух чёрных дыр 1,3 млрд лет назад. Эйнштейн предсказал в 1916. Нобель 2017.",
+    "alt": "LIGO",
+    "year": 2015,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "First_observation_of_gravitational_waves"
+  },
+  {
+    "id": "fact-events-eht-bh",
+    "topic": "events",
+    "title": "Первое фото чёрной дыры",
+    "caption": "10 апреля 2019. Event Horizon Telescope получил снимок M87*. 8 радиотелескопов на 6 континентах — виртуальная апертура размером с Землю.",
+    "alt": "Фото чёрной дыры",
+    "year": 2019,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "First_image_of_a_black_hole"
+  },
+  {
+    "id": "fact-events-higgs-discovery",
+    "topic": "events",
+    "title": "Открытие бозона Хиггса",
+    "caption": "4 июля 2012, ЦЕРН. Подтверждено существование бозона Хиггса на LHC. Предсказан в 1964. Нобель Энглерту и Хиггсу 2013.",
+    "alt": "Открытие Хиггса",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Higgs_boson"
+  },
+  {
+    "id": "fact-events-discovery-water-mars",
+    "topic": "events",
+    "title": "Вода на Марсе",
+    "caption": "28 сентября 2015. NASA подтвердило: на современном Марсе течёт жидкая солёная вода в тёплые сезоны. Тёмные полосы на склонах кратеров.",
+    "alt": "Вода на Марсе",
+    "year": 2015,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Water_on_Mars"
+  },
+  {
+    "id": "fact-events-pluto-new-horizons",
+    "topic": "events",
+    "title": "New Horizons у Плутона",
+    "caption": "14 июля 2015. Зонд NASA пролетел в 12 500 км от Плутона. Первые детальные снимки. Открыл сердце Плутона — равнину Спутника из азотного льда.",
+    "alt": "Плутон от New Horizons",
+    "year": 2015,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "New_Horizons"
+  },
+  {
+    "id": "fact-events-mars-helicopter-first-flight",
+    "topic": "events",
+    "title": "Первый полёт Ingenuity",
+    "caption": "19 апреля 2021. Вертолёт NASA на Марсе. 40 секунд парения на высоте 3 м. Атмосфера в 1% земной — потребовались лопасти 1,2 м и 2400 об/мин.",
+    "alt": "Ingenuity",
+    "year": 2021,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ingenuity_(helicopter)"
+  },
+  {
+    "id": "fact-events-spacex-crewed",
+    "topic": "events",
+    "title": "Crew Dragon Demo-2",
+    "caption": "30 мая 2020. Первый пилотируемый полёт SpaceX (NASA Bob Behnken, Doug Hurley) к МКС. Первый коммерческий пилотируемый старт в истории.",
+    "alt": "Crew Dragon Demo-2",
+    "year": 2020,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Crew_Dragon_Demo-2"
+  },
+  {
+    "id": "fact-events-artemis-1",
+    "topic": "events",
+    "title": "Artemis I",
+    "caption": "16 ноября — 11 декабря 2022. SLS впервые запустила Orion вокруг Луны (без экипажа). Подготовка к возвращению людей на Луну в 2027.",
+    "alt": "Artemis I",
+    "year": 2022,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Artemis_1"
+  },
+  {
+    "id": "fact-events-deepblue-kasparov",
+    "topic": "events",
+    "title": "Deep Blue vs Каспаров",
+    "caption": "11 мая 1997. IBM Deep Blue выиграл матч у Гарри Каспарова 3,5-2,5. Первая победа машины над чемпионом мира в классических шахматах.",
+    "alt": "Deep Blue",
+    "year": 1997,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Deep_Blue_versus_Garry_Kasparov"
+  },
+  {
+    "id": "fact-events-watson-jeopardy",
+    "topic": "events",
+    "title": "Watson на Jeopardy",
+    "caption": "14-16 февраля 2011. IBM Watson выиграл у чемпионов Jeopardy! Кена Дженнингса и Брэда Раттера $1 млн. Первая победа ИИ в реальном TV-шоу.",
+    "alt": "IBM Watson",
+    "year": 2011,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Watson_(computer)"
+  },
+  {
+    "id": "fact-events-alphafold",
+    "topic": "events",
+    "title": "AlphaFold",
+    "caption": "Ноябрь 2020. DeepMind решил задачу свёртывания белков, открытую 50 лет. К 2024 — структуры всех 200 миллионов известных белков. Нобель 2024 Хассабису.",
+    "alt": "AlphaFold",
+    "year": 2020,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "AlphaFold"
+  },
+  {
+    "id": "fact-events-tesla-roadster",
+    "topic": "events",
+    "title": "Tesla Roadster в космосе",
+    "caption": "6 февраля 2018. Falcon Heavy запустил Tesla Roadster Илона Маска с манекеном Starman. На гелиоцентрической орбите вокруг Солнца до сих пор.",
+    "alt": "Tesla Roadster в космосе",
+    "year": 2018,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Elon_Musk's_Tesla_Roadster"
+  },
+  {
+    "id": "fact-events-felix-baumgartner-2",
+    "topic": "events",
+    "title": "Прыжок из стратосферы",
+    "caption": "Феликс Баумгартнер, 14 октября 2012. С высоты 39 км. Превысил скорость звука в свободном падении — 1357 км/ч. Прямая трансляция Red Bull.",
+    "alt": "Феликс Баумгартнер",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Red_Bull_Stratos"
+  },
+  {
+    "id": "fact-events-deepest-dive",
+    "topic": "events",
+    "title": "Глубочайшее погружение",
+    "caption": "Виктор Весково, 28 апреля – 5 мая 2019. Достиг 10 928 м в Марианском желобе — глубже Кэмерона 2012 на 28 м. Новый рекорд.",
+    "alt": "Виктор Весково",
+    "year": 2019,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Victor_Vescovo"
+  },
+  {
+    "id": "fact-events-everest-2019-crowd",
+    "topic": "events",
+    "title": "Очередь на Эверест 2019",
+    "caption": "Май 2019. На вершине Эвереста образовалась очередь из 300 человек. 11 погибших. Перенаселение комерческих восхождений.",
+    "alt": "Очередь на Эверест",
+    "year": 2019,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mount_Everest"
+  },
+  {
+    "id": "fact-events-thai-cave-rescue",
+    "topic": "events",
+    "title": "Спасение из пещеры Тхам Луанг",
+    "caption": "23 июня — 10 июля 2018, Таиланд. 12 мальчиков-футболистов и тренер 18 дней в пещере. Спасены через подводные тоннели — операция века.",
+    "alt": "Спасение Тхам Луанг",
+    "year": 2018,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tham_Luang_cave_rescue"
+  },
+  {
+    "id": "fact-events-fbi-1908",
+    "topic": "events",
+    "title": "Основание ФБР",
+    "caption": "26 июля 1908. Атторней Чарлз Бонапарт создал Bureau of Investigation. К 1935 — FBI. К 2024 — 35 000 сотрудников, бюджет $11 млрд.",
+    "alt": "ФБР",
+    "year": 1908,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Federal_Bureau_of_Investigation"
+  },
+  {
+    "id": "fact-events-kgb-1954",
+    "topic": "events",
+    "title": "КГБ",
+    "caption": "13 марта 1954 — 6 ноября 1991. Главный комитет госбезопасности СССР. Пик — 500 000 сотрудников. Преемники: ФСБ, СВР.",
+    "alt": "КГБ",
+    "year": 1991,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "KGB"
+  },
+  {
+    "id": "fact-events-mossad-founded",
+    "topic": "events",
+    "title": "Моссад",
+    "caption": "13 декабря 1949. Израильская разведка. Операции: похищение Эйхмана из Аргентины (1960), атака на «Чёрный сентябрь» после Мюнхена 1972.",
+    "alt": "Моссад",
+    "year": 1949,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mossad"
+  },
+  {
+    "id": "fact-events-cia-1947",
+    "topic": "events",
+    "title": "Основание ЦРУ",
+    "caption": "18 сентября 1947. Президент Трумэн подписал National Security Act. Центральное разведывательное управление США. К 2024 — 21 575 сотрудников.",
+    "alt": "ЦРУ",
+    "year": 1947,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Central_Intelligence_Agency"
+  },
+  {
+    "id": "fact-events-mi6-1909",
+    "topic": "events",
+    "title": "MI6 · Британская разведка",
+    "caption": "Основан 1909. Британская внешняя разведка. До 1994 официально не признавалась — «Я не могу подтвердить или опровергнуть». Прообраз Джеймса Бонда.",
+    "alt": "MI6",
+    "year": 1909,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Secret_Intelligence_Service"
+  }
+]

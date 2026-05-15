@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-deforestation-amazon",
+  "topic": "nature",
+  "title": "Вырубка Амазонии",
+  "caption": "С 1970 потеряно 17% леса (бывшая Великобритания). 12 000 км² в год — пик 2004. Лула снизил темп в 2023, но кризис остаётся.",
+  "image": "fact-nature-deforestation-amazon.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Вырубка Амазонии",
+  "credit": "Ibama from Brasil · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Deforestation_in_the_Amazon",
+  "license": "CC-BY",
+  "year": 2023
+}

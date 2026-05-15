@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-leningrad-blockade",
+  "topic": "events",
+  "title": "Блокада Ленинграда",
+  "caption": "8 сентября 1941 – 27 января 1944. 872 дня. От 1,5 млн погибших — 800 тыс. от голода. Самая длинная и смертоносная осада в истории.",
+  "image": "fact-events-leningrad-blockade.webp",
+  "image_width": 1280,
+  "image_height": 937,
+  "alt": "Блокада Ленинграда",
+  "credit": "Boris Kudoyarov · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Siege_of_Leningrad",
+  "license": "PD",
+  "year": 1944
+}

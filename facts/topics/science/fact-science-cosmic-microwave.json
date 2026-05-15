@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-cosmic-microwave",
+  "topic": "science",
+  "title": "Реликтовое излучение",
+  "caption": "Свет из ранней Вселенной (380 000 лет после Большого взрыва). Температура 2,725 К. Открыто Пензиасом и Уилсоном случайно в 1964 (Нобель 1978).",
+  "image": "fact-science-cosmic-microwave.webp",
+  "image_width": 1280,
+  "image_height": 640,
+  "alt": "Карта реликтового излучения",
+  "credit": "ESA and the Planck Collaboration · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+  "license": "CC-BY",
+  "year": 1964
+}

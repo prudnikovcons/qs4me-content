@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-brazil-salvador",
+  "topic": "country",
+  "title": "Бразилия · Салвадор",
+  "caption": "Первая столица Бразилии 1549-1763. Пеллоуринью — UNESCO с 1985. Капоэйра, кандомбле — родина афробразильской культуры.",
+  "image": "fact-country-brazil-salvador.webp",
+  "image_width": 1280,
+  "image_height": 571,
+  "alt": "Салвадор",
+  "credit": "Fotos Gov/Ba · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Salvador,_Bahia",
+  "license": "CC-BY",
+  "year": 1985,
+  "meta": {
+    "country_code": "BR"
+  }
+}

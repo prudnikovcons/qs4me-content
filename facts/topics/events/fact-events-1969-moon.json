@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-1969-moon",
+  "topic": "events",
+  "title": "Аполлон-11 на Луне",
+  "caption": "20 июля 1969, 20:17 UTC. Армстронг и Олдрин на Луне 21 час 36 минут. 650 миллионов смотрели прямую трансляцию.",
+  "image": "fact-events-1969-moon.webp",
+  "image_width": 1280,
+  "image_height": 1295,
+  "alt": "Аполлон-11",
+  "credit": "Neil A. Armstrong · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Apollo_11",
+  "license": "PD",
+  "year": 1969
+}

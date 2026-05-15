@@ -1,0 +1,17 @@
+{
+  "id": "fact-events-carnival-rio",
+  "topic": "events",
+  "title": "Карнавал Рио",
+  "caption": "С 1723. Крупнейший карнавал мира. 2 млн человек на улицах каждый день. Самба-парады в Самбадроме на 90 000 зрителей. Перед Великим постом.",
+  "image": "fact-events-carnival-rio.webp",
+  "image_width": 800,
+  "image_height": 534,
+  "alt": "Карнавал в Рио",
+  "credit": "Agência Brasil/Marco Antonio Cavalcanti · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Brazilian_Carnival",
+  "license": "CC-BY",
+  "year": 1723,
+  "meta": {
+    "country_code": "BR"
+  }
+}

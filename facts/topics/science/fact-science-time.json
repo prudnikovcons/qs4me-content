@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-time",
+  "topic": "science",
+  "title": "Время",
+  "caption": "Эйнштейн: время относительно. Атомные часы Cs-133 — определение секунды с 1967. Точность лучших — 1 с за возраст Вселенной (1 в 10^18).",
+  "image": "fact-science-time.webp",
+  "image_width": 800,
+  "image_height": 697,
+  "alt": "Атомные часы",
+  "credit": "Isabelle Grosjean ZA · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Time",
+  "license": "CC-BY-SA",
+  "year": 1967
+}

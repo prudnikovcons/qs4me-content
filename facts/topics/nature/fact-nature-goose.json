@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-goose",
+  "topic": "nature",
+  "title": "Серый гусь",
+  "caption": "Предок домашнего гуся. Одомашнен Древним Египтом 4000 лет назад. Сегодня — 6 миллиардов гусей в мире. Капитолийские гуси спасли Рим 390 до н.э.",
+  "image": "fact-nature-goose.webp",
+  "image_width": 1280,
+  "image_height": 1055,
+  "alt": "Серый гусь",
+  "credit": "Diliff · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Greylag_goose",
+  "license": "CC-BY-SA",
+  "year": -390
+}

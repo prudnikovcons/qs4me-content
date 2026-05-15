@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-enceladus",
+  "topic": "space",
+  "title": "Энцелад · луна Сатурна",
+  "caption": "504 км в диаметре. Гейзеры на южном полюсе выбрасывают воду из подлёдного океана. Cassini пролетел через гейзеры в 2008. Жизнь возможна.",
+  "image": "fact-space-enceladus.webp",
+  "image_width": 1020,
+  "image_height": 1020,
+  "alt": "Энцелад",
+  "credit": "National Aeronautics and Space Administration (NASA) / Jet Propulsion Laboratory",
+  "source": "https://en.wikipedia.org/wiki/Enceladus",
+  "license": "PD",
+  "year": 2008
+}

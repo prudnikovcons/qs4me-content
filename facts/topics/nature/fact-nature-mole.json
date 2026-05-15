@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-mole",
+  "topic": "nature",
+  "title": "Крот",
+  "caption": "Подземный млекопитающий. Лапы — для копания. Звездонос — самые быстрые «зубы» среди млекопитающих, 0,2 секунды на укол добычи.",
+  "image": "fact-nature-mole.webp",
+  "image_width": 1280,
+  "image_height": 1022,
+  "alt": "Крот",
+  "credit": "Stanislaw Szydlo · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mole_(animal)",
+  "license": "CC-BY-SA",
+  "year": 2009
+}

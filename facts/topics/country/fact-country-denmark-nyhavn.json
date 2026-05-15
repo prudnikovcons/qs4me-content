@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-denmark-nyhavn",
+  "topic": "country",
+  "title": "Дания · Нюхавн",
+  "caption": "Цветные дома XVII века вдоль канала в Копенгагене. Дом № 20 — Ганс Христиан Андерсен прожил 18 лет, написал «Огниво» и «Принцессу на горошине».",
+  "image": "fact-country-denmark-nyhavn.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Нюхавн в Копенгагене",
+  "credit": "European Commission · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Nyhavn",
+  "license": "CC-BY",
+  "year": 2021,
+  "meta": {
+    "country_code": "DK"
+  }
+}

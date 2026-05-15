@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-tesla-roadster",
+  "topic": "events",
+  "title": "Tesla Roadster в космосе",
+  "caption": "6 февраля 2018. Falcon Heavy запустил Tesla Roadster Илона Маска с манекеном Starman. На гелиоцентрической орбите вокруг Солнца до сих пор.",
+  "image": "fact-events-tesla-roadster.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Tesla Roadster в космосе",
+  "credit": "SpaceX · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Elon_Musk's_Tesla_Roadster",
+  "license": "CC0",
+  "year": 2018
+}

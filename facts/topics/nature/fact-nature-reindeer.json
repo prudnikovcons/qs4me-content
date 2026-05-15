@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-reindeer",
+  "topic": "nature",
+  "title": "Северный олень",
+  "caption": "Единственный олень, у которого рога есть и у самок. Видит ультрафиолет — отличает лишайник от снега. Скорость 80 км/ч.",
+  "image": "fact-nature-reindeer.webp",
+  "image_width": 1280,
+  "image_height": 866,
+  "alt": "Северный олень",
+  "credit": "Are G Nilsen · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Reindeer",
+  "license": "CC-BY-SA",
+  "year": 2008
+}

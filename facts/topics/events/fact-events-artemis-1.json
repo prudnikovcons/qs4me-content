@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-artemis-1",
+  "topic": "events",
+  "title": "Artemis I",
+  "caption": "16 ноября — 11 декабря 2022. SLS впервые запустила Orion вокруг Луны (без экипажа). Подготовка к возвращению людей на Луну в 2027.",
+  "image": "fact-events-artemis-1.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Artemis I",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Artemis_1",
+  "license": "PD",
+  "year": 2022
+}

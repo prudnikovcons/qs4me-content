@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-piezoelectric",
+  "topic": "science",
+  "title": "Пьезоэффект",
+  "caption": "Кварц и др. кристаллы дают электричество при давлении. Открыт братьями Кюри 1880. Используется в часах, зажигалках, ультразвуке, микрофонах.",
+  "image": "fact-science-piezoelectric.webp",
+  "image_width": 1280,
+  "image_height": 1923,
+  "alt": "Пьезокристалл",
+  "credit": "Stephencdickson · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Piezoelectricity",
+  "license": "CC-BY-SA",
+  "year": 1880
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-food-acai",
+  "topic": "food",
+  "title": "Асаи",
+  "caption": "Бразильская ягода. Высокое содержание антоцианинов. Традиционная еда бразильцев с XIV в. С 2000-х — суперфуд в мире, $1,3 млрд рынок 2023.",
+  "image": "fact-food-acai.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Ягоды асаи",
+  "credit": "Vihelik · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/A%C3%A7a%C3%AD",
+  "license": "PD",
+  "year": 2010,
+  "meta": {
+    "country_code": "BR"
+  }
+}

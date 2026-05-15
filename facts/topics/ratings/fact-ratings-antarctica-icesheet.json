@@ -1,0 +1,14 @@
+{
+  "id": "fact-ratings-antarctica-icesheet",
+  "topic": "ratings",
+  "title": "Антарктический ледник",
+  "caption": "Содержит 60% пресной воды Земли. Толщина льда до 4776 м. Если растает — океан поднимется на 58 м.",
+  "image": "fact-ratings-antarctica-icesheet.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Антарктида",
+  "credit": "NASA Goddard's Scientific Visualization Studio · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Antarctic_ice_sheet",
+  "license": "PD",
+  "year": 2014
+}
