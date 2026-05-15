@@ -1,0 +1,22 @@
+{
+  "id": "haydn-lark-4-finale",
+  "file": "haydn-lark-4-finale.mp3",
+  "title": "Струнный квартет ре мажор op. 64 № 5 «Жаворонок», IV — Finale Vivace",
+  "title_original": "String Quartet in D major, Op. 64 No. 5 «The Lark», IV — Finale Vivace",
+  "composer_id": "haydn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1790,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet",
+    "fugue"
+  ],
+  "duration_sec": 91,
+  "description_md": "Финал — Vivace, ре мажор, размер 2/4. Полтора минуты безостановочного движения шестнадцатыми в форме perpetuum mobile: первая скрипка не останавливается ни на одной длинной ноте от первого такта до последнего.\n\nГайдн строит финал как лёгкое скерцо с элементами фугато — короткие имитационные эпизоды в трёх нижних голосах под виртуозной партией первой скрипки. Самая короткая часть квартета, при этом самая технически сложная: первая скрипка играет почти всё в высокой позиции на струне ми, и темп Vivace оставляет минимум места для ошибок. Завершает квартет одной из самых стремительных кодас всего опуса 64.",
+  "trivia": "Op. 64 — последний цикл квартетов, написанный Гайдном в эпоху Эстерхази; через несколько месяцев он переедет в Лондон по приглашению Иоганна Петера Саломона.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

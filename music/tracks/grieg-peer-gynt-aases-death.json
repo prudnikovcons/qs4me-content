@@ -1,0 +1,20 @@
+{
+  "id": "grieg-peer-gynt-aases-death",
+  "file": "grieg-peer-gynt-aases-death.mp3",
+  "title": "«Пер Гюнт», сюита № 1 op. 46 — II. Смерть Озе",
+  "title_original": "Peer Gynt Suite No. 1, Op. 46 — II. Aase's Death",
+  "composer_id": "grieg",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1875,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "chamber"
+  ],
+  "duration_sec": 273,
+  "description_md": "Вторая часть сюиты — погребальное Andante, си минор, только струнные с сурдинами. Озе — мать Пера Гюнта, умирающая в момент, когда сын возвращается с моря; в драме Ибсена сцена решена как монолог Пера у её постели.\n\nГриг отказывается от изобразительности и пишет максимально аскетично: вся часть построена на нисходящем хроматизме, повторяющемся в нескольких возгласах с нарастающей и затухающей динамикой. Никакой мелодии в обычном смысле — только мрак и тишина, дыхание оркестра. Четыре с половиной минуты струнного пианиссимо, заканчивающихся в фа-диез мажоре — переход от смерти к примирению.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

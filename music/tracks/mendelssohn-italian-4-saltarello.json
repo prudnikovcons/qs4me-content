@@ -1,0 +1,20 @@
+{
+  "id": "mendelssohn-italian-4-saltarello",
+  "file": "mendelssohn-italian-4-saltarello.mp3",
+  "title": "Итальянская симфония № 4 op. 90, IV — Saltarello: Presto",
+  "title_original": "Symphony No. 4 in A major «Italian», Op. 90, IV — Saltarello: Presto",
+  "composer_id": "mendelssohn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1833,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 367,
+  "description_md": "Финал «Итальянской» симфонии Мендельсона — Сальтарелло, ля минор, размер 4/4. Симфония написана в 1833 году после двухлетнего путешествия Мендельсона по Италии (1830–1831); в письмах он описывает финал как «впечатления от римского карнавала».\n\nСальтарелло — итальянский народный танец на 6/8 с характерными прыжками, который Мендельсон комбинирует с тарантеллой (южноиталийский «безумный» танец). Главная тема — мощная пунктирная фигура во флейтах, поддерживаемая бубном (нетипичный для симфонии инструмент XIX века). Шесть минут безостановочного движения; финал в миноре — редкость для симфонии в мажорной тональности, что нарушает классическую конвенцию «темного начала к светлому концу».",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

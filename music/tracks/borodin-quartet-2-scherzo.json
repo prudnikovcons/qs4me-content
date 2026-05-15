@@ -1,0 +1,20 @@
+{
+  "id": "borodin-quartet-2-scherzo",
+  "file": "borodin-quartet-2-scherzo.mp3",
+  "title": "Струнный квартет № 2 ре мажор, II — Скерцо Allegro",
+  "title_original": "String Quartet No. 2 in D major, II — Scherzo: Allegro",
+  "composer_id": "borodin",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1881,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 336,
+  "description_md": "Вторая часть Струнного квартета № 2 ре мажор — Скерцо, размер 6/8. Квартет написан Бородиным в 1881 году в Москве, посвящён жене Екатерине Сергеевне Бородиной к двадцатилетию свадьбы. Лирический характер всего цикла — редкость для русской музыки той эпохи; в этом квартете нет «русскости» в обычном смысле, нет фольклорных тем, нет программности — только камерная любовь.\n\nСкерцо — единственная по-настоящему быстрая часть. Перекличка двух скрипок над пиццикато виолончели, лёгкий невесомый характер. Среднее трио — медленное вальсовое отступление, после которого скерцо возвращается без буквального повтора. Бородин в это время работает над оперой «Князь Игорь» — у него мало времени на квартет, и быстрая написанность видна в лёгкой, прозрачной фактуре.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "grieg-peer-gynt-anitras-dance",
+  "file": "grieg-peer-gynt-anitras-dance.mp3",
+  "title": "«Пер Гюнт», сюита № 1 op. 46 — III. Танец Анитры",
+  "title_original": "Peer Gynt Suite No. 1, Op. 46 — III. Anitra's Dance",
+  "composer_id": "grieg",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1875,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "chamber"
+  ],
+  "duration_sec": 239,
+  "description_md": "Третья часть сюиты — Танец Анитры, ля минор, размер 3/4. По сюжету Анитра — дочь бедуинского шейха, танцующая для гостя Пера Гюнта (который выдаёт себя за пророка); это эпизод марокканского акта, где Пер ищет себя в чужой культуре.\n\nГриг пишет восточный танец европейскими средствами: пиццикато струнных как «барабанная» основа, треугольник на сильные доли, кларнет ведёт извилистую мелодию с типичным «турецким» (для XIX века) хроматизмом. Размер не пятидольный, как в реальной арабской традиции, а классический трёхдольный — это западный стилизованный «ориентализм», характерный для романтизма от Бизе до Римского-Корсакова.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

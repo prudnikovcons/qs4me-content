@@ -1,0 +1,15 @@
+{
+  "slug": "string-quartets",
+  "name_ru": "Струнные квартеты — четыре умных собеседника",
+  "description_ru": "Шесть треков жанра, который Гёте описал как «разговор четырёх умных людей»: Гайдн «Жаворонок» 1790 года — родоначальник классического квартета, и Бородин ре мажор 1881 года — лирическая русская кульминация жанра. Камерная музыка для двух скрипок, альта и виолончели — самый интимный из академических жанров.",
+  "mood": "introspective",
+  "best_time": "evening",
+  "track_ids": [
+    "haydn-lark-1-allegro",
+    "haydn-lark-2-adagio",
+    "haydn-lark-3-menuetto",
+    "haydn-lark-4-finale",
+    "borodin-quartet-2-scherzo"
+  ],
+  "cover_track_id": "haydn-lark-1-allegro"
+}

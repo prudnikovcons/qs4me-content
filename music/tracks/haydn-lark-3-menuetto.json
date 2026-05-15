@@ -1,0 +1,20 @@
+{
+  "id": "haydn-lark-3-menuetto",
+  "file": "haydn-lark-3-menuetto.mp3",
+  "title": "Струнный квартет ре мажор op. 64 № 5 «Жаворонок», III — Menuetto Allegretto",
+  "title_original": "String Quartet in D major, Op. 64 No. 5 «The Lark», III — Menuetto Allegretto",
+  "composer_id": "haydn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1790,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 226,
+  "description_md": "Менуэт с трио, ре мажор. Менуэт у позднего Гайдна уже не строгий придворный танец — здесь он почти crossover между скерцо и сельским танцем, с размашистой темой во всех четырёх голосах одновременно.\n\nТрио в одноимённом миноре — типичный гайдновский приём «потемнения» средней секции; ре минор задаёт момент сосредоточенности, после которого мажорный менуэт возвращается уже не как репетиция, а как разрешение. Структура каноническая ABA, без вариаций. Чуть меньше четырёх минут — обычная для позднего гайдновского менуэта длительность.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

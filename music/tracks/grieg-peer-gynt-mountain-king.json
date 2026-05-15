@@ -1,0 +1,21 @@
+{
+  "id": "grieg-peer-gynt-mountain-king",
+  "file": "grieg-peer-gynt-mountain-king.mp3",
+  "title": "«Пер Гюнт», сюита № 1 op. 46 — IV. В пещере горного короля",
+  "title_original": "Peer Gynt Suite No. 1, Op. 46 — IV. In the Hall of the Mountain King",
+  "composer_id": "grieg",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1875,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "chamber"
+  ],
+  "duration_sec": 154,
+  "description_md": "Финал сюиты № 1 — Пер бежит из подземного зала троллей, которые гонятся за ним. Тема — короткий маршевый мотив в басу, шестнадцать тактов, повторяется без изменений около двадцати раз. Меняются только динамика (от пианиссимо до фортиссимо) и темп (от Allegretto до Prestissimo).\n\nЭто один из самых ранних примеров «техники крещендо-нарастания», ставшей популярной в XX веке (Равель «Болеро» 1928 идёт по тому же принципу). Григ опередил Равеля на полвека. Два с половиной минуты, чистая ритмическая энергия, экспоненциальный взрыв в финале — пьеса прочно вошла в поп-культуру через рекламу, кино и видеоигры.",
+  "trivia": "В драме Ибсена король троллей предлагает Перу жениться на своей дочери и стать «троллем по сути»; Пер отказывается.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

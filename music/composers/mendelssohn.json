@@ -1,0 +1,14 @@
+{
+  "id": "mendelssohn",
+  "full_name_ru": "Феликс Мендельсон",
+  "full_name_en": "Felix Mendelssohn",
+  "birth": 1809,
+  "death": 1847,
+  "country": "Германия",
+  "era": "romanticism",
+  "summary_ru": "Немецкий композитор раннего романтизма, пианист, дирижёр. Пять симфоний (Шотландская, Итальянская), концерты, оратории «Илия» и «Павел», «Песни без слов» для фортепиано. В 1829 году дирижировал первым после Баха исполнением «Страстей по Матфею» — это положило начало Bach Revival в XIX веке.",
+  "photo": "mendelssohn.jpg",
+  "photo_credit": "Eduard Magnus · 1833 · масло · PD",
+  "photo_license": "PD",
+  "source": "https://en.wikipedia.org/wiki/Felix_Mendelssohn"
+}

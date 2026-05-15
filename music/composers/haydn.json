@@ -1,0 +1,14 @@
+{
+  "id": "haydn",
+  "full_name_ru": "Йозеф Гайдн",
+  "full_name_en": "Franz Joseph Haydn",
+  "birth": 1732,
+  "death": 1809,
+  "country": "Австрия",
+  "era": "classical",
+  "summary_ru": "Австрийский композитор венского классицизма. Около 30 лет служил у князей Эстерхази в Эйзенштадте. 104 симфонии, 68 струнных квартетов, оратории «Сотворение мира» и «Времена года». Учитель Моцарта и Бетховена; в истории жанров его называют «отцом симфонии» и «отцом струнного квартета».",
+  "photo": "haydn.jpg",
+  "photo_credit": "Wikimedia Commons · PD",
+  "photo_license": "PD",
+  "source": "https://en.wikipedia.org/wiki/Joseph_Haydn"
+}

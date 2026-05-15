@@ -79,16 +79,33 @@
   {
     "slug": "morning-calm",
     "name_ru": "Утреннее затишье",
-    "description_ru": "Пять медленных пьес для мягкого старта дня — Aria из Гольдберг-вариаций, лирическая 13-я вариация, Менуэт из сонаты Моцарта KV 331. Без фортиссимо, без драматических кульминаций. Подходит как фон под чтение или утренний кофе.",
+    "description_ru": "Семь медленных пьес для мягкого старта дня — «Утро» Грига из «Пер Гюнта», лирические Гольдберг-вариации Баха, певучее Adagio из «Жаворонка» Гайдна, Менуэт Моцарта. Без фортиссимо, без драматических кульминаций. Подходит как фон под чтение или утренний кофе.",
     "mood": "calm",
     "best_time": "morning",
     "track_ids": [
+      "grieg-peer-gynt-morning",
       "bach-goldberg-aria",
+      "haydn-lark-2-adagio",
       "bach-goldberg-var-13",
       "mozart-sonata-11-menuetto",
       "bach-goldberg-var-24",
       "bach-goldberg-aria-da-capo"
     ],
-    "cover_track_id": "bach-goldberg-aria"
+    "cover_track_id": "grieg-peer-gynt-morning"
+  },
+  {
+    "slug": "string-quartets",
+    "name_ru": "Струнные квартеты — четыре умных собеседника",
+    "description_ru": "Шесть треков жанра, который Гёте описал как «разговор четырёх умных людей»: Гайдн «Жаворонок» 1790 года — родоначальник классического квартета, и Бородин ре мажор 1881 года — лирическая русская кульминация жанра. Камерная музыка для двух скрипок, альта и виолончели — самый интимный из академических жанров.",
+    "mood": "introspective",
+    "best_time": "evening",
+    "track_ids": [
+      "haydn-lark-1-allegro",
+      "haydn-lark-2-adagio",
+      "haydn-lark-3-menuetto",
+      "haydn-lark-4-finale",
+      "borodin-quartet-2-scherzo"
+    ],
+    "cover_track_id": "haydn-lark-1-allegro"
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "id": "haydn-lark-2-adagio",
+  "file": "haydn-lark-2-adagio.mp3",
+  "title": "Струнный квартет ре мажор op. 64 № 5 «Жаворонок», II — Adagio cantabile",
+  "title_original": "String Quartet in D major, Op. 64 No. 5 «The Lark», II — Adagio cantabile",
+  "composer_id": "haydn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1790,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 291,
+  "description_md": "Медленная часть — Adagio cantabile, ля мажор. Гайдн пишет её как одну длинную мелодическую дугу в первой скрипке: безостановочная певучая линия от первой до последней ноты, без остановок и развития мотивов. Это поздний гайдновский лиризм — пять минут на одной непрерывной фразе, без модуляционных потрясений, без драматических контрастов.\n\nТри нижних голоса держат аккомпанемент в характере серенады — мерная поступь, простые гармонии. Часть редко исполняется как самостоятельный концертный номер, но во всём цикле op. 64 № 5 это центральная медитативная пауза перед игривым менуэтом и финалом.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

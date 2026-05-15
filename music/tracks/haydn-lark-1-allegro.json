@@ -1,0 +1,20 @@
+{
+  "id": "haydn-lark-1-allegro",
+  "file": "haydn-lark-1-allegro.mp3",
+  "title": "Струнный квартет ре мажор op. 64 № 5 «Жаворонок», I — Allegro moderato",
+  "title_original": "String Quartet in D major, Op. 64 No. 5 «The Lark», I — Allegro moderato",
+  "composer_id": "haydn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1790,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 371,
+  "description_md": "Квартет № 5 из шести квартетов op. 64, написанных Гайдном в 1790 году в Эстерхазе, последнем году службы у князя Николая Эстерхази. Подзаголовок «Жаворонок» появился позже — современники услышали в первой теме высокую трель скрипки как птичий вокал.\n\nFirst скрипка ведёт мелодию в высоком регистре над аккомпанементом трёх остальных голосов — приём, который Гайдн использует здесь радикальнее, чем в любом предыдущем квартете: верхняя партия выходит к концертной виртуозности, остальные становятся аккомпанементом. Форма сонатного аллегро без особенностей, разработка короткая. Шесть с лишним минут — это типичная длительность гайдновского аллегро 1790-х.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}
