@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-pangaea",
+  "topic": "infographics",
+  "title": "Пангея",
+  "caption": "Суперконтинент 335–175 млн лет назад. Все нынешние континенты собраны в один. Окружён океаном Панталасса.",
+  "image": "fact-infographics-map-pangaea.webp",
+  "image_width": 1280,
+  "image_height": 642,
+  "alt": "Реконструкция Пангеи",
+  "credit": "Scotese, Christopher R.; Vérard, Christian; Burgener, Landon; Elling, Reece P.; ",
+  "source": "https://en.wikipedia.org/wiki/Pangaea",
+  "license": "CC-BY",
+  "year": -200000000
+}

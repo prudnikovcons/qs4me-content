@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-flag-olympic",
+  "topic": "infographics",
+  "title": "Олимпийский флаг",
+  "caption": "5 переплетённых колец (синее, жёлтое, чёрное, зелёное, красное) на белом. Пьер де Кубертен, 1913. Кольца — 5 континентов.",
+  "image": "fact-infographics-flag-olympic.webp",
+  "image_width": 1280,
+  "image_height": 592,
+  "alt": "Олимпийский флаг",
+  "credit": "Original author: Pierre de Coubertin (1863-1937) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Olympic_symbols",
+  "license": "PD",
+  "year": 1913
+}

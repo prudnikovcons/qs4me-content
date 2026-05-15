@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-bertin-projection",
+  "topic": "infographics",
+  "title": "Проекция Винкеля III",
+  "caption": "Освальд Винкель, 1921. Псевдоцилиндрическая. Минимизирует искажение площади, формы и расстояния. С 1998 — официальная карта National Geographic.",
+  "image": "fact-infographics-map-bertin-projection.webp",
+  "image_width": 1280,
+  "image_height": 785,
+  "alt": "Проекция Винкеля III",
+  "credit": "Strebe · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Winkel_tripel_projection",
+  "license": "PD",
+  "year": 1921
+}

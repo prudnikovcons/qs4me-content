@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-chromosome-22",
+  "topic": "science",
+  "title": "Хромосомы человека",
+  "caption": "46 хромосом (23 пары). Содержат 3,1 млрд пар оснований ДНК. Самая длинная — №1 (250 Мб), самая короткая — Y (57 Мб). 22 000 генов.",
+  "image": "fact-science-chromosome-22.webp",
+  "image_width": 1280,
+  "image_height": 702,
+  "alt": "Хромосомы человека",
+  "credit": "Thomas Shafee · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Chromosome",
+  "license": "CC-BY",
+  "year": 2015
+}

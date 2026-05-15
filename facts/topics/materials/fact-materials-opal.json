@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-opal",
+  "topic": "materials",
+  "title": "Опал",
+  "caption": "Гидратированный SiO₂. Игра цвета — дифракция света на упорядоченных кремниевых шариках. 95% мировых опалов — из Австралии.",
+  "image": "fact-materials-opal.webp",
+  "image_width": 600,
+  "image_height": 392,
+  "alt": "Игра цвета в опале",
+  "credit": "Robert M. Lavinsky · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Opal",
+  "license": "CC-BY-SA",
+  "year": 2010
+}

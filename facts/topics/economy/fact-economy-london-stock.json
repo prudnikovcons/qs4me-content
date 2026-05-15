@@ -1,0 +1,14 @@
+{
+  "id": "fact-economy-london-stock",
+  "topic": "economy",
+  "title": "Лондонская биржа",
+  "caption": "Основана 1801 (формально), традиции с 1571. К 2024 — 6-я по капитализации мира ($3,2 трлн). Слияние с Deutsche Börse провалилось в 2017.",
+  "image": "fact-economy-london-stock.webp",
+  "image_width": 1280,
+  "image_height": 1249,
+  "alt": "Лондонская фондовая биржа",
+  "credit": "Ben1we · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/London_Stock_Exchange",
+  "license": "CC-BY-SA",
+  "year": 1801
+}

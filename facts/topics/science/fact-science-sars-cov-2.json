@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-sars-cov-2",
+  "topic": "science",
+  "title": "SARS-CoV-2",
+  "caption": "Коронавирус COVID-19. Геном 30 kb РНК, размер 100 нм. Шиповые белки (spikes) дают ему характерный «коронный» вид под микроскопом.",
+  "image": "fact-science-sars-cov-2.webp",
+  "image_width": 1280,
+  "image_height": 1000,
+  "alt": "SARS-CoV-2 под микроскопом",
+  "credit": "NIAID-RML (https://www.niaid.nih.gov/ &amp; https://www.niaid.nih.gov/about/rock",
+  "source": "https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2",
+  "license": "CC-BY",
+  "year": 2019
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-graphene-structure",
+  "topic": "science",
+  "title": "Структура графена",
+  "caption": "Слой sp²-углерода в 1 атом толщиной. Сотовая решётка. Прочнее стали в 200 раз. Изолирован в 2004 — Нобель Гейму и Новосёлову в 2010.",
+  "image": "fact-science-graphene-structure.webp",
+  "image_width": 1280,
+  "image_height": 1024,
+  "alt": "Структура графена",
+  "credit": "AlexanderAlUS · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Graphene",
+  "license": "CC-BY-SA",
+  "year": 2004
+}

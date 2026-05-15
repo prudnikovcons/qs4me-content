@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-hiv",
+  "topic": "science",
+  "title": "ВИЧ",
+  "caption": "Открыт в 1983 Монтанье и Барре-Синусси, Нобель 2008. Размер 120 нм. Без лечения убивает за 10-15 лет. С ARV больные живут полноценно 30+ лет.",
+  "image": "fact-science-hiv.webp",
+  "image_width": 1280,
+  "image_height": 850,
+  "alt": "ВИЧ под микроскопом",
+  "credit": "Photo Credit: C. Goldsmith Content Providers: CDC/ C. Goldsmith, P. Feorino, E. ",
+  "source": "https://en.wikipedia.org/wiki/HIV",
+  "license": "PD",
+  "year": 1983
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-amoeba",
+  "topic": "science",
+  "title": "Амёба",
+  "caption": "Одноклеточное без фиксированной формы. Двигается псевдоподиями. Размер до 1 мм. Хищница — поглощает бактерии и водоросли фагоцитозом.",
+  "image": "fact-science-amoeba.webp",
+  "image_width": 1280,
+  "image_height": 1657,
+  "alt": "Амёба под микроскопом",
+  "credit": "Respectively: NIAID, Cymothoa exigua, ja:User:NEON / User:NEON_ja, Jacob Lorenzo",
+  "source": "https://en.wikipedia.org/wiki/Amoeba",
+  "license": "CC-BY-SA",
+  "year": 2018
+}

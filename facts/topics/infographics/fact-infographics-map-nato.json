@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-nato",
+  "topic": "infographics",
+  "title": "НАТО",
+  "caption": "Основан 4 апреля 1949 в Вашингтоне. 12 учредителей → 32 страны (Швеция вступила в 2024). 50% мирового ВВП. 5,3 млн военнослужащих.",
+  "image": "fact-infographics-map-nato.webp",
+  "image_width": 1280,
+  "image_height": 641,
+  "alt": "Карта НАТО",
+  "credit": "Unknown authorUnknown author · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/NATO",
+  "license": "PD",
+  "year": 1949
+}

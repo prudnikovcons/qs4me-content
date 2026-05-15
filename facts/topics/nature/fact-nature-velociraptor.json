@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-velociraptor",
+  "topic": "nature",
+  "title": "Велоцираптор",
+  "caption": "75 млн лет назад, Монголия. Реально — 60 см ростом, 15 кг (как индюшка). Был покрыт перьями. Юрский парк сильно преувеличил.",
+  "image": "fact-nature-velociraptor.webp",
+  "image_width": 1280,
+  "image_height": 957,
+  "alt": "Реконструкция велоцираптора",
+  "credit": "Eduard Solà Vázquez · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Velociraptor",
+  "license": "CC-BY",
+  "year": 2022
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-wind-turbine",
+  "topic": "infographics",
+  "title": "Ветрогенератор",
+  "caption": "Лопасти 80-120 м. Башня 100-150 м высотой. Скорость ветра 3-25 м/с. Мощность 2-15 МВт. Один генератор питает 4000-12 000 домов.",
+  "image": "fact-infographics-wind-turbine.webp",
+  "image_width": 1280,
+  "image_height": 1979,
+  "alt": "Ветрогенератор в разрезе",
+  "credit": "Hans Hillewaert · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Wind_turbine",
+  "license": "CC-BY-SA",
+  "year": 2008
+}

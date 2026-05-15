@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-amazon-basin",
+  "topic": "infographics",
+  "title": "Бассейн Амазонки",
+  "caption": "7 миллионов км². Дренирует 40% Южной Америки. 15 000 видов растений, 4000 видов рыб. На него приходится 20% речного стока Земли.",
+  "image": "fact-infographics-map-amazon-basin.webp",
+  "image_width": 1280,
+  "image_height": 1282,
+  "alt": "Карта бассейна Амазонки",
+  "credit": "Kmusser · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Amazon_basin",
+  "license": "CC-BY-SA",
+  "year": 2008
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-infographics-flag-china",
+  "topic": "infographics",
+  "title": "Флаг Китая",
+  "caption": "Красный с 5 жёлтыми звёздами. Принят 27 сентября 1949. Большая звезда — компартия, 4 малых — рабочие, крестьяне, интеллигенция, буржуазия.",
+  "image": "fact-infographics-flag-china.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Флаг Китая",
+  "credit": "Zeng Liansong · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Flag_of_China",
+  "license": "PD",
+  "year": 1949,
+  "meta": {
+    "country_code": "CN"
+  }
+}

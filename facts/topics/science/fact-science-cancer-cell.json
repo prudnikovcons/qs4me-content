@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-cancer-cell",
+  "topic": "science",
+  "title": "Раковая клетка",
+  "caption": "Делится без контроля. У человека — 2 трлн делений в день, ошибок: 1 в 100 тыс. Иммунитет находит и уничтожает большинство до того, как растут.",
+  "image": "fact-science-cancer-cell.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Раковая клетка под микроскопом",
+  "credit": "Dr. Cecil Fox (Photographer) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Cancer_cell",
+  "license": "PD",
+  "year": 1987
+}

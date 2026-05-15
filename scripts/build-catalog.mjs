@@ -23,6 +23,30 @@ const TARGETS = {
 
 function readJson(p) { return JSON.parse(fs.readFileSync(p, "utf8")); }
 
+function deriveSource(url) {
+  if (!url) return "Unknown";
+  try {
+    const u = new URL(url);
+    const host = u.hostname.replace(/^www\./, "");
+    if (host.endsWith("wikipedia.org")) {
+      const lang = host.split(".")[0].toUpperCase();
+      return `Wikipedia ${lang}`;
+    }
+    if (host === "commons.wikimedia.org") return "Wikimedia Commons";
+    if (host === "ourworldindata.org") return "Our World in Data";
+    if (host.includes("nasa.gov")) return "NASA";
+    if (host.includes("noaa.gov")) return "NOAA";
+    if (host.includes("usgs.gov")) return "USGS";
+    if (host.includes("wellcomecollection.org")) return "Wellcome Collection";
+    if (host.includes("metmuseum.org")) return "Met Museum";
+    if (host.includes("rijksmuseum.nl")) return "Rijksmuseum";
+    if (host.includes("si.edu")) return "Smithsonian";
+    if (host.includes("loc.gov")) return "Library of Congress";
+    if (host.includes("cdc.gov")) return "CDC";
+    return host;
+  } catch { return "Unknown"; }
+}
+
 const topics = {};
 if (!fs.existsSync(TOPICS_DIR)) {
   console.error("No facts/topics dir found.");
@@ -44,11 +68,12 @@ for (const topicName of fs.readdirSync(TOPICS_DIR).sort()) {
         id: data.id,
         title: data.title,
         caption: data.caption,
-        image: `../facts/topics/${topicName}/${data.image}`,
+        image: `/facts/topics/${topicName}/${data.image}`,
         license: data.license,
         year: data.year,
         credit: data.credit,
         source: data.source,
+        source_type: deriveSource(data.source),
         width: data.image_width,
         height: data.image_height,
         sizeKB,
@@ -79,11 +104,14 @@ const data = topicNames.map((t) => {
 
 // License distribution
 const licenseCounts = {};
+const sourceCounts = {};
 for (const t of topicNames) {
   for (const f of topics[t]) {
     licenseCounts[f.license] = (licenseCounts[f.license] || 0) + 1;
+    sourceCounts[f.source_type] = (sourceCounts[f.source_type] || 0) + 1;
   }
 }
+const sourcesList = Object.entries(sourceCounts).sort((a, b) => b[1] - a[1]);
 
 const html = `<!DOCTYPE html>
 <html lang="ru">
@@ -114,6 +142,14 @@ const html = `<!DOCTYPE html>
   .card:hover { border-color:#3b82f6; }
   .card .img { aspect-ratio:1.3; background:#0a0d12; overflow:hidden; display:flex; align-items:center; justify-content:center; }
   .card .img img { width:100%; height:100%; object-fit:cover; display:block; }
+  .card .del-btn { position:absolute; top:4px; right:4px; width:24px; height:24px; border:none; border-radius:50%; background:rgba(236,68,68,0.85); color:white; font-size:14px; cursor:pointer; display:none; align-items:center; justify-content:center; line-height:0; padding:0; }
+  .card:hover .del-btn { display:flex; }
+  .card .del-btn:hover { background:rgba(220,38,38,1); transform:scale(1.1); }
+  .card { position:relative; }
+  .card.deleting { opacity:0.5; pointer-events:none; }
+  .card.deleted { display:none !important; }
+  #toast { position:fixed; bottom:20px; right:20px; background:#161b22; border:1px solid #2a323c; padding:8px 14px; border-radius:6px; opacity:0; transition:opacity 0.2s; z-index:300; font-size:12px; }
+  #toast.show { opacity:1; }
   .card .body { padding:10px 12px; display:flex; flex-direction:column; gap:6px; flex:1; }
   .card .title { font-weight:600; font-size:13px; line-height:1.3; }
   .card .caption { color:#a8acb4; font-size:12px; line-height:1.4; flex:1; }
@@ -122,6 +158,11 @@ const html = `<!DOCTYPE html>
   #search-wrap { padding:8px 0; }
   #search { background:#1c2129; color:#e6e8eb; border:1px solid #2a323c; border-radius:6px; padding:6px 12px; width:300px; font-size:13px; }
   #search:focus { outline:none; border-color:#3b82f6; }
+  #source-tabs { display:flex; flex-wrap:wrap; gap:4px; margin-top:10px; padding-top:10px; border-top:1px solid #1c2129; }
+  #source-tabs button { background:#1c2129; color:#cdd0d5; border:1px solid transparent; border-radius:14px; padding:5px 12px; font-size:12px; cursor:pointer; }
+  #source-tabs button:hover { border-color:#39414e; }
+  #source-tabs button.active { background:#3b82f6; color:white; border-color:#3b82f6; }
+  #source-tabs button .scount { opacity:0.7; margin-left:6px; }
   #modal { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.92); z-index:200; cursor:pointer; padding:24px; align-items:center; justify-content:center; }
   #modal.open { display:flex; }
   #modal img { max-width:90vw; max-height:80vh; object-fit:contain; }
@@ -142,6 +183,10 @@ const html = `<!DOCTYPE html>
   <nav>
     ${data.map((d) => `<a href="#topic-${d.topic}"><span class="dot" style="background:${d.color}"></span>${d.topic}<span class="count">${d.count}/${d.target}</span></a>`).join("")}
   </nav>
+  <div id="source-tabs">
+    <button data-source="*" class="active">Все источники<span class="scount">${totalFacts}</span></button>
+    ${sourcesList.map(([s, c]) => `<button data-source="${escapeHtml(s)}">${escapeHtml(s)}<span class="scount">${c}</span></button>`).join("")}
+  </div>
   <div id="search-wrap">
     <input id="search" placeholder="Фильтр по title / caption / id… (Ctrl+F)" autocomplete="off">
   </div>
@@ -158,8 +203,8 @@ ${data.map((d) => `
     </h2>
     <div class="grid">
       ${d.facts.map((f) => `
-        <div class="card" data-id="${escapeHtml(f.id)}" data-title="${escapeHtml(f.title.toLowerCase())}" data-caption="${escapeHtml(f.caption.toLowerCase())}" onclick="openModal(this)">
-          <div class="img">${f.exists ? `<img src="${f.image}" alt="${escapeHtml(f.title)}" loading="lazy">` : `<span style="color:#666">no image</span>`}</div>
+        <div class="card" data-id="${escapeHtml(f.id)}" data-title="${escapeHtml(f.title.toLowerCase())}" data-caption="${escapeHtml(f.caption.toLowerCase())}" data-source="${escapeHtml(f.source_type)}" onclick="openModal(event, this)">
+          <div class="img">${f.exists ? `<img src="${f.image}" alt="${escapeHtml(f.title)}" loading="lazy">` : `<span style="color:#666">no image</span>`}<button class="del-btn" onclick="deleteFact(event, this)" title="Удалить из репо">×</button></div>
           <div class="body">
             <div class="title">${escapeHtml(f.title)}</div>
             <div class="caption">${escapeHtml(f.caption)}</div>
@@ -182,22 +227,34 @@ ${data.map((d) => `
 
 <script>
   const search = document.getElementById("search");
-  search.addEventListener("input", (e) => {
-    const q = e.target.value.toLowerCase().trim();
+  let activeSource = "*";
+  function applyFilters() {
+    const q = search.value.toLowerCase().trim();
     document.querySelectorAll(".card").forEach(c => {
-      const m = !q || c.dataset.title.includes(q) || c.dataset.caption.includes(q) || c.dataset.id.includes(q);
-      c.classList.toggle("hidden", !m);
+      const matchSearch = !q || c.dataset.title.includes(q) || c.dataset.caption.includes(q) || c.dataset.id.includes(q);
+      const matchSource = activeSource === "*" || c.dataset.source === activeSource;
+      c.classList.toggle("hidden", !(matchSearch && matchSource));
     });
     document.querySelectorAll("section").forEach(s => {
       const visible = s.querySelectorAll(".card:not(.hidden)").length;
-      s.style.display = (!q || visible > 0) ? "" : "none";
+      s.style.display = (visible > 0) ? "" : "none";
+    });
+  }
+  search.addEventListener("input", applyFilters);
+  document.querySelectorAll("#source-tabs button").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll("#source-tabs button").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      activeSource = btn.dataset.source;
+      applyFilters();
     });
   });
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key === "f") { e.preventDefault(); search.focus(); search.select(); }
     if (e.key === "Escape") { closeModal(); search.blur(); }
   });
-  function openModal(card) {
+  function openModal(e, card) {
+    if (e.target.classList.contains("del-btn")) return;
     const img = card.querySelector("img");
     if (!img) return;
     const m = document.getElementById("modal");
@@ -206,6 +263,36 @@ ${data.map((d) => `
     mi.src = img.src;
     info.innerHTML = "<strong>" + card.querySelector(".title").textContent + "</strong><br>" + card.querySelector(".caption").textContent + "<br><small>" + card.dataset.id + "</small>";
     m.classList.add("open");
+  }
+  async function deleteFact(e, btn) {
+    e.stopPropagation();
+    const card = btn.closest(".card");
+    const id = card.dataset.id;
+    if (!confirm("Удалить «" + card.querySelector(".title").textContent + "»?\nJSON и webp будут стёрты из репо.")) return;
+    card.classList.add("deleting");
+    try {
+      const r = await fetch("/api/fact/" + encodeURIComponent(id), { method: "DELETE" });
+      const data = await r.json();
+      if (r.ok && data.ok) {
+        card.classList.add("deleted");
+        showToast("Удалено: " + id);
+      } else {
+        card.classList.remove("deleting");
+        showToast("Ошибка: " + (data.reason || r.status));
+      }
+    } catch (err) {
+      card.classList.remove("deleting");
+      showToast("Сеть упала. Каталог открыт через file://? Запусти pnpm catalog:serve.");
+    }
+  }
+  let toastTimer;
+  function showToast(msg) {
+    const t = document.getElementById("toast") || (() => {
+      const el = document.createElement("div"); el.id = "toast"; document.body.appendChild(el); return el;
+    })();
+    t.textContent = msg; t.classList.add("show");
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => t.classList.remove("show"), 2500);
   }
   function closeModal(e) {
     if (e && e.target.tagName === "IMG") return;

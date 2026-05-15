@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-edward-muybridge",
+  "topic": "events",
+  "title": "Скачущая лошадь",
+  "caption": "Эдвард Майбридж, 1878. 12 камер с триггерами снимают галоп лошади. Доказал — все 4 ноги одновременно отрываются от земли. Прародитель кино.",
+  "image": "fact-events-edward-muybridge.webp",
+  "image_width": 588,
+  "image_height": 704,
+  "alt": "Скачущая лошадь Майбриджа",
+  "credit": "Unknown authorUnknown author · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Eadweard_Muybridge",
+  "license": "PD",
+  "year": 1878
+}

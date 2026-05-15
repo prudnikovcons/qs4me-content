@@ -1,11 +1,13 @@
 [
   "fact-language-arabic",
+  "fact-language-basque",
   "fact-language-braille",
   "fact-language-cuneiform",
   "fact-language-cyrillic",
   "fact-language-devanagari",
   "fact-language-esperanto",
   "fact-language-extinct",
+  "fact-language-finnish",
   "fact-language-hangul",
   "fact-language-hebrew",
   "fact-language-japanese-kanji",
@@ -13,9 +15,12 @@
   "fact-language-mandarin",
   "fact-language-morse",
   "fact-language-pidgin-creole",
+  "fact-language-quechua",
   "fact-language-rune-stones",
   "fact-language-runes",
   "fact-language-sanskrit",
   "fact-language-sign",
-  "fact-language-tower-of-babel"
+  "fact-language-swahili",
+  "fact-language-tower-of-babel",
+  "fact-language-yiddish"
 ]

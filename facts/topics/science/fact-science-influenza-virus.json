@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-influenza-virus",
+  "topic": "science",
+  "title": "Вирус гриппа",
+  "caption": "Открыт в 1933. Размер 80-120 нм. 11 белков, всего 13.5 kbp РНК. Мутирует так быстро, что каждый год нужны новые вакцины.",
+  "image": "fact-science-influenza-virus.webp",
+  "image_width": 700,
+  "image_height": 743,
+  "alt": "Вирус гриппа под микроскопом",
+  "credit": "Photo Credit: Cynthia Goldsmith Content Providers(s): CDC/ Dr. Terrence Tumpey ·",
+  "source": "https://en.wikipedia.org/wiki/Influenza",
+  "license": "PD",
+  "year": 1933
+}

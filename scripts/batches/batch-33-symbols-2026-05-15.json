@@ -1,0 +1,360 @@
+[
+  {
+    "id": "fact-infographics-flag-france",
+    "topic": "infographics",
+    "title": "Флаг Франции",
+    "caption": "Триколор синий-белый-красный с 1794. Появился во время Великой Французской революции 1789. Пропорции 2:3. Цвета — Париж и Бурбоны.",
+    "alt": "Флаг Франции",
+    "year": 1794,
+    "meta": { "country_code": "FR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_France"
+  },
+  {
+    "id": "fact-infographics-flag-japan",
+    "topic": "infographics",
+    "title": "Флаг Японии · Хиномару",
+    "caption": "Белое полотнище с красным кругом. Используется с 701 г. н.э. Официальный флаг с 1870. Круг — солнце, символ императора и страны Восходящего солнца.",
+    "alt": "Флаг Японии",
+    "year": 701,
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_Japan"
+  },
+  {
+    "id": "fact-infographics-flag-uk",
+    "topic": "infographics",
+    "title": "Union Jack",
+    "caption": "Флаг Великобритании с 1801. Сочетание крестов: Св. Георгия (Англия), Св. Андрея (Шотландия), Св. Патрика (Ирландия). Симметрия неравномерная.",
+    "alt": "Флаг Великобритании",
+    "year": 1801,
+    "meta": { "country_code": "GB" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Union_Jack"
+  },
+  {
+    "id": "fact-infographics-flag-canada",
+    "topic": "infographics",
+    "title": "Флаг Канады",
+    "caption": "Кленовый лист, 15 февраля 1965. Заменил Red Ensign. Дизайн — Джордж Стэнли. 11 точек на листе. Цвета: красный и белый — национальные с XV века.",
+    "alt": "Флаг Канады",
+    "year": 1965,
+    "meta": { "country_code": "CA" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_Canada"
+  },
+  {
+    "id": "fact-infographics-flag-brazil",
+    "topic": "infographics",
+    "title": "Флаг Бразилии",
+    "caption": "Зелёный (леса), жёлтый (золото), синий круг с 27 звёздами (штаты + федеральный округ). Девиз Ordem e Progresso — позитивизм Конта.",
+    "alt": "Флаг Бразилии",
+    "year": 1889,
+    "meta": { "country_code": "BR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_Brazil"
+  },
+  {
+    "id": "fact-infographics-flag-china",
+    "topic": "infographics",
+    "title": "Флаг Китая",
+    "caption": "Красный с 5 жёлтыми звёздами. Принят 27 сентября 1949. Большая звезда — компартия, 4 малых — рабочие, крестьяне, интеллигенция, буржуазия.",
+    "alt": "Флаг Китая",
+    "year": 1949,
+    "meta": { "country_code": "CN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_China"
+  },
+  {
+    "id": "fact-infographics-flag-russia",
+    "topic": "infographics",
+    "title": "Флаг России",
+    "caption": "Бело-сине-красный триколор. Введён Петром I в 1693 для флота. Современная форма — с 1991. Пропорции 2:3.",
+    "alt": "Флаг России",
+    "year": 1693,
+    "meta": { "country_code": "RU" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_Russia"
+  },
+  {
+    "id": "fact-infographics-flag-germany",
+    "topic": "infographics",
+    "title": "Флаг Германии",
+    "caption": "Чёрный-красный-золотой. Возрождён в 1949 (ФРГ) и 1990 (объединение). Цвета — мундиры добровольцев в наполеоновских войнах 1813.",
+    "alt": "Флаг Германии",
+    "year": 1949,
+    "meta": { "country_code": "DE" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_Germany"
+  },
+  {
+    "id": "fact-infographics-flag-italy",
+    "topic": "infographics",
+    "title": "Флаг Италии",
+    "caption": "Зелёный-белый-красный триколор. Принят 18 июня 1946. Появился в 1797 в Цизальпинской республике (Наполеон). Цвета — национальные эмблемы.",
+    "alt": "Флаг Италии",
+    "year": 1946,
+    "meta": { "country_code": "IT" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_Italy"
+  },
+  {
+    "id": "fact-infographics-flag-spain",
+    "topic": "infographics",
+    "title": "Флаг Испании",
+    "caption": "Жёлтый и красный. Введён Карлом III в 1785 как морской флаг (выделялся в море). Герб — 5 королевств: Кастилия, Леон, Арагон, Наварра, Гранада.",
+    "alt": "Флаг Испании",
+    "year": 1785,
+    "meta": { "country_code": "ES" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_Spain"
+  },
+  {
+    "id": "fact-infographics-flag-india",
+    "topic": "infographics",
+    "title": "Флаг Индии",
+    "caption": "Шафрановый-белый-зелёный. В центре — Ашока Чакра (24 спицы). Принят 22 июля 1947. Цвета: мужество, мир, плодородие.",
+    "alt": "Флаг Индии",
+    "year": 1947,
+    "meta": { "country_code": "IN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_India"
+  },
+  {
+    "id": "fact-infographics-flag-south-africa",
+    "topic": "infographics",
+    "title": "Флаг ЮАР",
+    "caption": "Принят 27 апреля 1994 после конца апартеида. Использует 6 цветов — рекорд среди национальных флагов. Y-образная форма — слияние истории и единства.",
+    "alt": "Флаг ЮАР",
+    "year": 1994,
+    "meta": { "country_code": "ZA" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_South_Africa"
+  },
+  {
+    "id": "fact-infographics-flag-nepal",
+    "topic": "infographics",
+    "title": "Флаг Непала",
+    "caption": "Единственный непрямоугольный национальный флаг мира — 2 объединённых треугольника. Солнце и Луна. Возраст изображений на флаге — 2000 лет.",
+    "alt": "Флаг Непала",
+    "meta": { "country_code": "NP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_Nepal"
+  },
+  {
+    "id": "fact-infographics-flag-eu",
+    "topic": "infographics",
+    "title": "Флаг ЕС",
+    "caption": "12 золотых звёзд по кругу на синем — символ совершенства, не количества стран. Принят Советом Европы 8 декабря 1955, ЕС перенял в 1985.",
+    "alt": "Флаг ЕС",
+    "year": 1955,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_Europe"
+  },
+  {
+    "id": "fact-infographics-flag-un",
+    "topic": "infographics",
+    "title": "Флаг ООН",
+    "caption": "Карта мира в азимутальной проекции в обрамлении оливковых ветвей. Цвет — нейтральный синий. Принят 7 декабря 1946.",
+    "alt": "Флаг ООН",
+    "year": 1946,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flag_of_the_United_Nations"
+  },
+  {
+    "id": "fact-infographics-flag-olympic",
+    "topic": "infographics",
+    "title": "Олимпийский флаг",
+    "caption": "5 переплетённых колец (синее, жёлтое, чёрное, зелёное, красное) на белом. Пьер де Кубертен, 1913. Кольца — 5 континентов.",
+    "alt": "Олимпийский флаг",
+    "year": 1913,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Olympic_symbols"
+  },
+  {
+    "id": "fact-infographics-flag-red-cross",
+    "topic": "infographics",
+    "title": "Красный крест",
+    "caption": "Анри Дюнан, 1863. Эмблема МКК — инвертированный флаг Швейцарии (откуда родом Дюнан). С 1929 признан и красный полумесяц.",
+    "alt": "Эмблема Красного Креста",
+    "year": 1863,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Red_Cross"
+  },
+  {
+    "id": "fact-infographics-yin-yang",
+    "topic": "infographics",
+    "title": "Инь-ян",
+    "caption": "Древнекитайский символ дуализма. В каждой половине — точка противоположного цвета. Концепция Дао — баланс противоположностей.",
+    "alt": "Символ инь-ян",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yin_and_yang"
+  },
+  {
+    "id": "fact-infographics-caduceus",
+    "topic": "infographics",
+    "title": "Кадуцей",
+    "caption": "Жезл Гермеса с 2 змеями и крыльями. Символ торговли. Часто путают с Жезлом Асклепия (одна змея) — реальный символ медицины.",
+    "alt": "Кадуцей",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Caduceus"
+  },
+  {
+    "id": "fact-infographics-rod-of-asclepius",
+    "topic": "infographics",
+    "title": "Жезл Асклепия",
+    "caption": "Палка с одной обвитой змеёй. Древнегреческий символ бога медицины. Используется ВОЗ, AMA, всеми медицинскими организациями.",
+    "alt": "Жезл Асклепия",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rod_of_Asclepius"
+  },
+  {
+    "id": "fact-infographics-ankh",
+    "topic": "infographics",
+    "title": "Анх · египетский крест",
+    "caption": "Иероглиф «жизнь». 3000 до н.э. Изображался в руках фараонов и богов. Использовался коптскими христианами как форма креста.",
+    "alt": "Анх",
+    "year": -3000,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ankh"
+  },
+  {
+    "id": "fact-infographics-om",
+    "topic": "infographics",
+    "title": "Ом · ॐ",
+    "caption": "Священный звук в индуизме, буддизме, джайнизме. Появляется в Упанишадах (~700 до н.э.). 3 буквы санскрита: A-U-M. Означает все звуки Вселенной.",
+    "alt": "Символ Ом",
+    "year": -700,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Om"
+  },
+  {
+    "id": "fact-infographics-dharma-wheel",
+    "topic": "infographics",
+    "title": "Колесо Дхармы",
+    "caption": "Буддийский символ учения. 8 спиц — Восьмеричный путь Будды. Изображён на флагах Индии, Шри-Ланки, Камбоджи. С VI в. до н.э.",
+    "alt": "Колесо Дхармы",
+    "year": -500,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dharmachakra"
+  },
+  {
+    "id": "fact-infographics-cross-christian",
+    "topic": "infographics",
+    "title": "Христианский крест",
+    "caption": "Главный символ христианства с IV века (после Константина). До этого — рыба (ихтис) был более распространён. 50+ вариантов креста в христианстве.",
+    "alt": "Христианский крест",
+    "year": 300,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Christian_cross"
+  },
+  {
+    "id": "fact-infographics-star-of-david",
+    "topic": "infographics",
+    "title": "Звезда Давида",
+    "caption": "Гексаграмма, главный символ иудаизма. Не древний — массово стал использоваться только с XVII века. Сейчас на флаге Израиля (с 1948).",
+    "alt": "Звезда Давида",
+    "year": 1948,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Star_of_David"
+  },
+  {
+    "id": "fact-infographics-crescent-islam",
+    "topic": "infographics",
+    "title": "Полумесяц и звезда",
+    "caption": "Символ ислама. Не из Корана — взят у Османской империи XV века. На флагах Турции, Пакистана, Туниса, Алжира, Туркменистана.",
+    "alt": "Полумесяц и звезда",
+    "year": 1453,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Star_and_crescent"
+  },
+  {
+    "id": "fact-infographics-zodiac",
+    "topic": "infographics",
+    "title": "Знаки Зодиака",
+    "caption": "12 созвездий вдоль эклиптики. Введены Вавилоном, ~1000 до н.э. Каждый — 30° долготы. Прецессия сместила реальные созвездия с дат на 24°.",
+    "alt": "12 знаков Зодиака",
+    "year": -1000,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Zodiac"
+  },
+  {
+    "id": "fact-infographics-alchemical-symbols",
+    "topic": "infographics",
+    "title": "Алхимические символы",
+    "caption": "Знаки 7 классических металлов (Солнце-золото, Луна-серебро, Меркурий-ртуть и т.д.). Появились в эллинистическом Египте, ~300 до н.э.",
+    "alt": "Алхимические символы",
+    "year": -300,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alchemical_symbol"
+  },
+  {
+    "id": "fact-infographics-currency-symbols",
+    "topic": "infographics",
+    "title": "Символы валют",
+    "caption": "$ (1785), € (1995, Алан Биллингтон), £ (1661 — от Libra), ¥ (1872), ₽ (2013), ₿ (2009). Доллар — самый старый из современных.",
+    "alt": "Символы мировых валют",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Currency_symbol"
+  },
+  {
+    "id": "fact-infographics-peace-symbol",
+    "topic": "infographics",
+    "title": "Знак мира",
+    "caption": "Джеральд Холтом, 1958. Создан для маршей против ядерного оружия. Семафор: N (Nuclear) и D (Disarmament). Стал универсальным символом мира.",
+    "alt": "Знак мира",
+    "year": 1958,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Peace_symbol"
+  },
+  {
+    "id": "fact-infographics-recycling-symbol",
+    "topic": "infographics",
+    "title": "Знак переработки",
+    "caption": "Гэри Андерсон, 1970. Конкурс к первому Дню Земли. Лента Мёбиуса из 3 стрелок. Получил $2500 за дизайн — стал общественным достоянием.",
+    "alt": "Знак переработки",
+    "year": 1970,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Recycling_symbol"
+  },
+  {
+    "id": "fact-infographics-biohazard",
+    "topic": "infographics",
+    "title": "Знак биологической опасности",
+    "caption": "Чарлз Болдуин, 1966 для Dow Chemical. Выбран из 24 вариантов как самый «запоминающийся» в исследованиях. Не имеет конкретного значения — символ без значения.",
+    "alt": "Знак биологической опасности",
+    "year": 1966,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Biological_hazard"
+  },
+  {
+    "id": "fact-infographics-radioactive-symbol",
+    "topic": "infographics",
+    "title": "Знак радиоактивности",
+    "caption": "Трилистник. Лаборатория Беркли, 1946. Изначально синий на фуксии — позже жёлтый/чёрный как лучше видный. Универсальный с 1948.",
+    "alt": "Знак радиоактивности",
+    "year": 1946,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hazard_symbol"
+  },
+  {
+    "id": "fact-infographics-greek-alphabet-full",
+    "topic": "infographics",
+    "title": "Греческий алфавит · 24 буквы",
+    "caption": "Альфа, бета, гамма... омега. С IX в. до н.э. Первый алфавит с гласными. От него все европейские алфавиты и многие индийские.",
+    "alt": "Греческий алфавит",
+    "year": -800,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Greek_alphabet"
+  },
+  {
+    "id": "fact-infographics-cyrillic-letters",
+    "topic": "infographics",
+    "title": "Кириллица",
+    "caption": "Создана учениками Кирилла и Мефодия в IX веке. 33 буквы в современном русском. Используется в 50+ языках, 250+ миллионами людей.",
+    "alt": "Кириллический алфавит",
+    "year": 863,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cyrillic_script"
+  }
+]

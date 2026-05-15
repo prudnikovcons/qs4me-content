@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-iss-flightpath",
+  "topic": "infographics",
+  "title": "Орбита МКС над Землёй",
+  "caption": "Наклон орбиты 51,6° позволяет пролетать над 90% населённой суши. 16 витков в сутки. Между витками точка смещается на 22°.",
+  "image": "fact-infographics-map-iss-flightpath.webp",
+  "image_width": 1280,
+  "image_height": 851,
+  "alt": "Орбитальная траектория МКС",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/International_Space_Station",
+  "license": "PD",
+  "year": 2021
+}

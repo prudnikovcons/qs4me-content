@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-piano-action",
+  "topic": "infographics",
+  "title": "Механика фортепиано",
+  "caption": "88 клавиш, 230 струн, давление струн 18 тонн. Молоточек ударяет — звук. Демпфер останавливает. Изобретено Кристофори, 1700.",
+  "image": "fact-infographics-piano-action.webp",
+  "image_width": 1280,
+  "image_height": 1521,
+  "alt": "Механика фортепиано",
+  "credit": "Gryffindor · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Piano",
+  "license": "CC-BY-SA",
+  "year": 1700
+}

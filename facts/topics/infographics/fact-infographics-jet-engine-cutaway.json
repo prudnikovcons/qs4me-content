@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-jet-engine-cutaway",
+  "topic": "infographics",
+  "title": "Турбореактивный двигатель · разрез",
+  "caption": "Воздух → компрессор → камера сгорания (1500 °C) → турбина → реактивная струя. CFM56 (Boeing 737) — 250 кН тяги.",
+  "image": "fact-infographics-jet-engine-cutaway.webp",
+  "image_width": 1280,
+  "image_height": 777,
+  "alt": "Турбореактивный двигатель в разрезе",
+  "credit": "Shelley Gill · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Jet_engine",
+  "license": "PD",
+  "year": 2010
+}

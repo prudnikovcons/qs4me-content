@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-iss-ground-tracks",
+  "topic": "infographics",
+  "title": "Сеть оптического кабеля",
+  "caption": "1,4 миллиона км подводных интернет-кабелей соединяют континенты. Несут 99% межконтинентального трафика. Спутники не конкуренты по скорости.",
+  "image": "fact-infographics-map-iss-ground-tracks.webp",
+  "image_width": 1280,
+  "image_height": 981,
+  "alt": "Карта подводных интернет-кабелей",
+  "credit": "Oona Räisänen (User:Mysid) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Submarine_communications_cable",
+  "license": "PD",
+  "year": 2007
+}

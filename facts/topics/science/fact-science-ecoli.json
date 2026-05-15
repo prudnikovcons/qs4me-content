@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-ecoli",
+  "topic": "science",
+  "title": "Escherichia coli",
+  "caption": "Кишечная палочка. Длина 2 мкм. Делится каждые 20 минут — 1 миллиард потомков за 12 часов. Главный модельный организм биологии 100+ лет.",
+  "image": "fact-science-ecoli.webp",
+  "image_width": 1280,
+  "image_height": 931,
+  "alt": "Escherichia coli под микроскопом",
+  "credit": "Photo by Eric Erbe, digital colorization by Christopher Pooley, both of USDA, AR",
+  "source": "https://en.wikipedia.org/wiki/Escherichia_coli",
+  "license": "PD",
+  "year": 2005
+}

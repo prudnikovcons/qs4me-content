@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-population-density",
+  "topic": "infographics",
+  "title": "Плотность населения мира",
+  "caption": "Глобально 60 человек на км². Дельта Нила — 3000, Бангладеш 1300, Япония 340, США 36, Россия 9, Гренландия 0,03.",
+  "image": "fact-infographics-map-population-density.webp",
+  "image_width": 1280,
+  "image_height": 962,
+  "alt": "Карта плотности населения",
+  "credit": "United Nations, DESA, Population Division · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/World_population",
+  "license": "CC-BY",
+  "year": 2022
+}

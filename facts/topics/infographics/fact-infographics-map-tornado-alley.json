@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-tornado-alley",
+  "topic": "infographics",
+  "title": "Аллея торнадо",
+  "caption": "Центральная часть США — рекорд частоты торнадо в мире. 1200 в год. Период с апреля по июнь. Категории F0-F5 (Фуджита).",
+  "image": "fact-infographics-map-tornado-alley.webp",
+  "image_width": 1280,
+  "image_height": 819,
+  "alt": "Карта Аллеи торнадо в США",
+  "credit": "Dan Craggs · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Tornado_Alley",
+  "license": "CC-BY-SA",
+  "year": 2009
+}

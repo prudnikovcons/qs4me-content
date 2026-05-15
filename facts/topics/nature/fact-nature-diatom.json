@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-diatom",
+  "topic": "nature",
+  "title": "Диатомеи",
+  "caption": "Одноклеточные водоросли с панцирями из кремния. 200 000 видов. Производят 20% мирового кислорода. Геометрические узоры микроскопические.",
+  "image": "fact-nature-diatom.webp",
+  "image_width": 1280,
+  "image_height": 841,
+  "alt": "Диатомеи под микроскопом",
+  "credit": "Prof. Gordon T. Taylor, Stony Brook University · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Diatom",
+  "license": "PD",
+  "year": 1983
+}

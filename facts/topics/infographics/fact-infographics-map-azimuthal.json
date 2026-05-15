@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-azimuthal",
+  "topic": "infographics",
+  "title": "Азимутальная проекция",
+  "caption": "Используется на флаге ООН — Земля с Северного полюса. Полюс в центре, океаны — кольца. Изобретена ~150 до н.э. Гиппархом.",
+  "image": "fact-infographics-map-azimuthal.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Азимутальная проекция Земли",
+  "credit": "Strebe · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Azimuthal_equidistant_projection",
+  "license": "CC-BY-SA",
+  "year": -150
+}

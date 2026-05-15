@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-niepce-photo",
+  "topic": "events",
+  "title": "Первая фотография в истории",
+  "caption": "Жозеф Ньепс, 1826 или 1827. «Вид из окна в Ле Гра». Экспозиция 8 часов на оловянной пластине с битумом. Хранится в Техасском университете.",
+  "image": "fact-events-niepce-photo.webp",
+  "image_width": 1280,
+  "image_height": 1077,
+  "alt": "Первая фотография Ньепса",
+  "credit": "Nicéphore Niépce · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras",
+  "license": "PD",
+  "year": 1826
+}

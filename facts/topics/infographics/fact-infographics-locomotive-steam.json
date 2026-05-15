@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-locomotive-steam",
+  "topic": "infographics",
+  "title": "Паровоз в разрезе",
+  "caption": "Котёл → топка → паровая машина → колёса. Самый мощный — Big Boy (1941): 600 тонн, 6600 л.с. Уголь горит при 1100 °C, давление пара 21 атм.",
+  "image": "fact-infographics-locomotive-steam.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Схема паровоза",
+  "credit": "PTG Dudva · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Steam_locomotive",
+  "license": "CC-BY-SA",
+  "year": 1941
+}

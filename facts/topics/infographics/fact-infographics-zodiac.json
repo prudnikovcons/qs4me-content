@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-zodiac",
+  "topic": "infographics",
+  "title": "Знаки Зодиака",
+  "caption": "12 созвездий вдоль эклиптики. Введены Вавилоном, ~1000 до н.э. Каждый — 30° долготы. Прецессия сместила реальные созвездия с дат на 24°.",
+  "image": "fact-infographics-zodiac.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "12 знаков Зодиака",
+  "credit": "Tauʻolunga · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Zodiac",
+  "license": "CC-BY-SA",
+  "year": -1000
+}

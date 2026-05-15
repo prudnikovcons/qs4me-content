@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-trinity-test",
+  "topic": "history",
+  "title": "Тринити · первое ядерное",
+  "caption": "16 июля 1945, 5:29 утра, Нью-Мексико. Первое в истории испытание ядерного оружия. Заряд 21 килотонна. Вспышка ярче 1000 солнц.",
+  "image": "fact-history-trinity-test.webp",
+  "image_width": 1280,
+  "image_height": 1472,
+  "alt": "Тринити — первое ядерное испытание",
+  "credit": "Jack W. Aeby, July 16, 1945, Civilian worker at Los Alamos laboratory, working u",
+  "source": "https://en.wikipedia.org/wiki/Trinity_(nuclear_test)",
+  "license": "PD",
+  "year": 1945
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "fact-art-vermeer-milkmaid",
+    "topic": "art",
+    "title": "Молочница · Вермеер",
+    "caption": "Ян Вермеер, ~1660. 46×41 см. В пять раз увеличенная при сканировании показала: молоко льётся ровно посередине золотого сечения.",
+    "alt": "«Молочница» Вермеера",
+    "year": 1660,
+    "meta": { "artist": "Johannes Vermeer" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Milkmaid_(Vermeer)"
+  },
+  {
+    "id": "fact-art-bruegel-tower",
+    "topic": "art",
+    "title": "Вавилонская башня · Брейгель",
+    "caption": "Питер Брейгель Старший, 1563. 114×155 см. Вдохновлена руинами Колизея в Риме, который Брейгель видел в 1553. Венский музей.",
+    "alt": "«Вавилонская башня» Брейгеля",
+    "year": 1563,
+    "meta": { "artist": "Pieter Bruegel the Elder" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Tower_of_Babel_(Bruegel)"
+  },
+  {
+    "id": "fact-art-cezanne-mont",
+    "topic": "art",
+    "title": "Гора Сент-Виктуар",
+    "caption": "Поль Сезанн, серия 1880–1906. Написал гору 87 раз — в масле, акварели, карандашом. Прелюдия к кубизму через 5 лет после его смерти.",
+    "alt": "Гора Сент-Виктуар Сезанна",
+    "year": 1906,
+    "meta": { "artist": "Paul Cézanne" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mont_Sainte-Victoire_(Cézanne)"
+  },
+  {
+    "id": "fact-art-gauguin-tahiti",
+    "topic": "art",
+    "title": "Откуда мы? Кто мы? · Гоген",
+    "caption": "Поль Гоген, 1897, Таити. 139×374 см. Самое крупное полотно Гогена. Хотел покончить с собой после завершения — но выжил, прожил ещё 6 лет.",
+    "alt": "«Откуда мы пришли» Гогена",
+    "year": 1897,
+    "meta": { "artist": "Paul Gauguin" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Where_Do_We_Come_From?_What_Are_We?_Where_Are_We_Going?"
+  },
+  {
+    "id": "fact-architecture-eiffel-tower-arch",
+    "topic": "architecture",
+    "title": "Эйфелева башня · конструкция",
+    "caption": "18 038 железных деталей, 2,5 миллиона заклёпок. Гюстав Эйфель, 1889. Высота 324 м со шпилем. Колеблется на 12 см от ветра.",
+    "alt": "Эйфелева башня — конструкция",
+    "year": 1889,
+    "meta": { "country_code": "FR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eiffel_Tower"
+  },
+  {
+    "id": "fact-architecture-pyramid-louvre",
+    "topic": "architecture",
+    "title": "Пирамида Лувра",
+    "caption": "Цзё Мин Пэй, 1989. Стеклянная пирамида 21,6 м во дворе Лувра. 673 ромбовидных стеклянных панели. Главный вход в музей.",
+    "alt": "Пирамида Лувра",
+    "year": 1989,
+    "meta": { "country_code": "FR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Louvre_Pyramid"
+  },
+  {
+    "id": "fact-architecture-arc-de-triomphe",
+    "topic": "architecture",
+    "title": "Триумфальная арка",
+    "caption": "Париж, 1806–1836. По указу Наполеона. Высота 50 м. На вершине — Могила Неизвестного солдата с 1920. Сходятся 12 авеню.",
+    "alt": "Триумфальная арка в Париже",
+    "year": 1836,
+    "meta": { "country_code": "FR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Arc_de_Triomphe"
+  },
+  {
+    "id": "fact-architecture-pyramid-louvre-2",
+    "topic": "architecture",
+    "title": "Купол Святого Петра",
+    "caption": "Микеланджело, 1564–1626. Диаметр 42 м, высота 136 м. Образец купольных церквей мира. Капитолий Вашингтона построен по этому образцу.",
+    "alt": "Купол Святого Петра",
+    "year": 1626,
+    "meta": { "country_code": "VA" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "St._Peter's_Basilica"
+  },
+  {
+    "id": "fact-architecture-tower-london",
+    "topic": "architecture",
+    "title": "Тауэр",
+    "caption": "Лондон, основан Вильгельмом Завоевателем в 1078. Крепость, дворец, тюрьма, монетный двор. Хранит Драгоценности Короны Британии (140 предметов).",
+    "alt": "Лондонский Тауэр",
+    "year": 1078,
+    "meta": { "country_code": "GB" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tower_of_London"
+  },
+  {
+    "id": "fact-space-itokawa",
+    "topic": "space",
+    "title": "Хаябуса · возврат с астероида",
+    "caption": "JAXA, 2003–2010. Первая миссия, привезшая образцы с астероида (Итокава). 1500 пылинок. Hayabusa2 в 2020 — образцы Рюгу.",
+    "alt": "Хаябуса и астероид",
+    "year": 2010,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hayabusa"
+  },
+  {
+    "id": "fact-space-osiris-rex",
+    "topic": "space",
+    "title": "OSIRIS-REx · Bennu",
+    "caption": "NASA, 2016. Достал 121 г с астероида Бенну. Капсула приземлилась в Юте 24 сентября 2023 — крупнейший образец с астероида в истории.",
+    "alt": "Зонд OSIRIS-REx",
+    "year": 2023,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "OSIRIS-REx"
+  },
+  {
+    "id": "fact-space-rosetta-comet",
+    "topic": "space",
+    "title": "Розетта на комете",
+    "caption": "ESA, 2004–2016. Первый зонд на орбите кометы (67P/Чурюмова-Герасименко). Модуль Philae сел на ядро кометы 12 ноября 2014.",
+    "alt": "Розетта и комета",
+    "year": 2014,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rosetta_(spacecraft)"
+  },
+  {
+    "id": "fact-space-parker",
+    "topic": "space",
+    "title": "Parker Solar Probe",
+    "caption": "NASA, 2018. Первый зонд внутри короны Солнца. К 2024 — рекорд скорости рукотворного объекта: 635 000 км/ч на перигелии. Жара 1400 °C.",
+    "alt": "Parker Solar Probe",
+    "year": 2018,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Parker_Solar_Probe"
+  },
+  {
+    "id": "fact-events-mona-lisa-theft",
+    "topic": "events",
+    "title": "Кража Моны Лизы",
+    "caption": "21 августа 1911. Винченцо Перуджа украл картину из Лувра под пальто. Картина пропадала 2 года 4 месяца. Без неё стала ещё знаменитей.",
+    "alt": "Стена Лувра 1911 после кражи",
+    "year": 1911,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Theft_of_the_Mona_Lisa"
+  },
+  {
+    "id": "fact-events-warhol-shot",
+    "topic": "events",
+    "title": "Покушение на Уорхола",
+    "caption": "3 июня 1968. Валери Соланас выстрелила в Энди Уорхола 3 раза. Уорхол выжил, но 6 операций. Соланас сдалась полиции через 3 часа.",
+    "alt": "Энди Уорхол в больнице",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Andy_Warhol"
+  },
+  {
+    "id": "fact-events-banksy-shredder",
+    "topic": "events",
+    "title": "Бэнкси шредер",
+    "caption": "5 октября 2018, Sotheby's Лондон. После продажи за £1,04 млн «Девочка с шаром» Бэнкси самоуничтожилась через шредер в раме. Цена выросла.",
+    "alt": "Картина Бэнкси шредер",
+    "year": 2018,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Love_is_in_the_Bin"
+  }
+]

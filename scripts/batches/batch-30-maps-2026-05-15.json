@@ -1,0 +1,384 @@
+[
+  {
+    "id": "fact-infographics-map-silk-road",
+    "topic": "infographics",
+    "title": "Шёлковый путь",
+    "caption": "Сеть торговых маршрутов от Сианя до Антиохии, ~130 до н.э. – XIV век. 6500 км. Передавал шёлк, специи, бумагу, чуму, ислам.",
+    "alt": "Карта Шёлкового пути",
+    "year": -130,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Silk_Road"
+  },
+  {
+    "id": "fact-infographics-map-persian-empire",
+    "topic": "infographics",
+    "title": "Империя Ахеменидов",
+    "caption": "550–330 до н.э. На пике — 5,5 млн км², 50 миллионов человек (44% человечества). Крупнейшая империя древности до Александра.",
+    "alt": "Карта Персидской империи Ахеменидов",
+    "year": -550,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Achaemenid_Empire"
+  },
+  {
+    "id": "fact-infographics-map-alexander",
+    "topic": "infographics",
+    "title": "Империя Александра",
+    "caption": "336–323 до н.э. От Греции до Индии за 13 лет. 5,2 млн км². После смерти Александра распалась на царства диадохов за 40 лет.",
+    "alt": "Карта империи Александра Македонского",
+    "year": -323,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Macedonian_Empire"
+  },
+  {
+    "id": "fact-infographics-map-byzantine",
+    "topic": "infographics",
+    "title": "Византийская империя",
+    "caption": "395–1453. Продолжение Восточной Римской после раздела. 1000 лет, столица — Константинополь. Пик при Юстиниане (565), 4,5 млн км².",
+    "alt": "Карта Византийской империи",
+    "year": 1453,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Byzantine_Empire"
+  },
+  {
+    "id": "fact-infographics-map-ottoman",
+    "topic": "infographics",
+    "title": "Османская империя",
+    "caption": "1299–1922. На пике (1683) — 5,2 млн км². Включала Балканы, Турцию, Левант, Египет, Северную Африку. Распалась после Первой мировой.",
+    "alt": "Карта Османской империи",
+    "year": 1683,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ottoman_Empire"
+  },
+  {
+    "id": "fact-infographics-map-british-empire",
+    "topic": "infographics",
+    "title": "Британская империя",
+    "caption": "1583–1997. Пик 1920 года: 35,5 млн км², 458 млн человек (23% планеты). «Империя, над которой никогда не заходит солнце».",
+    "alt": "Карта Британской империи",
+    "year": 1920,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "British_Empire"
+  },
+  {
+    "id": "fact-infographics-map-spanish-empire",
+    "topic": "infographics",
+    "title": "Испанская империя",
+    "caption": "1492–1976. Пик XVII век: 19,4 млн км². Латинская Америка, Филиппины, Карибы. Серебро из Потоси финансировало Европу 200 лет.",
+    "alt": "Карта Испанской империи",
+    "year": 1600,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Spanish_Empire"
+  },
+  {
+    "id": "fact-infographics-map-russian-empire",
+    "topic": "infographics",
+    "title": "Российская империя",
+    "caption": "1721–1917. На пике — 22,8 млн км², 178 млн человек. Третья по размеру империя в истории после Британской и Монгольской.",
+    "alt": "Карта Российской империи",
+    "year": 1900,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Russian_Empire"
+  },
+  {
+    "id": "fact-infographics-map-soviet-union",
+    "topic": "infographics",
+    "title": "СССР",
+    "caption": "1922–1991. 22,4 млн км² — 1/6 суши. 15 республик, 286 млн человек. Распался 26 декабря 1991. 33 независимых государства возникли с тех пор.",
+    "alt": "Карта СССР",
+    "year": 1991,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Soviet_Union"
+  },
+  {
+    "id": "fact-infographics-map-charlemagne",
+    "topic": "infographics",
+    "title": "Империя Карла Великого",
+    "caption": "768–814. Каролингская империя — 1,2 млн км². 25 декабря 800 г. Карл коронован Папой Львом III как император Запада. Прообраз Священной Римской.",
+    "alt": "Карта империи Карла Великого",
+    "year": 800,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Carolingian_Empire"
+  },
+  {
+    "id": "fact-infographics-map-aztec",
+    "topic": "infographics",
+    "title": "Империя ацтеков",
+    "caption": "1428–1521. Тройственный союз во главе с Теночтитланом (Мехико). 6 миллионов подданных. Завоёвана 500 испанцами Кортеса за 2 года.",
+    "alt": "Карта империи ацтеков",
+    "year": 1521,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aztec_Empire"
+  },
+  {
+    "id": "fact-infographics-map-inca",
+    "topic": "infographics",
+    "title": "Империя инков",
+    "caption": "1438–1533. От Колумбии до Чили — 5500 км вдоль Анд. 10 миллионов человек. Сеть дорог 40 000 км — длиннее Транссиба.",
+    "alt": "Карта империи инков",
+    "year": 1533,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Inca_Empire"
+  },
+  {
+    "id": "fact-infographics-map-maya",
+    "topic": "infographics",
+    "title": "Цивилизация майя",
+    "caption": "~2000 до н.э. – 1697 н.э. Юкатан и Гватемала. Без металла и колеса построили 40+ городов, разработали 0, точный календарь, иероглифы.",
+    "alt": "Карта цивилизации майя",
+    "year": 250,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Maya_civilization"
+  },
+  {
+    "id": "fact-infographics-map-mughal",
+    "topic": "infographics",
+    "title": "Империя Великих Моголов",
+    "caption": "1526–1857. Индия + Афганистан + Пакистан. Пик при Аурангзебе (1700) — 4 млн км², 158 млн человек. Тадж-Махал — наследие эпохи.",
+    "alt": "Карта империи Моголов",
+    "year": 1700,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mughal_Empire"
+  },
+  {
+    "id": "fact-infographics-map-qing",
+    "topic": "infographics",
+    "title": "Империя Цин",
+    "caption": "1644–1912. Последняя императорская династия Китая. Маньчжуры. На пике — 15 млн км², 300 миллионов человек.",
+    "alt": "Карта империи Цин",
+    "year": 1820,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Qing_dynasty"
+  },
+  {
+    "id": "fact-infographics-map-crusades",
+    "topic": "infographics",
+    "title": "Крестовые походы",
+    "caption": "1096–1291. 9 крупных походов в Святую землю. 2-3 миллиона участников за 200 лет. Иерусалим переходил из рук в руки 4 раза.",
+    "alt": "Карта Крестовых походов",
+    "year": 1096,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Crusades"
+  },
+  {
+    "id": "fact-infographics-map-black-death",
+    "topic": "infographics",
+    "title": "Распространение Чёрной смерти",
+    "caption": "1346–1353. Пришла с торговыми кораблями из Крыма. За 7 лет накрыла всю Европу, унесла 30-60% населения — около 75-200 миллионов жизней.",
+    "alt": "Карта распространения чумы 1346-1353",
+    "year": 1348,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Black_Death"
+  },
+  {
+    "id": "fact-infographics-map-magellan",
+    "topic": "infographics",
+    "title": "Маршрут Магеллана",
+    "caption": "1519–1522. 5 кораблей и 270 человек вышли из Севильи. Через 3 года вернулся 1 корабль с 18 моряками. 60 000 км вокруг света.",
+    "alt": "Карта плавания Магеллана",
+    "year": 1522,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Magellan_expedition"
+  },
+  {
+    "id": "fact-infographics-map-cook-voyages",
+    "topic": "infographics",
+    "title": "Плавания Кука",
+    "caption": "Капитан Джеймс Кук, 3 кругосветки: 1768–1771, 1772–1775, 1776–1779. Картографировал Австралию, Новую Зеландию, Гавайи, Антарктику.",
+    "alt": "Карта плаваний Кука",
+    "year": 1779,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Voyages_of_James_Cook"
+  },
+  {
+    "id": "fact-infographics-map-trans-siberian",
+    "topic": "infographics",
+    "title": "Транссиб · карта",
+    "caption": "9289 км Москва–Владивосток. Строили 25 лет (1891–1916). Пересекает 8 часовых поясов, 16 рек, 87 городов. Поезд идёт 6 суток.",
+    "alt": "Карта Транссибирской магистрали",
+    "year": 1916,
+    "meta": { "country_code": "RU" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Trans-Siberian_Railway"
+  },
+  {
+    "id": "fact-infographics-map-pangaea",
+    "topic": "infographics",
+    "title": "Пангея",
+    "caption": "Суперконтинент 335–175 млн лет назад. Все нынешние континенты собраны в один. Окружён океаном Панталасса.",
+    "alt": "Реконструкция Пангеи",
+    "year": -200000000,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pangaea"
+  },
+  {
+    "id": "fact-infographics-map-gondwana",
+    "topic": "infographics",
+    "title": "Гондвана",
+    "caption": "Южный суперконтинент после распада Пангеи. ~180–30 млн лет назад. Включала Южную Америку, Африку, Индию, Австралию, Антарктиду.",
+    "alt": "Карта Гондваны",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gondwana"
+  },
+  {
+    "id": "fact-infographics-map-nato",
+    "topic": "infographics",
+    "title": "НАТО",
+    "caption": "Основан 4 апреля 1949 в Вашингтоне. 12 учредителей → 32 страны (Швеция вступила в 2024). 50% мирового ВВП. 5,3 млн военнослужащих.",
+    "alt": "Карта НАТО",
+    "year": 1949,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "NATO"
+  },
+  {
+    "id": "fact-infographics-map-eu",
+    "topic": "infographics",
+    "title": "Евросоюз",
+    "caption": "Маастрихтский договор 1992. 27 стран после Brexit (2020). 450 млн человек, $19 трлн ВВП. Шенген — 4 млн км² без границ.",
+    "alt": "Карта Евросоюза",
+    "year": 1992,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "European_Union"
+  },
+  {
+    "id": "fact-infographics-map-iron-curtain",
+    "topic": "infographics",
+    "title": "Железный занавес",
+    "caption": "Граница между Западным и Восточным блоком 1947–1991. Длина 7000 км — от Балтики до Чёрного моря. 1378 человек погибли при попытке пересечь.",
+    "alt": "Карта Железного занавеса",
+    "year": 1991,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Iron_Curtain"
+  },
+  {
+    "id": "fact-infographics-map-amazon-basin",
+    "topic": "infographics",
+    "title": "Бассейн Амазонки",
+    "caption": "7 миллионов км². Дренирует 40% Южной Америки. 15 000 видов растений, 4000 видов рыб. На него приходится 20% речного стока Земли.",
+    "alt": "Карта бассейна Амазонки",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Amazon_basin"
+  },
+  {
+    "id": "fact-infographics-map-trans-saharan",
+    "topic": "infographics",
+    "title": "Транссахарская торговля",
+    "caption": "VIII–XVI века. Караваны из 1000 верблюдов через Сахару. Тимбукту — узловой город. Соль на юг, золото и рабы на север.",
+    "alt": "Карта Транссахарской торговли",
+    "year": 1300,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Trans-Saharan_trade"
+  },
+  {
+    "id": "fact-infographics-map-roman-roads",
+    "topic": "infographics",
+    "title": "Дороги Рима",
+    "caption": "На пике империи — 400 000 км дорог, 80 000 км мощёных. «Все дороги ведут в Рим» — от мильного столба «Золотой милы».",
+    "alt": "Карта римских дорог",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Roman_roads"
+  },
+  {
+    "id": "fact-infographics-map-population-density",
+    "topic": "infographics",
+    "title": "Плотность населения мира",
+    "caption": "Глобально 60 человек на км². Дельта Нила — 3000, Бангладеш 1300, Япония 340, США 36, Россия 9, Гренландия 0,03.",
+    "alt": "Карта плотности населения",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "World_population"
+  },
+  {
+    "id": "fact-infographics-map-religion",
+    "topic": "infographics",
+    "title": "Религии мира",
+    "caption": "Христианство 2,4 млрд (31%), ислам 1,9 (25%), индуизм 1,2 (15%), буддизм 500 млн (6%), иудаизм 14 млн. Атеисты/без религии — 1,2 млрд.",
+    "alt": "Карта религий мира",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "List_of_religious_populations"
+  },
+  {
+    "id": "fact-infographics-map-koppen-2",
+    "topic": "infographics",
+    "title": "Биомы Земли",
+    "caption": "14 главных биомов: тайга, тундра, степь, пустыня, тропический лес, мангры, и т.д. Тропические леса — 6% площади, 50% видов.",
+    "alt": "Карта биомов мира",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Biome"
+  },
+  {
+    "id": "fact-infographics-map-iss-flightpath",
+    "topic": "infographics",
+    "title": "Орбита МКС над Землёй",
+    "caption": "Наклон орбиты 51,6° позволяет пролетать над 90% населённой суши. 16 витков в сутки. Между витками точка смещается на 22°.",
+    "alt": "Орбитальная траектория МКС",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "International_Space_Station"
+  },
+  {
+    "id": "fact-infographics-map-tornado-alley",
+    "topic": "infographics",
+    "title": "Аллея торнадо",
+    "caption": "Центральная часть США — рекорд частоты торнадо в мире. 1200 в год. Период с апреля по июнь. Категории F0-F5 (Фуджита).",
+    "alt": "Карта Аллеи торнадо в США",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tornado_Alley"
+  },
+  {
+    "id": "fact-infographics-map-iss-ground-tracks",
+    "topic": "infographics",
+    "title": "Сеть оптического кабеля",
+    "caption": "1,4 миллиона км подводных интернет-кабелей соединяют континенты. Несут 99% межконтинентального трафика. Спутники не конкуренты по скорости.",
+    "alt": "Карта подводных интернет-кабелей",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Submarine_communications_cable"
+  },
+  {
+    "id": "fact-infographics-map-bertin-projection",
+    "topic": "infographics",
+    "title": "Проекция Винкеля III",
+    "caption": "Освальд Винкель, 1921. Псевдоцилиндрическая. Минимизирует искажение площади, формы и расстояния. С 1998 — официальная карта National Geographic.",
+    "alt": "Проекция Винкеля III",
+    "year": 1921,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Winkel_tripel_projection"
+  },
+  {
+    "id": "fact-infographics-map-equal-area",
+    "topic": "infographics",
+    "title": "Проекция Гуда",
+    "caption": "Джон Пол Гуд, 1923. Гомолосинусоидальная — равновеликая проекция с разрезами над океанами. Континенты в правильных пропорциях.",
+    "alt": "Проекция Гуда",
+    "year": 1923,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Goode_homolosine_projection"
+  },
+  {
+    "id": "fact-infographics-map-azimuthal",
+    "topic": "infographics",
+    "title": "Азимутальная проекция",
+    "caption": "Используется на флаге ООН — Земля с Северного полюса. Полюс в центре, океаны — кольца. Изобретена ~150 до н.э. Гиппархом.",
+    "alt": "Азимутальная проекция Земли",
+    "year": -150,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Azimuthal_equidistant_projection"
+  },
+  {
+    "id": "fact-infographics-map-mappa-mundi",
+    "topic": "infographics",
+    "title": "Mappa Mundi · Херефорд",
+    "caption": "Карта мира ~1300. 1,6×1,3 м, на куске пергамента. Иерусалим в центре, восток наверху. 500+ изображений людей, животных, городов.",
+    "alt": "Mappa Mundi из Херефорда",
+    "year": 1300,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hereford_Mappa_Mundi"
+  },
+  {
+    "id": "fact-infographics-map-ptolemy",
+    "topic": "infographics",
+    "title": "Карта Птолемея",
+    "caption": "Клавдий Птолемей, ~150 н.э. «География» — первая систематизация мира с координатами. 8000 городов и регионов. Переиздана в 1477.",
+    "alt": "Карта Птолемея",
+    "year": 150,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ptolemy's_world_map"
+  }
+]

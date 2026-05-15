@@ -1,0 +1,339 @@
+[
+  {
+    "id": "fact-infographics-wankel-engine",
+    "topic": "infographics",
+    "title": "Двигатель Ванкеля",
+    "caption": "Феликс Ванкель, 1957. Роторно-поршневой — нет возвратно-поступательных деталей. Треугольный ротор. Применялся в Mazda RX-7 и RX-8.",
+    "alt": "Двигатель Ванкеля в разрезе",
+    "year": 1957,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wankel_engine"
+  },
+  {
+    "id": "fact-infographics-jet-engine-cutaway",
+    "topic": "infographics",
+    "title": "Турбореактивный двигатель · разрез",
+    "caption": "Воздух → компрессор → камера сгорания (1500 °C) → турбина → реактивная струя. CFM56 (Boeing 737) — 250 кН тяги.",
+    "alt": "Турбореактивный двигатель в разрезе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jet_engine"
+  },
+  {
+    "id": "fact-infographics-locomotive-steam",
+    "topic": "infographics",
+    "title": "Паровоз в разрезе",
+    "caption": "Котёл → топка → паровая машина → колёса. Самый мощный — Big Boy (1941): 600 тонн, 6600 л.с. Уголь горит при 1100 °C, давление пара 21 атм.",
+    "alt": "Схема паровоза",
+    "year": 1941,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Steam_locomotive"
+  },
+  {
+    "id": "fact-infographics-submarine-cutaway",
+    "topic": "infographics",
+    "title": "Подводная лодка · разрез",
+    "caption": "Прочный корпус выдерживает 70 атм. Балластные цистерны управляют плавучестью. Ядерный реактор — пар → турбина → винт. Атомные субмарины: до года под водой.",
+    "alt": "Подводная лодка в разрезе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Submarine"
+  },
+  {
+    "id": "fact-infographics-iss-cutaway",
+    "topic": "infographics",
+    "title": "МКС в разрезе",
+    "caption": "16 модулей образуют форму буквы H. Длина 109 м, ширина 73 м. Внутренний объём 388 м³ — как Boeing 747. 7 спальных мест, 2 туалета, 1 спортзал.",
+    "alt": "МКС в разрезе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "International_Space_Station"
+  },
+  {
+    "id": "fact-infographics-airplane-systems",
+    "topic": "infographics",
+    "title": "Авиалайнер · системы",
+    "caption": "Boeing 747-400: 6 миллионов деталей, 240 км проводов, 850 м³ топлива (140 тонн). 524 пассажира максимум. 70 м фюзеляж.",
+    "alt": "Системы Boeing 747",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Boeing_747"
+  },
+  {
+    "id": "fact-infographics-rocket-cutaway",
+    "topic": "infographics",
+    "title": "Сатурн-5 в разрезе",
+    "caption": "3 ступени. 1-я — 5 F-1 двигателей (33 МН тяги). 2-я — 5 J-2 на жидком водороде. 3-я — 1 J-2. На вершине — Аполлон с экипажем и Лунным модулем.",
+    "alt": "Сатурн-5 в разрезе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Saturn_V"
+  },
+  {
+    "id": "fact-infographics-watch-mechanism",
+    "topic": "infographics",
+    "title": "Механизм часов",
+    "caption": "Заводная пружина → шестерёнки → анкер → балансовое колесо (3-5 Гц). Современные механические часы — 200+ деталей. Швейцарские стандарты с 1601.",
+    "alt": "Механизм механических часов",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Watch"
+  },
+  {
+    "id": "fact-infographics-bicycle-cutaway",
+    "topic": "infographics",
+    "title": "Велосипед · части",
+    "caption": "Изобретён Карлом фон Дрейсом, 1817 (дрезина). Современный — 200+ деталей. Цепной привод 1885. Эффективность 99% — самое эффективное транспортное средство.",
+    "alt": "Велосипед с подписанными частями",
+    "year": 1817,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bicycle"
+  },
+  {
+    "id": "fact-infographics-microscope-cutaway",
+    "topic": "infographics",
+    "title": "Оптический микроскоп",
+    "caption": "Окуляр (10×) → тубус → объектив (10-100×). Общее увеличение до 2000×. Разрешение ограничено длиной волны света (~200 нм).",
+    "alt": "Микроскоп в разрезе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Optical_microscope"
+  },
+  {
+    "id": "fact-infographics-camera-slr",
+    "topic": "infographics",
+    "title": "Зеркальный фотоаппарат",
+    "caption": "Single-Lens Reflex (SLR). Зеркало под 45° → пентапризма → видоискатель. При спуске зеркало поднимается, открывается затвор. Изобретён в 1933.",
+    "alt": "Зеркальный фотоаппарат в разрезе",
+    "year": 1933,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Single-lens_reflex_camera"
+  },
+  {
+    "id": "fact-infographics-piano-action",
+    "topic": "infographics",
+    "title": "Механика фортепиано",
+    "caption": "88 клавиш, 230 струн, давление струн 18 тонн. Молоточек ударяет — звук. Демпфер останавливает. Изобретено Кристофори, 1700.",
+    "alt": "Механика фортепиано",
+    "year": 1700,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Piano"
+  },
+  {
+    "id": "fact-infographics-violin-anatomy",
+    "topic": "infographics",
+    "title": "Скрипка · части",
+    "caption": "70 деталей. Корпус из ели и клёна. Длина 60 см. 4 струны, частоты 196-660 Гц. Качество звука зависит от резонанса корпуса.",
+    "alt": "Анатомия скрипки",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Violin"
+  },
+  {
+    "id": "fact-infographics-volcano-cross",
+    "topic": "infographics",
+    "title": "Вулкан в разрезе",
+    "caption": "Магматический очаг → канал → жерло → кратер. Стратовулкан, щитовой, кальдера — типы. Лава 700–1200 °C, выше — пирокластические потоки.",
+    "alt": "Вулкан в разрезе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Volcano"
+  },
+  {
+    "id": "fact-infographics-egyptian-pyramid-cross",
+    "topic": "infographics",
+    "title": "Пирамида Хеопса · разрез",
+    "caption": "146,6 м высота, 2,3 млн каменных блоков по 2,5 тонны. Внутри — Камера царицы, Большая галерея, Камера фараона. Точное назначение коридоров неясно.",
+    "alt": "Пирамида Хеопса в разрезе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Great_Pyramid_of_Giza"
+  },
+  {
+    "id": "fact-infographics-castle-cross",
+    "topic": "infographics",
+    "title": "Средневековый замок · разрез",
+    "caption": "Внешняя стена + донжон + ров. Бойницы, машикули, барбакан. Строили 5-20 лет. Король Эдуард I (1283-1330) построил 17 валлийских замков.",
+    "alt": "Средневековый замок в разрезе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Castle"
+  },
+  {
+    "id": "fact-infographics-gothic-cathedral",
+    "topic": "infographics",
+    "title": "Готический собор · разрез",
+    "caption": "Аркбутаны, нервюрные своды, стрельчатые арки. Шартрский собор: высота нефа 37 м, окно-роза 13 м диаметром. Строился 1194-1220.",
+    "alt": "Разрез готического собора",
+    "year": 1220,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gothic_architecture"
+  },
+  {
+    "id": "fact-infographics-roman-aqueduct",
+    "topic": "infographics",
+    "title": "Римский акведук",
+    "caption": "Пон-дю-Гар (Франция, ~50 н.э.) — высота 49 м, длина 275 м. Уклон 1:3000 — вода течёт самотёком. 14 акведуков снабжали 1 млн жителей Рима.",
+    "alt": "Римский акведук в разрезе",
+    "year": 50,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Roman_aqueduct"
+  },
+  {
+    "id": "fact-infographics-cargo-ship",
+    "topic": "infographics",
+    "title": "Контейнеровоз",
+    "caption": "Ever Given (2018): 400 м длины, 59 м ширины — длиннее Эмпайр-стейт. 20 124 контейнера TEU. 90% мировой торговли идёт морем.",
+    "alt": "Контейнеровоз в разрезе",
+    "year": 2018,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Container_ship"
+  },
+  {
+    "id": "fact-infographics-bullet-train",
+    "topic": "infographics",
+    "title": "Синкансэн",
+    "caption": "Япония, 1964. Первый высокоскоростной поезд. Скорость 320 км/ч. 60 лет без смертельных случаев. 1 млрд пассажиров в год.",
+    "alt": "Синкансэн в разрезе",
+    "year": 1964,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Shinkansen"
+  },
+  {
+    "id": "fact-infographics-maglev-train",
+    "topic": "infographics",
+    "title": "Маглев · магнитная левитация",
+    "caption": "Шанхайский маглев (2004): 430 км/ч между аэропортом и городом. Никаких колёс — парит на 1-10 см над рельсами. Японский SCMaglev — 603 км/ч (рекорд).",
+    "alt": "Маглев в разрезе",
+    "year": 2004,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Maglev"
+  },
+  {
+    "id": "fact-infographics-helicopter-rotor",
+    "topic": "infographics",
+    "title": "Ротор вертолёта",
+    "caption": "Игорь Сикорский, 1939. 3-4 лопасти, вращение 200-500 об/мин. Хвостовой винт компенсирует крутящий момент. Подъёмная сила = 4×масса вертолёта.",
+    "alt": "Ротор вертолёта",
+    "year": 1939,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Helicopter_rotor"
+  },
+  {
+    "id": "fact-infographics-tower-bridge-cutaway",
+    "topic": "infographics",
+    "title": "Тауэрский мост · механика",
+    "caption": "Лондон, 1894. Створки длиной 30 м, вес 1000 тонн каждая. Подъём за 5 минут — паровой гидравликой до 1976, потом электричество.",
+    "alt": "Механика Тауэрского моста",
+    "year": 1894,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tower_Bridge"
+  },
+  {
+    "id": "fact-infographics-eiffel-cutaway",
+    "topic": "infographics",
+    "title": "Эйфелева башня · конструкция",
+    "caption": "18 038 деталей, 2,5 млн заклёпок. Высота 324 м со шпилем. Гнётся на 12 см от ветра, расширяется на 15 см летом. 7 миллионов посетителей в год.",
+    "alt": "Конструкция Эйфелевой башни",
+    "year": 1889,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eiffel_Tower"
+  },
+  {
+    "id": "fact-infographics-statue-liberty-cut",
+    "topic": "infographics",
+    "title": "Статуя Свободы · конструкция",
+    "caption": "Внутри — железный каркас Гюстава Эйфеля. Снаружи — медные листы толщиной 2,4 мм. Зелёная — патина окислилась за 25 лет после установки 1886.",
+    "alt": "Каркас Статуи Свободы",
+    "year": 1886,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Statue_of_Liberty"
+  },
+  {
+    "id": "fact-infographics-burj-khalifa-section",
+    "topic": "infographics",
+    "title": "Бурдж-Халифа · конструкция",
+    "caption": "828 м, 163 этажа. Y-образное основание против торнадо. Бетон до 600-го метра, затем сталь. Используется кран Liebherr поднимающий 27 тонн на 800 м.",
+    "alt": "Конструкция Бурдж-Халифа",
+    "year": 2010,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Burj_Khalifa"
+  },
+  {
+    "id": "fact-infographics-channel-tunnel",
+    "topic": "infographics",
+    "title": "Евротоннель",
+    "caption": "37,9 км под Ла-Маншем (50,5 км общая длина). Глубина до 75 м под морским дном. Открыт 6 мая 1994. 3 параллельных тоннеля. Поезд проходит 35 мин.",
+    "alt": "Евротоннель в разрезе",
+    "year": 1994,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Channel_Tunnel"
+  },
+  {
+    "id": "fact-infographics-hoover-dam-section",
+    "topic": "infographics",
+    "title": "Плотина Гувера · разрез",
+    "caption": "Колорадо, 1936. 221 м высоты, 379 м длины. 6,6 млн тонн бетона — больше, чем во всех великих пирамидах вместе. Производит 4,2 ТВт·ч/год.",
+    "alt": "Плотина Гувера в разрезе",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hoover_Dam"
+  },
+  {
+    "id": "fact-infographics-three-gorges",
+    "topic": "infographics",
+    "title": "Три ущелья · ГЭС",
+    "caption": "Янцзы, Китай, 2003. Крупнейшая ГЭС мира — 22,5 ГВт, 32 турбины. Длина плотины 2,3 км, высота 181 м. Замедлила вращение Земли на 0,06 мкс.",
+    "alt": "ГЭС Три ущелья",
+    "year": 2003,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Three_Gorges_Dam"
+  },
+  {
+    "id": "fact-infographics-iter-tokamak",
+    "topic": "infographics",
+    "title": "Токамак ITER",
+    "caption": "Франция, строится с 2007. Тороидальная камера 6,2 м радиуса. Магнитное поле 5,3 Тл удерживает плазму при 150 миллионах °C — 10× горячее Солнца.",
+    "alt": "Токамак ITER в разрезе",
+    "year": 2027,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "ITER"
+  },
+  {
+    "id": "fact-infographics-cern-detector",
+    "topic": "infographics",
+    "title": "Детектор ATLAS",
+    "caption": "Один из 4 детекторов LHC, ЦЕРН. Высота 25 м, длина 46 м, вес 7000 тонн. 100 миллионов каналов считывания. Подтвердил бозон Хиггса в 2012.",
+    "alt": "Детектор ATLAS",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "ATLAS_experiment"
+  },
+  {
+    "id": "fact-infographics-tank-anatomy",
+    "topic": "infographics",
+    "title": "Танк T-34",
+    "caption": "СССР, 1940. Революционный наклон брони (32-45°), широкие гусеницы. 76,2-мм пушка, скорость 53 км/ч. Самый массовый танк WWII — 84 070 штук.",
+    "alt": "T-34 в разрезе",
+    "year": 1940,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "T-34"
+  },
+  {
+    "id": "fact-infographics-galleon",
+    "topic": "infographics",
+    "title": "Галеон XVI века",
+    "caption": "Океанский парусник. 40-55 м длиной, 16-50 пушек. Главное судно Испанской империи. Серебро из Потоси и шёлк из Манилы — 250 лет.",
+    "alt": "Галеон в разрезе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Galleon"
+  },
+  {
+    "id": "fact-infographics-windmill-cutaway",
+    "topic": "infographics",
+    "title": "Ветряная мельница",
+    "caption": "Изобретена в Персии, IX век. Голландцы привели к совершенству в XVI веке для откачки воды из польдеров. 4 лопасти, поворотная башня.",
+    "alt": "Ветряная мельница в разрезе",
+    "year": 800,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Windmill"
+  },
+  {
+    "id": "fact-infographics-wind-turbine",
+    "topic": "infographics",
+    "title": "Ветрогенератор",
+    "caption": "Лопасти 80-120 м. Башня 100-150 м высотой. Скорость ветра 3-25 м/с. Мощность 2-15 МВт. Один генератор питает 4000-12 000 домов.",
+    "alt": "Ветрогенератор в разрезе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wind_turbine"
+  }
+]

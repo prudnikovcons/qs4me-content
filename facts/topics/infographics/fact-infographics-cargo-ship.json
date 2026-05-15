@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-cargo-ship",
+  "topic": "infographics",
+  "title": "Контейнеровоз",
+  "caption": "Ever Given (2018): 400 м длины, 59 м ширины — длиннее Эмпайр-стейт. 20 124 контейнера TEU. 90% мировой торговли идёт морем.",
+  "image": "fact-infographics-cargo-ship.webp",
+  "image_width": 1280,
+  "image_height": 649,
+  "alt": "Контейнеровоз в разрезе",
+  "credit": "kees torn · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Container_ship",
+  "license": "CC-BY-SA",
+  "year": 2018
+}

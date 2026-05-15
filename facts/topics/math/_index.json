@@ -1,6 +1,8 @@
 [
+  "fact-math-archimedean-solid",
   "fact-math-cantor",
   "fact-math-cantor-diagonal",
+  "fact-math-euler",
   "fact-math-euler-identity",
   "fact-math-eulers-number",
   "fact-math-fermat",
@@ -11,6 +13,7 @@
   "fact-math-hilbert",
   "fact-math-infinity",
   "fact-math-konigsberg",
+  "fact-math-leibniz",
   "fact-math-lobachevsky",
   "fact-math-mandelbrot",
   "fact-math-mathematicians-shortlist",
@@ -20,5 +23,6 @@
   "fact-math-prime-numbers",
   "fact-math-probability",
   "fact-math-pythagoras",
+  "fact-math-ramanujan",
   "fact-math-riemann"
 ]

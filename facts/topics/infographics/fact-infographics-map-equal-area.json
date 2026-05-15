@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-equal-area",
+  "topic": "infographics",
+  "title": "Проекция Гуда",
+  "caption": "Джон Пол Гуд, 1923. Гомолосинусоидальная — равновеликая проекция с разрезами над океанами. Континенты в правильных пропорциях.",
+  "image": "fact-infographics-map-equal-area.webp",
+  "image_width": 1280,
+  "image_height": 560,
+  "alt": "Проекция Гуда",
+  "credit": "Strebe · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Goode_homolosine_projection",
+  "license": "CC-BY-SA",
+  "year": 1923
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-yeast",
+  "topic": "science",
+  "title": "Дрожжи",
+  "caption": "Saccharomyces cerevisiae. Одноклеточный гриб. Использовались для хлеба и пива 9000 лет. Геном — 12 миллионов пар оснований, 6000 генов.",
+  "image": "fact-science-yeast.webp",
+  "image_width": 1280,
+  "image_height": 827,
+  "alt": "Дрожжи под микроскопом",
+  "credit": "Mogana Das Murtey and Patchamuthu Ramasamy · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae",
+  "license": "CC-BY",
+  "year": 2016
+}

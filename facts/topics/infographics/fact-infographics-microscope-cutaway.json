@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-microscope-cutaway",
+  "topic": "infographics",
+  "title": "Оптический микроскоп",
+  "caption": "Окуляр (10×) → тубус → объектив (10-100×). Общее увеличение до 2000×. Разрешение ограничено длиной волны света (~200 нм).",
+  "image": "fact-infographics-microscope-cutaway.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Микроскоп в разрезе",
+  "credit": "Yakuzakorat · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Optical_microscope",
+  "license": "CC-BY",
+  "year": 2016
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-tank-anatomy",
+  "topic": "infographics",
+  "title": "Танк T-34",
+  "caption": "СССР, 1940. Революционный наклон брони (32-45°), широкие гусеницы. 76,2-мм пушка, скорость 53 км/ч. Самый массовый танк WWII — 84 070 штук.",
+  "image": "fact-infographics-tank-anatomy.webp",
+  "image_width": 1280,
+  "image_height": 709,
+  "alt": "T-34 в разрезе",
+  "credit": "Cezary Piwowarski · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/T-34",
+  "license": "CC-BY-SA",
+  "year": 1940
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-math-leibniz",
+  "topic": "math",
+  "title": "Готфрид Лейбниц",
+  "caption": "1646–1716. Разработал дифференциальное исчисление параллельно с Ньютоном. Бинарную систему счисления. Введя ∫ для интеграла.",
+  "image": "fact-math-leibniz.webp",
+  "image_width": 1280,
+  "image_height": 1580,
+  "alt": "Лейбниц",
+  "credit": "Christoph Bernhard Francke · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+  "license": "PD",
+  "year": 1675
+}

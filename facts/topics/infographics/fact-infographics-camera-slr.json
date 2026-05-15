@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-camera-slr",
+  "topic": "infographics",
+  "title": "Зеркальный фотоаппарат",
+  "caption": "Single-Lens Reflex (SLR). Зеркало под 45° → пентапризма → видоискатель. При спуске зеркало поднимается, открывается затвор. Изобретён в 1933.",
+  "image": "fact-infographics-camera-slr.webp",
+  "image_width": 1280,
+  "image_height": 1085,
+  "alt": "Зеркальный фотоаппарат в разрезе",
+  "credit": "Start54 · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Single-lens_reflex_camera",
+  "license": "CC-BY",
+  "year": 1933
+}

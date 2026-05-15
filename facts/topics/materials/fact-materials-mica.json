@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-mica",
+  "topic": "materials",
+  "title": "Слюда",
+  "caption": "Силикатные минералы с идеальной плоской спайностью. Прозрачные пластинки до 1 мкм. Использовалась в окнах СССР, изоляторах, косметике (блёстки).",
+  "image": "fact-materials-mica.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Слюда",
+  "credit": "Pascal Terjan from London, United Kingdom · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mica",
+  "license": "CC-BY-SA",
+  "year": 2012
+}

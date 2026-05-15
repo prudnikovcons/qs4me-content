@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-first-color-photo",
+  "topic": "events",
+  "title": "Первая цветная фотография",
+  "caption": "Джеймс Клерк Максвелл, 17 мая 1861. Из 3 чёрно-белых снимков через красный, зелёный и синий фильтры. Объект — лента-розетка.",
+  "image": "fact-events-first-color-photo.webp",
+  "image_width": 819,
+  "image_height": 1024,
+  "alt": "Первая цветная фотография Максвелла",
+  "credit": "Unknown authorUnknown author · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+  "license": "PD",
+  "year": 1861
+}

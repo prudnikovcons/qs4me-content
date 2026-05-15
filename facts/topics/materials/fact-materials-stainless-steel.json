@@ -1,0 +1,14 @@
+{
+  "id": "fact-materials-stainless-steel",
+  "topic": "materials",
+  "title": "Нержавеющая сталь",
+  "caption": "Гарри Брирли, 1913, Шеффилд. Сталь с хромом ≥10,5%. Не ржавеет благодаря оксидной плёнке. 50 миллионов тонн в год.",
+  "image": "fact-materials-stainless-steel.webp",
+  "image_width": 1280,
+  "image_height": 980,
+  "alt": "Нержавеющая сталь",
+  "credit": "W.carter · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Stainless_steel",
+  "license": "CC-BY-SA",
+  "year": 1913
+}

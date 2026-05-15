@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-mite-dust",
+  "topic": "nature",
+  "title": "Пылевой клещ",
+  "caption": "Длина 0,3 мм. Живёт в постелях, питается отмершими чешуйками кожи. В среднем матрасе — 100 000 - 10 миллионов клещей. Аллергия на их фекалии.",
+  "image": "fact-nature-mite-dust.webp",
+  "image_width": 1280,
+  "image_height": 857,
+  "alt": "Пылевой клещ под микроскопом",
+  "credit": "Gilles San Martin from Namur, Belgium · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/House_dust_mite",
+  "license": "CC-BY-SA",
+  "year": 2010
+}

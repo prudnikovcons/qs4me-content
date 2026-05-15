@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-trinity-test-photo",
+  "topic": "events",
+  "title": "Тринити · ядерный гриб",
+  "caption": "16 июля 1945, 5:29:45 утра. Первое ядерное испытание в истории. Освещение в 1000 солнц. Оппенгеймер процитировал Бхагавад-Гиту: «Я стал смертью».",
+  "image": "fact-events-trinity-test-photo.webp",
+  "image_width": 1280,
+  "image_height": 1472,
+  "alt": "Тринити ядерное испытание",
+  "credit": "Jack W. Aeby, July 16, 1945, Civilian worker at Los Alamos laboratory, working u",
+  "source": "https://en.wikipedia.org/wiki/Trinity_(nuclear_test)",
+  "license": "PD",
+  "year": 1945
+}

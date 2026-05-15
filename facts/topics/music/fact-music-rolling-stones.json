@@ -1,0 +1,14 @@
+{
+  "id": "fact-music-rolling-stones",
+  "topic": "music",
+  "title": "Rolling Stones",
+  "caption": "Лондон, 1962. «Сатисфакшн» (1965). 60+ лет на сцене, 200 миллионов альбомов. Самая долгоживущая концертная рок-группа.",
+  "image": "fact-music-rolling-stones.webp",
+  "image_width": 800,
+  "image_height": 579,
+  "alt": "Rolling Stones",
+  "credit": "Jim Pietryga · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
+  "license": "CC-BY-SA",
+  "year": 1962
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-paramecium",
+  "topic": "science",
+  "title": "Парамеция",
+  "caption": "Одноклеточная инфузория-туфелька. Длина 200 мкм — видна без микроскопа. Покрыта ресничками для плавания. Изучена Левенгуком в 1676.",
+  "image": "fact-science-paramecium.webp",
+  "image_width": 751,
+  "image_height": 689,
+  "alt": "Парамеция под микроскопом",
+  "credit": "Barfooz at the English Wikipedia. · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Paramecium",
+  "license": "CC-BY-SA",
+  "year": 1676
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-apollo-8-earthrise",
+  "topic": "events",
+  "title": "Аполлон-8 · восход Земли",
+  "caption": "24 декабря 1968, 16:00 UTC. Уильям Андерс сделал «Earthrise» с орбиты Луны. «Слетали на Луну, а открыли Землю» — Андерс.",
+  "image": "fact-events-apollo-8-earthrise.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Earthrise — Аполлон-8",
+  "credit": "NASA/Bill Anders · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Apollo_8",
+  "license": "PD",
+  "year": 1968
+}

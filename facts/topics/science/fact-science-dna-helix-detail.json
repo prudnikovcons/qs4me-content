@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-dna-helix-detail",
+  "topic": "science",
+  "title": "ДНК · детальный спираль",
+  "caption": "Диаметр 2 нм. Пара оснований через 0,34 нм. Один полный виток — 10,5 пар оснований и 3,4 нм. ДНК человека — 2 метра в одной клетке.",
+  "image": "fact-science-dna-helix-detail.webp",
+  "image_width": 1280,
+  "image_height": 702,
+  "alt": "Детали структуры ДНК",
+  "credit": "Thomas Shafee · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/DNA",
+  "license": "CC-BY",
+  "year": 2015
+}

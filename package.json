@@ -9,7 +9,8 @@
     "build-bundle": "node scripts/build-bundle.mjs",
     "build": "pnpm validate && pnpm build-index && pnpm build-bundle",
     "collect": "node scripts/collect.mjs",
-    "catalog": "node scripts/build-catalog.mjs"
+    "catalog": "node scripts/build-catalog.mjs",
+    "catalog:serve": "node scripts/build-catalog.mjs && node scripts/catalog-server.mjs"
   },
   "devDependencies": {
     "ajv": "^8.17.1",

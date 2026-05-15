@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-stegosaurus",
+  "topic": "nature",
+  "title": "Стегозавр",
+  "caption": "155–145 млн лет назад. 9 м длиной, мозг — с грецкий орех (80 г при 5 тоннах массы). 17 пластин на спине для терморегуляции.",
+  "image": "fact-nature-stegosaurus.webp",
+  "image_width": 1280,
+  "image_height": 769,
+  "alt": "Скелет стегозавра",
+  "credit": "Susannah Maidment et al. &amp; Natural History Museum, London · CC-BY · Wikimedi",
+  "source": "https://en.wikipedia.org/wiki/Stegosaurus",
+  "license": "CC-BY",
+  "year": 2015
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-infographics-map-trans-siberian",
+  "topic": "infographics",
+  "title": "Транссиб · карта",
+  "caption": "9289 км Москва–Владивосток. Строили 25 лет (1891–1916). Пересекает 8 часовых поясов, 16 рек, 87 городов. Поезд идёт 6 суток.",
+  "image": "fact-infographics-map-trans-siberian.webp",
+  "image_width": 1154,
+  "image_height": 825,
+  "alt": "Карта Транссибирской магистрали",
+  "credit": "Sorovas · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Trans-Siberian_Railway",
+  "license": "CC-BY-SA",
+  "year": 1916,
+  "meta": {
+    "country_code": "RU"
+  }
+}

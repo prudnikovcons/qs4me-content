@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-bullet-train",
+  "topic": "infographics",
+  "title": "Синкансэн",
+  "caption": "Япония, 1964. Первый высокоскоростной поезд. Скорость 320 км/ч. 60 лет без смертельных случаев. 1 млрд пассажиров в год.",
+  "image": "fact-infographics-bullet-train.webp",
+  "image_width": 1280,
+  "image_height": 1321,
+  "alt": "Синкансэн в разрезе",
+  "credit": "Texent · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Shinkansen",
+  "license": "CC-BY-SA",
+  "year": 1964
+}

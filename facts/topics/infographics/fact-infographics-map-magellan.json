@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-magellan",
+  "topic": "infographics",
+  "title": "Маршрут Магеллана",
+  "caption": "1519–1522. 5 кораблей и 270 человек вышли из Севильи. Через 3 года вернулся 1 корабль с 18 моряками. 60 000 км вокруг света.",
+  "image": "fact-infographics-map-magellan.webp",
+  "image_width": 1280,
+  "image_height": 781,
+  "alt": "Карта плавания Магеллана",
+  "credit": "Abraham Ortelius · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Magellan_expedition",
+  "license": "PD",
+  "year": 1522
+}

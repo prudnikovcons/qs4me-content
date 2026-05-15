@@ -1,0 +1,322 @@
+[
+  {
+    "id": "fact-history-crimean-war-photos",
+    "topic": "history",
+    "title": "Роджер Фентон в Крыму",
+    "caption": "Первый военный фотограф. Крымская война 1855. 360 снимков. «Долина смертной тени» — поле, усеянное ядрами после битвы под Балаклавой.",
+    "alt": "Долина смертной тени Фентона",
+    "year": 1855,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Roger_Fenton"
+  },
+  {
+    "id": "fact-history-mathew-brady",
+    "topic": "history",
+    "title": "Мэтью Брэди",
+    "caption": "Гражданская война США 1861-1865. 10 000 снимков. Фотографы Брэди впервые показали ужас войны мирным жителям. Лично разорился — продав снимки правительству.",
+    "alt": "Мэтью Брэди — фотограф",
+    "year": 1861,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mathew_Brady"
+  },
+  {
+    "id": "fact-history-tsar-romanov",
+    "topic": "history",
+    "title": "Семья Романовых",
+    "caption": "Николай II с семьёй, фото 1913 года. Расстреляны 16-17 июля 1918 в Екатеринбурге. Останки нашли в 1979, идентифицировали по ДНК в 1994.",
+    "alt": "Семья Николая II",
+    "year": 1918,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nicholas_II_of_Russia"
+  },
+  {
+    "id": "fact-events-prokudin-gorsky",
+    "topic": "events",
+    "title": "Цветная фотохроника России",
+    "caption": "Сергей Прокудин-Горский, 1909-1916. Снял цветные фотографии Российской империи на стеклянные пластины. 1902 снимка хранятся в Library of Congress.",
+    "alt": "Цветная фотография Прокудина-Горского",
+    "year": 1909,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sergey_Prokudin-Gorsky"
+  },
+  {
+    "id": "fact-history-trinity-test",
+    "topic": "history",
+    "title": "Тринити · первое ядерное",
+    "caption": "16 июля 1945, 5:29 утра, Нью-Мексико. Первое в истории испытание ядерного оружия. Заряд 21 килотонна. Вспышка ярче 1000 солнц.",
+    "alt": "Тринити — первое ядерное испытание",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Trinity_(nuclear_test)"
+  },
+  {
+    "id": "fact-events-castro-cigar",
+    "topic": "events",
+    "title": "Лунный модуль",
+    "caption": "Аполлон 11, Лунный модуль «Орёл». Сел 20 июля 1969 в 20:17 UTC. Армстронг сначала испугался — увидел кратеры в зоне посадки. Сел вручную с 25 сек до конца топлива.",
+    "alt": "Лунный модуль Орёл",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Apollo_Lunar_Module"
+  },
+  {
+    "id": "fact-events-mariner-mars",
+    "topic": "events",
+    "title": "Mariner 4 · первое фото Марса",
+    "caption": "14 июля 1965. Первый зонд возле Марса. 21 фото, 200 кб на каждое. Развенчал «каналы» Марса — оказался похож на Луну, не Землю.",
+    "alt": "Mariner 4 у Марса",
+    "year": 1965,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mariner_4"
+  },
+  {
+    "id": "fact-events-apollo-8-earthrise",
+    "topic": "events",
+    "title": "Аполлон-8 · восход Земли",
+    "caption": "24 декабря 1968, 16:00 UTC. Уильям Андерс сделал «Earthrise» с орбиты Луны. «Слетали на Луну, а открыли Землю» — Андерс.",
+    "alt": "Earthrise — Аполлон-8",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Apollo_8"
+  },
+  {
+    "id": "fact-events-thich-quang-duc",
+    "topic": "events",
+    "title": "Тхить Куанг Дык",
+    "caption": "11 июня 1963, Сайгон. Буддистский монах, 67 лет, совершил самосожжение в знак протеста против преследований Дьема. 30 минут горел, не двигаясь.",
+    "alt": "Самосожжение монаха Тхить Куанг Дыка",
+    "year": 1963,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Thích_Quảng_Đức"
+  },
+  {
+    "id": "fact-history-titanic-photo",
+    "topic": "history",
+    "title": "«Титаник» в Саутгемптоне",
+    "caption": "10 апреля 1912, отправление в первый рейс. На борту 2224 человека. Через 4 дня в 23:40 столкнулся с айсбергом в 600 км от Ньюфаундленда.",
+    "alt": "Титаник в Саутгемптоне",
+    "year": 1912,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Titanic"
+  },
+  {
+    "id": "fact-history-hindenburg-fire",
+    "topic": "history",
+    "title": "Катастрофа Гинденбурга",
+    "caption": "6 мая 1937, Лейкхерст. Дирижабль 245 м загорелся при посадке. Падал 32 секунды. Прямая радиотрансляция Херба Моррисона: «O, the humanity!»",
+    "alt": "Катастрофа Гинденбурга",
+    "year": 1937,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hindenburg_disaster"
+  },
+  {
+    "id": "fact-history-d-day-photo",
+    "topic": "history",
+    "title": "Высадка в Нормандии",
+    "caption": "6 июня 1944. 156 000 солдат, 6939 кораблей. Роберт Капа снимал на Омаха-бич — 11 уцелевших негативов из 106 (помощник лаборатории «пересушил»).",
+    "alt": "Высадка в Нормандии — фото Капа",
+    "year": 1944,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Normandy_landings"
+  },
+  {
+    "id": "fact-history-vj-day-2",
+    "topic": "history",
+    "title": "VJ Day · Times Square",
+    "caption": "14 августа 1945. Альфред Эйзенштадт снял поцелуй матроса и медсестры на Таймс-сквер в момент известия о капитуляции Японии. Личности спорят 50 лет.",
+    "alt": "Поцелуй на Таймс-сквер 1945",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "V-J_Day_in_Times_Square"
+  },
+  {
+    "id": "fact-history-iwo-jima-flag",
+    "topic": "history",
+    "title": "Флаг на Иводзиме",
+    "caption": "23 февраля 1945. Джо Розенталь снял водружение флага США на вершине горы Сурибати. Pulitzer 1945. Памятник морпехам в Арлингтоне — точная копия.",
+    "alt": "Флаг на Иводзиме",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Raising_the_Flag_on_Iwo_Jima"
+  },
+  {
+    "id": "fact-history-buchenwald",
+    "topic": "history",
+    "title": "Бухенвальд · освобождение",
+    "caption": "11 апреля 1945. 3-я армия США освободила концлагерь. 56 545 узников погибли за 7 лет. Маргарет Бурк-Уайт снимала первые часы — фото шокировали мир.",
+    "alt": "Освобождение Бухенвальда 1945",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Buchenwald_concentration_camp"
+  },
+  {
+    "id": "fact-history-yalta-conference",
+    "topic": "history",
+    "title": "Ялтинская конференция · фото",
+    "caption": "4-11 февраля 1945. «Большая тройка»: Черчилль, Рузвельт, Сталин в Ливадии. Решили судьбу послевоенной Европы. Рузвельт умер через 2 месяца.",
+    "alt": "Большая тройка в Ялте",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yalta_Conference"
+  },
+  {
+    "id": "fact-history-stalin-roosevelt-churchill",
+    "topic": "history",
+    "title": "Тегеранская конференция",
+    "caption": "28 ноября – 1 декабря 1943. Первая встреча Сталина, Рузвельта, Черчилля. Утверждена операция «Оверлорд» — высадка союзников в Нормандии.",
+    "alt": "Тегеранская конференция",
+    "year": 1943,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tehran_Conference"
+  },
+  {
+    "id": "fact-history-potsdam",
+    "topic": "history",
+    "title": "Потсдамская конференция",
+    "caption": "17 июля – 2 августа 1945. Сталин, Трумэн, Черчилль (заменён Эттли). Капитуляция Германии, решения по Японии, начало холодной войны.",
+    "alt": "Потсдамская конференция",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Potsdam_Conference"
+  },
+  {
+    "id": "fact-events-cuban-crisis-photo",
+    "topic": "events",
+    "title": "Карибский кризис · аэрофото",
+    "caption": "14 октября 1962. U-2 пилота Хейзера снял советские ракеты на Кубе. 13 дней мир был на грани ядерной войны. Снимки стали ключевым доказательством.",
+    "alt": "Аэрофото ракет на Кубе 1962",
+    "year": 1962,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cuban_Missile_Crisis"
+  },
+  {
+    "id": "fact-events-saigon-eva",
+    "topic": "events",
+    "title": "Эвакуация из Сайгона",
+    "caption": "30 апреля 1975. UH-1 на крыше посольства США (фактически — апартаменты CIA на Гиа-Лонг 22). 1373 человека эвакуированы за 19 часов.",
+    "alt": "Эвакуация с крыши Сайгона",
+    "year": 1975,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fall_of_Saigon"
+  },
+  {
+    "id": "fact-events-berlin-wall-1989",
+    "topic": "events",
+    "title": "Падение Берлинской стены",
+    "caption": "9 ноября 1989. После 28 лет ГДР открыла КПП. Молодёжь забралась на стену у Бранденбургских ворот. Сносить начали бульдозерами 13 июня 1990.",
+    "alt": "Молодёжь на Берлинской стене 1989",
+    "year": 1989,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fall_of_the_Berlin_Wall"
+  },
+  {
+    "id": "fact-events-tank-man-2",
+    "topic": "events",
+    "title": "Tank Man · Тяньаньмэнь",
+    "caption": "5 июня 1989, Пекин. Неизвестный мужчина с пакетами остановил колонну танков. Снимок Джеффа Вайднера обошёл мир. Личность так и не установлена.",
+    "alt": "Tank Man",
+    "year": 1989,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tank_Man"
+  },
+  {
+    "id": "fact-events-armstrong-first-step",
+    "topic": "events",
+    "title": "Первый шаг на Луне",
+    "caption": "Нил Армстронг, 21 июля 1969, 02:56:15 UTC. Спустился по лестнице 9-ступенчатой. Прямая ТВ-трансляция — 650 миллионов зрителей.",
+    "alt": "Армстронг спускается на Луну",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Neil_Armstrong"
+  },
+  {
+    "id": "fact-events-aldrin-footprint",
+    "topic": "events",
+    "title": "След на Луне",
+    "caption": "Базз Олдрин, 21 июля 1969. Знаменитый отпечаток ботинка. Луна без атмосферы — следы Аполлонов останутся миллионы лет, пока не уничтожит микрометеорит.",
+    "alt": "След Олдрина на Луне",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Buzz_Aldrin"
+  },
+  {
+    "id": "fact-events-leonov-spacewalk",
+    "topic": "events",
+    "title": "Первый выход в космос",
+    "caption": "Алексей Леонов, 18 марта 1965, Восход-2. 12 минут 9 секунд за бортом. Скафандр раздулся, едва втиснулся обратно — сбросил давление втайне от ЦУПа.",
+    "alt": "Леонов в открытом космосе",
+    "year": 1965,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alexei_Leonov"
+  },
+  {
+    "id": "fact-events-vostok-1-photo",
+    "topic": "events",
+    "title": "Восток-1 на стартовой",
+    "caption": "12 апреля 1961, 9:07 МСК. Гагарин на старте на Байконуре. 108 минут. Прыгнул с парашютом на высоте 7 км — садился отдельно от аппарата.",
+    "alt": "Восток-1 на старте",
+    "year": 1961,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vostok_1"
+  },
+  {
+    "id": "fact-events-mercury-7",
+    "topic": "events",
+    "title": "Меркурий 7 · первые астронавты США",
+    "caption": "9 апреля 1959 NASA выбрало 7 пилотов: Кэрпентер, Купер, Гленн, Гриссом, Шепард, Слейтон, Ширра. Все позже летали в космос.",
+    "alt": "Меркурий 7",
+    "year": 1959,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mercury_Seven"
+  },
+  {
+    "id": "fact-events-niepce-photo",
+    "topic": "events",
+    "title": "Первая фотография в истории",
+    "caption": "Жозеф Ньепс, 1826 или 1827. «Вид из окна в Ле Гра». Экспозиция 8 часов на оловянной пластине с битумом. Хранится в Техасском университете.",
+    "alt": "Первая фотография Ньепса",
+    "year": 1826,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "View_from_the_Window_at_Le_Gras"
+  },
+  {
+    "id": "fact-events-daguerreotype-first",
+    "topic": "events",
+    "title": "Дагеротип",
+    "caption": "Луи Дагер, 1839. Первая коммерческая фотография. Серебряная пластина с парами ртути. Экспозиция 10 минут. Парижская академия купила патент за пенсию Дагеру.",
+    "alt": "Дагеротип",
+    "year": 1839,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Daguerreotype"
+  },
+  {
+    "id": "fact-events-edward-muybridge",
+    "topic": "events",
+    "title": "Скачущая лошадь",
+    "caption": "Эдвард Майбридж, 1878. 12 камер с триггерами снимают галоп лошади. Доказал — все 4 ноги одновременно отрываются от земли. Прародитель кино.",
+    "alt": "Скачущая лошадь Майбриджа",
+    "year": 1878,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eadweard_Muybridge"
+  },
+  {
+    "id": "fact-events-first-color-photo",
+    "topic": "events",
+    "title": "Первая цветная фотография",
+    "caption": "Джеймс Клерк Максвелл, 17 мая 1861. Из 3 чёрно-белых снимков через красный, зелёный и синий фильтры. Объект — лента-розетка.",
+    "alt": "Первая цветная фотография Максвелла",
+    "year": 1861,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "James_Clerk_Maxwell"
+  },
+  {
+    "id": "fact-events-trinity-test-photo",
+    "topic": "events",
+    "title": "Тринити · ядерный гриб",
+    "caption": "16 июля 1945, 5:29:45 утра. Первое ядерное испытание в истории. Освещение в 1000 солнц. Оппенгеймер процитировал Бхагавад-Гиту: «Я стал смертью».",
+    "alt": "Тринити ядерное испытание",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Trinity_(nuclear_test)"
+  }
+]

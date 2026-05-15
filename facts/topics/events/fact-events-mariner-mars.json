@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-mariner-mars",
+  "topic": "events",
+  "title": "Mariner 4 · первое фото Марса",
+  "caption": "14 июля 1965. Первый зонд возле Марса. 21 фото, 200 кб на каждое. Развенчал «каналы» Марса — оказался похож на Луну, не Землю.",
+  "image": "fact-events-mariner-mars.webp",
+  "image_width": 1280,
+  "image_height": 1024,
+  "alt": "Mariner 4 у Марса",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mariner_4",
+  "license": "PD",
+  "year": 1965
+}

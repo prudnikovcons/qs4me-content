@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-parker",
+  "topic": "space",
+  "title": "Parker Solar Probe",
+  "caption": "NASA, 2018. Первый зонд внутри короны Солнца. К 2024 — рекорд скорости рукотворного объекта: 635 000 км/ч на перигелии. Жара 1400 °C.",
+  "image": "fact-space-parker.webp",
+  "image_width": 1050,
+  "image_height": 730,
+  "alt": "Parker Solar Probe",
+  "credit": "National Aeronautics and Space Administration (NASA) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Parker_Solar_Probe",
+  "license": "PD",
+  "year": 2018
+}

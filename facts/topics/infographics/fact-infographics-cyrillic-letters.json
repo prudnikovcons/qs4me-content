@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-cyrillic-letters",
+  "topic": "infographics",
+  "title": "Кириллица",
+  "caption": "Создана учениками Кирилла и Мефодия в IX веке. 33 буквы в современном русском. Используется в 50+ языках, 250+ миллионами людей.",
+  "image": "fact-infographics-cyrillic-letters.webp",
+  "image_width": 1280,
+  "image_height": 458,
+  "alt": "Кириллический алфавит",
+  "credit": "Пакко · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Cyrillic_script",
+  "license": "CC-BY-SA",
+  "year": 863
+}

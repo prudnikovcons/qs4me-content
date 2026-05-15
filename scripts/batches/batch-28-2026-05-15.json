@@ -1,0 +1,495 @@
+[
+  {
+    "id": "fact-economy-amazon",
+    "topic": "economy",
+    "title": "Amazon",
+    "caption": "Основан 5 июля 1994 как онлайн-книжный. Капитализация $2 трлн в 2024. 1,5 миллиона сотрудников — крупнейший работодатель США после Walmart.",
+    "alt": "Логотип Amazon",
+    "year": 1994,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Amazon_(company)"
+  },
+  {
+    "id": "fact-economy-google",
+    "topic": "economy",
+    "title": "Google",
+    "caption": "Основан 4 сентября 1998 Ларри Пейджем и Сергеем Брином в гараже. Капитализация Alphabet $2,1 трлн (2024). 90%+ мирового поискового рынка.",
+    "alt": "Логотип Google",
+    "year": 1998,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Google"
+  },
+  {
+    "id": "fact-economy-microsoft",
+    "topic": "economy",
+    "title": "Microsoft",
+    "caption": "Основана 4 апреля 1975 Биллом Гейтсом и Полом Алленом. Капитализация $3,3 трлн (2024) — крупнейшая или 2-я компания мира.",
+    "alt": "Логотип Microsoft",
+    "year": 1975,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Microsoft"
+  },
+  {
+    "id": "fact-economy-tesla",
+    "topic": "economy",
+    "title": "Tesla",
+    "caption": "Основана 2003. Илон Маск с 2008. Первый прибыльный квартал — 2013, 10 лет от основания. К 2024 — крупнейший производитель EV в мире.",
+    "alt": "Логотип Tesla",
+    "year": 2003,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tesla,_Inc."
+  },
+  {
+    "id": "fact-economy-saudi-aramco",
+    "topic": "economy",
+    "title": "Saudi Aramco",
+    "caption": "Государственная нефтекомпания Саудовской Аравии. IPO 11 декабря 2019 — $25,6 млрд, рекордный. Капитализация $2 трлн. Добывает 10 млн баррелей/сутки.",
+    "alt": "Логотип Saudi Aramco",
+    "year": 2019,
+    "meta": { "country_code": "SA" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Saudi_Aramco"
+  },
+  {
+    "id": "fact-economy-ipo-history",
+    "topic": "economy",
+    "title": "Dutch East India Company",
+    "caption": "Голландская Ост-Индская компания, 20 марта 1602. Первая публичная компания в истории. Первая Амстердамская биржа открыта для её акций.",
+    "alt": "Голландская Ост-Индская компания",
+    "year": 1602,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dutch_East_India_Company"
+  },
+  {
+    "id": "fact-economy-london-stock",
+    "topic": "economy",
+    "title": "Лондонская биржа",
+    "caption": "Основана 1801 (формально), традиции с 1571. К 2024 — 6-я по капитализации мира ($3,2 трлн). Слияние с Deutsche Börse провалилось в 2017.",
+    "alt": "Лондонская фондовая биржа",
+    "year": 1801,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "London_Stock_Exchange"
+  },
+  {
+    "id": "fact-economy-imf",
+    "topic": "economy",
+    "title": "МВФ",
+    "caption": "Международный валютный фонд, 1944. Бреттон-Вудс. 190 стран-членов. Резервы $1 трлн. Раздаёт кредиты при финансовых кризисах.",
+    "alt": "Здание МВФ",
+    "year": 1944,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "International_Monetary_Fund"
+  },
+  {
+    "id": "fact-economy-world-bank",
+    "topic": "economy",
+    "title": "Всемирный банк",
+    "caption": "Основан 1944, Вашингтон. Группа из 5 организаций. К 2023 выдал $400+ млрд кредитов 140 странам на инфраструктуру и образование.",
+    "alt": "Всемирный банк",
+    "year": 1944,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "World_Bank"
+  },
+  {
+    "id": "fact-economy-davos",
+    "topic": "economy",
+    "title": "Давос · ВЭФ",
+    "caption": "Всемирный экономический форум. Швейцария, ежегодно с 1971 в январе. Собирает 3000 лидеров: политиков, бизнесменов, академиков.",
+    "alt": "Давос — ВЭФ",
+    "year": 1971,
+    "meta": { "country_code": "CH" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "World_Economic_Forum"
+  },
+  {
+    "id": "fact-economy-bric-brics",
+    "topic": "economy",
+    "title": "БРИКС",
+    "caption": "Альянс Бразилия, Россия, Индия, Китай, ЮАР (с 2010). С 2024 добавились Иран, Египет, ОАЭ, Эфиопия. 45% населения, 35% ВВП мира.",
+    "alt": "Флаги стран БРИКС",
+    "year": 2010,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "BRICS"
+  },
+  {
+    "id": "fact-materials-leather",
+    "topic": "materials",
+    "title": "Кожа",
+    "caption": "Дублёная шкура животных. Известна с 7000 до н.э. Современная промышленность — 25 млрд м²/год. 60% — из крупного рогатого скота.",
+    "alt": "Кожа",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Leather"
+  },
+  {
+    "id": "fact-materials-wool",
+    "topic": "materials",
+    "title": "Шерсть",
+    "caption": "Волокно из руна овец. Известна с 6000 до н.э. (Иран). Сегодня 1,1 млн тонн в год. Австралия — 25% мирового производства.",
+    "alt": "Шерсть",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wool"
+  },
+  {
+    "id": "fact-materials-graphite",
+    "topic": "materials",
+    "title": "Графит",
+    "caption": "Углерод в слоистой структуре. Каждый слой — графен. Мягкий — рисует. Применение: карандаши, смазка, аноды литий-ионных батарей.",
+    "alt": "Графит",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Graphite"
+  },
+  {
+    "id": "fact-materials-nylon",
+    "topic": "materials",
+    "title": "Нейлон",
+    "caption": "Первый синтетический полимер. DuPont, 1935. Уоллес Карозерс. Чулки 1939 — за 4 дня продано 4 млн пар. Парашюты, верёвки, одежда.",
+    "alt": "Нейлоновые волокна",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nylon"
+  },
+  {
+    "id": "fact-materials-polyester",
+    "topic": "materials",
+    "title": "Полиэстер",
+    "caption": "Синтетика DuPont, 1941. К 2020 — 52% мирового производства тканей. PET-бутылки и одежда из одного материала.",
+    "alt": "Полиэстер",
+    "year": 1941,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Polyester"
+  },
+  {
+    "id": "fact-materials-carbon-fiber",
+    "topic": "materials",
+    "title": "Углеродное волокно",
+    "caption": "Прочнее стали в 5 раз при 1/4 массе. Используется в Boeing 787 (50% массы корпуса), Tesla, велосипедах. Стоит $20-50/кг.",
+    "alt": "Углеродное волокно",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Carbon_fiber"
+  },
+  {
+    "id": "fact-materials-titanium",
+    "topic": "materials",
+    "title": "Титановые сплавы",
+    "caption": "В 2 раза легче стали, прочнее некоторых её сплавов. SR-71 Blackbird — 92% титана. Имплантаты, авиадвигатели. 240 000 тонн/год.",
+    "alt": "Слиток титана",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Titanium_alloy"
+  },
+  {
+    "id": "fact-materials-stainless-steel",
+    "topic": "materials",
+    "title": "Нержавеющая сталь",
+    "caption": "Гарри Брирли, 1913, Шеффилд. Сталь с хромом ≥10,5%. Не ржавеет благодаря оксидной плёнке. 50 миллионов тонн в год.",
+    "alt": "Нержавеющая сталь",
+    "year": 1913,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stainless_steel"
+  },
+  {
+    "id": "fact-materials-portland-cement",
+    "topic": "materials",
+    "title": "Портландцемент",
+    "caption": "Изобретён Джозефом Эспдином в 1824. Базис современного бетона. 4 миллиарда тонн в год — крупнейший по массе материал, производимый человеком после стали.",
+    "alt": "Производство портландцемента",
+    "year": 1824,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Portland_cement"
+  },
+  {
+    "id": "fact-materials-marble",
+    "topic": "materials",
+    "title": "Мрамор",
+    "caption": "Метаморфизованный известняк. Каррарский мрамор (Италия) — со времён Древнего Рима. Микеланджело лично выбирал блоки для своих скульптур.",
+    "alt": "Каррарский мрамор",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Marble"
+  },
+  {
+    "id": "fact-language-finnish",
+    "topic": "language",
+    "title": "Финский язык",
+    "caption": "Уральская семья (не индоевропейская). 6 миллионов носителей. Имеет 15 падежей. Слово «päivänpuoleinenseinä» — длинное обычное слово.",
+    "alt": "Финский текст",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Finnish_language"
+  },
+  {
+    "id": "fact-language-basque",
+    "topic": "language",
+    "title": "Баскский язык",
+    "caption": "Изолят. Не связан ни с одним известным языком мира. 750 000 носителей в Стране Басков (Испания + Франция). Возраст 7000+ лет.",
+    "alt": "Баскский алфавит",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Basque_language"
+  },
+  {
+    "id": "fact-language-swahili",
+    "topic": "language",
+    "title": "Суахили",
+    "caption": "Банту-семья, с большой долей арабских заимствований. Лингва франка Восточной Африки — 200 миллионов носителей. Официальный в 6 странах.",
+    "alt": "Суахили",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Swahili_language"
+  },
+  {
+    "id": "fact-language-quechua",
+    "topic": "language",
+    "title": "Кечуа",
+    "caption": "Язык империи инков. 8-10 миллионов носителей в Перу, Боливии, Эквадоре. Один из официальных языков ООН-региона. Грамматика — агглютинативная.",
+    "alt": "Кечуа",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quechuan_languages"
+  },
+  {
+    "id": "fact-language-yiddish",
+    "topic": "language",
+    "title": "Идиш",
+    "caption": "Германский с славянскими и древнееврейскими элементами. Пик — 13 млн носителей до Холокоста. Сегодня 600 000, в основном хасиды.",
+    "alt": "Идиш-текст",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yiddish"
+  },
+  {
+    "id": "fact-math-leibniz",
+    "topic": "math",
+    "title": "Готфрид Лейбниц",
+    "caption": "1646–1716. Разработал дифференциальное исчисление параллельно с Ньютоном. Бинарную систему счисления. Введя ∫ для интеграла.",
+    "alt": "Лейбниц",
+    "year": 1675,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gottfried_Wilhelm_Leibniz"
+  },
+  {
+    "id": "fact-math-euler",
+    "topic": "math",
+    "title": "Леонард Эйлер",
+    "caption": "1707–1783. Самый продуктивный математик в истории — 866 работ, 80 000 страниц. Ввёл π, e, i, ∑. К концу жизни был полностью слеп.",
+    "alt": "Леонард Эйлер",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Leonhard_Euler"
+  },
+  {
+    "id": "fact-math-ramanujan",
+    "topic": "math",
+    "title": "Сриниваса Рамануджан",
+    "caption": "1887–1920. Самоучка из Индии. Открыл 3900 тождеств за 32 года жизни, некоторые до сих пор не доказаны. Сотрудничество с Харди в Кембридже.",
+    "alt": "Рамануджан",
+    "year": 1920,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Srinivasa_Ramanujan"
+  },
+  {
+    "id": "fact-math-archimedean-solid",
+    "topic": "math",
+    "title": "Платоновы тела",
+    "caption": "5 правильных выпуклых многогранников: тетраэдр, куб, октаэдр, додекаэдр, икосаэдр. Известны с античности. Описаны Платоном в «Тимее».",
+    "alt": "5 платоновых тел",
+    "year": -350,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Platonic_solid"
+  },
+  {
+    "id": "fact-math-collatz",
+    "topic": "math",
+    "title": "Гипотеза Коллатца",
+    "caption": "Лотар Коллатц, 1937. Бери число: если чётное — дели на 2, если нечётное — умножь на 3 и прибавь 1. Утверждение: всегда придёт в 1.",
+    "alt": "Иллюстрация гипотезы Коллатца",
+    "year": 1937,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Collatz_conjecture"
+  },
+  {
+    "id": "fact-math-graham-number",
+    "topic": "math",
+    "title": "Число Грэма",
+    "caption": "Так велико, что не записать в нашей Вселенной даже атомами вместо цифр. Появилось в верхней оценке задачи Грэма (1971). Меньше бесконечности.",
+    "alt": "Башня стрелок Кнута",
+    "year": 1971,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Graham's_number"
+  },
+  {
+    "id": "fact-math-googol",
+    "topic": "math",
+    "title": "Гугол · 10¹⁰⁰",
+    "caption": "1 со 100 нулями. Имя придумал Милтон Сиротта, 9 лет, в 1920. Больше атомов в наблюдаемой Вселенной (~10⁸⁰). Google назвалась по нему.",
+    "alt": "Число гугол",
+    "year": 1920,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Googol"
+  },
+  {
+    "id": "fact-music-rock-n-roll",
+    "topic": "music",
+    "title": "Рок-н-ролл",
+    "caption": "Возник в США 1950-х из ритм-энд-блюза. «Rock Around the Clock» Билла Хейли (1954) — первая поп-песня жанра. Элвис — король.",
+    "alt": "Рок-н-ролл 1950-х",
+    "year": 1954,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rock_and_roll"
+  },
+  {
+    "id": "fact-music-hip-hop",
+    "topic": "music",
+    "title": "Хип-хоп",
+    "caption": "Бронкс, Нью-Йорк, 11 августа 1973. Вечеринка диджея Kool Herc — первый хип-хоп. К 2017 хип-хоп обогнал рок как самый популярный жанр США.",
+    "alt": "Хип-хоп",
+    "year": 1973,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hip_hop_music"
+  },
+  {
+    "id": "fact-music-jazz",
+    "topic": "music",
+    "title": "Джаз",
+    "caption": "Новый Орлеан, ~1900. Слияние африканских ритмов и европейской гармонии. Чёрные музыканты Сторивилля. Луи Армстронг сделал импровизацию основой.",
+    "alt": "Джазовая группа",
+    "year": 1900,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jazz"
+  },
+  {
+    "id": "fact-music-blues",
+    "topic": "music",
+    "title": "Блюз",
+    "caption": "Дельта Миссисипи, ~1900. Корни в спиричуэлсах рабов. 12-тактовая блюзовая структура — основа джаза, рок-н-ролла, R&B, хип-хопа.",
+    "alt": "Блюзовый гитарист",
+    "year": 1900,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Blues"
+  },
+  {
+    "id": "fact-music-country-music",
+    "topic": "music",
+    "title": "Кантри",
+    "caption": "Аппалачи, начало XX века. Слияние ирландско-шотландских баллад и афроамериканского блюза. Нашвилл, Теннесси — «столица кантри» с 1925.",
+    "alt": "Кантри-музыка",
+    "year": 1925,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Country_music"
+  },
+  {
+    "id": "fact-music-rolling-stones",
+    "topic": "music",
+    "title": "Rolling Stones",
+    "caption": "Лондон, 1962. «Сатисфакшн» (1965). 60+ лет на сцене, 200 миллионов альбомов. Самая долгоживущая концертная рок-группа.",
+    "alt": "Rolling Stones",
+    "year": 1962,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Rolling_Stones"
+  },
+  {
+    "id": "fact-music-pink-floyd",
+    "topic": "music",
+    "title": "Pink Floyd",
+    "caption": "Лондон, 1965. Альбом «Тёмная сторона Луны» (1973) — 14 лет в чартах Billboard, 45 млн копий. Концептуальный рок и психоделика.",
+    "alt": "Pink Floyd",
+    "year": 1973,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pink_Floyd"
+  },
+  {
+    "id": "fact-music-led-zeppelin",
+    "topic": "music",
+    "title": "Led Zeppelin",
+    "caption": "Лондон, 1968. Создатели хард-рока. «Лестница в небо» (1971) — самая запрашиваемая песня FM-радио всех времён. Распались в 1980.",
+    "alt": "Led Zeppelin",
+    "year": 1971,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Led_Zeppelin"
+  },
+  {
+    "id": "fact-music-bob-dylan",
+    "topic": "music",
+    "title": "Боб Дилан",
+    "caption": "Род. 1941. Лирический архитектор рока. «Blowin' in the Wind» (1963), «Like a Rolling Stone» (1965). Нобелевская премия по литературе 2016.",
+    "alt": "Боб Дилан",
+    "year": 2016,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bob_Dylan"
+  },
+  {
+    "id": "fact-music-david-bowie",
+    "topic": "music",
+    "title": "Дэвид Боуи",
+    "caption": "1947–2016. Хамелеон рока. Альбомы «Ziggy Stardust» (1972), «Heroes» (1977). Зрачки разного размера от удара в детстве — образ.",
+    "alt": "Дэвид Боуи",
+    "year": 2016,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "David_Bowie"
+  },
+  {
+    "id": "fact-music-queen",
+    "topic": "music",
+    "title": "Queen",
+    "caption": "Лондон, 1970. «Богемская рапсодия» (1975) — 5:55, без припева, 180 хоровых наложений. Live Aid 1985 — выступление века Фредди Меркьюри.",
+    "alt": "Queen",
+    "year": 1975,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Queen_(band)"
+  },
+  {
+    "id": "fact-music-madonna",
+    "topic": "music",
+    "title": "Мадонна",
+    "caption": "Род. 1958. Королева поп-музыки. 300+ миллионов записей продано. 38 синглов в Billboard Top 10 — рекорд для женщин в чартах.",
+    "alt": "Мадонна",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Madonna"
+  },
+  {
+    "id": "fact-music-prince",
+    "topic": "music",
+    "title": "Принс",
+    "caption": "1958–2016. Виртуоз — играл на 27 инструментах. Альбом «Purple Rain» (1984) — 25 млн копий, фильм + саундтрек. 100+ песен Топ-100.",
+    "alt": "Принс на сцене",
+    "year": 1984,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Prince_(musician)"
+  },
+  {
+    "id": "fact-element-bohrium",
+    "topic": "element",
+    "title": "Борий · Bh (107)",
+    "caption": "Bh, 107-й элемент. Назван в честь Нильса Бора. Открыт в Дармштадте 1981. Полураспад — секунды. Существует только в лабораториях.",
+    "alt": "Борий — символ",
+    "year": 1981,
+    "meta": { "atomic_number": 107, "symbol": "Bh" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bohrium"
+  },
+  {
+    "id": "fact-element-curium",
+    "topic": "element",
+    "title": "Кюрий · Cm (96)",
+    "caption": "Cm, 96-й элемент. Назван в честь Мари и Пьера Кюри. Получен Сиборгом в 1944. Изотоп Cm-244 — источник энергии в марсоходах.",
+    "alt": "Образец кюрия",
+    "year": 1944,
+    "meta": { "atomic_number": 96, "symbol": "Cm" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Curium"
+  },
+  {
+    "id": "fact-element-einsteinium",
+    "topic": "element",
+    "title": "Эйнштейний · Es (99)",
+    "caption": "Es, 99-й элемент. Назван в честь Эйнштейна. Открыт в пыли термоядерного взрыва Айви-Майк, 1952. Получено всего 1 мг с тех пор.",
+    "alt": "Эйнштейний — символ",
+    "year": 1952,
+    "meta": { "atomic_number": 99, "symbol": "Es" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Einsteinium"
+  },
+  {
+    "id": "fact-element-oganesson",
+    "topic": "element",
+    "title": "Оганесон · Og (118)",
+    "caption": "Og, 118-й элемент таблицы — самый тяжёлый из известных. Получен в Дубне в 2002 (3 атома). Назван в честь Юрия Оганесяна в 2016.",
+    "alt": "Оганесон — символ",
+    "year": 2016,
+    "meta": { "atomic_number": 118, "symbol": "Og" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Oganesson"
+  }
+]

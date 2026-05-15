@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-map-maya",
+  "topic": "infographics",
+  "title": "Цивилизация майя",
+  "caption": "~2000 до н.э. – 1697 н.э. Юкатан и Гватемала. Без металла и колеса построили 40+ городов, разработали 0, точный календарь, иероглифы.",
+  "image": "fact-infographics-map-maya.webp",
+  "image_width": 1074,
+  "image_height": 789,
+  "alt": "Карта цивилизации майя",
+  "credit": "Kmusser · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Maya_civilization",
+  "license": "CC-BY-SA",
+  "year": 250
+}

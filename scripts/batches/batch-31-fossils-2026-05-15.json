@@ -1,0 +1,323 @@
+[
+  {
+    "id": "fact-nature-trex",
+    "topic": "nature",
+    "title": "Тираннозавр",
+    "caption": "T. rex. 68–66 млн лет назад, Северная Америка. 12 м длиной, 8 тонн. Зубы 30 см — крупнейшие у любого наземного хищника когда-либо.",
+    "alt": "Скелет тираннозавра",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tyrannosaurus"
+  },
+  {
+    "id": "fact-nature-stegosaurus",
+    "topic": "nature",
+    "title": "Стегозавр",
+    "caption": "155–145 млн лет назад. 9 м длиной, мозг — с грецкий орех (80 г при 5 тоннах массы). 17 пластин на спине для терморегуляции.",
+    "alt": "Скелет стегозавра",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stegosaurus"
+  },
+  {
+    "id": "fact-nature-triceratops",
+    "topic": "nature",
+    "title": "Трицератопс",
+    "caption": "68–66 млн лет назад. 9 м, 6-12 тонн. Череп до 3 м — крупнейший среди наземных животных в истории. 3 рога защищали от тираннозавра.",
+    "alt": "Скелет трицератопса",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Triceratops"
+  },
+  {
+    "id": "fact-nature-velociraptor",
+    "topic": "nature",
+    "title": "Велоцираптор",
+    "caption": "75 млн лет назад, Монголия. Реально — 60 см ростом, 15 кг (как индюшка). Был покрыт перьями. Юрский парк сильно преувеличил.",
+    "alt": "Реконструкция велоцираптора",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Velociraptor"
+  },
+  {
+    "id": "fact-nature-spinosaurus",
+    "topic": "nature",
+    "title": "Спинозавр",
+    "caption": "100 млн лет назад. Крупнейший хищный динозавр — 15 м, 7-20 тонн. Парус на спине 1,7 м высотой. Жил в воде, плавал, охотился на рыбу.",
+    "alt": "Скелет спинозавра",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Spinosaurus"
+  },
+  {
+    "id": "fact-nature-brachiosaurus",
+    "topic": "nature",
+    "title": "Брахиозавр",
+    "caption": "155–140 млн лет назад. 26 м длиной, 13 м высотой, 56 тонн. Сердце весило 400 кг — иначе не прокачать кровь к голове на 13 м.",
+    "alt": "Скелет брахиозавра",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Brachiosaurus"
+  },
+  {
+    "id": "fact-nature-archaeopteryx",
+    "topic": "nature",
+    "title": "Археоптерикс",
+    "caption": "Юрский период, 150 млн лет назад. Размером с ворону. Переходная форма от динозавров к птицам — зубы, хвост, перья.",
+    "alt": "Окаменелость археоптерикса",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Archaeopteryx"
+  },
+  {
+    "id": "fact-nature-megalodon",
+    "topic": "nature",
+    "title": "Мегалодон",
+    "caption": "Гигантская акула, 23–3,6 млн лет назад. До 18 м длиной (большая белая — 6). Зубы 18 см. Вымер из-за охлаждения океанов.",
+    "alt": "Зуб мегалодона",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Megalodon"
+  },
+  {
+    "id": "fact-nature-smilodon",
+    "topic": "nature",
+    "title": "Саблезубый тигр",
+    "caption": "2,5 млн – 10 000 лет назад. Не родственник тиграм. Клыки до 28 см. Жил в Северной и Южной Америке. Вымер с мегафауной плейстоцена.",
+    "alt": "Череп саблезубого тигра",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Smilodon"
+  },
+  {
+    "id": "fact-nature-trilobite",
+    "topic": "nature",
+    "title": "Трилобит",
+    "caption": "521 млн – 252 млн лет назад. 270 млн лет существовали. 20 000 видов. Первое существо с настоящими сложными глазами в истории.",
+    "alt": "Окаменелость трилобита",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Trilobite"
+  },
+  {
+    "id": "fact-nature-ammonite",
+    "topic": "nature",
+    "title": "Аммонит",
+    "caption": "400–66 млн лет назад. Морские головоногие со спиральной раковиной. До 2 м в диаметре. Вымерли с динозаврами. Дальние родственники осьминогов.",
+    "alt": "Раковина аммонита",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ammonoidea"
+  },
+  {
+    "id": "fact-nature-tiktaalik",
+    "topic": "nature",
+    "title": "Тиктаалик",
+    "caption": "375 млн лет назад. Переходная форма рыба→тетрапод. Найден на Эллесмере (Канада) в 2004. Имел шею и плавники-«руки» для опоры на дне.",
+    "alt": "Реконструкция тиктаалика",
+    "year": 2004,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tiktaalik"
+  },
+  {
+    "id": "fact-history-lucy-fossil",
+    "topic": "history",
+    "title": "Люси · Australopithecus",
+    "caption": "Скелет, найденный в Эфиопии 24 ноября 1974. 3,2 млн лет, 40% костей. Самки 1,07 м роста, 29 кг. Перевернула представления о происхождении человека.",
+    "alt": "Скелет Люси",
+    "year": 1974,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lucy_(Australopithecus)"
+  },
+  {
+    "id": "fact-history-neanderthal",
+    "topic": "history",
+    "title": "Неандерталец",
+    "caption": "400 000 – 40 000 лет назад. Жили в Европе и Западной Азии. Объём мозга больше нашего. У европейцев — 2% генов от скрещивания.",
+    "alt": "Реконструкция неандертальца",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Neanderthal"
+  },
+  {
+    "id": "fact-history-otzi",
+    "topic": "history",
+    "title": "Эци · ледяной человек",
+    "caption": "Альпы, найден 19 сентября 1991. Возраст 5300 лет. Убит стрелой в спину. 61 татуировка — древнейшие на Земле. ДНК указывает Сардинию.",
+    "alt": "Эци — ледяная мумия",
+    "year": 1991,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ötzi"
+  },
+  {
+    "id": "fact-materials-diamond-2",
+    "topic": "materials",
+    "title": "Алмаз",
+    "caption": "10 баллов по шкале Мооса — твёрдейший природный материал. Чистый углерод под давлением 7 ГПа на глубине 150 км. Образуется ~3 млрд лет.",
+    "alt": "Алмаз огранки бриллиант",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Diamond"
+  },
+  {
+    "id": "fact-materials-emerald",
+    "topic": "materials",
+    "title": "Изумруд",
+    "caption": "Зелёный берилл — окрашен хромом и ванадием. Твёрдость 7,5-8 Мооса. Главное месторождение — Колумбия (60% мирового). Любимый камень Клеопатры.",
+    "alt": "Изумруд",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Emerald"
+  },
+  {
+    "id": "fact-materials-ruby",
+    "topic": "materials",
+    "title": "Рубин",
+    "caption": "Красный корунд (Al₂O₃ с хромом). Твёрдость 9 Мооса — после алмаза. Бирма даёт 90% мировых. Использовался в первом лазере (1960).",
+    "alt": "Рубин",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ruby"
+  },
+  {
+    "id": "fact-materials-sapphire",
+    "topic": "materials",
+    "title": "Сапфир",
+    "caption": "Корунд (Al₂O₃) — все цвета, кроме красного (тогда рубин). Синий — от железа и титана. Звёздный сапфир имеет 6-лучевой астеризм.",
+    "alt": "Синий сапфир",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sapphire"
+  },
+  {
+    "id": "fact-materials-amethyst",
+    "topic": "materials",
+    "title": "Аметист",
+    "caption": "Фиолетовый кварц. Цвет от радиоактивного облучения и железа. Твёрдость 7. До XVIII века стоил как изумруд — пока не нашли крупные залежи в Бразилии.",
+    "alt": "Кристалл аметиста",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Amethyst"
+  },
+  {
+    "id": "fact-materials-quartz",
+    "topic": "materials",
+    "title": "Кварц",
+    "caption": "SiO₂. 12% массы земной коры — самый распространённый минерал. Пьезоэффект (1880) — основа кварцевых часов с точностью ±0,5 сек/сутки.",
+    "alt": "Кристалл горного хрусталя",
+    "year": 1880,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quartz"
+  },
+  {
+    "id": "fact-materials-pyrite",
+    "topic": "materials",
+    "title": "Пирит",
+    "caption": "FeS₂. «Золото дураков» — латунный блеск обманул не одного. Образует идеальные кубы. Использовался в кремнёвых ружьях XVI–XIX веков.",
+    "alt": "Кристалл пирита-куб",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pyrite"
+  },
+  {
+    "id": "fact-materials-fluorite",
+    "topic": "materials",
+    "title": "Флюорит",
+    "caption": "CaF₂. Все цвета радуги. Откуда термин «флуоресценция» — флюорит светится в УФ. Используется для линз в высококачественной оптике.",
+    "alt": "Кристаллы флюорита",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fluorite"
+  },
+  {
+    "id": "fact-materials-opal",
+    "topic": "materials",
+    "title": "Опал",
+    "caption": "Гидратированный SiO₂. Игра цвета — дифракция света на упорядоченных кремниевых шариках. 95% мировых опалов — из Австралии.",
+    "alt": "Игра цвета в опале",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Opal"
+  },
+  {
+    "id": "fact-materials-jade",
+    "topic": "materials",
+    "title": "Нефрит",
+    "caption": "Жадеит и собственно нефрит. Использовался в Китае с 5000 до н.э. — священный камень. Костюм принцессы Доу Ваня сшит из 2156 пластин нефрита.",
+    "alt": "Резной нефрит",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jade"
+  },
+  {
+    "id": "fact-materials-lapis-lazuli",
+    "topic": "materials",
+    "title": "Лазурит",
+    "caption": "Синий минерал из Афганистана. Тутанхамоновская маска. До 1828 — единственный пигмент для синего ультрамарина. Стоил дороже золота.",
+    "alt": "Лазурит",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lapis_lazuli"
+  },
+  {
+    "id": "fact-materials-malachite",
+    "topic": "materials",
+    "title": "Малахит",
+    "caption": "Cu₂CO₃(OH)₂. Зелёные концентрические узоры. Использовался для пигмента (древний Египет) и для отделки (Малахитовая комната Эрмитажа).",
+    "alt": "Малахит",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Malachite"
+  },
+  {
+    "id": "fact-materials-obsidian",
+    "topic": "materials",
+    "title": "Обсидиан",
+    "caption": "Вулканическое стекло. Острейший природный материал — лезвие толщиной 3 нм. Использовался для скальпелей и инструментов с каменного века.",
+    "alt": "Обсидиан",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Obsidian"
+  },
+  {
+    "id": "fact-materials-tourmaline",
+    "topic": "materials",
+    "title": "Турмалин",
+    "caption": "Кристаллический борсодержащий минерал. 8 разных цветов в одном кристалле возможны. Пиро- и пьезоэлектрик. Шкатулка цветов Земли.",
+    "alt": "Турмалин",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tourmaline"
+  },
+  {
+    "id": "fact-materials-tanzanite",
+    "topic": "materials",
+    "title": "Танзанит",
+    "caption": "Голубой цоизит. Найден в 1967 у горы Килиманджаро. Единственное месторождение в мире — 4 км² в Танзании. Запасы исчерпают за 20-30 лет.",
+    "alt": "Танзанит",
+    "year": 1967,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tanzanite"
+  },
+  {
+    "id": "fact-materials-turquoise",
+    "topic": "materials",
+    "title": "Бирюза",
+    "caption": "Голубой фосфат меди и алюминия. Священный камень индейцев пуэбло, ацтеков, тибетских буддистов. От иранского «фирузе» — «победа».",
+    "alt": "Бирюза",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Turquoise"
+  },
+  {
+    "id": "fact-materials-hematite",
+    "topic": "materials",
+    "title": "Гематит",
+    "caption": "Fe₂O₃. Чёрный с красным оттенком. Главная железная руда — 70% железа. От греч. «haima» (кровь). На Марсе красный цвет — гематит.",
+    "alt": "Гематит",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hematite"
+  },
+  {
+    "id": "fact-materials-mica",
+    "topic": "materials",
+    "title": "Слюда",
+    "caption": "Силикатные минералы с идеальной плоской спайностью. Прозрачные пластинки до 1 мкм. Использовалась в окнах СССР, изоляторах, косметике (блёстки).",
+    "alt": "Слюда",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mica"
+  },
+  {
+    "id": "fact-materials-halite",
+    "topic": "materials",
+    "title": "Галит · NaCl",
+    "caption": "Каменная соль. Кристалл — идеальный куб. Польская шахта Величка (с XIII века) — UNESCO с 1978, целые часовни высечены из соли.",
+    "alt": "Кристалл галита",
+    "year": 1978,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Halite"
+  },
+  {
+    "id": "fact-materials-magnetite",
+    "topic": "materials",
+    "title": "Магнетит",
+    "caption": "Fe₃O₄. Сильнейший природный магнит. Микрокристаллы в клетках бактерий и птиц — компас. Дал название явлению «магнетизм».",
+    "alt": "Магнетит",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Magnetite"
+  }
+]
