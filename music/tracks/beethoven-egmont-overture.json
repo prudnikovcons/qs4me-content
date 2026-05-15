@@ -1,0 +1,21 @@
+{
+  "id": "beethoven-egmont-overture",
+  "file": "beethoven-egmont-overture.mp3",
+  "title": "Увертюра «Эгмонт» op. 84",
+  "title_original": "Egmont Overture, Op. 84",
+  "composer_id": "beethoven",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1810,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "tone-poem",
+    "symphony"
+  ],
+  "duration_sec": 540,
+  "description_md": "Концертная увертюра «Эгмонт» op. 84, часть музыки к одноимённой трагедии Гёте, написанной Бетховеном в 1809–1810 годах для постановки в Вене. Сюжет — нидерландский граф Ламораль ван Эгмонт, лидер сопротивления испанскому владычеству, казнённый в 1568 году в Брюсселе; Гёте делает из него символ свободы и национального возрождения.\n\nБетховен открывает увертюру медленным мощным вступлением — пунктирные аккорды в фа миноре, символизирующие испанский деспотизм. Главная партия Allegro — гневная, скачкообразная, фа минор. Кода — внезапный переход в фа мажор, с фанфарами труб: победа дела свободы после смерти героя. Эта Siegessymphonie (Симфония Победы) звучит как малой версией финала Девятой симфонии, которую Бетховен напишет через десять лет.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

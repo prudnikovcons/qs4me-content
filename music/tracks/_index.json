@@ -1,6 +1,4 @@
 [
-  "bach-brandenburg-2-1",
-  "bach-brandenburg-2-3",
   "bach-goldberg-aria",
   "bach-goldberg-aria-da-capo",
   "bach-goldberg-var-01",
@@ -32,6 +30,8 @@
   "bach-goldberg-var-27",
   "bach-goldberg-var-29",
   "bach-goldberg-var-30",
+  "beethoven-coriolan-overture",
+  "beethoven-egmont-overture",
   "borodin-quartet-2-scherzo",
   "grieg-peer-gynt-aases-death",
   "grieg-peer-gynt-anitras-dance",
@@ -42,7 +42,10 @@
   "haydn-lark-3-menuetto",
   "haydn-lark-4-finale",
   "mendelssohn-italian-4-saltarello",
-  "mozart-rondo-alla-turca",
-  "mozart-sonata-11-menuetto",
-  "mozart-sonata-545-allegro"
+  "mozart-figaro-overture",
+  "mozart-magic-flute-overture",
+  "mozart-symphony-40-1-allegro",
+  "mozart-symphony-40-2-andante",
+  "mozart-symphony-40-3-menuetto",
+  "mozart-symphony-40-4-allegro"
 ]

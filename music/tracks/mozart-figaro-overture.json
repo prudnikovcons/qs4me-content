@@ -1,0 +1,20 @@
+{
+  "id": "mozart-figaro-overture",
+  "file": "mozart-figaro-overture.mp3",
+  "title": "«Свадьба Фигаро» — Увертюра",
+  "title_original": "The Marriage of Figaro, K. 492 — Overture",
+  "composer_id": "mozart",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1786,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 241,
+  "description_md": "Увертюра к опере «Свадьба Фигаро» KV 492, написанной Моцартом в 1786 году по пьесе Бомарше — премьера состоялась в Вене 1 мая 1786 года в Бургтеатре. Увертюра написана в форме сонатного аллегро (presto), но в сильно ускоренном виде: без медленного вступления, без серьёзной разработки — Моцарт даёт чистую игровую энергию, которая откроет четыре часа комедийной интриги.\n\nХарактерный приём — стремительное «бормотание» струнных в начале на одной ноте, постепенно перерастающее в полноценную главную партию. Это музыкальное изображение шёпота слуг в коридорах графского дома — куда нас сейчас введёт опера. Четыре минуты, никаких отвлекающих эпизодов, без коды — просто прямое начало действия.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

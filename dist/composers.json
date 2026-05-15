@@ -15,6 +15,21 @@
     "_photoUrl": "/music/composers/bach.jpg"
   },
   {
+    "id": "beethoven",
+    "full_name_ru": "Людвиг ван Бетховен",
+    "full_name_en": "Ludwig van Beethoven",
+    "birth": 1770,
+    "death": 1827,
+    "country": "Германия / Австрия",
+    "era": "classical",
+    "summary_ru": "Немецкий композитор, ключевая фигура перехода от классицизма к романтизму. Девять симфоний, 32 фортепианные сонаты, 16 струнных квартетов, опера «Фиделио». С 1798 года прогрессивно глох; «Девятую» с «Одой к радости» написал и продирижировал её премьерой, ничего не слыша.",
+    "photo": "beethoven.jpg",
+    "photo_credit": "Joseph Karl Stieler · 1820 · масло (с рукописью Missa solemnis) · PD",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+    "_photoUrl": "/music/composers/beethoven.jpg"
+  },
+  {
     "id": "borodin",
     "full_name_ru": "Александр Бородин",
     "full_name_en": "Alexander Borodin",

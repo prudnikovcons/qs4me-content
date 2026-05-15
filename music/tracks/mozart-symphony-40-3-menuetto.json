@@ -1,0 +1,20 @@
+{
+  "id": "mozart-symphony-40-3-menuetto",
+  "file": "mozart-symphony-40-3-menuetto.mp3",
+  "title": "Симфония № 40 соль минор KV 550, III — Menuetto Allegretto",
+  "title_original": "Symphony No. 40 in G minor, K. 550, III — Menuetto Allegretto",
+  "composer_id": "mozart",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1788,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 272,
+  "description_md": "Менуэт Симфонии № 40 — возвращение в соль минор, но танцевальный характер обманчив: это не салонный менуэт, а почти грозный марш с пунктирным ритмом и резкими акцентами на сильные доли. Моцарт здесь обходит конвенции классического менуэта 1780-х годов и пишет что-то ближе к скерцо, которое появится у Бетховена через двадцать лет.\n\nТрио в соль мажоре — короткий просвет: лёгкие духовые в средней регистре, без напряжения, без минора. После трио менуэт возвращается без изменений. Четыре с половиной минуты, плотная фактура, ясная архитектура. Шуман называл эту часть «выходом из тёмного коридора во двор и обратно в тот же тёмный коридор».",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

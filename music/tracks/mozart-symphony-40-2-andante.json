@@ -1,0 +1,20 @@
+{
+  "id": "mozart-symphony-40-2-andante",
+  "file": "mozart-symphony-40-2-andante.mp3",
+  "title": "Симфония № 40 соль минор KV 550, II — Andante",
+  "title_original": "Symphony No. 40 in G minor, K. 550, II — Andante",
+  "composer_id": "mozart",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1788,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 456,
+  "description_md": "Медленная часть Симфонии № 40 — Andante в ми-бемоль мажоре, размер 6/8. После минорного драматического первого аллегро Моцарт переключается на лирическую медитацию в параллельном мажоре. Главная тема растёт из коротких мотивов в скрипках — каждый мотив повторяется с орнаментацией, расширяется, передаётся другим инструментам.\n\nСтруктура — сонатная форма с разработкой, что нетипично для второй части классической симфонии (обычно вторая часть — простая трёхчастная или вариации). Моцарт здесь использует разработку как пространство для хроматических модуляций — гармонический язык в этом Andante опережает Бетховена и предвещает Шуберта. Семь с половиной минут в спокойном медленном темпе, без эмоциональных взрывов.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

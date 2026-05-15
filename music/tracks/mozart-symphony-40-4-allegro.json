@@ -1,0 +1,20 @@
+{
+  "id": "mozart-symphony-40-4-allegro",
+  "file": "mozart-symphony-40-4-allegro.mp3",
+  "title": "Симфония № 40 соль минор KV 550, IV — Allegro assai",
+  "title_original": "Symphony No. 40 in G minor, K. 550, IV — Allegro assai",
+  "composer_id": "mozart",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1788,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 284,
+  "description_md": "Финал Симфонии № 40 — Allegro assai, соль минор, форма сонатного аллегро. Бурный, стремительный, без минуты передышки от первого до последнего такта. Главная тема — характерная «ракетная» восходящая фигура в скрипках, которая через четыре такта взрывается полным оркестром.\n\nВ разработке Моцарт использует один из самых смелых эпизодов всей классической эпохи: серия хроматических модуляций уводит музыку в далёкие тональности, оркестр играет почти всеми двенадцатью звуками октавы по очереди — приём, к которому академическая музыка вернётся только у Шёнберга 130 лет спустя. Реприза возвращается в g-moll, кода обрушивается на тонический аккорд без облегчения. Симфония заканчивается в миноре — редкость для XVIII века.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

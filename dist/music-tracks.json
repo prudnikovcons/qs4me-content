@@ -1,49 +1,5 @@
 [
   {
-    "id": "bach-brandenburg-2-1",
-    "file": "bach-brandenburg-2-1.mp3",
-    "title": "Бранденбургский концерт № 2 BWV 1047, I — Allegro",
-    "title_original": "Brandenburg Concerto No. 2 in F major, BWV 1047, I — Allegro",
-    "composer_id": "bach",
-    "performer_id": null,
-    "year_composed": 1721,
-    "year_recorded": null,
-    "era": "baroque",
-    "style": [
-      "concerto"
-    ],
-    "duration_sec": 309,
-    "description_md": "Первая часть Второго Бранденбургского концерта фа мажор BWV 1047. Шесть Бранденбургских концертов Бах послал в марте 1721 года маркграфу Кристиану Людвигу Бранденбург-Шведтскому — в надежде на придворную должность; ответа не получил, рукопись пролежала в архиве 130 лет и была обнаружена только в 1849-м.\n\nВторой концерт — самый виртуозный из шести: соло-группа из четырёх голосов (труба-кларина в высоком регистре, гобой, продольная флейта, скрипка) ведёт диалог со струнным оркестром и basso continuo. Партия трубы написана так высоко, что в XX веке потребовался специальный инструмент — пикколо-труба — чтобы её сыграть; на барочной кларине это делалось губами, без вентилей. Allegro — концертная форма ритурнеля: оркестр играет короткое вступление-припев, между его повторами — соло-эпизоды, всё движется в безостановочной шестнадцатой пульсации, типичной для итальянского концертного стиля.",
-    "license": "PD",
-    "license_url": "https://creativecommons.org/licenses/publicdomain/",
-    "source": "https://archive.org/details/Bach_JS_-_Brandenburg_C_No_2_in_F_Major_1047_mvmt_1_",
-    "credit": "PD recording · IA",
-    "_fileUrl": "/music/tracks/bach-brandenburg-2-1.mp3"
-  },
-  {
-    "id": "bach-brandenburg-2-3",
-    "file": "bach-brandenburg-2-3.mp3",
-    "title": "Бранденбургский концерт № 2 BWV 1047, III — Allegro assai",
-    "title_original": "Brandenburg Concerto No. 2 in F major, BWV 1047, III — Allegro assai",
-    "composer_id": "bach",
-    "performer_id": null,
-    "year_composed": 1721,
-    "year_recorded": null,
-    "era": "baroque",
-    "style": [
-      "concerto",
-      "fugue"
-    ],
-    "duration_sec": 164,
-    "description_md": "Финал Второго Бранденбургского концерта — Allegro assai, очень быстро. После второй части, где труба молчит и звучат только три солирующих инструмента в интимном квартете, здесь возвращается весь ансамбль и тон становится открыто торжественным.\n\nФорма — фугато: труба-кларина начинает тему, после неё в порядке inversion вступают гобой, скрипка, флейта, наконец оркестр. Бах строит партию трубы практически без отдыха — два с половиной минуты на самой верхней ноте регистра, что в XVIII веке требовало выдающихся губ и лёгких. В 1977 году именно этот финал был записан на «Золотой пластинке» космического аппарата «Вояджер» как первая композиция земной музыки, отправленной в межзвёздное пространство.",
-    "trivia": "Финал BWV 1047 — первая дорожка музыкальной части «Золотой пластинки» «Вояджера-1», отправленной в космос в 1977 году.",
-    "license": "PD",
-    "license_url": "https://creativecommons.org/licenses/publicdomain/",
-    "source": "https://archive.org/details/Bach__J.S._-_Brandenb_BWV_1047_mvmt_3_",
-    "credit": "PD recording · IA",
-    "_fileUrl": "/music/tracks/bach-brandenburg-2-3.mp3"
-  },
-  {
     "id": "bach-goldberg-aria-da-capo",
     "file": "bach-goldberg-aria-da-capo.mp3",
     "title": "«Гольдберг-вариации» BWV 988 — Ария да капо",
@@ -739,6 +695,50 @@
     "_fileUrl": "/music/tracks/bach-goldberg-var-30.mp3"
   },
   {
+    "id": "beethoven-coriolan-overture",
+    "file": "beethoven-coriolan-overture.mp3",
+    "title": "Увертюра «Кориолан» op. 62",
+    "title_original": "Coriolan Overture, Op. 62",
+    "composer_id": "beethoven",
+    "performer_id": "musopen-ensemble",
+    "year_composed": 1807,
+    "year_recorded": 2012,
+    "era": "classical",
+    "style": [
+      "tone-poem",
+      "symphony"
+    ],
+    "duration_sec": 498,
+    "description_md": "Концертная увертюра «Кориолан» op. 62, написанная Бетховеном в 1807 году по трагедии Генриха Йозефа фон Коллина (не Шекспира) — пьеса шла в Венском Бургтеатре. Кориолан — римский полководец V века до н.э., изгнанный из Рима за гордыню; собирает войска против родного города, мать Волумния умоляет его остановиться — он отказывается воевать, но и вернуться в Рим уже не может; кончает жизнь самоубийством.\n\nБетховен берёт всю драматургию пьесы в один оркестровый эпизод. Резкое унисонное вступление — три фа-мажорных удара в басах, обрывающихся в до миноре. Главная партия — нервная, скачкообразная фигура струнных, символизирующая ярость героя. Побочная тема в мажоре — голос Волумнии, мягкий и просящий. Разработка — спор двух тем, заканчивающийся постепенным затуханием главной партии: герой умирает в тишине, без драматического жеста.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://archive.org/details/MusopenCollectionAsFlac",
+    "credit": "Musopen Kickstarter Project · 2012 · PD",
+    "_fileUrl": "/music/tracks/beethoven-coriolan-overture.mp3"
+  },
+  {
+    "id": "beethoven-egmont-overture",
+    "file": "beethoven-egmont-overture.mp3",
+    "title": "Увертюра «Эгмонт» op. 84",
+    "title_original": "Egmont Overture, Op. 84",
+    "composer_id": "beethoven",
+    "performer_id": "musopen-ensemble",
+    "year_composed": 1810,
+    "year_recorded": 2012,
+    "era": "classical",
+    "style": [
+      "tone-poem",
+      "symphony"
+    ],
+    "duration_sec": 540,
+    "description_md": "Концертная увертюра «Эгмонт» op. 84, часть музыки к одноимённой трагедии Гёте, написанной Бетховеном в 1809–1810 годах для постановки в Вене. Сюжет — нидерландский граф Ламораль ван Эгмонт, лидер сопротивления испанскому владычеству, казнённый в 1568 году в Брюсселе; Гёте делает из него символ свободы и национального возрождения.\n\nБетховен открывает увертюру медленным мощным вступлением — пунктирные аккорды в фа миноре, символизирующие испанский деспотизм. Главная партия Allegro — гневная, скачкообразная, фа минор. Кода — внезапный переход в фа мажор, с фанфарами труб: победа дела свободы после смерти героя. Эта Siegessymphonie (Симфония Победы) звучит как малой версией финала Девятой симфонии, которую Бетховен напишет через десять лет.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://archive.org/details/MusopenCollectionAsFlac",
+    "credit": "Musopen Kickstarter Project · 2012 · PD",
+    "_fileUrl": "/music/tracks/beethoven-egmont-overture.mp3"
+  },
+  {
     "id": "borodin-quartet-2-scherzo",
     "file": "borodin-quartet-2-scherzo.mp3",
     "title": "Струнный квартет № 2 ре мажор, II — Скерцо Allegro",
@@ -952,69 +952,131 @@
     "_fileUrl": "/music/tracks/mendelssohn-italian-4-saltarello.mp3"
   },
   {
-    "id": "mozart-rondo-alla-turca",
-    "file": "mozart-rondo-alla-turca.mp3",
-    "title": "«Турецкое рондо» из Сонаты № 11 KV 331",
-    "title_original": "Rondo «Alla Turca» from Piano Sonata No. 11, K. 331",
+    "id": "mozart-figaro-overture",
+    "file": "mozart-figaro-overture.mp3",
+    "title": "«Свадьба Фигаро» — Увертюра",
+    "title_original": "The Marriage of Figaro, K. 492 — Overture",
     "composer_id": "mozart",
-    "performer_id": null,
-    "year_composed": 1783,
-    "year_recorded": null,
+    "performer_id": "musopen-ensemble",
+    "year_composed": 1786,
+    "year_recorded": 2012,
     "era": "classical",
     "style": [
-      "sonata",
-      "piano-solo"
+      "symphony"
     ],
-    "duration_sec": 181,
-    "description_md": "Третья часть фортепианной сонаты № 11 ля мажор KV 331, написанной около 1783 года — самая известная фортепианная миниатюра XVIII века и одна из самых играемых пьес мирового репертуара. Подзаголовок «Alla turca» отсылает к моде на «турецкое» в Вене конца 1700-х: после двух осад Стамбулом город пережил волну ориентализма, в оркестры добавляли барабан и тарелки, имитируя янычарскую военную музыку.\n\nУ Моцарта все эти эффекты передаются одним фортепиано — характерное маршевое сопровождение в басу, быстрые гаммы в правой руке, акцентированные форшлаги. Форма — рондо с тремя возвращениями основной темы; финал — блестящая кода с аккордовыми «литаврами» в басу. Соната целиком, кстати, нетипична: ни одной части в сонатной форме, а первая — вариации на тему.",
+    "duration_sec": 241,
+    "description_md": "Увертюра к опере «Свадьба Фигаро» KV 492, написанной Моцартом в 1786 году по пьесе Бомарше — премьера состоялась в Вене 1 мая 1786 года в Бургтеатре. Увертюра написана в форме сонатного аллегро (presto), но в сильно ускоренном виде: без медленного вступления, без серьёзной разработки — Моцарт даёт чистую игровую энергию, которая откроет четыре часа комедийной интриги.\n\nХарактерный приём — стремительное «бормотание» струнных в начале на одной ноте, постепенно перерастающее в полноценную главную партию. Это музыкальное изображение шёпота слуг в коридорах графского дома — куда нас сейчас введёт опера. Четыре минуты, никаких отвлекающих эпизодов, без коды — просто прямое начало действия.",
     "license": "PD",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "source": "https://archive.org/details/RondoAllaTurca_201401",
-    "credit": "Mutopia Project · PD",
-    "_fileUrl": "/music/tracks/mozart-rondo-alla-turca.mp3"
+    "source": "https://archive.org/details/MusopenCollectionAsFlac",
+    "credit": "Musopen Kickstarter Project · 2012 · PD",
+    "_fileUrl": "/music/tracks/mozart-figaro-overture.mp3"
   },
   {
-    "id": "mozart-sonata-11-menuetto",
-    "file": "mozart-sonata-11-menuetto.mp3",
-    "title": "Менуэт из Сонаты № 11 KV 331",
-    "title_original": "Menuetto from Piano Sonata No. 11, K. 331",
+    "id": "mozart-magic-flute-overture",
+    "file": "mozart-magic-flute-overture.mp3",
+    "title": "«Волшебная флейта» — Увертюра",
+    "title_original": "The Magic Flute, K. 620 — Overture",
     "composer_id": "mozart",
-    "performer_id": null,
-    "year_composed": 1783,
-    "year_recorded": null,
+    "performer_id": "musopen-ensemble",
+    "year_composed": 1791,
+    "year_recorded": 2012,
     "era": "classical",
     "style": [
-      "sonata",
-      "piano-solo"
+      "symphony"
     ],
-    "duration_sec": 334,
-    "description_md": "Вторая часть фортепианной сонаты № 11 ля мажор KV 331 — традиционный менуэт с трио, написанный около 1783 года, вероятно в Зальцбурге или Вене. Менуэт — трёхдольный придворный танец, со времён Гайдна обязательная часть классической сонаты или симфонии; у Моцарта здесь — изящный, светский, без драмы, в характере салонной музыки конца XVIII века.\n\nФорма каноническая: основная тема (A), трио в одноимённом миноре или субдоминанте (B), возвращение A. У Моцарта трио в ре мажоре — поярче, в более широких длительностях, словно открытие двери в соседний зал, где играет другое настроение. Возвращение основной темы — без вариаций, точно так же, как в начале. Эта соната знаменита прежде всего третьей частью «Alla turca», но менуэт по форме и тематической экономии — едва ли не более совершенен.",
+    "duration_sec": 400,
+    "description_md": "Увертюра к опере «Волшебная флейта» KV 620, последнему завершённому крупному произведению Моцарта (премьера 30 сентября 1791 года, за два месяца до его смерти). Эта увертюра принципиально отличается от «Свадьбы Фигаро»: у неё есть полноценное медленное вступление в ми-бемоль мажоре — три внушительных аккорда, символизирующие три удара во врата масонского ритуала (Моцарт был масоном с 1784 года).\n\nЗатем — быстрая часть в форме сонатного аллегро с фугатом: главная тема проходит имитационно через все струнные группы, как контрапунктическая разработка в духе Баха. После шести минут увертюры опера переключается на сказочный сюжет, но сама увертюра остаётся одним из самых серьёзных оркестровых высказываний Моцарта.",
+    "trivia": "Три аккорда вступления Моцарт повторяет ещё дважды в самой опере — на двух важнейших моментах посвящения Тамино.",
     "license": "PD",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "source": "https://archive.org/details/PianoSonataNo.11",
-    "credit": "Mutopia Project · PD",
-    "_fileUrl": "/music/tracks/mozart-sonata-11-menuetto.mp3"
+    "source": "https://archive.org/details/MusopenCollectionAsFlac",
+    "credit": "Musopen Kickstarter Project · 2012 · PD",
+    "_fileUrl": "/music/tracks/mozart-magic-flute-overture.mp3"
   },
   {
-    "id": "mozart-sonata-545-allegro",
-    "file": "mozart-sonata-545-allegro.mp3",
-    "title": "Соната № 16 KV 545 до мажор, I — Allegro",
-    "title_original": "Piano Sonata No. 16 in C major, K. 545, I — Allegro",
+    "id": "mozart-symphony-40-1-allegro",
+    "file": "mozart-symphony-40-1-allegro.mp3",
+    "title": "Симфония № 40 соль минор KV 550, I — Molto Allegro",
+    "title_original": "Symphony No. 40 in G minor, K. 550, I — Molto Allegro",
     "composer_id": "mozart",
-    "performer_id": null,
+    "performer_id": "musopen-ensemble",
     "year_composed": 1788,
-    "year_recorded": null,
+    "year_recorded": 2012,
     "era": "classical",
     "style": [
-      "sonata",
-      "piano-solo"
+      "symphony"
     ],
-    "duration_sec": 133,
-    "description_md": "Первая часть фортепианной сонаты № 16 до мажор KV 545, законченной Моцартом 26 июня 1788 года в Вене. Сам композитор в каталоге записал «kleine Klavier-Sonate für Anfänger» — «маленькая фортепианная соната для начинающих». Парадокс: пьеса, написанная как учебная, стала одной из самых узнаваемых мелодий мировой классики; первые такты слышали все, даже те, кто никогда не слушал Моцарта.\n\nФорма сонатного аллегро — экспозиция с двумя темами, короткая разработка, реприза. Главная тема в правой руке открывается восходящим триадным мотивом, аккомпанемент — «альбертиев бас» из равномерных триадных арпеджио. В разработке Моцарт уводит музыку в g-moll и f-moll — короткое потемнение, после которого реприза возвращается уже в субдоминанте F-dur, что нетипично и даёт пьесе характерную «бочкообразную» форму. 1788-й — год трёх последних симфоний; на фоне той вершины эта «учебная» соната выглядит маленьким экспериментом.",
+    "duration_sec": 358,
+    "description_md": "Первая часть Симфонии № 40 соль минор — одной из последних трёх симфоний Моцарта, написанных летом 1788 года в Вене за шесть недель (вместе с симфониями № 39 ми-бемоль мажор и № 41 «Юпитер» до мажор). Симфония № 40 — одна из всего двух симфоний Моцарта в миноре (вторая — № 25, тоже g-moll).\n\nГлавная тема — нервная, скачкообразная: восходящие интервалы, акценты на слабые доли. Открывается без вступления, прямо с главной партии — что для Моцарта необычно. Форма сонатного аллегро строгая: экспозиция с двумя контрастными темами, разработка, реприза. Это одна из самых трагических симфонических первых частей XVIII века; Шуман писал, что её главная тема — «чисто греческая красота».",
+    "trivia": "Моцарт не дирижировал ни одной из трёх последних симфоний при жизни; вероятно, они были написаны для подготовки концерта, который так и не состоялся.",
     "license": "PD",
     "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "source": "https://archive.org/details/Sonata.no.16InCMajor",
-    "credit": "Mutopia Project · PD",
-    "_fileUrl": "/music/tracks/mozart-sonata-545-allegro.mp3"
+    "source": "https://archive.org/details/MusopenCollectionAsFlac",
+    "credit": "Musopen Kickstarter Project · 2012 · PD",
+    "_fileUrl": "/music/tracks/mozart-symphony-40-1-allegro.mp3"
+  },
+  {
+    "id": "mozart-symphony-40-2-andante",
+    "file": "mozart-symphony-40-2-andante.mp3",
+    "title": "Симфония № 40 соль минор KV 550, II — Andante",
+    "title_original": "Symphony No. 40 in G minor, K. 550, II — Andante",
+    "composer_id": "mozart",
+    "performer_id": "musopen-ensemble",
+    "year_composed": 1788,
+    "year_recorded": 2012,
+    "era": "classical",
+    "style": [
+      "symphony"
+    ],
+    "duration_sec": 456,
+    "description_md": "Медленная часть Симфонии № 40 — Andante в ми-бемоль мажоре, размер 6/8. После минорного драматического первого аллегро Моцарт переключается на лирическую медитацию в параллельном мажоре. Главная тема растёт из коротких мотивов в скрипках — каждый мотив повторяется с орнаментацией, расширяется, передаётся другим инструментам.\n\nСтруктура — сонатная форма с разработкой, что нетипично для второй части классической симфонии (обычно вторая часть — простая трёхчастная или вариации). Моцарт здесь использует разработку как пространство для хроматических модуляций — гармонический язык в этом Andante опережает Бетховена и предвещает Шуберта. Семь с половиной минут в спокойном медленном темпе, без эмоциональных взрывов.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://archive.org/details/MusopenCollectionAsFlac",
+    "credit": "Musopen Kickstarter Project · 2012 · PD",
+    "_fileUrl": "/music/tracks/mozart-symphony-40-2-andante.mp3"
+  },
+  {
+    "id": "mozart-symphony-40-3-menuetto",
+    "file": "mozart-symphony-40-3-menuetto.mp3",
+    "title": "Симфония № 40 соль минор KV 550, III — Menuetto Allegretto",
+    "title_original": "Symphony No. 40 in G minor, K. 550, III — Menuetto Allegretto",
+    "composer_id": "mozart",
+    "performer_id": "musopen-ensemble",
+    "year_composed": 1788,
+    "year_recorded": 2012,
+    "era": "classical",
+    "style": [
+      "symphony"
+    ],
+    "duration_sec": 272,
+    "description_md": "Менуэт Симфонии № 40 — возвращение в соль минор, но танцевальный характер обманчив: это не салонный менуэт, а почти грозный марш с пунктирным ритмом и резкими акцентами на сильные доли. Моцарт здесь обходит конвенции классического менуэта 1780-х годов и пишет что-то ближе к скерцо, которое появится у Бетховена через двадцать лет.\n\nТрио в соль мажоре — короткий просвет: лёгкие духовые в средней регистре, без напряжения, без минора. После трио менуэт возвращается без изменений. Четыре с половиной минуты, плотная фактура, ясная архитектура. Шуман называл эту часть «выходом из тёмного коридора во двор и обратно в тот же тёмный коридор».",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://archive.org/details/MusopenCollectionAsFlac",
+    "credit": "Musopen Kickstarter Project · 2012 · PD",
+    "_fileUrl": "/music/tracks/mozart-symphony-40-3-menuetto.mp3"
+  },
+  {
+    "id": "mozart-symphony-40-4-allegro",
+    "file": "mozart-symphony-40-4-allegro.mp3",
+    "title": "Симфония № 40 соль минор KV 550, IV — Allegro assai",
+    "title_original": "Symphony No. 40 in G minor, K. 550, IV — Allegro assai",
+    "composer_id": "mozart",
+    "performer_id": "musopen-ensemble",
+    "year_composed": 1788,
+    "year_recorded": 2012,
+    "era": "classical",
+    "style": [
+      "symphony"
+    ],
+    "duration_sec": 284,
+    "description_md": "Финал Симфонии № 40 — Allegro assai, соль минор, форма сонатного аллегро. Бурный, стремительный, без минуты передышки от первого до последнего такта. Главная тема — характерная «ракетная» восходящая фигура в скрипках, которая через четыре такта взрывается полным оркестром.\n\nВ разработке Моцарт использует один из самых смелых эпизодов всей классической эпохи: серия хроматических модуляций уводит музыку в далёкие тональности, оркестр играет почти всеми двенадцатью звуками октавы по очереди — приём, к которому академическая музыка вернётся только у Шёнберга 130 лет спустя. Реприза возвращается в g-moll, кода обрушивается на тонический аккорд без облегчения. Симфония заканчивается в миноре — редкость для XVIII века.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://archive.org/details/MusopenCollectionAsFlac",
+    "credit": "Musopen Kickstarter Project · 2012 · PD",
+    "_fileUrl": "/music/tracks/mozart-symphony-40-4-allegro.mp3"
   }
 ]
