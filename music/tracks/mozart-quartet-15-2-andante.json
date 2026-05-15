@@ -1,0 +1,20 @@
+{
+  "id": "mozart-quartet-15-2-andante",
+  "file": "mozart-quartet-15-2-andante.mp3",
+  "title": "Струнный квартет № 15 KV 421, II — Andante",
+  "title_original": "String Quartet No. 15, K. 421, II — Andante",
+  "composer_id": "mozart",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1783,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 315,
+  "description_md": "Медленная часть KV 421 — Andante в фа мажоре. Спокойная пастельная фактура: первая скрипка ведёт лирическую мелодию, три остальных голоса держат гомофонный аккомпанемент. Простая трёхчастная форма ABA с орнаментированной репризой. После минорного открывающего Allegro — короткое мажорное успокоение перед менуэтом.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dvorak-american-3-scherzo",
+  "file": "dvorak-american-3-scherzo.mp3",
+  "title": "Струнный квартет № 12 «Американский», III — Molto vivace",
+  "title_original": "String Quartet No. 12 «American», Op. 96, III — Molto vivace",
+  "composer_id": "dvorak",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1893,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 250,
+  "description_md": "Скерцо «Американского» квартета — Molto vivace, фа мажор. Стремительный темп, пентатоническая тема в первой скрипке. По преданию, Дворжак записал эту тему, услышав пение красно-крылого тангара (Scarlet Tanager) в лесах Айовы — птица повторяла мотив трёх восходящих нот.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

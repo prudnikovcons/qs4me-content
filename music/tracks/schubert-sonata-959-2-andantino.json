@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-959-2-andantino",
+  "file": "schubert-sonata-959-2-andantino.mp3",
+  "title": "Соната ля мажор D 959, II — Andantino",
+  "title_original": "Piano Sonata in A major, D 959, II — Andantino",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1828,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 545,
+  "description_md": "Andantino Сонаты D 959 — фа-диез минор. Одна из самых странных частей всего фортепианного репертуара: спокойная лирическая ABA форма прерывается в средней части неожиданным бурным эпизодом — почти хаотическим взрывом диссонансов и тремоло. Через минуту-полторы он растворяется, и тихая лирика возвращается. Аналитики обсуждают этот эпизод как «припадок безумия» — у Шуберта это первый случай такого рода.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-850-2-con-moto",
+  "file": "schubert-sonata-850-2-con-moto.mp3",
+  "title": "Соната ре мажор D 850, II — Con moto",
+  "title_original": "Piano Sonata in D major, D 850, II — Con moto",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1825,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 726,
+  "description_md": "Медленная часть D 850 — Con moto, ля мажор. Шуберт пишет её как набор контрастных эпизодов: лирическая главная тема, маршевый средний эпизод, возвращение лирики. Около десяти минут — типичная длина шубертовской медленной части 1820-х.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

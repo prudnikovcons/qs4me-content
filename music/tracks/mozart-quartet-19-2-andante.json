@@ -1,0 +1,20 @@
+{
+  "id": "mozart-quartet-19-2-andante",
+  "file": "mozart-quartet-19-2-andante.mp3",
+  "title": "Струнный квартет № 19 KV 465 «Диссонансы», II — Andante cantabile",
+  "title_original": "String Quartet No. 19 «Dissonance», K. 465, II — Andante cantabile",
+  "composer_id": "mozart",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1785,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 461,
+  "description_md": "Медленная часть «Диссонансов» — Andante cantabile в фа мажоре. Лирическая мелодия в первой скрипке, классический трёхголосный аккомпанемент. Моцарт здесь возвращается к чистой кантилене, как противовес диссонантному началу всего цикла.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

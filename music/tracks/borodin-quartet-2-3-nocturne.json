@@ -1,0 +1,22 @@
+{
+  "id": "borodin-quartet-2-3-nocturne",
+  "file": "borodin-quartet-2-3-nocturne.mp3",
+  "title": "Струнный квартет № 2, III — Notturno. Andante",
+  "title_original": "String Quartet No. 2, III — Notturno: Andante",
+  "composer_id": "borodin",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1881,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet",
+    "nocturne"
+  ],
+  "duration_sec": 547,
+  "description_md": "Знаменитый Ноктюрн Второго квартета — самое известное камерное сочинение русской музыки XIX века. Виолончель ведёт длинную лирическую мелодию в высоком регистре над пиццикато трёх остальных голосов. Затем мелодия переходит к первой скрипке. Бородин здесь создаёт квартетный ноктюрн как ответ Шопену: тот же интимный ночной жанр, только теперь для четырёх струнных. После смерти Бородина эта тема вошла в мюзикл «Кисмет» (1953) под названием «And This Is My Beloved».",
+  "trivia": "В мюзикле «Кисмет» 1953 года Ноктюрн стал популярной песней «And This Is My Beloved» — Бородин посмертно получил премию Tony за лучшую партитуру.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dvorak-quartet-10-2-dumka",
+  "file": "dvorak-quartet-10-2-dumka.mp3",
+  "title": "Струнный квартет № 10 op. 51, II — Dumka. Andante",
+  "title_original": "String Quartet No. 10, Op. 51, II — Dumka: Andante con moto",
+  "composer_id": "dvorak",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1879,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 465,
+  "description_md": "Думка — украинский народный жанр медленной баллады со внезапными быстрыми вспышками. Дворжак вводит думку в академическую квартетную форму: медленные эпизоды чередуются с быстрыми скерцоподобными. Это типично «славянский» элемент в немецкой камерной форме — то, что Брамс одобрял в Дворжаке: умение соединять национальное с европейской традицией.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

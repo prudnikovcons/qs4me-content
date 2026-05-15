@@ -1,0 +1,20 @@
+{
+  "id": "beethoven-eroica-4-finale",
+  "file": "beethoven-eroica-4-finale.mp3",
+  "title": "Симфония № 3 «Героическая», IV — Finale Allegro molto",
+  "title_original": "Symphony No. 3 «Eroica», IV — Finale: Allegro molto",
+  "composer_id": "beethoven",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1803,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 704,
+  "description_md": "Финал «Героической» — серия вариаций на тему, которую Бетховен уже использовал в трёх других произведениях (балет «Творения Прометея», 12 контрдансов, фортепианные «Прометеевы вариации» op. 35). Тема — простая балетная мелодия в ми-бемоль мажоре. После одиннадцати минут вариаций пьеса завершается громким Presto. Это первый случай, когда финал симфонии — не лёгкое завершение, а развёрнутая интеллектуальная конструкция.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "brahms-symphony-1-2-andante",
+  "file": "brahms-symphony-1-2-andante.mp3",
+  "title": "Симфония № 1, II — Andante sostenuto",
+  "title_original": "Symphony No. 1, Op. 68, II — Andante sostenuto",
+  "composer_id": "brahms",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1876,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 517,
+  "description_md": "Медленная часть Первой симфонии — Andante sostenuto в ми мажоре. Брамс пишет её как длинную хоральную медитацию: главная тема в струнных, развивающаяся через серию контрапунктических вариаций с подходом ансамблевой полифонии. Финальный соло гобоя (а затем валторны) над тихим оркестром — одна из самых лирических кульминаций всего брамсовского симфонизма.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

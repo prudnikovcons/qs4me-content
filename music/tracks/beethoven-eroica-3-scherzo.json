@@ -1,0 +1,20 @@
+{
+  "id": "beethoven-eroica-3-scherzo",
+  "file": "beethoven-eroica-3-scherzo.mp3",
+  "title": "Симфония № 3 «Героическая», III — Scherzo Allegro vivace",
+  "title_original": "Symphony No. 3 «Eroica», III — Scherzo: Allegro vivace",
+  "composer_id": "beethoven",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1803,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 349,
+  "description_md": "Скерцо Третьей симфонии — Allegro vivace, ми-бемоль мажор, размер 3/4. Бетховен превращает классическое менуэтное место в полноценный быстрый эпизод с длительным crescendo, неожиданными модуляциями и виртуозными партиями струнных. Трио — три валторны вместо двух, что было неслыханной роскошью оркестровки 1803 года; это намеренный охотничий клич, отсылающий к началу темы первой части.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

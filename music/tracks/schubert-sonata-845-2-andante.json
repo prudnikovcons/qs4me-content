@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-845-2-andante",
+  "file": "schubert-sonata-845-2-andante.mp3",
+  "title": "Соната ля минор D 845, II — Andante, poco moto",
+  "title_original": "Piano Sonata in A minor, D 845, II — Andante, poco moto",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1825,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 784,
+  "description_md": "Медленная часть D 845 — Andante poco moto, до мажор. Тема с вариациями: основная тема — пасторальная мелодия, проходящая через пять вариаций с нарастающей фигурацией и плотностью фактуры. Длинная, медитативная часть — около 13 минут.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

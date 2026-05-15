@@ -1,0 +1,21 @@
+{
+  "id": "dvorak-american-1-allegro",
+  "file": "dvorak-american-1-allegro.mp3",
+  "title": "Струнный квартет № 12 «Американский» op. 96, I — Allegro ma non troppo",
+  "title_original": "String Quartet No. 12 in F major «American», Op. 96, I — Allegro ma non troppo",
+  "composer_id": "dvorak",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1893,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 475,
+  "description_md": "«Американский» квартет написан Дворжаком летом 1893 года в Спиллвилле, штат Айова — чешская иммигрантская деревня, где он провёл лето с семьёй. Композитору 52 года, он уже три года директор Национальной консерватории в Нью-Йорке. Главная тема — пентатоническая мелодия в альте, отсылающая к негритянским спиричуэлам и индейским мотивам; Дворжак был убеждён, что американская классическая музыка должна вырасти именно из этих источников. Сама форма — классическая европейская соната.",
+  "trivia": "Дворжак закончил черновик «Американского» квартета за три дня в Спиллвилле, штат Айова — после полудня прогулок вдоль реки Тёркей-Ривер.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-958-2-adagio",
+  "file": "schubert-sonata-958-2-adagio.mp3",
+  "title": "Соната до минор D 958, II — Adagio",
+  "title_original": "Piano Sonata in C minor, D 958, II — Adagio",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1828,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 468,
+  "description_md": "Adagio Сонаты D 958 — ля-бемоль мажор. Длинная певучая мелодия в правой руке над хроматизированным аккомпанементом — характерный поздний Шуберт. Часть проходит через серию модуляций в далёкие тональности, возвращаясь к ля-бемоль мажору через хроматический спуск. Около десяти минут чистой шубертовской лирики.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

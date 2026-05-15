@@ -1,0 +1,21 @@
+{
+  "id": "suk-meditation",
+  "file": "suk-meditation.mp3",
+  "title": "Размышление над старочешским хоралом «Святой Вацлав» op. 35a",
+  "title_original": "Meditation on the Old Czech Chorale «St. Wenceslas», Op. 35a",
+  "composer_id": "suk",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1914,
+  "year_recorded": 2012,
+  "era": "early-modern",
+  "style": [
+    "chamber"
+  ],
+  "duration_sec": 405,
+  "description_md": "«Размышление» Сука написано в августе 1914 года для струнного квартета — Сук был скрипачом Чешского квартета и срочно нужна была программа для концерта в дни мобилизации Первой мировой войны. Тема — старочешский хорал XII века «Святой Вацлав, князь земли Чешской», обычно цитируемый в моменты национального кризиса. Произведение стало музыкальным символом чешского сопротивления в обе мировые войны.",
+  "trivia": "В августе 1968 года, в день вторжения советских войск, «Размышление» Сука звучало по чехословацкому радио вместе с гимном — как национальный жест сопротивления.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

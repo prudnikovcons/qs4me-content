@@ -1,0 +1,20 @@
+{
+  "id": "mendelssohn-italian-1-allegro",
+  "file": "mendelssohn-italian-1-allegro.mp3",
+  "title": "Симфония № 4 «Итальянская» op. 90, I — Allegro vivace",
+  "title_original": "Symphony No. 4 in A major «Italian», Op. 90, I — Allegro vivace",
+  "composer_id": "mendelssohn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1833,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 463,
+  "description_md": "Первая часть Итальянской симфонии — Allegro vivace, ля мажор. Мендельсон написал симфонию после двух лет путешествия по Италии (1830–1831); премьера в Лондоне в 1833 году. Главная тема — стремительная, скачкообразная фигура струнных; характер части — солнечный, итальянский. Сонатное аллегро в идеально классической форме без нарушений; это одна из самых «лёгких» крупных симфоний XIX века.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

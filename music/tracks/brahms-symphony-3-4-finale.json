@@ -1,0 +1,20 @@
+{
+  "id": "brahms-symphony-3-4-finale",
+  "file": "brahms-symphony-3-4-finale.mp3",
+  "title": "Симфония № 3, IV — Allegro",
+  "title_original": "Symphony No. 3, Op. 90, IV — Finale: Allegro",
+  "composer_id": "brahms",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1883,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 586,
+  "description_md": "Финал Третьей симфонии — Allegro, фа минор → фа мажор. Бурное драматическое начало, плотная контрапунктическая разработка. Но в коде, вопреки ожиданиям, Брамс не приводит музыку к героическому завершению — тутти оркестра медленно растворяется в тихом фа мажоре, повторяя нисходящую интонацию F-Ab-F из первой части. Симфония заканчивается так же тихо, как любая интимная камерная пьеса.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mendelssohn-hebrides-overture",
+  "file": "mendelssohn-hebrides-overture.mp3",
+  "title": "Увертюра «Гебриды» op. 26 («Пещера Фингала»)",
+  "title_original": "The Hebrides Overture, Op. 26 («Fingal's Cave»)",
+  "composer_id": "mendelssohn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1832,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "tone-poem"
+  ],
+  "duration_sec": 682,
+  "description_md": "Концертная увертюра «Гебриды» Мендельсона, написанная по впечатлениям путешествия по Шотландии в 1829 году. На острове Стаффа композитор посетил Пещеру Фингала — базальтовую морскую пещеру с гулким резонансом; на следующий день в письме к сестре Фанни он записал первые такты темы, которая стала основой увертюры. Си минор, размер 4/4. Основной мотив — волнообразное движение в виолончелях и фаготах, изображающее приливы. Одна из первых программных увертюр в истории, без театрального источника.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

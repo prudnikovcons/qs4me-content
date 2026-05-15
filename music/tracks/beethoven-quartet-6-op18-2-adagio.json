@@ -1,0 +1,20 @@
+{
+  "id": "beethoven-quartet-6-op18-2-adagio",
+  "file": "beethoven-quartet-6-op18-2-adagio.mp3",
+  "title": "Струнный квартет № 6 op. 18 № 6, II — Adagio ma non troppo",
+  "title_original": "String Quartet No. 6, Op. 18 No. 6, II — Adagio ma non troppo",
+  "composer_id": "beethoven",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1800,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 421,
+  "description_md": "Медленная часть Шестого квартета — Adagio, ми-бемоль мажор, размер 2/4. Бетховен здесь пишет в традиции медленной арии: длинная певучая мелодия в первой скрипке над аккомпанементом трёх остальных голосов. Форма ABA с орнаментированной репризой. После решительного открывающего Allegro эта часть даёт лирическое опускание — что станет типичным паттерном бетховенских квартетов всех периодов.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

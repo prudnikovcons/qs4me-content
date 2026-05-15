@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-568-1-allegro",
+  "file": "schubert-sonata-568-1-allegro.mp3",
+  "title": "Соната ми-бемоль мажор D 568, I — Allegro moderato",
+  "title_original": "Piano Sonata in E-flat major, D 568, I — Allegro moderato",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1826,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 647,
+  "description_md": "Соната ми-бемоль мажор D 568 написана Шубертом первоначально в ре-бемоль мажоре в 1817 году, но переработана и расширена в 1826-м. Первая часть — Allegro moderato в форме сонатного аллегро. Лёгкая, певучая, без драматических взрывов — типичный «средний» Шуберт периода ранних сонат.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

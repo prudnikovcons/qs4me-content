@@ -1,0 +1,21 @@
+{
+  "id": "beethoven-eroica-1-allegro",
+  "file": "beethoven-eroica-1-allegro.mp3",
+  "title": "Симфония № 3 «Героическая» op. 55, I — Allegro con brio",
+  "title_original": "Symphony No. 3 in E-flat major «Eroica», Op. 55, I — Allegro con brio",
+  "composer_id": "beethoven",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1803,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 911,
+  "description_md": "Первая часть «Героической» симфонии Бетховена — поворотный пункт всей истории симфонизма. Написана в 1803–1804 годах, первоначально посвящена Наполеону Бонапарту; Бетховен сам стёр посвящение, узнав о коронации Наполеона как императора. Эта часть в два раза длиннее средней классической симфонии Гайдна и Моцарта (15+ минут вместо 7–8). Форма сонатного аллегро расширена: огромная разработка с введением третьей темы (нового материала), длинная кода фактически становится второй разработкой. Запускает романтический симфонизм XIX века.",
+  "trivia": "Услышав о коронации Наполеона, Бетховен в ярости разорвал титульный лист с посвящением — сохранилась его поправка «Eroica» в качестве нового заглавия.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

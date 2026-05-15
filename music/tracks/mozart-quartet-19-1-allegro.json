@@ -1,0 +1,21 @@
+{
+  "id": "mozart-quartet-19-1-allegro",
+  "file": "mozart-quartet-19-1-allegro.mp3",
+  "title": "Струнный квартет № 19 до мажор KV 465 «Диссонансы», I — Adagio — Allegro",
+  "title_original": "String Quartet No. 19 in C major «Dissonance», K. 465, I — Adagio — Allegro",
+  "composer_id": "mozart",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1785,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 513,
+  "description_md": "Шестой и последний из «гайдновских» квартетов Моцарта (1785). Подзаголовок «Диссонансы» появился из-за скандального медленного вступления (Adagio, 22 такта), наполненного резкими хроматическими столкновениями между голосами; современники Моцарта подозревали в этом ошибку нот. Главное Allegro в до мажоре — чистое классическое сонатное аллегро без следов диссонантного вступления.",
+  "trivia": "Издатель Артария в 1785 году письменно подтвердил Моцарту, что в нотах нет ошибок — резкие диссонансы вступления Моцарт написал намеренно.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

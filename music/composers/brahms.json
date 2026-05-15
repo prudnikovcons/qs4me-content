@@ -1,0 +1,14 @@
+{
+  "id": "brahms",
+  "full_name_ru": "Иоганнес Брамс",
+  "full_name_en": "Johannes Brahms",
+  "birth": 1833,
+  "death": 1897,
+  "country": "Германия",
+  "era": "romanticism",
+  "summary_ru": "Немецкий композитор позднего романтизма, центральная фигура XIX века наряду с Вагнером и Листом. Четыре симфонии, два фортепианных и скрипичный концерты, Немецкий реквием, обширная камерная и фортепианная литература. Тщательный перфекционист: на Первую симфонию ушло 21 год работы.",
+  "photo": "brahms.jpg",
+  "photo_credit": "Wikimedia Commons · ~1889 · фотография · PD",
+  "photo_license": "PD",
+  "source": "https://en.wikipedia.org/wiki/Johannes_Brahms"
+}

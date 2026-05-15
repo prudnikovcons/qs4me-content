@@ -1,0 +1,20 @@
+{
+  "id": "beethoven-quartet-6-op18-1-allegro",
+  "file": "beethoven-quartet-6-op18-1-allegro.mp3",
+  "title": "Струнный квартет № 6 op. 18 № 6, I — Allegro con brio",
+  "title_original": "String Quartet No. 6 in B-flat major, Op. 18 No. 6, I — Allegro con brio",
+  "composer_id": "beethoven",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1800,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 281,
+  "description_md": "Первая часть шестого квартета op. 18 — заключительного из набора шести квартетов, написанных Бетховеном в 1798–1800 годах под покровительством князя Лобковица. Op. 18 — стартовый цикл Бетховена в жанре струнного квартета; здесь он ещё работает в гайдновско-моцартовской традиции, но с уже заметным личным языком. Б-дур, форма сонатного аллегро, темп Allegro con brio. Уверенная экспозиция, короткая разработка, чистая реприза — школа классического квартета 1800 года.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

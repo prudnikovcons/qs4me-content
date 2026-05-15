@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-958-1-allegro",
+  "file": "schubert-sonata-958-1-allegro.mp3",
+  "title": "Соната до минор D 958, I — Allegro",
+  "title_original": "Piano Sonata in C minor, D 958, I — Allegro",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1828,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 710,
+  "description_md": "Первая из трёх последних сонат Шуберта (D 958, 959, 960), написанных в сентябре 1828 года, за два месяца до смерти. До минор — тональность Бетховена; Шуберт сознательно отсылает к 32-й Сонате Бетховена. Главная тема — мощные октавные удары в обеих руках, форма сонатного аллегро. Драматический характер части — Шуберт уже знает что умирает (тиф).",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

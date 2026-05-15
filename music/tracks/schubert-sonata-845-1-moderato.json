@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-845-1-moderato",
+  "file": "schubert-sonata-845-1-moderato.mp3",
+  "title": "Соната ля минор D 845, I — Moderato",
+  "title_original": "Piano Sonata in A minor, D 845, I — Moderato",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1825,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 696,
+  "description_md": "Первая часть Сонаты ля минор D 845 (1825) — одна из самых длинных шубертовских частей в фортепианной литературе. Шуберт пишет её как симфоническое сонатное аллегро: огромная экспозиция с длинными темами, развёрнутая разработка, точная реприза. Главная тема — спокойное, почти медитативное движение в нижнем регистре.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

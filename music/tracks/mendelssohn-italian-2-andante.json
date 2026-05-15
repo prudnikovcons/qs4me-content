@@ -1,0 +1,20 @@
+{
+  "id": "mendelssohn-italian-2-andante",
+  "file": "mendelssohn-italian-2-andante.mp3",
+  "title": "Симфония № 4 «Итальянская», II — Andante con moto",
+  "title_original": "Symphony No. 4 «Italian», Op. 90, II — Andante con moto",
+  "composer_id": "mendelssohn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1833,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 347,
+  "description_md": "Медленная часть Итальянской симфонии — Andante con moto, ре минор. По преданию, мелодия основана на религиозной процессии, увиденной Мендельсоном в Неаполе: маршевый размеренный темп, тема в гобоях, фаготах, альтах. Скорбное, торжественное движение — единственный минорный эпизод во всей симфонии.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

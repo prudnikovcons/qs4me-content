@@ -1,0 +1,20 @@
+{
+  "id": "dvorak-quartet-10-3-romanza",
+  "file": "dvorak-quartet-10-3-romanza.mp3",
+  "title": "Струнный квартет № 10 op. 51, III — Romanza. Andante con moto",
+  "title_original": "String Quartet No. 10, Op. 51, III — Romanza: Andante con moto",
+  "composer_id": "dvorak",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1879,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 367,
+  "description_md": "Романс — третья часть Десятого квартета. Длинная певучая мелодия в первой скрипке над аккомпанементом трёх остальных голосов. Дворжак использует здесь чешскую песенную интонацию, расширенную до квартетной фактуры. Простая ABA форма.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "borodin-quartet-2-1-allegro",
+  "file": "borodin-quartet-2-1-allegro.mp3",
+  "title": "Струнный квартет № 2 ре мажор, I — Allegro moderato",
+  "title_original": "String Quartet No. 2 in D major, I — Allegro moderato",
+  "composer_id": "borodin",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1881,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 502,
+  "description_md": "Первая часть Второго квартета Бородина (1881), посвящённого жене Екатерине Сергеевне к двадцатилетию свадьбы. Лирический ре мажор, форма сонатного аллегро. Главная партия — виолончель ведёт длинную задумчивую мелодию, что нетипично: обычно главную тему у Бородина излагает первая скрипка. Это посвящение жене, написанное в один из самых счастливых периодов его жизни.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

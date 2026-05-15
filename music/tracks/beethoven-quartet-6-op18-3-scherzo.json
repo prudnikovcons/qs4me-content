@@ -1,0 +1,20 @@
+{
+  "id": "beethoven-quartet-6-op18-3-scherzo",
+  "file": "beethoven-quartet-6-op18-3-scherzo.mp3",
+  "title": "Струнный квартет № 6 op. 18 № 6, III — Scherzo Allegro",
+  "title_original": "String Quartet No. 6, Op. 18 No. 6, III — Scherzo Allegro",
+  "composer_id": "beethoven",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1800,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 252,
+  "description_md": "Скерцо квартета op. 18 № 6 — короткое, игривое движение в 3/4. Бетховен здесь впервые в квартетном жанре использует слово «скерцо» вместо традиционного «менуэт» — символ ухода от салонной танцевальности к более свободному движению. Резкие синкопы, неожиданные акценты на слабые доли, короткое контрастное трио — всё это уже узнаваемый бетховенский стиль, который полностью развернётся в средних и поздних квартетах.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-958-3-menuetto",
+  "file": "schubert-sonata-958-3-menuetto.mp3",
+  "title": "Соната до минор D 958, III — Menuetto. Allegro",
+  "title_original": "Piano Sonata in C minor, D 958, III — Menuetto: Allegro",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1828,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 194,
+  "description_md": "Менуэт D 958 — Allegro, до минор. Поздний шубертовский менуэт — не танцевальный, а почти траурный. Трио в ля-бемоль мажоре даёт короткое просветление. Минорный менуэт — стилистическая черта позднего Шуберта; типично у него встречаются в Импромпту и поздних сонатах.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

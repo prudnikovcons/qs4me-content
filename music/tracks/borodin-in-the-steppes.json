@@ -1,0 +1,20 @@
+{
+  "id": "borodin-in-the-steppes",
+  "file": "borodin-in-the-steppes.mp3",
+  "title": "«В Средней Азии», симфоническая картина",
+  "title_original": "In the Steppes of Central Asia, symphonic picture",
+  "composer_id": "borodin",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1880,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "tone-poem"
+  ],
+  "duration_sec": 262,
+  "description_md": "Симфоническая поэма «В Средней Азии», написанная Бородиным в 1880 году к 25-летию правления Александра II — для серии музыкальных «живых картин». Программа: караван русских торговцев и казацкая стража идут через бескрайнюю азиатскую степь, навстречу им движется караван местных жителей. Две темы — одна русская диатоническая, другая восточная пентатоническая — постепенно сближаются, звучат одновременно (Бородин разрабатывает технику полифонического сосуществования двух тематических миров), затем расходятся. Бородин — востоковед-любитель, реальные звуки Средней Азии слышал только через печать.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

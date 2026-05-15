@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-784-3-allegro",
+  "file": "schubert-sonata-784-3-allegro.mp3",
+  "title": "Соната ля минор D 784, III — Allegro vivace",
+  "title_original": "Piano Sonata in A minor, D 784, III — Allegro vivace",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1823,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 371,
+  "description_md": "Финал Сонаты D 784 — Allegro vivace, возвращение в ля минор. Драматическая концовка цикла: тремоло в басу, тяжёлые аккорды в правой руке, темп Vivace без остановок. После плавного среднего Andante — снова резкий минорный мир первой части. Соната заканчивается без катарсиса, в тёмном миноре.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

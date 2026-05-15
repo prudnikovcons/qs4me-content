@@ -1,0 +1,20 @@
+{
+  "id": "mendelssohn-scottish-1-andante",
+  "file": "mendelssohn-scottish-1-andante.mp3",
+  "title": "Симфония № 3 «Шотландская» op. 56, I — Andante con moto — Allegro un poco agitato",
+  "title_original": "Symphony No. 3 in A minor «Scottish», Op. 56, I — Andante con moto — Allegro",
+  "composer_id": "mendelssohn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1842,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 845,
+  "description_md": "Первая часть «Шотландской» симфонии — Andante con moto, переходящее в Allegro un poco agitato, ля минор. Мендельсон начал работу над симфонией в 1829 году в Эдинбурге; первые наброски сделаны в развалинах Холируд-Хауса, где была коронована Мария Стюарт. Закончил только в 1842-м. Тёмное, мрачное вступление — мендельсоновская версия «шотландского» стиля: туман, замок, история.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

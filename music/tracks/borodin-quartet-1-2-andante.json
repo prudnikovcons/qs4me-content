@@ -1,0 +1,20 @@
+{
+  "id": "borodin-quartet-1-2-andante",
+  "file": "borodin-quartet-1-2-andante.mp3",
+  "title": "Струнный квартет № 1, II — Andante con moto",
+  "title_original": "String Quartet No. 1, II — Andante con moto",
+  "composer_id": "borodin",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1879,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 517,
+  "description_md": "Медленная часть Первого квартета Бородина — Andante con moto в форме темы с вариациями. Тема в первой скрипке проста и пасторальна, далее проходит через четыре характерных вариации с переходом мелодии из одного голоса в другой. Бородин здесь оставляет в стороне «русскость» и работает в чисто европейской камерной традиции.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

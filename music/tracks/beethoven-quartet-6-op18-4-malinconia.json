@@ -1,0 +1,20 @@
+{
+  "id": "beethoven-quartet-6-op18-4-malinconia",
+  "file": "beethoven-quartet-6-op18-4-malinconia.mp3",
+  "title": "Струнный квартет № 6 op. 18 № 6, IV — La Malinconia. Adagio - Allegretto quasi Allegro",
+  "title_original": "String Quartet No. 6, Op. 18 No. 6, IV — La Malinconia",
+  "composer_id": "beethoven",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1800,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 492,
+  "description_md": "Финал Шестого квартета — самая знаменитая часть всего op. 18. Открывается медленным интроверсивным вступлением, которому Бетховен сам дал название «La Malinconia» (Меланхолия) и указал в партитуре: «Эту часть следует играть с величайшей деликатностью». Затем — стремительное Allegretto quasi Allegro, контраст полностью. Бетховен прерывает танец двумя возвращениями меланхолической темы, превращая финал в драматическую двуединую форму.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

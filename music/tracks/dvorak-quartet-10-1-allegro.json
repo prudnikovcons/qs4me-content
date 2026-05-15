@@ -1,0 +1,20 @@
+{
+  "id": "dvorak-quartet-10-1-allegro",
+  "file": "dvorak-quartet-10-1-allegro.mp3",
+  "title": "Струнный квартет № 10 ми-бемоль мажор op. 51, I — Allegro ma non troppo",
+  "title_original": "String Quartet No. 10 in E-flat major, Op. 51, I — Allegro ma non troppo",
+  "composer_id": "dvorak",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1879,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 675,
+  "description_md": "Первая часть Десятого квартета Дворжака (1879), посвящённого «Флорентийскому квартету» — известному немецкому ансамблю Йозефа Йоахима. Дворжак здесь работает в чисто немецкой камерной традиции (Шуман, Брамс) с лёгкими отсылками к чешскому фольклору. Главная тема — лирическая, длинная мелодия в первой скрипке, форма сонатного аллегро.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

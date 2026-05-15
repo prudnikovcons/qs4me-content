@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-664-3-allegro",
+  "file": "schubert-sonata-664-3-allegro.mp3",
+  "title": "Соната ля мажор D 664, III — Allegro",
+  "title_original": "Piano Sonata in A major, D 664, III — Allegro",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1819,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 347,
+  "description_md": "Финал Сонаты D 664 — Allegro, ля мажор, форма сонатного рондо. Лёгкий, грациозный характер, без героических взрывов. Шуберт строит часть как ряд кратких эпизодов с возвращением основной темы, без длинных разработок. Завершает сонату ясным мажорным просветлением.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "brahms-tragic-overture",
+  "file": "brahms-tragic-overture.mp3",
+  "title": "«Трагическая увертюра» op. 81",
+  "title_original": "Tragic Overture, Op. 81",
+  "composer_id": "brahms",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1880,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "tone-poem"
+  ],
+  "duration_sec": 829,
+  "description_md": "«Трагическая увертюра» написана Брамсом летом 1880 года параллельно с «Академической торжественной увертюрой» op. 80 — как контраст: «Одна из них смеётся, другая плачет». Никакого конкретного литературного сюжета: Брамс не любил программную музыку, и пьеса трагична только по характеру. До минор, форма сонатного аллегро, длится около 14 минут. Брамс сам отзывался о ней как о самом серьёзном из своих оркестровых сочинений.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

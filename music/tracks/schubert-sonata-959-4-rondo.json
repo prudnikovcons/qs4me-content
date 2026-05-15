@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-959-4-rondo",
+  "file": "schubert-sonata-959-4-rondo.mp3",
+  "title": "Соната ля мажор D 959, IV — Rondo. Allegretto",
+  "title_original": "Piano Sonata in A major, D 959, IV — Rondo: Allegretto",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1828,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 714,
+  "description_md": "Финал D 959 — Rondo Allegretto, ля мажор. Шуберт использует тему из своего раннего фортепианного Allegro D 537 (1817) — мелодия, которую он переписал спустя десять лет в более зрелом гармоническом контексте. Около десяти минут лёгкого мажорного движения; финал — самое спокойное прощание во всей трилогии поздних сонат.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

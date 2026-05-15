@@ -1,0 +1,20 @@
+{
+  "id": "brahms-symphony-4-3-scherzo",
+  "file": "brahms-symphony-4-3-scherzo.mp3",
+  "title": "Симфония № 4, III — Allegro giocoso",
+  "title_original": "Symphony No. 4, Op. 98, III — Allegro giocoso",
+  "composer_id": "brahms",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1885,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 379,
+  "description_md": "Единственное настоящее скерцо во всех четырёх симфониях Брамса — Allegro giocoso, до мажор. Стремительная, почти беспорядочная энергия, с впервые у Брамса добавленным треугольником и контрабасом. Контрастные эпизоды, виртуозные пассажи струнных. После трёх симфоний с интимными интермеццо вместо скерцо Брамс впервые позволяет себе настоящее весёлое движение.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

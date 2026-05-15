@@ -1,0 +1,20 @@
+{
+  "id": "borodin-quartet-1-4-finale",
+  "file": "borodin-quartet-1-4-finale.mp3",
+  "title": "Струнный квартет № 1, IV — Finale. Andante — Allegro risoluto",
+  "title_original": "String Quartet No. 1, IV — Finale: Andante — Allegro risoluto",
+  "composer_id": "borodin",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1879,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 533,
+  "description_md": "Финал Первого квартета — двухчастная форма: медленное Andante-вступление и быстрая фуга Allegro risoluto. Бородин в финале использует фугированную технику, что для русской музыки 1870-х необычно; он сам признавался, что под влиянием Мендельсона и Бетховена. Фуга основана на короткой ритмически чёткой теме, переходящей между всеми четырьмя инструментами.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

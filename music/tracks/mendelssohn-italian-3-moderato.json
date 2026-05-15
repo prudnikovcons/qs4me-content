@@ -1,0 +1,20 @@
+{
+  "id": "mendelssohn-italian-3-moderato",
+  "file": "mendelssohn-italian-3-moderato.mp3",
+  "title": "Симфония № 4 «Итальянская», III — Con moto moderato",
+  "title_original": "Symphony No. 4 «Italian», Op. 90, III — Con moto moderato",
+  "composer_id": "mendelssohn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1833,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 425,
+  "description_md": "Третья часть Итальянской симфонии — Con moto moderato, ля мажор. Изящный менуэт в классическом стиле, без скерцозной интенсивности. Трио — фанфарный охотничий клич в валторнах. Мендельсон здесь работает в традиции Гайдна и Моцарта, без брамсовских или вагнеровских расширений.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

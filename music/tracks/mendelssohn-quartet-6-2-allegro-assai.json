@@ -1,0 +1,20 @@
+{
+  "id": "mendelssohn-quartet-6-2-allegro-assai",
+  "file": "mendelssohn-quartet-6-2-allegro-assai.mp3",
+  "title": "Струнный квартет № 6 op. 80, II — Allegro assai",
+  "title_original": "String Quartet No. 6, Op. 80, II — Allegro assai",
+  "composer_id": "mendelssohn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1847,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 298,
+  "description_md": "Вторая часть Шестого квартета — Allegro assai в фа миноре. После открывающего Allegro vivace Мендельсон пишет скерцо вместо традиционной медленной части — нестандартный порядок для квартетного цикла. Скерцо безразрешённое, нервное, с короткими хоральными отступлениями.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

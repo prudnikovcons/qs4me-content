@@ -1,0 +1,20 @@
+{
+  "id": "brahms-symphony-1-1-allegro",
+  "file": "brahms-symphony-1-1-allegro.mp3",
+  "title": "Симфония № 1 до минор op. 68, I — Un poco sostenuto — Allegro",
+  "title_original": "Symphony No. 1 in C minor, Op. 68, I — Un poco sostenuto — Allegro",
+  "composer_id": "brahms",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1876,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 909,
+  "description_md": "Первая часть Первой симфонии Брамса — премьера 4 ноября 1876 года в Карлсруэ. Брамс работал над симфонией более двадцати лет (с 1855), оглядываясь на тень Бетховена; современники сразу прозвали её «Десятой Бетховена». Открывается мощным интродукцией над непрерывным басовым тимпаном, переходящей в драматическое сонатное Allegro в до миноре. Густая полифоническая фактура, постоянные модуляционные сдвиги — характерное брамсовское «нарастание мысли».",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

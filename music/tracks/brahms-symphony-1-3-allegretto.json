@@ -1,0 +1,20 @@
+{
+  "id": "brahms-symphony-1-3-allegretto",
+  "file": "brahms-symphony-1-3-allegretto.mp3",
+  "title": "Симфония № 1, III — Un poco Allegretto e grazioso",
+  "title_original": "Symphony No. 1, Op. 68, III — Un poco Allegretto e grazioso",
+  "composer_id": "brahms",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1876,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 294,
+  "description_md": "Третья часть — Un poco Allegretto e grazioso, ля-бемоль мажор. Вместо традиционного скерцо Брамс пишет грациозную интермеццо: лёгкий маршевый ритм, кларнет ведёт основную тему. Это типично брамсовский «не-скерцо» — он избегает галопной танцевальности и пишет интимное камерное движение даже в большой симфонической форме.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

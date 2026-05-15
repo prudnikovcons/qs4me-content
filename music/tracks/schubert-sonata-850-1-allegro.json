@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-850-1-allegro",
+  "file": "schubert-sonata-850-1-allegro.mp3",
+  "title": "Соната ре мажор D 850, I — Allegro vivace",
+  "title_original": "Piano Sonata in D major, D 850, I — Allegro vivace",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1825,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 578,
+  "description_md": "Первая часть Сонаты ре мажор D 850 (1825) — одна из самых виртуозных у Шуберта. Написана в Гаштейне для пианиста Карла Марии фон Бокле. Главная тема — стремительная фигура аккордовых скачков, требующая большой техники. Шуберт здесь работает на грани фортепианной техники 1820-х годов; концертная по характеру часть, без шубертовской «домашности».",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "borodin-quartet-1-3-scherzo",
+  "file": "borodin-quartet-1-3-scherzo.mp3",
+  "title": "Струнный квартет № 1, III — Scherzo Prestissimo",
+  "title_original": "String Quartet No. 1, III — Scherzo: Prestissimo",
+  "composer_id": "borodin",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1879,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 114,
+  "description_md": "Скерцо Первого квартета — Prestissimo, ре мажор, самая короткая часть цикла (около двух минут). Бородин строит её как стремительное perpetuum mobile с короткими имитациями между голосами. Среднее трио — мягкая хоральная фактура, после которой скерцо возвращается без изменений. Этот стиль скерцо позже будет узнаваем у Шостаковича.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-850-3-scherzo",
+  "file": "schubert-sonata-850-3-scherzo.mp3",
+  "title": "Соната ре мажор D 850, III — Scherzo. Allegro vivace",
+  "title_original": "Piano Sonata in D major, D 850, III — Scherzo: Allegro vivace",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1825,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 629,
+  "description_md": "Скерцо D 850 — Allegro vivace, ре мажор. Лёгкая танцевальная часть с длинным трио в си-бемоль мажоре. Шуберт строит скерцо как стремительный круг с короткими повторами темы; трио — мягкая хоральная фактура, контрастирующая с энергичным скерцо.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-959-1-allegro",
+  "file": "schubert-sonata-959-1-allegro.mp3",
+  "title": "Соната ля мажор D 959, I — Allegro",
+  "title_original": "Piano Sonata in A major, D 959, I — Allegro",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1828,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 690,
+  "description_md": "Вторая из трёх последних сонат Шуберта — D 959 ля мажор. Открывающая часть начинается с массивных аккордовых проведений (отсылка к началу 31-й Сонаты Бетховена), переходящих в спокойную лирическую тему. Огромная разработка и реприза — Шуберт здесь конкурирует с бетховенским симфоническим масштабом. Около 13 минут.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

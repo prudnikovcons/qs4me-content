@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-784-1-allegro",
+  "file": "schubert-sonata-784-1-allegro.mp3",
+  "title": "Соната для фортепиано ля минор D 784, I — Allegro giusto",
+  "title_original": "Piano Sonata in A minor, D 784, I — Allegro giusto",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1823,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 529,
+  "description_md": "Первая часть Сонаты ля минор D 784 (1823) — одна из самых интенсивных страниц фортепианной литературы Шуберта. Написана сразу после диагноза сифилиса; вся соната пронизана резкими динамическими контрастами, прыжками от пиано до фортиссимо. Главная тема — две октавы соло в басу, тёмная и аскетическая, без аккомпанемента. Это уже взрослый Шуберт, готовящий «Зимний путь» (1827) и поздние сонаты.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-568-2-andante",
+  "file": "schubert-sonata-568-2-andante.mp3",
+  "title": "Соната ми-бемоль мажор D 568, II — Andante molto",
+  "title_original": "Piano Sonata in E-flat major, D 568, II — Andante molto",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1826,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 417,
+  "description_md": "Andante D 568 — соль минор. Лирическая часть с характерной шубертовской трёхдольной фактурой и хроматическими модуляциями. Около семи минут спокойного, медитативного движения.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

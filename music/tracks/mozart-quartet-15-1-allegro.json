@@ -1,0 +1,21 @@
+{
+  "id": "mozart-quartet-15-1-allegro",
+  "file": "mozart-quartet-15-1-allegro.mp3",
+  "title": "Струнный квартет № 15 ре минор KV 421, I — Allegro moderato",
+  "title_original": "String Quartet No. 15 in D minor, K. 421, I — Allegro moderato",
+  "composer_id": "mozart",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1783,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 460,
+  "description_md": "Второй из шести «гайдновских» квартетов Моцарта (1782–1785), посвящённых Йозефу Гайдну. KV 421 — единственный из шести в миноре. Написан в день, когда жена Моцарта Констанца рожала их первенца Раймунда. Моцарт сам в письме отцу: «писал между схватками жены». Главная тема — нисходящая октава в первой скрипке, тревожная, скачкообразная. Темп Allegro moderato, форма сонатного аллегро.",
+  "trivia": "Моцарт писал K.421 в день, когда Констанца рожала их первенца — между её схватками.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

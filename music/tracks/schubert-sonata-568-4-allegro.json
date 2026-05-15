@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-568-4-allegro",
+  "file": "schubert-sonata-568-4-allegro.mp3",
+  "title": "Соната ми-бемоль мажор D 568, IV — Allegro moderato",
+  "title_original": "Piano Sonata in E-flat major, D 568, IV — Allegro moderato",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1826,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 499,
+  "description_md": "Финал D 568 — Allegro moderato, ми-бемоль мажор, форма сонатного рондо. Лёгкое, плясовое движение, без драматических контрастов. Завершает сонату в ясном мажорном тонусе — характерный «домашний» Шуберт.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

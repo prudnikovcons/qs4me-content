@@ -1,0 +1,20 @@
+{
+  "id": "rimsky-korsakov-russian-easter",
+  "file": "rimsky-korsakov-russian-easter.mp3",
+  "title": "«Светлый праздник», увертюра op. 36",
+  "title_original": "Russian Easter Festival Overture, Op. 36",
+  "composer_id": "rimsky-korsakov",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1888,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "tone-poem"
+  ],
+  "duration_sec": 936,
+  "description_md": "Концертная увертюра «Светлый праздник» (часто переводится как «Русская Пасхальная увертюра») написана Римским-Корсаковым в 1888 году. Композитор был сыном священника и хорошо знал православное богослужение; увертюра построена на трёх подлинных пасхальных распевах из «Обиходного церковного пения». Программа: восходящее от тёмного Великого поста к торжеству воскресения. Шесть-минутное вступление в обиходном ладу, постепенно переходящее в праздничное Allegro agitato. Это самая «русская» из всех увертюр Римского-Корсакова.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

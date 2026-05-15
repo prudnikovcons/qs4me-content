@@ -1,0 +1,20 @@
+{
+  "id": "brahms-symphony-3-1-allegro",
+  "file": "brahms-symphony-3-1-allegro.mp3",
+  "title": "Симфония № 3 фа мажор op. 90, I — Allegro con brio",
+  "title_original": "Symphony No. 3 in F major, Op. 90, I — Allegro con brio",
+  "composer_id": "brahms",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1883,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 605,
+  "description_md": "Первая часть Третьей симфонии Брамса (1883). Открывается мощной интонацией F-Ab-F в нижнем оркестре — это монограмма Брамса: «Frei aber froh» («свободный, но радостный»). Симфония написана в фа мажоре, но Брамс заставляет её колебаться между мажором и минором: главная тема в первой части идёт в фа миноре, а вся симфония заканчивается тихим фа мажором. Постоянная амбивалентность тональности — стилистическая черта позднего Брамса.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

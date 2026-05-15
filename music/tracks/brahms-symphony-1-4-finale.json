@@ -1,0 +1,20 @@
+{
+  "id": "brahms-symphony-1-4-finale",
+  "file": "brahms-symphony-1-4-finale.mp3",
+  "title": "Симфония № 1, IV — Adagio — Allegro non troppo, ma con brio",
+  "title_original": "Symphony No. 1, Op. 68, IV — Finale: Adagio — Allegro non troppo",
+  "composer_id": "brahms",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1876,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 1016,
+  "description_md": "Финал Первой симфонии — двухчастная конструкция: длительное Adagio-вступление с открытием знаменитой темы валторны (мелодия, которую Брамс послал Кларе Шуман на открытке: «Высокая в долинах, мала в горах, я зову Тебя тысячу раз»), затем быстрое сонатное Allegro. Главная тема второй части — гимноподобная мелодия в до мажоре, сразу узнаваемо родственная финалу Девятой симфонии Бетховена. Брамс не оправдывался: «осёл услышит сходство».",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

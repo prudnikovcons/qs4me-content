@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-850-4-rondo",
+  "file": "schubert-sonata-850-4-rondo.mp3",
+  "title": "Соната ре мажор D 850, IV — Rondo. Allegro moderato",
+  "title_original": "Piano Sonata in D major, D 850, IV — Rondo: Allegro moderato",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1825,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 556,
+  "description_md": "Финал D 850 — Rondo Allegro moderato, ре мажор. Шуберт пишет финал в манере «бытового рондо»: грациозная плясовая тема, простая структура, без сложных модуляций. Около десяти минут лёгкого мажорного движения; финал в характере «прощания с гостями» после долгого приёма.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

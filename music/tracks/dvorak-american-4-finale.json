@@ -1,0 +1,20 @@
+{
+  "id": "dvorak-american-4-finale",
+  "file": "dvorak-american-4-finale.mp3",
+  "title": "Струнный квартет № 12 «Американский», IV — Vivace ma non troppo",
+  "title_original": "String Quartet No. 12 «American», Op. 96, IV — Finale: Vivace ma non troppo",
+  "composer_id": "dvorak",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1893,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 351,
+  "description_md": "Финал «Американского» квартета — Vivace ma non troppo, фа мажор. Главная тема в стиле американского кантри-фиддла: ровный 2/4 пульс, простая диатоническая мелодия. Дворжак сам шутил, что финал «писался ногами»: он не мог остановиться, пока тема не была закончена. Шесть минут безостановочного движения с короткой лирической вторичной темой.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

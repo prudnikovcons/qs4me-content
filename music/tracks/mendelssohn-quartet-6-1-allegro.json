@@ -1,0 +1,20 @@
+{
+  "id": "mendelssohn-quartet-6-1-allegro",
+  "file": "mendelssohn-quartet-6-1-allegro.mp3",
+  "title": "Струнный квартет № 6 фа минор op. 80, I — Allegro vivace assai",
+  "title_original": "String Quartet No. 6 in F minor, Op. 80, I — Allegro vivace assai",
+  "composer_id": "mendelssohn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1847,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet"
+  ],
+  "duration_sec": 461,
+  "description_md": "Первая часть Шестого квартета Мендельсона, написанного летом 1847 года — последнего завершённого крупного произведения композитора. Написан под прямым впечатлением смерти сестры Фанни (14 мая 1847); сам Мендельсон умер через шесть месяцев, 4 ноября. Эта часть — одна из самых эмоционально интенсивных в его наследии: бурное Allegro vivace assai в фа миноре, плотная фактура, постоянное напряжение.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

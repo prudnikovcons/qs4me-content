@@ -1,0 +1,20 @@
+{
+  "id": "tchaikovsky-pathetique-3-allegro-molto",
+  "file": "tchaikovsky-pathetique-3-allegro-molto.mp3",
+  "title": "Симфония № 6 «Патетическая», III — Allegro molto vivace",
+  "title_original": "Symphony No. 6 «Pathétique», Op. 74, III — Allegro molto vivace",
+  "composer_id": "tchaikovsky",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1893,
+  "year_recorded": 2012,
+  "era": "late-romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 593,
+  "description_md": "Скерцо-марш Шестой симфонии — Allegro molto vivace, форма марша. Чайковский строит часть как военный триумфальный финал; на премьере публика аплодировала, ожидая что это конец симфонии — и была шокирована, когда после оваций началось мрачное Adagio lamentoso финала. Это намеренное «обманчивое» завершение — единственный пример в симфонической литературе.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

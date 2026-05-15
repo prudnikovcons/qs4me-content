@@ -1,0 +1,20 @@
+{
+  "id": "beethoven-eroica-2-marcia-funebre",
+  "file": "beethoven-eroica-2-marcia-funebre.mp3",
+  "title": "Симфония № 3 «Героическая», II — Marcia funebre. Adagio assai",
+  "title_original": "Symphony No. 3 «Eroica», II — Marcia funebre: Adagio assai",
+  "composer_id": "beethoven",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1803,
+  "year_recorded": 2012,
+  "era": "classical",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 928,
+  "description_md": "Похоронный марш Третьей симфонии — до минор, размер 2/4. Бетховен пишет его как первую в истории симфонии чисто траурную медленную часть; до него медленные части были лирическими интермеццо, а не главными драматическими событиями. Главная тема — характерная пунктирная фигура, имитирующая ритм похоронного шествия. Огромная средняя часть в до мажоре даёт момент просветления, после которого тема возвращается ещё мрачнее. Финальное затухание — реквием по идее героического.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

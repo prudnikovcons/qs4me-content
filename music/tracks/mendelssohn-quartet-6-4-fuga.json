@@ -1,0 +1,21 @@
+{
+  "id": "mendelssohn-quartet-6-4-fuga",
+  "file": "mendelssohn-quartet-6-4-fuga.mp3",
+  "title": "Струнный квартет № 6 op. 80, IV — Fuga: Allegro molto",
+  "title_original": "String Quartet No. 6, Op. 80, IV — Finale: Allegro molto (Fuga)",
+  "composer_id": "mendelssohn",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1847,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "string-quartet",
+    "fugue"
+  ],
+  "duration_sec": 374,
+  "description_md": "Финал Шестого квартета — фа минор, фуга в форме сонатного аллегро. Мендельсон возвращается к ораторианскому стилю, к Баху, чьё творчество он сам возвратил публике («Страсти по Матфею» 1829). Бурная фугированная фактура, в кульминации — возврат основной темы первой части. Симметричное закрытие квартетного цикла.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

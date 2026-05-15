@@ -1,0 +1,20 @@
+{
+  "id": "brahms-symphony-4-1-allegro",
+  "file": "brahms-symphony-4-1-allegro.mp3",
+  "title": "Симфония № 4 ми минор op. 98, I — Allegro non troppo",
+  "title_original": "Symphony No. 4 in E minor, Op. 98, I — Allegro non troppo",
+  "composer_id": "brahms",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1885,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 760,
+  "description_md": "Первая часть Четвёртой симфонии Брамса (1885), последней из его симфоний. Премьера в Мейнингене под управлением Ганса фон Бюлова. Главная тема — спускающаяся серия терций в струнах, открывающая часть нежно и интимно, но постепенно перерастающая в драматическое сонатное аллегро. Брамс здесь работает на грани техники: сонатная форма расширена и обогащена сложной контрапунктической разработкой.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

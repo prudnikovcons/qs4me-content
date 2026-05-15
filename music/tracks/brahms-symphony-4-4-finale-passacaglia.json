@@ -1,0 +1,21 @@
+{
+  "id": "brahms-symphony-4-4-finale-passacaglia",
+  "file": "brahms-symphony-4-4-finale-passacaglia.mp3",
+  "title": "Симфония № 4, IV — Allegro energico e passionato (Пассакалья)",
+  "title_original": "Symphony No. 4, Op. 98, IV — Finale: Allegro energico e passionato (Passacaglia)",
+  "composer_id": "brahms",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1885,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 667,
+  "description_md": "Финал Четвёртой симфонии — пассакалья: 30 вариаций на 8-тактовую басовую тему. Брамс берёт тему из кантаты Баха BWV 150 «Nach dir, Herr, verlanget mich» и пишет на ней архитектурно строгий финал. Это первый случай в истории, когда симфонический финал решён как барочная вариационная форма. Каждая вариация — отдельный характер: от хорала до фуги до бурного маршa. После Брамса этот приём подхватят Шостакович (4-я часть Пятой симфонии) и Шёнберг.",
+  "trivia": "Финал Четвёртой симфонии — единственная классическая симфония, целиком построенная на барочной пассакалье в качестве финала.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

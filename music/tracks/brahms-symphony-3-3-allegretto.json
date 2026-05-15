@@ -1,0 +1,20 @@
+{
+  "id": "brahms-symphony-3-3-allegretto",
+  "file": "brahms-symphony-3-3-allegretto.mp3",
+  "title": "Симфония № 3, III — Poco Allegretto",
+  "title_original": "Symphony No. 3, Op. 90, III — Poco Allegretto",
+  "composer_id": "brahms",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1883,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "symphony"
+  ],
+  "duration_sec": 370,
+  "description_md": "Самая знаменитая часть Третьей симфонии — Poco Allegretto в до миноре. Виолончели ведут лирическую печальную тему, которая повторяется в гобое, валторне, скрипках. Брамс здесь снова отказывается от классического скерцо в пользу интимного интермеццо. Тема стала одной из самых популярных у Брамса — использовалась в фильме «Goodbye Again» (1961) с Ингрид Бергман и Энтони Перкинсом.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

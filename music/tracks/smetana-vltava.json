@@ -1,0 +1,20 @@
+{
+  "id": "smetana-vltava",
+  "file": "smetana-vltava.mp3",
+  "title": "«Влтава» из цикла «Моя родина»",
+  "title_original": "Vltava (The Moldau), from Má vlast",
+  "composer_id": "smetana",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1874,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "tone-poem"
+  ],
+  "duration_sec": 770,
+  "description_md": "«Влтава» — вторая из шести симфонических поэм цикла «Моя родина», написанного Сметаной в 1874–1879 годах. Программа: композитор отслеживает течение реки Влтавы от двух её истоков в Шумавских горах до впадения в Эльбу в Праге. Шесть эпизодов: два истока — лесная охота — крестьянская свадьба — лунная ночь нимф — Святоянские пороги — широкое течение через Прагу — затухание. Сметана написал «Влтаву» в состоянии прогрессирующей глухоты — он уже не мог слышать своей музыки. Главная тема в характере чешской народной песни «Kočka leze dírou» («Кошка лезет в нору»).",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}

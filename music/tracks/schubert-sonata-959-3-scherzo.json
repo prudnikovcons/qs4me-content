@@ -1,0 +1,21 @@
+{
+  "id": "schubert-sonata-959-3-scherzo",
+  "file": "schubert-sonata-959-3-scherzo.mp3",
+  "title": "Соната ля мажор D 959, III — Scherzo. Allegro vivace",
+  "title_original": "Piano Sonata in A major, D 959, III — Scherzo: Allegro vivace",
+  "composer_id": "schubert",
+  "performer_id": "musopen-ensemble",
+  "year_composed": 1828,
+  "year_recorded": 2012,
+  "era": "romanticism",
+  "style": [
+    "sonata",
+    "piano-solo"
+  ],
+  "duration_sec": 325,
+  "description_md": "Скерцо D 959 — Allegro vivace, ля мажор. Лёгкая танцевальная часть, послание после драматического Andantino. Трио в ре мажоре — спокойный хоральный эпизод. Шуберт держит здесь типично «домашний» характер позднего скерцо.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/MusopenCollectionAsFlac",
+  "credit": "Musopen Kickstarter Project · 2012 · PD"
+}
