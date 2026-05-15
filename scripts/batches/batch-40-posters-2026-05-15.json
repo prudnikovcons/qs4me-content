@@ -1,0 +1,505 @@
+[
+  {
+    "id": "fact-art-rosie-the-riveter",
+    "topic": "art",
+    "title": "Rosie the Riveter",
+    "caption": "Дж. Говард Миллер, 1943. Постер «We Can Do It!» для Westinghouse. Тиражировался 2 недели. В 1982 стал иконой феминизма — после публикации в Smithsonian.",
+    "alt": "Rosie the Riveter poster",
+    "year": 1943,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "We_Can_Do_It!"
+  },
+  {
+    "id": "fact-art-uncle-sam",
+    "topic": "art",
+    "title": "Uncle Sam wants you",
+    "caption": "Джеймс Монтгомери Флэгг, 1917. Рекрутский постер WWI: «I Want YOU for U.S. Army». 4 миллиона копий. Сам Флэгг — модель для лица.",
+    "alt": "Uncle Sam poster",
+    "year": 1917,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Uncle_Sam_(poster)"
+  },
+  {
+    "id": "fact-art-kitchener-poster",
+    "topic": "art",
+    "title": "«Lord Kitchener Wants You»",
+    "caption": "Альфред Лит, 1914. Британский рекрутский постер WWI. Альтернатива в США — Uncle Sam. Кампания добавила 2 миллиона добровольцев за 2 года.",
+    "alt": "Kitchener рекрутский постер",
+    "year": 1914,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lord_Kitchener_Wants_You"
+  },
+  {
+    "id": "fact-art-lissitzky-wedge",
+    "topic": "art",
+    "title": "«Бей белых красным клином»",
+    "caption": "Эль Лисицкий, 1919. Конструктивистский постер Гражданской войны в России. Революция в графическом дизайне — повлиял на 100 лет дизайна вперёд.",
+    "alt": "Постер Эль Лисицкого",
+    "year": 1919,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Beat_the_Whites_with_the_Red_Wedge"
+  },
+  {
+    "id": "fact-art-rodchenko",
+    "topic": "art",
+    "title": "Александр Родченко",
+    "caption": "1891–1956. Соцконструктивист. Постеры «Ленгиз» (1925), «Книги по всем отраслям знания». Геометрия, фотомонтаж. Базис рекламы XX века.",
+    "alt": "Постеры Родченко",
+    "year": 1925,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alexander_Rodchenko"
+  },
+  {
+    "id": "fact-art-mayakovsky",
+    "topic": "art",
+    "title": "Владимир Маяковский",
+    "caption": "1893–1930. Поэт-агитатор. «Окна РОСТА» (1919–1921) — 600+ пропагандистских плакатов в окнах магазинов. Прорыв в визуальной публицистике.",
+    "alt": "Маяковский с плакатом",
+    "year": 1921,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vladimir_Mayakovsky"
+  },
+  {
+    "id": "fact-art-rosta-windows",
+    "topic": "art",
+    "title": "Окна РОСТА",
+    "caption": "Серия плакатов 1919–1921. Российское телеграфное агентство (РОСТА). Главные художники — Маяковский, Малевич, Лебедев. Прообраз советского постера.",
+    "alt": "Окна РОСТА",
+    "year": 1921,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "ROSTA_Windows"
+  },
+  {
+    "id": "fact-art-wpa-poster",
+    "topic": "art",
+    "title": "Federal Art Project · WPA",
+    "caption": "1935–1943. Работа для безработных художников в Великую депрессию. 35 000 произведений: плакаты «See America», панно, скульптуры. Спасло американскую художественную школу.",
+    "alt": "WPA poster",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Federal_Art_Project"
+  },
+  {
+    "id": "fact-art-see-america-wpa",
+    "topic": "art",
+    "title": "See America · WPA серии",
+    "caption": "1936–1943. Постеры в стиле ар-деко для нацпарков, культурных мероприятий. ~2000 уникальных дизайнов. Иконы дизайна США.",
+    "alt": "See America плакат",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Works_Progress_Administration"
+  },
+  {
+    "id": "fact-art-loose-lips",
+    "topic": "art",
+    "title": "«Loose Lips Sink Ships»",
+    "caption": "Постер WWII США, 1942. Серия по безопасности от Office of War Information. Стал идиомой. До этого — британский «Careless Talk Costs Lives».",
+    "alt": "Loose Lips Sink Ships poster",
+    "year": 1942,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Loose_lips_sink_ships"
+  },
+  {
+    "id": "fact-art-wpa-jazz",
+    "topic": "art",
+    "title": "WPA · музыкальный проект",
+    "caption": "Federal Music Project, 1935–1943. 15 000 музыкантов. 1 миллион концертов для 100 миллионов слушателей. Народный сбор песен Лома — фольклорная база США.",
+    "alt": "WPA Federal Music Project",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Federal_Music_Project"
+  },
+  {
+    "id": "fact-art-keep-calm",
+    "topic": "art",
+    "title": "Keep Calm and Carry On",
+    "caption": "Британский постер 1939 года к началу WWII. 2,5 миллиона копий, но почти не использован. Переоткрыт в 2000 — стал самым мемифицированным дизайном XXI века.",
+    "alt": "Keep Calm postern",
+    "year": 1939,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Keep_Calm_and_Carry_On"
+  },
+  {
+    "id": "fact-art-coca-cola-santa",
+    "topic": "art",
+    "title": "Санта Сундблома",
+    "caption": "Хэддон Сундблом, реклама Coca-Cola, 1931–1964. Создал образ толстого весёлого Санты в красно-белом костюме. Прежде Санта был тощим в шкуре.",
+    "alt": "Санта Сундблома",
+    "year": 1931,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Haddon_Sundblom"
+  },
+  {
+    "id": "fact-art-toulouse-lautrec",
+    "topic": "art",
+    "title": "Тулуз-Лотрек · афиши Мулен Руж",
+    "caption": "Анри де Тулуз-Лотрек, 1891. Принёс плакатный жанр в высокое искусство. 30 рекламных литографий для Мулен Руж и кабаре Монмартра.",
+    "alt": "Постер Тулуз-Лотрека",
+    "year": 1891,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Henri_de_Toulouse-Lautrec"
+  },
+  {
+    "id": "fact-art-mucha-poster",
+    "topic": "art",
+    "title": "Альфонс Муха · ар-нуво плакат",
+    "caption": "1860–1939. Чешский художник. Знаменит плакатами Сары Бернар с 1894. Стиль модерна — длинные волосы, цветы, орнамент. Икона эпохи.",
+    "alt": "Постер Мухи",
+    "year": 1894,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alphonse_Mucha"
+  },
+  {
+    "id": "fact-art-art-deco-poster",
+    "topic": "art",
+    "title": "Постеры ар-деко",
+    "caption": "1920–1940-е. Геометрия, симметрия, длинные шрифты. Кассандр (A.M. Cassandre) — реклама «Норманди», 1935. Икона французского межвоенного дизайна.",
+    "alt": "Постер ар-деко",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Art_Deco"
+  },
+  {
+    "id": "fact-art-cassandre",
+    "topic": "art",
+    "title": "Кассандр",
+    "caption": "Адольф Кассандр, 1901–1968. «Этуаль дю Нор» (1927), «Норманди» (1935). Логотип Yves Saint Laurent (1961). Отец европейского графического дизайна.",
+    "alt": "Постеры Кассандра",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cassandre"
+  },
+  {
+    "id": "fact-art-bauhaus-poster",
+    "topic": "art",
+    "title": "Bauhaus · постер",
+    "caption": "Школа Bauhaus, 1919–1933. Концепция «форма следует функции». Постеры в стиле «новая типографика» Тшихольда — основа всего модернистского дизайна.",
+    "alt": "Постер Bauhaus",
+    "year": 1925,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bauhaus"
+  },
+  {
+    "id": "fact-art-paul-rand",
+    "topic": "art",
+    "title": "Пол Рэнд",
+    "caption": "1914–1996. Логотипы IBM (1956), ABC (1962), UPS (1961), Westinghouse, NeXT (Стив Джобс, 1986). Отец корпоративной идентичности.",
+    "alt": "Логотипы Пола Рэнда",
+    "year": 1956,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Paul_Rand"
+  },
+  {
+    "id": "fact-art-saul-bass",
+    "topic": "art",
+    "title": "Саул Басс",
+    "caption": "1920–1996. Постеры фильмов Хичкока: «Головокружение» (1958), «Психо» (1960), «Север-Северо-запад» (1959). Стиль геометрии и движения.",
+    "alt": "Постеры Саула Басса",
+    "year": 1960,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Saul_Bass"
+  },
+  {
+    "id": "fact-art-shepard-fairey-hope",
+    "topic": "art",
+    "title": "«HOPE» · Шепард Фейри",
+    "caption": "Постер Барака Обамы 2008. Стиль соцконструктивизма. 350 000 копий продано. Стал иконой кампании. Фотограф AP подал в суд — соглашение 2011.",
+    "alt": "Постер HOPE Obama",
+    "year": 2008,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Barack_Obama_\"Hope\"_poster"
+  },
+  {
+    "id": "fact-art-i-want-out",
+    "topic": "art",
+    "title": "«I Want Out»",
+    "caption": "Антивоенный постер Лоренца Нельсона, 1971. Парадия на Uncle Sam — раненый солдат во Вьетнаме. Один из самых известных антивоенных образов в истории.",
+    "alt": "I Want Out poster",
+    "year": 1971,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "I_Want_Out"
+  },
+  {
+    "id": "fact-art-soviet-space-poster",
+    "topic": "art",
+    "title": "Советская космическая агитация",
+    "caption": "Постеры 1957–1969: «Наша Победа» (Гагарин), «Слава КПСС», «Покорим космос». Сотни тысяч копий, бесплатно расклеены по всему СССР.",
+    "alt": "Советский космический плакат",
+    "year": 1961,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Soviet_space_program"
+  },
+  {
+    "id": "fact-art-nelson-mandela-anti-apartheid",
+    "topic": "art",
+    "title": "Anti-Apartheid Movement · постеры",
+    "caption": "Постеры 1959–1994. «Free Nelson Mandela». Музыкальные концерты в Уэмбли 1988 — 600 миллионов зрителей. Графика повлияла на освобождение Манделы в 1990.",
+    "alt": "Постер Free Mandela",
+    "year": 1988,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Anti-Apartheid_Movement"
+  },
+  {
+    "id": "fact-art-stenberg",
+    "topic": "art",
+    "title": "Братья Стенберги · киноплакаты",
+    "caption": "Владимир и Георгий Стенберги. 300+ конструктивистских постеров советских фильмов 1923–1933. Динамизм, фотомонтаж — повлиял на Голливуд.",
+    "alt": "Постеры Стенбергов",
+    "year": 1930,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stenberg_brothers"
+  },
+  {
+    "id": "fact-art-soviet-1929",
+    "topic": "art",
+    "title": "«Книга по всем отраслям знания»",
+    "caption": "Александр Родченко, 1925. Реклама Госиздата с Лилей Брик. Конструктивистский постер — модель кричит «КНИГИ!». Один из 5 главных образов XX века в дизайне.",
+    "alt": "Постер Родченко Книги",
+    "year": 1925,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alexander_Rodchenko"
+  },
+  {
+    "id": "fact-art-grant-wood",
+    "topic": "art",
+    "title": "Грант Вуд · American Regionalism",
+    "caption": "1891–1942. «Американская готика» (1930). Поднятие духа в Великую депрессию. Часть Regionalism — реакция на европейский модернизм.",
+    "alt": "Грант Вуд",
+    "year": 1930,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Grant_Wood"
+  },
+  {
+    "id": "fact-art-ben-shahn",
+    "topic": "art",
+    "title": "Бен Шан · социальный реализм",
+    "caption": "1898–1969. Литвак, эмигрировал в США в 8 лет. Серия Sacco & Vanzetti (1931–1932), плакаты CIO (1944–1946). Совесть американского искусства.",
+    "alt": "Бен Шан",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ben_Shahn"
+  },
+  {
+    "id": "fact-art-diego-rivera",
+    "topic": "art",
+    "title": "Диего Ривера · мурализм",
+    "caption": "1886–1957. Мексиканский муралист. Сюжеты индейской истории, революции. Фрески в Сан-Франциско и Детройте (1932–1934). Муж Фриды Кало.",
+    "alt": "Диего Ривера",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Diego_Rivera"
+  },
+  {
+    "id": "fact-art-orozco",
+    "topic": "art",
+    "title": "Хосе Клементе Ороско",
+    "caption": "1883–1949. Главный мексиканский муралист после Риверы. «Прометей» (1930) в Помоне. Темнее и трагичнее Риверы. Лишился руки в 17 лет в эксперименте.",
+    "alt": "Хосе Клементе Ороско",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "José_Clemente_Orozco"
+  },
+  {
+    "id": "fact-art-siqueiros",
+    "topic": "art",
+    "title": "Давид Сикейрос",
+    "caption": "1896–1974. Третий из «trois grands» мексиканского мурализма. Революционер и художник. 25 лет в тюрьмах. Эксперимент с пиролаком и аэрографом — повлиял на Поллока.",
+    "alt": "Сикейрос",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "David_Alfaro_Siqueiros"
+  },
+  {
+    "id": "fact-art-soviet-realism",
+    "topic": "art",
+    "title": "Социалистический реализм",
+    "caption": "Официальный стиль СССР с 1932 по 1986. Реальность как должна быть. Декрет Сталина обязал всех художников. Привёл к запрету авангарда.",
+    "alt": "Соцреализм плакат",
+    "year": 1932,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Socialist_realism"
+  },
+  {
+    "id": "fact-art-soviet-poster-classic",
+    "topic": "art",
+    "title": "«Родина-мать зовёт!»",
+    "caption": "Ираклий Тоидзе, июнь 1941. 6 миллионов плакатов за 4 года. Лицо — жена Тоидзе. Самый узнаваемый советский плакат WWII.",
+    "alt": "Родина-мать зовёт!",
+    "year": 1941,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Motherland_Calls_(poster)"
+  },
+  {
+    "id": "fact-art-soviet-poster-leniad",
+    "topic": "art",
+    "title": "Окна ТАСС",
+    "caption": "Серия плакатов СССР 1941–1946 в продолжение Окон РОСТА. 1289 номеров. Сатира на Гитлера. Кукрыниксы и Маршак — главные авторы.",
+    "alt": "Окна ТАСС",
+    "year": 1941,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "TASS_Windows"
+  },
+  {
+    "id": "fact-art-warhol-pop",
+    "topic": "art",
+    "title": "Уорхол · поп-арт",
+    "caption": "Энди Уорхол, 1928–1987. Campbell Soup Cans (1962), Marilyn Diptych (1962). Шёлкография как массовое производство. Иконы поп-арта.",
+    "alt": "Уорхол с банками супа",
+    "year": 1962,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Andy_Warhol"
+  },
+  {
+    "id": "fact-art-roy-lichtenstein",
+    "topic": "art",
+    "title": "Рой Лихтенштейн",
+    "caption": "1923–1997. «Drowning Girl» (1963). Поп-арт в стиле комиксов с точками Бен-Дэй. Превратил низкое искусство в высокое.",
+    "alt": "Рой Лихтенштейн",
+    "year": 1963,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Roy_Lichtenstein"
+  },
+  {
+    "id": "fact-art-rauschenberg",
+    "topic": "art",
+    "title": "Роберт Раушенберг",
+    "caption": "1925–2008. «Combines» (1954–1964) — гибрид живописи и скульптуры с найденными объектами. Erased de Kooning (1953) — стёр чужой рисунок, продал свою.",
+    "alt": "Роберт Раушенберг",
+    "year": 1953,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Robert_Rauschenberg"
+  },
+  {
+    "id": "fact-art-frankenthaler",
+    "topic": "art",
+    "title": "Хелен Франкенталер",
+    "caption": "1928–2011. «Mountains and Sea» (1952) — изобрела технику soak-stain. Тонкий слой краски на сыром холсте. Базис color field painting.",
+    "alt": "Хелен Франкенталер",
+    "year": 1952,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Helen_Frankenthaler"
+  },
+  {
+    "id": "fact-art-mark-rothko",
+    "topic": "art",
+    "title": "Марк Ротко",
+    "caption": "1903–1970. Латыш-эмигрант. Color field painting — большие холсты с парящими цветовыми блоками. «Без названия № 6» — $186 млн (2014, частная продажа).",
+    "alt": "Марк Ротко",
+    "year": 1970,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mark_Rothko"
+  },
+  {
+    "id": "fact-art-jackson-pollock",
+    "topic": "art",
+    "title": "Джексон Поллок",
+    "caption": "1912–1956. Action painting — капал краску с кистей на холст на полу. «No. 5, 1948» продана за $140 млн в 2006. Погиб в автокатастрофе в 44 года.",
+    "alt": "Джексон Поллок за работой",
+    "year": 1948,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jackson_Pollock"
+  },
+  {
+    "id": "fact-art-yves-klein",
+    "topic": "art",
+    "title": "Ив Кляйн · IKB",
+    "caption": "1928–1962. Изобрёл «International Klein Blue» (IKB) — синий пигмент. «Антропометрии» (1960) — обнажённые модели в синей краске как кисти.",
+    "alt": "Ив Кляйн в синем",
+    "year": 1960,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yves_Klein"
+  },
+  {
+    "id": "fact-art-keith-haring",
+    "topic": "art",
+    "title": "Кит Харинг",
+    "caption": "1958–1990. Стрит-арт в нью-йоркском метро. «Светящиеся младенцы», танцующие фигуры. Умер от СПИДа в 31 год. 5000 рисунков за жизнь.",
+    "alt": "Кит Харинг",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Keith_Haring"
+  },
+  {
+    "id": "fact-art-banksy",
+    "topic": "art",
+    "title": "Бэнкси",
+    "caption": "Анонимный британский стрит-артист. Активен с 1990-х. «Девочка с шаром» (2002), «Метатель цветов». «Love is in the Bin» (2018) — самоуничтожилась после продажи.",
+    "alt": "Граффити Бэнкси",
+    "year": 2018,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Banksy"
+  },
+  {
+    "id": "fact-art-vintage-railway",
+    "topic": "art",
+    "title": "Реклама пароходов и поездов",
+    "caption": "1880–1940. Постеры Cunard, Mauretania, Orient Express, Wagons-Lits. Стиль ар-нуво и ар-деко. Романтика дальних путешествий до эры авиации.",
+    "alt": "Реклама Orient Express",
+    "year": 1920,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Travel_poster"
+  },
+  {
+    "id": "fact-art-london-tube-1908",
+    "topic": "art",
+    "title": "Постеры лондонского метро",
+    "caption": "С 1908. Один из самых длинных корпоративных постерных проектов мира. 6000 уникальных дизайнов. Эстетика модерна, ар-деко, поп-арта.",
+    "alt": "Постер лондонского метро 1908",
+    "year": 1908,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "London_Underground_posters"
+  },
+  {
+    "id": "fact-art-de-stijl",
+    "topic": "art",
+    "title": "De Stijl",
+    "caption": "Голландское движение 1917–1931. Мондриан, Рит. Только 3 цвета (красный, жёлтый, синий) + чёрный, белый, серый. Только горизонтали и вертикали.",
+    "alt": "De Stijl плакат",
+    "year": 1917,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "De_Stijl"
+  },
+  {
+    "id": "fact-art-mondrian",
+    "topic": "art",
+    "title": "Пит Мондриан",
+    "caption": "1872–1944. «Композиция с красным, синим и жёлтым» (1930). Постепенно упрощал от деревьев до сеток. Концептуальная иконография XX века.",
+    "alt": "Композиция Мондриана",
+    "year": 1930,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Piet_Mondrian"
+  },
+  {
+    "id": "fact-art-malevich-black-square",
+    "topic": "art",
+    "title": "Малевич · Чёрный квадрат",
+    "caption": "Казимир Малевич, 1915. Первый супрематический холст. Под чёрным слоем — две предыдущих композиции, видны в рентгене. Икона авангарда.",
+    "alt": "Чёрный квадрат",
+    "year": 1915,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Black_Square_(painting)"
+  },
+  {
+    "id": "fact-art-kandinsky",
+    "topic": "art",
+    "title": "Василий Кандинский",
+    "caption": "1866–1944. Создатель абстрактной живописи. «Композиция VII» (1913), «Жёлтое, красное, синее» (1925). Основатель Bauhaus в живописи.",
+    "alt": "Композиция Кандинского",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wassily_Kandinsky"
+  },
+  {
+    "id": "fact-art-tanaka-ikko",
+    "topic": "art",
+    "title": "Танака Икко",
+    "caption": "1930–2002. Японский графический дизайнер. Постеры театра Но, Mujirushi Ryōhin (без бренда, 1980). Минимализм как стиль. Кросс-культурный мост.",
+    "alt": "Постеры Танаки Икко",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ikkō_Tanaka"
+  },
+  {
+    "id": "fact-art-yusaku-kamekura",
+    "topic": "art",
+    "title": "Юсаку Камэкура",
+    "caption": "1915–1997. Японский дизайнер. Постеры Олимпиады Токио 1964 — революция в спортивном дизайне. Восходящее солнце на белом — новая Япония.",
+    "alt": "Постер Олимпиады Токио 1964",
+    "year": 1964,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yusaku_Kamekura"
+  }
+]

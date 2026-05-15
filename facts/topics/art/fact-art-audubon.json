@@ -1,0 +1,14 @@
+{
+  "id": "fact-art-audubon",
+  "topic": "art",
+  "title": "Джон Одюбон",
+  "caption": "1785–1851. «Птицы Америки» (1827–1838) — 435 раскрашенных гравюр. Альбом 99×66 см. Полная копия продана за $11,5 млн в 2010.",
+  "image": "fact-art-audubon.webp",
+  "image_width": 1280,
+  "image_height": 1625,
+  "alt": "Портрет Джона Одюбона",
+  "credit": "John Syme · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/John_James_Audubon",
+  "license": "PD",
+  "year": 1838
+}

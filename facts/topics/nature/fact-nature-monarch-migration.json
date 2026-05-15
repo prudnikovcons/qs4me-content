@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-monarch-migration",
+  "topic": "nature",
+  "title": "Миграция бабочек-монархов",
+  "caption": "Восточная популяция Северной Америки: 4800 км Канада → Мексика и обратно. За цикл — 4 поколения. Иллюстрации миграции у Геккеля.",
+  "image": "fact-nature-monarch-migration.webp",
+  "image_width": 1132,
+  "image_height": 885,
+  "alt": "Миграция монархов на карте",
+  "credit": "MonarchWanderungKlein.gif: Harald Süpfle derivative work: B kimmel · CC-BY-SA · ",
+  "source": "https://en.wikipedia.org/wiki/Monarch_butterfly_migration",
+  "license": "CC-BY-SA",
+  "year": 2011
+}

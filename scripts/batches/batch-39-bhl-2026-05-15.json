@@ -1,0 +1,502 @@
+[
+  {
+    "id": "fact-art-audubon",
+    "topic": "art",
+    "title": "Джон Одюбон",
+    "caption": "1785–1851. «Птицы Америки» (1827–1838) — 435 раскрашенных гравюр. Альбом 99×66 см. Полная копия продана за $11,5 млн в 2010.",
+    "alt": "Портрет Джона Одюбона",
+    "year": 1838,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "John_James_Audubon"
+  },
+  {
+    "id": "fact-art-merian",
+    "topic": "art",
+    "title": "Мария Сибилла Мериан",
+    "caption": "1647–1717. Первая европейка-натуралист в тропиках. «Метаморфозы насекомых Суринама» 1705 — 60 гравюр. Доказала: бабочки из гусениц.",
+    "alt": "Мария Сибилла Мериан",
+    "year": 1705,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Maria_Sibylla_Merian"
+  },
+  {
+    "id": "fact-art-haeckel",
+    "topic": "art",
+    "title": "Эрнст Геккель",
+    "caption": "1834–1919. «Формы природы» (1899–1904) — 100 литографий радиолярий, медуз, орхидей. Стиль модерна, повлиял на Гауди и Климта.",
+    "alt": "Эрнст Геккель и его иллюстрации",
+    "year": 1904,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ernst_Haeckel"
+  },
+  {
+    "id": "fact-art-linnaeus",
+    "topic": "art",
+    "title": "Карл Линней",
+    "caption": "1707–1778. Создал биноминальную номенклатуру (1753). До него виды описывались фразами. После — Homo sapiens, Felis catus. 14 000 видов им описано.",
+    "alt": "Портрет Линнея",
+    "year": 1753,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Carl_Linnaeus"
+  },
+  {
+    "id": "fact-art-edward-lear",
+    "topic": "art",
+    "title": "Эдвард Лир",
+    "caption": "1812–1888. До «Книги нонсенса» был орнитологом-иллюстратором. «Семейство попугаев» (1832) в 18 лет — конкурент Одюбона.",
+    "alt": "Эдвард Лир",
+    "year": 1832,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Edward_Lear"
+  },
+  {
+    "id": "fact-art-gould-birds",
+    "topic": "art",
+    "title": "Джон Гулд",
+    "caption": "1804–1881. «Птицы Великобритании», «Птицы Австралии», «Колибри» — 3000 раскрашенных литографий. Дарвин использовал его работы на «Бигле».",
+    "alt": "Джон Гулд",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "John_Gould"
+  },
+  {
+    "id": "fact-art-redoute",
+    "topic": "art",
+    "title": "Пьер-Жозеф Редуте",
+    "caption": "1759–1840. «Рафаэль роз». Художник Жозефины Бонапарт. «Розы» (1817–1824) — 169 акварельных гравюр, до сих пор стандарт.",
+    "alt": "Пьер-Жозеф Редуте",
+    "year": 1824,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pierre-Joseph_Redouté"
+  },
+  {
+    "id": "fact-art-banks",
+    "topic": "art",
+    "title": "Джозеф Бэнкс",
+    "caption": "1743–1820. Ботаник на «Индеворе» с Куком, 1768. Florilegium — 743 гравюры новых растений Австралии и Полинезии. Опубликован только в 1980-х.",
+    "alt": "Сэр Джозеф Бэнкс",
+    "year": 1768,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Joseph_Banks"
+  },
+  {
+    "id": "fact-art-humboldt",
+    "topic": "art",
+    "title": "Александр фон Гумбольдт",
+    "caption": "1769–1859. 5 лет (1799–1804) экспедиции по Латинской Америке. «Космос» — 5 томов. Прародитель экологии. На его 100-летие назвали Гумбольдтовский ток.",
+    "alt": "Александр фон Гумбольдт",
+    "year": 1804,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alexander_von_Humboldt"
+  },
+  {
+    "id": "fact-art-catesby",
+    "topic": "art",
+    "title": "Марк Кэтсби",
+    "caption": "1683–1749. «Естественная история Каролины, Флориды и Багам» (1731–1743). Первая иллюстрированная книга о Северной Америке. 220 раскрашенных гравюр.",
+    "alt": "Марк Кэтсби",
+    "year": 1743,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mark_Catesby"
+  },
+  {
+    "id": "fact-art-buffon",
+    "topic": "art",
+    "title": "Бюффон",
+    "caption": "1707–1788. «Естественная история» — 36 томов за 50 лет. Главный труд эпохи Просвещения. Ввёл идею: виды могут меняться (за 100 лет до Дарвина).",
+    "alt": "Граф де Бюффон",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Georges-Louis_Leclerc,_Comte_de_Buffon"
+  },
+  {
+    "id": "fact-art-cuvier",
+    "topic": "art",
+    "title": "Жорж Кювье",
+    "caption": "1769–1832. Отец палеонтологии. Доказал — виды вымирают. Восстановил мегатериума, мастодонта по костям. Противник эволюции, верил в катастрофы.",
+    "alt": "Жорж Кювье",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Georges_Cuvier"
+  },
+  {
+    "id": "fact-art-wallace",
+    "topic": "art",
+    "title": "Альфред Уоллес",
+    "caption": "1823–1913. Открыл естественный отбор одновременно с Дарвином (1858). Линия Уоллеса — биогеографическая граница в Индонезии: разделяет фауны Азии и Австралии.",
+    "alt": "Альфред Рассел Уоллес",
+    "year": 1858,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alfred_Russel_Wallace"
+  },
+  {
+    "id": "fact-art-bauer",
+    "topic": "art",
+    "title": "Фердинанд Бауэр",
+    "caption": "1760–1826. Австриец, ботанический иллюстратор экспедиции Флиндерса 1801–1803 в Австралию. 2000+ рисунков. Точность под микроскопом — до сих пор не превзойдена.",
+    "alt": "Фердинанд Бауэр",
+    "year": 1801,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ferdinand_Bauer"
+  },
+  {
+    "id": "fact-art-kunstformen",
+    "topic": "art",
+    "title": "Kunstformen der Natur",
+    "caption": "Эрнст Геккель, 1899–1904. 100 литографий. Радиолярии, медузы, орхидеи, бабочки. Шедевр стиля ар-нуво на стыке науки и искусства.",
+    "alt": "Иллюстрация из Kunstformen",
+    "year": 1904,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kunstformen_der_Natur"
+  },
+  {
+    "id": "fact-art-birds-of-america",
+    "topic": "art",
+    "title": "Птицы Америки",
+    "caption": "Джон Одюбон, 1827-1838. Альбом 99×66 см. 435 гравюр, все птицы Северной Америки в натуральную величину. Полная копия — рекорд книги: $11,5 млн в 2010.",
+    "alt": "Страница из Птиц Америки Одюбона",
+    "year": 1838,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Birds_of_America"
+  },
+  {
+    "id": "fact-art-botanical-magazine",
+    "topic": "art",
+    "title": "Curtis's Botanical Magazine",
+    "caption": "Старейший непрерывно выпускаемый ботанический журнал. С 1787 — 237 лет. Каждый месяц 4 акварельные гравюры новых растений.",
+    "alt": "Curtis Botanical Magazine",
+    "year": 1787,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Curtis's_Botanical_Magazine"
+  },
+  {
+    "id": "fact-art-flora-graeca",
+    "topic": "art",
+    "title": "Flora Graeca",
+    "caption": "Джон Сибторп и Фердинанд Бауэр, 1806–1840. 10 томов о флоре Древней Греции. 966 акварельных гравюр. Один из самых дорогих ботанических трудов в истории.",
+    "alt": "Иллюстрация Flora Graeca",
+    "year": 1840,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flora_Graeca"
+  },
+  {
+    "id": "fact-art-systema-naturae",
+    "topic": "art",
+    "title": "Systema Naturae",
+    "caption": "Карл Линней, 1735–1768, 13 изданий. От 11 страниц в 1735 до 3000 в 12-м издании. Основа всей биологической классификации.",
+    "alt": "Титульный лист Systema Naturae",
+    "year": 1735,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Systema_Naturae"
+  },
+  {
+    "id": "fact-nature-dodo",
+    "topic": "nature",
+    "title": "Додо",
+    "caption": "Маврикий, нелетающая птица. Открыта голландцами 1598, вымерла к 1681 — за 83 года. Не боялась людей. Известна нам только по рисункам и костям.",
+    "alt": "Иллюстрация додо",
+    "year": 1681,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dodo"
+  },
+  {
+    "id": "fact-nature-thylacine",
+    "topic": "nature",
+    "title": "Тасманийский тигр",
+    "caption": "Сумчатый волк, Австралия. Вымер 7 сентября 1936 в зоопарке Хобарта. Последний самец Бенджамин. Очень редкое видео существует — 63 секунды.",
+    "alt": "Тасманийский тигр",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Thylacine"
+  },
+  {
+    "id": "fact-nature-quagga",
+    "topic": "nature",
+    "title": "Квагга",
+    "caption": "Подвид зебры в Африке. Полосы только на голове и шее. Вымер в 1883 (зоопарк Амстердама). С 1987 — проект восстановления через скрещивание зебр.",
+    "alt": "Литография квагги",
+    "year": 1883,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quagga"
+  },
+  {
+    "id": "fact-nature-great-auk",
+    "topic": "nature",
+    "title": "Бескрылая гагарка",
+    "caption": "Атлантический «пингвин». Не летала. Вымерла 3 июля 1844 — последняя пара убита на Эльдее (Исландия) ради коллекционеров.",
+    "alt": "Гравюра бескрылой гагарки",
+    "year": 1844,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Great_auk"
+  },
+  {
+    "id": "fact-nature-passenger-pigeon",
+    "topic": "nature",
+    "title": "Странствующий голубь",
+    "caption": "Северная Америка, был многочисленнейший птицей мира — стаи в 5 миллиардов. Истреблены за 50 лет. Последняя Марта умерла 1 сентября 1914.",
+    "alt": "Странствующий голубь — гравюра",
+    "year": 1914,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Passenger_pigeon"
+  },
+  {
+    "id": "fact-nature-stellers-cow",
+    "topic": "nature",
+    "title": "Стеллерова корова",
+    "caption": "Командорские острова. До 8 м, 10 тонн. Открыта Стеллером в 1741. Истреблена охотниками за 27 лет — последняя в 1768.",
+    "alt": "Стеллерова корова",
+    "year": 1768,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Steller's_sea_cow"
+  },
+  {
+    "id": "fact-art-botanical-illustration",
+    "topic": "art",
+    "title": "Ботаническая иллюстрация",
+    "caption": "Жанр научно-художественной иллюстрации растений. Расцвет XVII–XIX вв. Гравюры Hortus Eystettensis (1613) — 367 страниц, эталон XVII века.",
+    "alt": "Ботаническая иллюстрация",
+    "year": 1613,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Botanical_illustration"
+  },
+  {
+    "id": "fact-art-bestiary",
+    "topic": "art",
+    "title": "Средневековый бестиарий",
+    "caption": "Иллюстрированные книги о животных с моральными интерпретациями. XII–XV вв. «Physiologus» — прародитель, II в. н.э. Единороги, грифоны, кит-остров.",
+    "alt": "Страница бестиария",
+    "year": 1200,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bestiary"
+  },
+  {
+    "id": "fact-art-darwin-beagle",
+    "topic": "art",
+    "title": "Путешествие на «Бигле»",
+    "caption": "Чарлз Дарвин, 1831–1836. 5 лет. Из писем и заметок 600 страниц «Путешествие». Зоологический том с гравюрами — 8 лет публикации.",
+    "alt": "HMS Beagle в Огненной Земле",
+    "year": 1836,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Second_voyage_of_HMS_Beagle"
+  },
+  {
+    "id": "fact-art-hortus-eystettensis",
+    "topic": "art",
+    "title": "Hortus Eystettensis",
+    "caption": "Базилиус Бесслер, 1613. Иллюстрированный каталог сада епископа Айхштеттского. 367 гравюр, 1084 растения. Эталон ботанического иллюстрирования XVII в.",
+    "alt": "Hortus Eystettensis",
+    "year": 1613,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hortus_Eystettensis"
+  },
+  {
+    "id": "fact-art-blaschka",
+    "topic": "art",
+    "title": "Стеклянные цветы Блашка",
+    "caption": "Леопольд и Рудольф Блашка, Дрезден, 1886–1936. 4400 стеклянных моделей растений и беспозвоночных для Гарварда. Технология утеряна.",
+    "alt": "Стеклянные цветы Блашка",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Glass_Flowers"
+  },
+  {
+    "id": "fact-nature-monarch-migration",
+    "topic": "nature",
+    "title": "Миграция бабочек-монархов",
+    "caption": "Восточная популяция Северной Америки: 4800 км Канада → Мексика и обратно. За цикл — 4 поколения. Иллюстрации миграции у Геккеля.",
+    "alt": "Миграция монархов на карте",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Monarch_butterfly_migration"
+  },
+  {
+    "id": "fact-nature-coelacanth-found",
+    "topic": "nature",
+    "title": "Целакант: найден живым",
+    "caption": "Считался вымершим 65 миллионов лет. Найден живым 22 декабря 1938 у берегов ЮАР. Марджори Латимер опознала экземпляр. Сенсация года.",
+    "alt": "Целакант",
+    "year": 1938,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Coelacanth"
+  },
+  {
+    "id": "fact-nature-okapi",
+    "topic": "nature",
+    "title": "Окапи",
+    "caption": "Конго. Открыт европейцами только в 1901 — Гарри Джонстон. Родственник жирафа, но с «зеброй» на ногах. Считался мифом до открытия.",
+    "alt": "Окапи",
+    "year": 1901,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Okapi"
+  },
+  {
+    "id": "fact-art-haeckel-radiolaria",
+    "topic": "art",
+    "title": "Радиолярии Геккеля",
+    "caption": "Эрнст Геккель, 1862. «Радиолярии» — 35 плакатов одноклеточных организмов с минеральными скелетами. 4000 видов описано. До сих пор стандарт.",
+    "alt": "Радиолярии Геккеля",
+    "year": 1862,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Radiolaria"
+  },
+  {
+    "id": "fact-art-keulemans",
+    "topic": "art",
+    "title": "Хохан Кёлеманс",
+    "caption": "1842–1912. Голландский орнитолог-художник. 4000 раскрашенных литографий птиц. Иллюстратор почти всех орнитологических трудов конца XIX века.",
+    "alt": "Иллюстрации Кёлеманса",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "John_Gerrard_Keulemans"
+  },
+  {
+    "id": "fact-art-thomas-bewick",
+    "topic": "art",
+    "title": "Томас Бьюик",
+    "caption": "1753–1828. Англичанин. Возродил гравюру на торце дерева. «История британских птиц» (1797–1804) — массовая иллюстрированная орнитология, прародитель Одюбона.",
+    "alt": "Томас Бьюик",
+    "year": 1804,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Thomas_Bewick"
+  },
+  {
+    "id": "fact-art-charles-le-brun",
+    "topic": "art",
+    "title": "Шарль Лебрен · физиогномика",
+    "caption": "Французский художник, 1671. Рисунки эмоций как геометрических трансформаций лица. Базис теории эмоций до Дарвина 1872.",
+    "alt": "Эмоции Лебрена",
+    "year": 1671,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Charles_Le_Brun"
+  },
+  {
+    "id": "fact-art-merian-suriname",
+    "topic": "art",
+    "title": "Metamorphosis Insectorum Surinamensium",
+    "caption": "Мария Сибилла Мериан, 1705. 60 гравюр о цикле развития насекомых Суринама. Первая публикация о метаморфозах. Прижизненный экземпляр — £200 000 на аукционе.",
+    "alt": "Иллюстрация Мериан",
+    "year": 1705,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Metamorphosis_Insectorum_Surinamensium"
+  },
+  {
+    "id": "fact-art-curtis-flora-londinensis",
+    "topic": "art",
+    "title": "Flora Londinensis",
+    "caption": "Уильям Кёртис, 1777–1798. 6 томов, 432 акварельные гравюры лондонских растений. Не окупился — Кёртис основал в 1787 Botanical Magazine.",
+    "alt": "Flora Londinensis",
+    "year": 1798,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flora_Londinensis"
+  },
+  {
+    "id": "fact-art-temminck",
+    "topic": "art",
+    "title": "Конрад Якоб Темминк",
+    "caption": "1778–1858. Первый директор Лейденского естественноисторического музея. «Цветные таблицы птиц» — 600 раскрашенных гравюр в 5 томах (1820–1839).",
+    "alt": "Темминк",
+    "year": 1839,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Coenraad_Jacob_Temminck"
+  },
+  {
+    "id": "fact-art-naturalist-illustration",
+    "topic": "art",
+    "title": "Natural history illustration",
+    "caption": "Жанр научно-художественной иллюстрации флоры и фауны. Расцвет XVII-XIX вв. Сегодня заменён фотографией, но возрождается в эпоху Instagram-эстетики.",
+    "alt": "Натуралистическая иллюстрация",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Natural_history"
+  },
+  {
+    "id": "fact-art-magnus",
+    "topic": "art",
+    "title": "Олаус Магнус · карта 1539",
+    "caption": "Carta Marina — самая ранняя точная карта Скандинавии. 1,7×1,3 м из 9 листов. На полях — морские чудовища, нарисованные впервые.",
+    "alt": "Carta Marina Магнуса",
+    "year": 1539,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Carta_marina"
+  },
+  {
+    "id": "fact-art-conrad-gessner",
+    "topic": "art",
+    "title": "Конрад Геснер · Historia Animalium",
+    "caption": "1551–1558. 4500 страниц, 1200 гравюр животных. Энциклопедия зоологии Ренессанса. Включал единорогов и крылатых змей — наряду с реальными.",
+    "alt": "Историк животных Геснера",
+    "year": 1558,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Historia_animalium_(Gessner_book)"
+  },
+  {
+    "id": "fact-art-beatrix-potter",
+    "topic": "art",
+    "title": "Беатрис Поттер · микология",
+    "caption": "Автор «Кролика Питера». До детских книг — серьёзная миколог. 350 микологических рисунков и теория о симбиозе грибов с водорослями (1897).",
+    "alt": "Беатрис Поттер с рисунками грибов",
+    "year": 1897,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Beatrix_Potter"
+  },
+  {
+    "id": "fact-nature-darwins-finches",
+    "topic": "nature",
+    "title": "Дарвиновы вьюрки",
+    "caption": "13 видов на Галапагосах. Дарвин в 1835 заметил: у каждого свой клюв под пищу. Базис для теории естественного отбора. Иллюстрации Гулда.",
+    "alt": "Вьюрки Дарвина",
+    "year": 1835,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Darwin's_finches"
+  },
+  {
+    "id": "fact-nature-mendel-pea",
+    "topic": "nature",
+    "title": "Горох Менделя",
+    "caption": "Грегор Мендель, 1856–1863. 29 000 растений гороха. 7 признаков: цвет, форма, высота. Открыл законы наследственности. Иллюстрации классические.",
+    "alt": "Горох Менделя — иллюстрация",
+    "year": 1863,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mendelian_inheritance"
+  },
+  {
+    "id": "fact-art-fitzinger",
+    "topic": "art",
+    "title": "Леопольд Фицингер",
+    "caption": "1802–1884. Венский зоолог. Naturgeschichte der Säugethiere — 360 раскрашенных литографий млекопитающих. Один из главных трудов XIX века.",
+    "alt": "Фицингер",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Leopold_Fitzinger"
+  },
+  {
+    "id": "fact-art-nicolaus-jacquin",
+    "topic": "art",
+    "title": "Николаус фон Жакен",
+    "caption": "1727–1817. Австрийский ботаник. Послан Францем I в Карибы — привёз 700 растений. Plantae rariores horti Schoenbrunnensis: 500 гравюр.",
+    "alt": "Жакен",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nikolaus_Joseph_von_Jacquin"
+  },
+  {
+    "id": "fact-nature-coral-reef-illustration",
+    "topic": "nature",
+    "title": "Коралл — Геккель",
+    "caption": "Геккель в «Формах природы» изобразил коралловые полипы, актиний, медуз. Соединил науку и искусство — позже это пошло в стиль ар-нуво.",
+    "alt": "Кораллы Геккеля",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Coral"
+  },
+  {
+    "id": "fact-art-rachel-ruysch",
+    "topic": "art",
+    "title": "Рашель Рёйсх",
+    "caption": "1664–1750. Самая высокооплачиваемая художница своего времени. Прожила 86 лет. 250+ натюрмортов с цветами в стиле голландского барокко.",
+    "alt": "Рашель Рёйсх",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rachel_Ruysch"
+  },
+  {
+    "id": "fact-art-anna-atkins",
+    "topic": "art",
+    "title": "Анна Аткинс · цианотипия",
+    "caption": "1799–1871. Первая женщина-фотограф. «Британские водоросли» (1843) — первая фотокнига в истории. Цианотипия (синие отпечатки) на 6000 страниц.",
+    "alt": "Цианотип Анны Аткинс",
+    "year": 1843,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Anna_Atkins"
+  }
+]

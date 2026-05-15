@@ -1,0 +1,498 @@
+[
+  {
+    "id": "fact-science-vesalius",
+    "topic": "science",
+    "title": "Андреас Везалий",
+    "caption": "1514–1564. «De humani corporis fabrica» (1543) — 7 книг, 273 анатомические гравюры. Опроверг Галена. Базис современной анатомии.",
+    "alt": "Везалий и его иллюстрации",
+    "year": 1543,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Andreas_Vesalius"
+  },
+  {
+    "id": "fact-science-fabrica",
+    "topic": "science",
+    "title": "De humani corporis fabrica",
+    "caption": "Везалий, 1543. Революция в анатомии — взяли реальные тела, а не Галена. 273 ксилографии Тициана. Базилия, Иоганн Опоринус, тираж огромный для эпохи.",
+    "alt": "Страница Fabrica Везалия",
+    "year": 1543,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "De_humani_corporis_fabrica"
+  },
+  {
+    "id": "fact-science-harvey",
+    "topic": "science",
+    "title": "Уильям Гарвей · кровообращение",
+    "caption": "1578–1657. «De motu cordis» (1628) — описал большой круг кровообращения. Перевернул медицину Галена. Король Карл I финансировал эксперименты.",
+    "alt": "Уильям Гарвей",
+    "year": 1628,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "William_Harvey"
+  },
+  {
+    "id": "fact-science-leeuwenhoek",
+    "topic": "science",
+    "title": "Антони ван Левенгук",
+    "caption": "1632–1723. Торговец тканями, самоучка. Сделал 500+ микроскопов с увеличением 270×. В 1676 первым увидел бактерии и сперматозоиды.",
+    "alt": "Антони ван Левенгук",
+    "year": 1676,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Antonie_van_Leeuwenhoek"
+  },
+  {
+    "id": "fact-science-semmelweis",
+    "topic": "science",
+    "title": "Игнац Земмельвейс",
+    "caption": "1818–1865. Венский акушер. В 1847 предложил мыть руки хлоркой между приёмами родов — снизил смертность с 18% до 2%. Уволен, заперт в психбольнице.",
+    "alt": "Игнац Земмельвейс",
+    "year": 1847,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ignaz_Semmelweis"
+  },
+  {
+    "id": "fact-science-lister",
+    "topic": "science",
+    "title": "Джозеф Листер",
+    "caption": "1827–1912. Основатель антисептической хирургии (1867). Применил карболовую кислоту — смертность от операций упала с 45% до 15%. Listerine назван в его честь.",
+    "alt": "Джозеф Листер",
+    "year": 1867,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Joseph_Lister"
+  },
+  {
+    "id": "fact-science-koch",
+    "topic": "science",
+    "title": "Роберт Кох",
+    "caption": "1843–1910. Открыл возбудители сибирской язвы (1876), туберкулёза (1882), холеры (1883). Нобель 1905. Постулаты Коха — критерии причинности болезни.",
+    "alt": "Роберт Кох",
+    "year": 1882,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Robert_Koch"
+  },
+  {
+    "id": "fact-science-nightingale",
+    "topic": "science",
+    "title": "Флоренс Найтингейл",
+    "caption": "1820–1910. Крымская война 1854 — переустроила военный госпиталь Скутари. Снизила смертность с 42% до 2%. Основала современное сестринское дело.",
+    "alt": "Флоренс Найтингейл",
+    "year": 1854,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Florence_Nightingale"
+  },
+  {
+    "id": "fact-science-banting",
+    "topic": "science",
+    "title": "Фредерик Бантинг · инсулин",
+    "caption": "1891–1941. С Маклеодом открыл инсулин в Торонто, 14 января 1922. Первый пациент Леонард Томпсон, 14 лет. Нобель 1923 — самый молодой лауреат по медицине.",
+    "alt": "Фредерик Бантинг",
+    "year": 1922,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Frederick_Banting"
+  },
+  {
+    "id": "fact-science-galen",
+    "topic": "science",
+    "title": "Гален",
+    "caption": "129–216 н.э. Греко-римский врач. 600+ работ. Доктрины Галена держались 1400 лет — до Везалия 1543. Сделал главные ошибки: 4 жидкости тела, бычьи анатомии.",
+    "alt": "Гравюра Галена",
+    "year": 200,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Galen"
+  },
+  {
+    "id": "fact-science-ibn-al-nafis",
+    "topic": "science",
+    "title": "Ибн ан-Нафис",
+    "caption": "1213–1288. Каирский медик. В 1242 описал малый круг кровообращения — за 400 лет до Гарвея. Открытие забыто в Европе на 300 лет.",
+    "alt": "Ибн ан-Нафис",
+    "year": 1242,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ibn_al-Nafis"
+  },
+  {
+    "id": "fact-science-albucasis",
+    "topic": "science",
+    "title": "Аль-Захрави · Абулкасис",
+    "caption": "936–1013, Аль-Андалус. Отец хирургии. «At-Tasrif» (1000) — 30 томов медицины с гравюрами 200+ инструментов. Базис европейской хирургии 500 лет.",
+    "alt": "Аль-Захрави",
+    "year": 1000,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Al-Zahrawi"
+  },
+  {
+    "id": "fact-science-paracelsus",
+    "topic": "science",
+    "title": "Парацельс",
+    "caption": "1493–1541. Швейцарский алхимик, врач. «Доза делает яд» — основа фармакологии. Введение химических лекарств в медицину. Кочевал, скандалил.",
+    "alt": "Парацельс",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Paracelsus"
+  },
+  {
+    "id": "fact-history-bedlam",
+    "topic": "history",
+    "title": "Бедлам · первая психбольница",
+    "caption": "Bethlem Royal Hospital, Лондон, основан 1247. С XIV века принимает «безумцев». Слово «bedlam» — синоним хаоса. Жильё для богатых посетителей в XVIII в.",
+    "alt": "Бедлам · гравюра XVIII в.",
+    "year": 1247,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bethlem_Royal_Hospital"
+  },
+  {
+    "id": "fact-terms-phrenology",
+    "topic": "terms",
+    "title": "Френология",
+    "caption": "Иоганн Галль, 1796. Псевдонаука: характер определяют шишки черепа. 27 областей мозга. Опровергнута, но ввела идею локализации функций.",
+    "alt": "Френологическая карта",
+    "year": 1796,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Phrenology"
+  },
+  {
+    "id": "fact-history-trepanation",
+    "topic": "history",
+    "title": "Трепанация",
+    "caption": "Древнейшая операция — 7000 до н.э. Сверление черепа для «выпуска духов». Археологи нашли 1500+ трепанированных черепов. До 50% выживали.",
+    "alt": "Трепанированный череп",
+    "year": -7000,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Trepanning"
+  },
+  {
+    "id": "fact-history-bloodletting",
+    "topic": "history",
+    "title": "Кровопускание",
+    "caption": "Лечение по теории 4 жидкостей. С древности до XIX в. Джордж Вашингтон умер 14 декабря 1799 — после 2,5 литров слитой крови за 12 часов.",
+    "alt": "Кровопускание · гравюра",
+    "year": 1799,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bloodletting"
+  },
+  {
+    "id": "fact-history-plague-doctor",
+    "topic": "history",
+    "title": "Чумной доктор",
+    "caption": "Костюм с маской-клювом, заполненной травами. Изобретён Шарлем де л'Орм в 1619. Считали — болезнь от «дурного воздуха». Носили во время эпидемий до XVIII в.",
+    "alt": "Чумной доктор",
+    "year": 1619,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Plague_doctor"
+  },
+  {
+    "id": "fact-history-resurrectionists",
+    "topic": "history",
+    "title": "Похитители тел",
+    "caption": "Resurrectionists. В Британии и Ирландии 1810-1830-х добывали свежие трупы для анатомических школ. Burke and Hare — серийные убийцы, продавали тела.",
+    "alt": "Похитители тел · гравюра",
+    "year": 1828,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Body_snatching"
+  },
+  {
+    "id": "fact-history-cholera-1854",
+    "topic": "history",
+    "title": "Холера на Брод-стрит",
+    "caption": "Лондон, Сохо, 31 августа — 14 сентября 1854. Джон Сноу составил карту смертей — все вокруг одного водяного насоса. Доказал передачу через воду.",
+    "alt": "Карта Сноу 1854",
+    "year": 1854,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "1854_Broad_Street_cholera_outbreak"
+  },
+  {
+    "id": "fact-history-smallpox",
+    "topic": "history",
+    "title": "Оспа",
+    "caption": "Вирус Variola. Зафиксирована с 1500 до н.э. Унесла 300 млн жизней в XX веке. Уничтожена ВОЗ к 1980 — единственное успешное искоренение болезни человека.",
+    "alt": "Оспенная сыпь",
+    "year": 1980,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Smallpox"
+  },
+  {
+    "id": "fact-history-tuberculosis",
+    "topic": "history",
+    "title": "Туберкулёз",
+    "caption": "«Белая чума» XIX в. Шопен, Кафка, Чехов, Бронте — все погибли от туберкулёза. Возбудитель открыт Кохом 1882. Сегодня — 1,3 млн смертей в год.",
+    "alt": "Микобактерия туберкулёза",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tuberculosis"
+  },
+  {
+    "id": "fact-history-yellow-fever",
+    "topic": "history",
+    "title": "Жёлтая лихорадка",
+    "caption": "Передаётся комарами Aedes aegypti. 30 000 смертей в год в XIX в. Уолтер Рид доказал переносчика в 1900 (на солдатах-добровольцах в Гаване).",
+    "alt": "Уолтер Рид",
+    "year": 1900,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yellow_fever"
+  },
+  {
+    "id": "fact-history-polio",
+    "topic": "history",
+    "title": "Полиомиелит",
+    "caption": "Парализующий вирус, известен с древности. Пик — США 1952, 57 000 случаев. Вакцина Солка 1955. К 2024 — почти ликвидирован (8 случаев в мире).",
+    "alt": "Дети в железных лёгких",
+    "year": 1952,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Polio"
+  },
+  {
+    "id": "fact-history-iron-lung",
+    "topic": "history",
+    "title": "Железное лёгкое",
+    "caption": "Аппарат искусственной вентиляции лёгких, 1928. Камера, в которой пациент с полиомиелитом «жил». Пол Александер прожил в нём 70 лет (1952-2024).",
+    "alt": "Железное лёгкое 1950-х",
+    "year": 1928,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Iron_lung"
+  },
+  {
+    "id": "fact-history-spanish-flu-mask",
+    "topic": "history",
+    "title": "Маски от испанки",
+    "caption": "1918–1920. Первая массовая кампания обязательного ношения масок. Сан-Франциско, Сиэтл — арестовывали без маски. Снизили смертность на 30%.",
+    "alt": "Маски испанки 1918",
+    "year": 1918,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "1918_flu_pandemic"
+  },
+  {
+    "id": "fact-history-hipocratic-oath",
+    "topic": "terms",
+    "title": "Клятва Гиппократа",
+    "caption": "~400 до н.э. Этический кодекс врача. Современный текст — Женевская декларация ВМА 1948. «Primum non nocere» — «прежде всего не навреди».",
+    "alt": "Клятва Гиппократа",
+    "year": -400,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hippocratic_Oath"
+  },
+  {
+    "id": "fact-history-rosie-franklin",
+    "topic": "history",
+    "title": "Розалинд Франклин",
+    "caption": "1920–1958. Биофизик. Фото 51 (1952) — рентгенограмма ДНК. Уотсон и Крик увидели его без её ведома. Открытие двойной спирали — её. Умерла от рака яичников в 37.",
+    "alt": "Розалинд Франклин",
+    "year": 1952,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rosalind_Franklin"
+  },
+  {
+    "id": "fact-science-pavlov-dogs",
+    "topic": "science",
+    "title": "Иван Павлов · собаки",
+    "caption": "1849–1936. Условный рефлекс открыт в 1897. Собаки выделяли слюну на звонок, ассоциированный с едой. Нобель 1904 — первый русский лауреат.",
+    "alt": "Эксперимент Павлова",
+    "year": 1897,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ivan_Pavlov"
+  },
+  {
+    "id": "fact-science-aspirin-history",
+    "topic": "history",
+    "title": "Аспирин · 1897",
+    "caption": "Феликс Хоффман, Bayer, 10 августа 1897. Ацетилсалициловая кислота. С 1899 — таблетки. К 2024 — 100 миллиардов таблеток в год. Открыл класс НПВП.",
+    "alt": "Реклама аспирина начала XX в.",
+    "year": 1897,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aspirin"
+  },
+  {
+    "id": "fact-science-morton-ether",
+    "topic": "science",
+    "title": "Уильям Мортон · эфир",
+    "caption": "1819–1868. Дантист. 16 октября 1846 в Massachusetts General Hospital — первая публичная операция под эфирной анестезией. Революция в хирургии.",
+    "alt": "Демонстрация Мортона",
+    "year": 1846,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "William_T._G._Morton"
+  },
+  {
+    "id": "fact-science-marie-curie-2",
+    "topic": "science",
+    "title": "Мария Кюри · радий",
+    "caption": "1867-1934. Из 8 тонн руды получила 1 г радия за 4 года. Носила пробирки в кармане. Умерла от анемии — облучение. Её записи всё ещё радиоактивны.",
+    "alt": "Мария Кюри в лаборатории",
+    "year": 1898,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Marie_Curie"
+  },
+  {
+    "id": "fact-history-eradication-smallpox",
+    "topic": "history",
+    "title": "Искоренение оспы 1980",
+    "caption": "8 мая 1980, ВОЗ. Последний случай: Али Маалин, Сомали, 26 октября 1977. Вакцинация Дженнера 1796 → искоренение через 184 года.",
+    "alt": "Последний случай оспы 1977",
+    "year": 1980,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eradication_of_smallpox"
+  },
+  {
+    "id": "fact-science-watson-crick",
+    "topic": "science",
+    "title": "Уотсон и Крик · DNA",
+    "caption": "28 февраля 1953. Джеймс Уотсон и Фрэнсис Крик в Кембридже. Использовали фото 51 Франклин. Статья в Nature 25 апреля 1953 — 900 слов перевернули биологию.",
+    "alt": "Уотсон и Крик с моделью ДНК",
+    "year": 1953,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "James_Watson"
+  },
+  {
+    "id": "fact-science-snow-pump",
+    "topic": "history",
+    "title": "Джон Сноу · отец эпидемиологии",
+    "caption": "1813–1858. Лондонский врач. В эпидемии холеры 1854 на Брод-стрит — карта смертей. Снял ручку с насоса — эпидемия прекратилась. Доказал теорию микробов до Коха.",
+    "alt": "Джон Сноу",
+    "year": 1854,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "John_Snow"
+  },
+  {
+    "id": "fact-history-hippocrates-school",
+    "topic": "history",
+    "title": "Гиппократов корпус",
+    "caption": "~60 медицинских трактатов V-IV в. до н.э. Автор не один Гиппократ — школа Коса. Главная идея: болезнь — естественное явление, не наказание богов.",
+    "alt": "Гиппократов корпус — рукопись",
+    "year": -400,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hippocratic_Corpus"
+  },
+  {
+    "id": "fact-science-rene-laennec",
+    "topic": "science",
+    "title": "Рене Лаэннек",
+    "caption": "1781–1826. Французский врач. Изобрёл стетоскоп в 1816 — скрутил бумагу, чтобы выслушать сердце смущённой пациентки. Умер от туберкулёза, который сам открыл.",
+    "alt": "Рене Лаэннек",
+    "year": 1816,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "René_Laennec"
+  },
+  {
+    "id": "fact-history-thalidomide",
+    "topic": "history",
+    "title": "Талидомидовая трагедия",
+    "caption": "1957–1962. Лекарство от тошноты у беременных. 10 000 детей родились с тяжёлыми пороками развития. Изменил мировые стандарты тестирования лекарств.",
+    "alt": "Талидомид",
+    "year": 1961,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Thalidomide"
+  },
+  {
+    "id": "fact-science-laser-eye",
+    "topic": "science",
+    "title": "LASIK",
+    "caption": "Лазерная коррекция зрения. Технология Срикантана и Палликариса, 1989. К 2024 — 50+ миллионов операций мира. Восстановление 1 день. Точность 1 микрон.",
+    "alt": "LASIK операция",
+    "year": 1989,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "LASIK"
+  },
+  {
+    "id": "fact-science-organ-transplant",
+    "topic": "science",
+    "title": "Первая пересадка почки",
+    "caption": "23 декабря 1954, Бостон. Джозеф Мюррей пересадил почку Ричарду Херрику от его брата-близнеца. Сегодня — 25 000 пересадок почек в США ежегодно.",
+    "alt": "Первая пересадка почки",
+    "year": 1954,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kidney_transplantation"
+  },
+  {
+    "id": "fact-science-blood-transfusion",
+    "topic": "history",
+    "title": "Переливание крови",
+    "caption": "Жан-Батист Дени, 1667 — первая зарегистрированная переливание (овечьей крови человеку). Безопасное переливание — Ландштейнер открыл группы крови в 1901.",
+    "alt": "Переливание крови",
+    "year": 1667,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Blood_transfusion"
+  },
+  {
+    "id": "fact-history-pandemic-list",
+    "topic": "history",
+    "title": "Список пандемий",
+    "caption": "Антонинова чума (165-180 н.э.) убила 5 млн. Чёрная смерть (1346-1353) — 75-200 млн. Испанка (1918-1920) — 50-100 млн. COVID-19 (2020-2024) — 7-27 млн.",
+    "alt": "Хронология пандемий",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "List_of_epidemics"
+  },
+  {
+    "id": "fact-history-ginkgo-hiroshima",
+    "topic": "history",
+    "title": "Гинкго · 6 деревьев Хиросимы",
+    "caption": "6 деревьев гинкго в эпицентре атомного взрыва Хиросимы пережили. На следующий год дали новые побеги. Сейчас живы, считаются символом надежды.",
+    "alt": "Гинкго в Хиросиме",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hibakujumoku"
+  },
+  {
+    "id": "fact-science-stethoscope-tube",
+    "topic": "science",
+    "title": "Стетоскоп",
+    "caption": "Рене Лаэннек, 1816. Деревянная трубка 25 см. Современный с 2 трубками — Каммен, 1852. Электронные — с 1999. Главный диагностический инструмент 200 лет.",
+    "alt": "Стетоскоп современный",
+    "year": 1816,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stethoscope"
+  },
+  {
+    "id": "fact-science-cesarean",
+    "topic": "history",
+    "title": "Кесарево сечение",
+    "caption": "Практика с древности (от Юлия Цезаря — миф). Первое известное успешное на живой женщине — Якоб Нюфер, 1500. До XIX в. смертность 100%.",
+    "alt": "Кесарево сечение · гравюра",
+    "year": 1500,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Caesarean_section"
+  },
+  {
+    "id": "fact-history-mendel-monk",
+    "topic": "history",
+    "title": "Грегор Мендель",
+    "caption": "1822–1884. Августинианский монах в Брно. 8 лет (1856-1863) скрещивал горох — 29 000 растений. Открытие забыто на 35 лет, переоткрыто в 1900.",
+    "alt": "Грегор Мендель",
+    "year": 1866,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gregor_Mendel"
+  },
+  {
+    "id": "fact-science-hand-hygiene",
+    "topic": "science",
+    "title": "Гигиена рук",
+    "caption": "Земмельвейс 1847 — первое доказательство. Сегодня: при правильном мытье 20 сек снижает риск передачи инфекций на 50%. Главное правило COVID-19.",
+    "alt": "Гигиена рук",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hand_washing"
+  },
+  {
+    "id": "fact-history-medical-symbol-ancient",
+    "topic": "history",
+    "title": "Жезл Асклепия · история",
+    "caption": "Греческий бог медицины Асклепий держал палку с одной обвитой змеёй. С 300 до н.э. — символ медицины. ВОЗ, AMA, BMJ — все используют его.",
+    "alt": "Жезл Асклепия",
+    "year": -300,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rod_of_Asclepius"
+  },
+  {
+    "id": "fact-science-vaccine-history",
+    "topic": "science",
+    "title": "История вакцинации",
+    "caption": "Вариоляция — VIII в. в Китае (вдувание оспенной корки в нос). Дженнер 1796 — вакцина из коровьей оспы. Пастер 1885 — от бешенства. Современная мРНК — 2020.",
+    "alt": "Иллюстрация вакцинации",
+    "year": 1796,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "History_of_vaccination"
+  },
+  {
+    "id": "fact-history-aids-1981",
+    "topic": "history",
+    "title": "AIDS · открытие в 1981",
+    "caption": "5 июня 1981, MMWR (CDC) — отчёт об 5 случаях редкого пневмония в LA. Начало эпидемии СПИД. К 2024 — 80 миллионов заражённых, 40 миллионов смертей.",
+    "alt": "AIDS quilt",
+    "year": 1981,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "HIV/AIDS"
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "id": "fact-art-berenice-abbott",
+    "topic": "art",
+    "title": "Беренис Эбботт",
+    "caption": "1898–1991. «Changing New York» (1935–1939) — 305 фотографий Манхэттена в трансформации. Контраст небоскрёбов и брауншусов. Project WPA.",
+    "alt": "Беренис Эбботт",
+    "year": 1939,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Berenice_Abbott"
+  },
+  {
+    "id": "fact-art-eugene-atget",
+    "topic": "art",
+    "title": "Эжен Атже",
+    "caption": "1857–1927. 8500 фотографий Парижа до и в ходе модернизации Османна. Документатор уходящего. Признан только после смерти — Эбботт спасла архив.",
+    "alt": "Эжен Атже с камерой",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eugène_Atget"
+  },
+  {
+    "id": "fact-art-lewis-hine",
+    "topic": "art",
+    "title": "Льюис Хайн · детский труд",
+    "caption": "1874–1940. Социолог-фотограф. Снял 5000 работающих детей для National Child Labor Committee, 1908–1924. Привёл к Fair Labor Standards Act 1938.",
+    "alt": "Фото детского труда Хайна",
+    "year": 1924,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lewis_Hine"
+  },
+  {
+    "id": "fact-art-walker-evans",
+    "topic": "art",
+    "title": "Уокер Эванс",
+    "caption": "1903–1975. FSA (Farm Security Administration) фотограф эпохи Депрессии. «Let Us Now Praise Famous Men» (1941) с Джеймсом Эйджи. Иконы американского реализма.",
+    "alt": "Уокер Эванс",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Walker_Evans"
+  },
+  {
+    "id": "fact-art-margaret-bourke-white",
+    "topic": "art",
+    "title": "Маргарет Бурк-Уайт",
+    "caption": "1904–1971. Первая обложка LIFE (Fort Peck Dam, 1936). Первая женщина в немецких ВВС за съёмкой WWII. Сняла освобождение Бухенвальда 1945.",
+    "alt": "Маргарет Бурк-Уайт",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Margaret_Bourke-White"
+  },
+  {
+    "id": "fact-art-diane-arbus",
+    "topic": "art",
+    "title": "Диана Арбус",
+    "caption": "1923–1971. Портреты «маргиналов»: близнецы, карлики, трансгендеры, аристократы. Идентичные близнецы (1967) — самая известная её работа.",
+    "alt": "Диана Арбус",
+    "year": 1967,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Diane_Arbus"
+  },
+  {
+    "id": "fact-art-cartier-bresson",
+    "topic": "art",
+    "title": "Анри Картье-Брессон",
+    "caption": "1908–2004. «Решающий момент». Основатель агентства Magnum (1947). Никогда не кадрировал — всё на негативе. Икона документальной фотографии.",
+    "alt": "Анри Картье-Брессон",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Henri_Cartier-Bresson"
+  },
+  {
+    "id": "fact-art-ansel-adams",
+    "topic": "art",
+    "title": "Ансель Адамс",
+    "caption": "1902–1984. Пейзажи западных США и нацпарков. «Лунный свет, Эрнандес, Нью-Мексико» (1941) — одна из самых дорогих фотографий, $988 000 в 2006.",
+    "alt": "Ансель Адамс",
+    "year": 1941,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ansel_Adams"
+  },
+  {
+    "id": "fact-art-edward-weston",
+    "topic": "art",
+    "title": "Эдвард Уэстон",
+    "caption": "1886–1958. Соучредитель группы f/64 (1932). Натюрморты ракушек и перцев в максимальной резкости. Один из главных мастеров модернизма фотографии.",
+    "alt": "Эдвард Уэстон",
+    "year": 1932,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Edward_Weston"
+  },
+  {
+    "id": "fact-art-imogen-cunningham",
+    "topic": "art",
+    "title": "Имоджен Каннингем",
+    "caption": "1883–1976. Член группы f/64. 70 лет фотопрактики. Натюрморты цветов, портреты, ню. Снимала до 93 лет — серия «After Ninety» (1977).",
+    "alt": "Имоджен Каннингем",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Imogen_Cunningham"
+  },
+  {
+    "id": "fact-art-robert-doisneau",
+    "topic": "art",
+    "title": "Робер Дуано",
+    "caption": "1912–1994. «Поцелуй у Отель-де-Виль» (1950) — самая воспроизводимая фотография XX века. Из заказа LIFE — постановочная, что выяснилось позже.",
+    "alt": "Робер Дуано",
+    "year": 1950,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Robert_Doisneau"
+  },
+  {
+    "id": "fact-art-vivian-maier",
+    "topic": "art",
+    "title": "Вивиан Майер",
+    "caption": "1926–2009. Чикагская няня. Сняла 150 000 фотографий, никому не показала. Архив куплен случайно на аукционе в 2007. Сегодня — икона уличной фотографии.",
+    "alt": "Автопортрет Вивиан Майер",
+    "year": 2007,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Vivian_Maier"
+  },
+  {
+    "id": "fact-art-robert-capa",
+    "topic": "art",
+    "title": "Роберт Капа",
+    "caption": "1913–1954. Военный фотограф 5 войн. «Смерть лоялиста» (Испания 1936). На Омаха-бич снимал D-Day. Погиб на мине в Индокитае. Сооснователь Magnum.",
+    "alt": "Роберт Капа",
+    "year": 1944,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Robert_Capa"
+  },
+  {
+    "id": "fact-art-steve-mccurry",
+    "topic": "art",
+    "title": "Стив МакКарри",
+    "caption": "Род. 1950. «Афганская девушка» (1985) — обложка National Geographic. Найдена снова через 17 лет — Шарбат Гула. Magnum с 1986.",
+    "alt": "Стив МакКарри",
+    "year": 1985,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Steve_McCurry"
+  },
+  {
+    "id": "fact-art-james-nachtwey",
+    "topic": "art",
+    "title": "Джеймс Нахтвей",
+    "caption": "Род. 1948. Военный фотограф. Снимает войны Югославии, Руанды, Ирака, Афганистана. Документалист «War Photographer» 2001 — номинация на Оскар.",
+    "alt": "Джеймс Нахтвей",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "James_Nachtwey"
+  },
+  {
+    "id": "fact-art-helmut-newton",
+    "topic": "art",
+    "title": "Хельмут Ньютон",
+    "caption": "1920–2004. «Король порно-шика». Vogue Paris, Vogue America 1961–2004. Перевернул моду — холодные, дерзкие, готические образы.",
+    "alt": "Хельмут Ньютон",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Helmut_Newton"
+  },
+  {
+    "id": "fact-art-mapplethorpe",
+    "topic": "art",
+    "title": "Роберт Мэпплторп",
+    "caption": "1946–1989. Чёрно-белая фотография в стиле классической скульптуры. Лили, портреты, ню. Скандальная выставка 1989 — суд за непристойность.",
+    "alt": "Роберт Мэпплторп",
+    "year": 1989,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Robert_Mapplethorpe"
+  },
+  {
+    "id": "fact-art-richard-avedon",
+    "topic": "art",
+    "title": "Ричард Аведон",
+    "caption": "1923–2004. Vogue, Harper's Bazaar — главный модный фотограф. «In the American West» (1985) — портреты американцев на белом фоне.",
+    "alt": "Ричард Аведон",
+    "year": 1985,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Richard_Avedon"
+  },
+  {
+    "id": "fact-art-irving-penn",
+    "topic": "art",
+    "title": "Ирвинг Пенн",
+    "caption": "1917–2009. Vogue с 1943. Изобрёл «портрет на белом фоне». Натюрморты, мода, фотография племен Новой Гвинеи. 165 обложек Vogue.",
+    "alt": "Ирвинг Пенн",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Irving_Penn"
+  },
+  {
+    "id": "fact-art-cindy-sherman",
+    "topic": "art",
+    "title": "Синди Шерман",
+    "caption": "Род. 1954. «Untitled Film Stills» (1977–1980) — 70 автопортретов в роли вымышленных героинь старого кино. Концептуальная фотография как искусство.",
+    "alt": "Синди Шерман",
+    "year": 1980,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cindy_Sherman"
+  },
+  {
+    "id": "fact-art-andreas-gursky",
+    "topic": "art",
+    "title": "Андреас Гурски",
+    "caption": "Род. 1955. Цифровая обработка масштабных пейзажей. «Рейн II» (1999) продана за $4,3 млн в 2011 — рекорд за фотографию.",
+    "alt": "Андреас Гурски",
+    "year": 1999,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Andreas_Gursky"
+  },
+  {
+    "id": "fact-art-dorothea-lange",
+    "topic": "art",
+    "title": "Доротея Ланж",
+    "caption": "1895–1965. «Мать-мигрантка» (1936) — Флоренс Оуэнс Томпсон с детьми. Икона Великой депрессии. Также сняла японских американцев в лагерях интернирования 1942.",
+    "alt": "Доротея Ланж",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dorothea_Lange"
+  },
+  {
+    "id": "fact-art-arbus-twins",
+    "topic": "art",
+    "title": "Identical Twins · Арбус",
+    "caption": "Диана Арбус, 1967. Кейтлин и Кэти Уэйд, 7 лет, Нью-Джерси. Чёрно-белый снимок в одинаковых платьях. Прообраз близнецов из «Сияния» Кубрика 1980.",
+    "alt": "Identical Twins, Arbus 1967",
+    "year": 1967,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Identical_Twins,_Roselle,_New_Jersey,_1967"
+  },
+  {
+    "id": "fact-art-nick-ut-napalm",
+    "topic": "art",
+    "title": "«Девочка с напалмом»",
+    "caption": "Ник Ут, AP, 8 июня 1972. Ким Фук, 9 лет, бежит обнажённой после американского напалма. Pulitzer 1973. Помогло закончить Вьетнамскую войну.",
+    "alt": "Фото Ник Ут 1972",
+    "year": 1972,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Terror_of_War"
+  },
+  {
+    "id": "fact-art-eddie-adams-saigon",
+    "topic": "art",
+    "title": "«Казнь в Сайгоне»",
+    "caption": "Эдди Адамс, AP, 1 февраля 1968. Расстрел вьетконговца генералом Лоаном. Pulitzer 1969. Изменил восприятие Вьетнамской войны в США.",
+    "alt": "Казнь в Сайгоне 1968",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Saigon_Execution"
+  },
+  {
+    "id": "fact-art-kevin-carter-vulture",
+    "topic": "art",
+    "title": "Гриф и девочка",
+    "caption": "Кевин Картер, март 1993, Судан. Гриф ждёт смерти голодающего ребёнка. Pulitzer 1994. Картер покончил с собой через 4 месяца после премии — депрессия.",
+    "alt": "Гриф и девочка 1993",
+    "year": 1993,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Vulture_and_the_Little_Girl"
+  },
+  {
+    "id": "fact-art-stieglitz",
+    "topic": "art",
+    "title": "Альфред Стиглиц",
+    "caption": "1864–1946. Отец художественной фотографии. Журнал Camera Work (1903–1917). Галерея 291 — Пикассо в США впервые. Муж Джорджии О'Киф.",
+    "alt": "Альфред Стиглиц",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alfred_Stieglitz"
+  },
+  {
+    "id": "fact-art-man-ray",
+    "topic": "art",
+    "title": "Ман Рэй",
+    "caption": "1890–1976. Сюрреалистический фотограф. «Скрипка Энгра» (1924) — голая спина Кики де Монпарнас с f-отверстиями скрипки. Изобрёл «рейография».",
+    "alt": "Ман Рэй",
+    "year": 1924,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Man_Ray"
+  },
+  {
+    "id": "fact-art-newhall",
+    "topic": "art",
+    "title": "WPA · Federal Theatre",
+    "caption": "Federal Theatre Project, 1935–1939. 12 000 актёров и режиссёров. Орсон Уэллс начал тут «Войну миров» 1938 — паника. Конгресс закрыл проект как «коммунистический».",
+    "alt": "Federal Theatre Project",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Federal_Theatre_Project"
+  },
+  {
+    "id": "fact-art-fsa-photo",
+    "topic": "art",
+    "title": "FSA Photography Program",
+    "caption": "Farm Security Administration, 1935–1944. 175 000 фотографий Депрессии США. Лучшие фотографы: Ланж, Эванс, Шахн, Ротштейн. Главная визуальная летопись эпохи.",
+    "alt": "FSA фотохроника",
+    "year": 1940,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Photographs_of_the_Farm_Security_Administration"
+  },
+  {
+    "id": "fact-art-vignelli-subway-map",
+    "topic": "art",
+    "title": "Виньелли · карта метро NYC 1972",
+    "caption": "Массимо Виньелли, апрель 1972. Геометрическая схема в стиле Лондонского метро Бека. Скандал — нью-йоркцы хотели «географичную» карту, заменена в 1979.",
+    "alt": "Карта метро Виньелли 1972",
+    "year": 1972,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "New_York_City_Subway_map"
+  },
+  {
+    "id": "fact-art-london-tube-beck",
+    "topic": "art",
+    "title": "Карта Лондонского метро · Бек 1933",
+    "caption": "Гарри Бек, январь 1933. Топологическая, не географическая — все станции на сетке 45°. Революция в дизайне информации. Образец для всех схем мира.",
+    "alt": "Карта Лондонского метро Бека",
+    "year": 1933,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tube_map"
+  },
+  {
+    "id": "fact-art-isotype",
+    "topic": "art",
+    "title": "Isotype · Отто Нейрат",
+    "caption": "1920-1934, Вена. Изобразительный язык статистики — пиктограммы вместо цифр. Базис всех современных иконок (от UI до знаков туалета).",
+    "alt": "Isotype пиктограммы",
+    "year": 1934,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Isotype_(picture_language)"
+  },
+  {
+    "id": "fact-art-helvetica",
+    "topic": "art",
+    "title": "Helvetica",
+    "caption": "Шрифт, Макс Мидингер, 1957. Швейцария. Используется в IBM, Lufthansa, NYC Subway, BMW, Microsoft. Самый узнаваемый шрифт XX века.",
+    "alt": "Шрифт Helvetica",
+    "year": 1957,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Helvetica"
+  },
+  {
+    "id": "fact-art-bauhaus-typography",
+    "topic": "art",
+    "title": "Новая типографика · Тшихольд",
+    "caption": "Ян Тшихольд, «Die neue Typographie» (1928). Революция: только sans-serif, асимметрия, фотомонтаж. База Bauhaus и всего корпоративного дизайна.",
+    "alt": "Новая типографика Тшихольда",
+    "year": 1928,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jan_Tschichold"
+  },
+  {
+    "id": "fact-art-comic-strip",
+    "topic": "art",
+    "title": "Yellow Kid · первый комикс",
+    "caption": "Ричард Аутколт, New York World, 1895. Первый цветной газетный комикс. Слово «yellow press» пошло отсюда. Базис современной индустрии комиксов.",
+    "alt": "Yellow Kid",
+    "year": 1895,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "The_Yellow_Kid"
+  },
+  {
+    "id": "fact-art-superman-1938",
+    "topic": "art",
+    "title": "Супермен · 1938",
+    "caption": "Action Comics #1, июнь 1938. Создатели Джерри Сигел и Джо Шустер, $130 за все права. Стал самым ценным комиксом — копия продана за $6 млн в 2024.",
+    "alt": "Action Comics #1",
+    "year": 1938,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Action_Comics_1"
+  },
+  {
+    "id": "fact-art-mickey-mouse-1928",
+    "topic": "art",
+    "title": "Микки-Маус · 1928",
+    "caption": "Уолт Дисней и Аб Айверкс, 18 ноября 1928. «Steamboat Willie» — первая полностью синхронизированная звуковая мультипликация. Лицо Disney до 2024.",
+    "alt": "Микки-Маус из Steamboat Willie",
+    "year": 1928,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mickey_Mouse"
+  },
+  {
+    "id": "fact-history-iwo-jima-photo",
+    "topic": "history",
+    "title": "Флаг на Иводзиме",
+    "caption": "Джо Розенталь, AP, 23 февраля 1945. 6 морпехов поднимают флаг США. Pulitzer 1945. Памятник в Арлингтоне — точная копия. 3 из 6 погибли в боях.",
+    "alt": "Флаг на Иводзиме",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Raising_the_Flag_on_Iwo_Jima"
+  },
+  {
+    "id": "fact-history-photo-vj-day",
+    "topic": "history",
+    "title": "Поцелуй на Таймс-сквер 1945",
+    "caption": "Альфред Эйзенштадт, LIFE, 14 августа 1945. День VJ — капитуляция Японии. Личности «матроса» и «медсестры» спорят 80 лет. 4 пары претендуют.",
+    "alt": "Поцелуй на Таймс-сквер",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "V-J_Day_in_Times_Square"
+  },
+  {
+    "id": "fact-art-castello-plan",
+    "topic": "infographics",
+    "title": "Castello Plan · Манхэттен 1660",
+    "caption": "Первая карта Нового Амстердама. Жак Кортельо, 1660. 300 домов, 1500 жителей. Голландская колония за 4 года до завоевания англичанами и переименования в New York.",
+    "alt": "Castello Plan 1660",
+    "year": 1660,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Castello_Plan"
+  },
+  {
+    "id": "fact-art-commissioners-plan-1811",
+    "topic": "infographics",
+    "title": "Сеточный план Нью-Йорка 1811",
+    "caption": "Commissioners' Plan, 22 марта 1811. Прямоугольная сетка 12 авеню × 155 улиц для Манхэттена. Один из самых амбициозных планов градостроительства в истории.",
+    "alt": "Commissioners' Plan 1811",
+    "year": 1811,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Commissioners'_Plan_of_1811"
+  },
+  {
+    "id": "fact-history-brooklyn-bridge-construction",
+    "topic": "history",
+    "title": "Стройка Бруклинского моста",
+    "caption": "1869–1883. 27 рабочих погибли. Главный инженер Джон Реблинг умер от столбняка, сын Вашингтон Реблинг получил кессонную болезнь. Жена Эмили руководила достройкой.",
+    "alt": "Стройка Бруклинского моста",
+    "year": 1883,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Brooklyn_Bridge"
+  },
+  {
+    "id": "fact-history-empire-state-construction",
+    "topic": "history",
+    "title": "Стройка Эмпайр-стейт",
+    "caption": "1930–1931. 410 дней, 14 часов в день, 7 дней в неделю. 3400 рабочих. 5 погибли. Открыт 1 мая 1931 в разгар Депрессии. Стоял пустой годами.",
+    "alt": "Стройка Эмпайр-стейт",
+    "year": 1931,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Empire_State_Building"
+  },
+  {
+    "id": "fact-history-hindenburg-disaster-photo",
+    "topic": "history",
+    "title": "Гинденбург · фото катастрофы",
+    "caption": "Сэм Шер, 6 мая 1937, Лейкхерст. Дирижабль 245 м загорается при посадке. 32 секунды до полного разрушения. Прямая радиотрансляция Херба Моррисона: «O, the humanity!»",
+    "alt": "Катастрофа Гинденбурга",
+    "year": 1937,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hindenburg_disaster"
+  },
+  {
+    "id": "fact-history-construction-photography",
+    "topic": "history",
+    "title": "Стройка Статуи Свободы",
+    "caption": "1875–1886. Фредерик Бартольди и Гюстав Эйфель в Париже. 350 деталей упаковали в 214 ящиков, везли через Атлантику на «Изере». Собрали на острове за 4 месяца.",
+    "alt": "Стройка Статуи Свободы",
+    "year": 1886,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Statue_of_Liberty"
+  },
+  {
+    "id": "fact-art-magnum-photos",
+    "topic": "art",
+    "title": "Magnum Photos",
+    "caption": "Кооператив фотографов, 22 мая 1947, Нью-Йорк. Сооснователи: Капа, Картье-Брессон, Сеймур, Роджер. Главный архив документальной фотографии XX века.",
+    "alt": "Логотип Magnum",
+    "year": 1947,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Magnum_Photos"
+  },
+  {
+    "id": "fact-art-national-geographic",
+    "topic": "art",
+    "title": "National Geographic",
+    "caption": "Журнал с 1888. Жёлтая рамка — с 1979. 60+ млн читателей мира. «Афганская девушка» (1985) — самая известная обложка. Фото-стандарт «природной журналистики».",
+    "alt": "National Geographic",
+    "year": 1888,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "National_Geographic"
+  },
+  {
+    "id": "fact-art-life-magazine",
+    "topic": "art",
+    "title": "LIFE Magazine",
+    "caption": "1936–1972 еженедельно. Главный фото-журнал XX века. Тиражи до 13,5 млн. На пике — 1 номер LIFE прочитывали в среднем 4 человека.",
+    "alt": "Обложка LIFE",
+    "year": 1936,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Life_(magazine)"
+  },
+  {
+    "id": "fact-art-lartigue",
+    "topic": "art",
+    "title": "Жак Анри Лартиг",
+    "caption": "1894–1986. Снимал с 7 лет. Раскрыт в 1963 — Музей современного искусства Нью-Йорка дал ему выставку в 69 лет. 100 000+ снимков «Прекрасной эпохи».",
+    "alt": "Жак Анри Лартиг",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jacques_Henri_Lartigue"
+  }
+]

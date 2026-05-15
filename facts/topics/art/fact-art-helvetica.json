@@ -1,0 +1,14 @@
+{
+  "id": "fact-art-helvetica",
+  "topic": "art",
+  "title": "Helvetica",
+  "caption": "Шрифт, Макс Мидингер, 1957. Швейцария. Используется в IBM, Lufthansa, NYC Subway, BMW, Microsoft. Самый узнаваемый шрифт XX века.",
+  "image": "fact-art-helvetica.webp",
+  "image_width": 1280,
+  "image_height": 1513,
+  "alt": "Шрифт Helvetica",
+  "credit": "GearedBull Jim Hood · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Helvetica",
+  "license": "PD",
+  "year": 1957
+}

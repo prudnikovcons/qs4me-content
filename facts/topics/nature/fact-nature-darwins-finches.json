@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-darwins-finches",
+  "topic": "nature",
+  "title": "Дарвиновы вьюрки",
+  "caption": "13 видов на Галапагосах. Дарвин в 1835 заметил: у каждого свой клюв под пищу. Базис для теории естественного отбора. Иллюстрации Гулда.",
+  "image": "fact-nature-darwins-finches.webp",
+  "image_width": 1280,
+  "image_height": 966,
+  "alt": "Вьюрки Дарвина",
+  "credit": "John Gould (14.Sep.1804 - 3.Feb.1881) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Darwin's_finches",
+  "license": "PD",
+  "year": 1835
+}

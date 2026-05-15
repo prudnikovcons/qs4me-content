@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-yellow-fever",
+  "topic": "history",
+  "title": "Жёлтая лихорадка",
+  "caption": "Передаётся комарами Aedes aegypti. 30 000 смертей в год в XIX в. Уолтер Рид доказал переносчика в 1900 (на солдатах-добровольцах в Гаване).",
+  "image": "fact-history-yellow-fever.webp",
+  "image_width": 1280,
+  "image_height": 1517,
+  "alt": "Уолтер Рид",
+  "credit": "Erskine Palmer, Ph.D. · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Yellow_fever",
+  "license": "PD",
+  "year": 1900
+}

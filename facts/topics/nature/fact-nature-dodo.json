@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-dodo",
+  "topic": "nature",
+  "title": "Додо",
+  "caption": "Маврикий, нелетающая птица. Открыта голландцами 1598, вымерла к 1681 — за 83 года. Не боялась людей. Известна нам только по рисункам и костям.",
+  "image": "fact-nature-dodo.webp",
+  "image_width": 1280,
+  "image_height": 845,
+  "alt": "Иллюстрация додо",
+  "credit": "BazzaDaRambler · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Dodo",
+  "license": "CC-BY",
+  "year": 1681
+}

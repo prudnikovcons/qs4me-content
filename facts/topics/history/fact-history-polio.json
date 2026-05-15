@@ -1,0 +1,14 @@
+{
+  "id": "fact-history-polio",
+  "topic": "history",
+  "title": "Полиомиелит",
+  "caption": "Парализующий вирус, известен с древности. Пик — США 1952, 57 000 случаев. Вакцина Солка 1955. К 2024 — почти ликвидирован (8 случаев в мире).",
+  "image": "fact-history-polio.webp",
+  "image_width": 982,
+  "image_height": 1494,
+  "alt": "Дети в железных лёгких",
+  "credit": "Photo Credit: Content Providers(s): CDC/NIP/ Barbara Rice · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Polio",
+  "license": "PD",
+  "year": 1952
+}
