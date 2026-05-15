@@ -1,0 +1,15 @@
+{
+  "id": "fact-country-france",
+  "topic": "country",
+  "title": "Франция · Эйфелева башня",
+  "caption": "324 м, построена в 1889 на Всемирную выставку. Должна была простоять 20 лет — стоит уже 136.",
+  "image": "fact-country-france.webp",
+  "image_width": 1280,
+  "image_height": 1707,
+  "alt": "Эйфелева башня в Париже",
+  "credit": "Anthony Delanoix · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+  "license": "CC0",
+  "year": 1889,
+  "meta": { "country_code": "FR" }
+}

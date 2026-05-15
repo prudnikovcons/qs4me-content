@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qs4.me/schema/fact.schema.json",
+  "title": "EducationalFact",
+  "description": "Один образовательный факт, который показывается сверху над вопросом. Картинка независима от вопроса.",
+  "type": "object",
+  "required": ["id", "topic", "title", "caption", "image", "credit", "source", "license"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^fact-[a-z0-9-]+$",
+      "description": "Stable globally-unique id. Pattern: fact-{topic}-{slug}. Example: fact-country-france, fact-history-rosetta."
+    },
+    "topic": {
+      "type": "string",
+      "enum": ["country", "element", "quote", "space", "history", "art", "nature", "architecture", "food", "science", "language", "math", "music"],
+      "description": "Broad category for chip labelling and stream filters."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 36,
+      "description": "Russian, ≤ 36 chars. Bold serif headline. Examples: 'Альберт Эйнштейн', 'Кольца Сатурна', 'Япония · Токио'."
+    },
+    "caption": {
+      "type": "string",
+      "minLength": 12,
+      "maxLength": 145,
+      "description": "Russian, 1-2 короткие фразы, ≤ 145 chars. Конкретные цифры, даты, имена. Не клише, не пафос. Допускается тире и кавычки «»."
+    },
+    "image": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+\\.(jpg|jpeg|png|webp)$",
+      "description": "Filename only — same dir as JSON (e.g. fact-country-france.webp). Image MUST sit next to the JSON in the same /facts/topics/{topic}/ folder."
+    },
+    "image_width": { "type": "integer", "minimum": 320 },
+    "image_height": { "type": "integer", "minimum": 320 },
+    "alt": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 140,
+      "description": "Alt-text для accessibility. По-русски, описательно. Если не задан — сгенерится из title."
+    },
+    "credit": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 80,
+      "description": "Author · year · source. Shows top-right of image. E.g. 'Adam Evans · CC-BY 2.0' или 'NASA/JPL · PD'."
+    },
+    "source": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL источника (Wikipedia article, NASA APOD page, museum page). Используется для back-link и проверки."
+    },
+    "license": {
+      "type": "string",
+      "enum": ["PD", "CC0", "CC-BY", "CC-BY-SA", "CC-BY-NC", "fair-use", "proprietary"],
+      "description": "Лицензия картинки. Принимаем только PD/CC0/CC-BY/CC-BY-SA. CC-BY-NC / fair-use / proprietary — отклоняем."
+    },
+    "year": { "type": "integer", "description": "Год события/создания, если применимо. Для дат до н.э. — отрицательное число." },
+    "meta": {
+      "type": "object",
+      "description": "Топик-специфичные поля (country_code, atomic_number, dynasty, и т.д.). Свободная форма.",
+      "additionalProperties": true
+    }
+  }
+}

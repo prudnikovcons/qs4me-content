@@ -1,0 +1,8 @@
+{
+  "id": "morning-start",
+  "name_ru": "Утро · запуск дня",
+  "description_ru": "Пять шагов, чтобы войти в день мягко и осознанно.",
+  "accent_category": "morning",
+  "question_ids": ["qtx-0184", "qtx-0158", "qtx-0154", "qtx-0188", "qtx-0203"],
+  "estimated_minutes": 8
+}

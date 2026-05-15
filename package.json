@@ -1,0 +1,16 @@
+{
+  "name": "qs4me-content",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build-index": "node scripts/build-index.mjs",
+    "build-bundle": "node scripts/build-bundle.mjs",
+    "build": "pnpm validate && pnpm build-index && pnpm build-bundle"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}

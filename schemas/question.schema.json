@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qs4.me/schema/question.schema.json",
+  "title": "Question",
+  "description": "Один счётный вопрос. Должен подразумевать перечисляемый ответ от 3 до 20 пунктов.",
+  "type": "object",
+  "required": ["public_id", "body", "target_count", "category_slug", "complexity"],
+  "additionalProperties": false,
+  "properties": {
+    "public_id": {
+      "type": "string",
+      "pattern": "^qtx-[0-9]{4,5}$",
+      "description": "Stable id. Pattern: qtx-####. New questions get next free integer."
+    },
+    "body": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 220,
+      "description": "Сам вопрос. Должен подразумевать список из N ответов. Лучше всего: число в начале ('7 фактов, которые...', '10 событий...'). Допустимы '?' и вопросительная форма."
+    },
+    "target_count": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 50,
+      "description": "Целевое количество ответов. Если число встречается в body — должно совпадать. Типично: 3, 5, 7, 10."
+    },
+    "language": {
+      "type": "string",
+      "enum": ["ru", "en"],
+      "default": "ru"
+    },
+    "category_slug": {
+      "type": "string",
+      "enum": [
+        "morning", "memory", "work", "creative", "reflection",
+        "children", "social", "philosophy", "meta", "epistemology",
+        "modelling", "linguistics", "senses", "imagination", "absurd"
+      ]
+    },
+    "complexity": {
+      "type": "string",
+      "enum": ["basic", "working", "developmental", "advanced", "limit"],
+      "description": "Сложность: basic — лёгкий вход для новичка; working — повседневная практика; developmental — расширяет мышление; advanced — для медитативной/глубокой работы; limit — на границе формализуемого."
+    },
+    "playlist_slugs": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true,
+      "description": "К каким system-плейлистам относится. См. /questions/playlists/ для списка."
+    },
+    "synonyms": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 8, "maxLength": 220 },
+      "maxItems": 3,
+      "description": "Альтернативные формулировки того же вопроса. Показываются по тапу «иначе» (циклически)."
+    },
+    "hint_seeds_ru": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 2, "maxLength": 40 },
+      "maxItems": 6,
+      "description": "Короткие подсказки-«семечки», 2-6 штук, по 1-3 слова. Показываются по тапу 💡, если пользователь застрял. Пример: ['до обеда', 'разговор', 'место']."
+    },
+    "frame_hint_ru": {
+      "type": "string",
+      "minLength": 12,
+      "maxLength": 180,
+      "description": "Одна короткая фраза переформулировки/успокоения, если совсем не идёт. Пример: 'Считай не громкие события, а маленькие переключения внимания.'"
+    },
+    "editorial_flags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["practice_ready", "high_generativity", "deep_work", "team_safe", "child_friendly", "counterintuitive", "requires_context", "onboarding_safe", "card_of_day"]
+      },
+      "uniqueItems": true
+    },
+    "is_featured": { "type": "boolean", "default": false },
+    "onboarding_safe": { "type": "boolean", "default": false },
+    "team_safe": { "type": "boolean", "default": false },
+    "taxonomy": {
+      "type": "object",
+      "description": "Optional taxonomy enrichment. Свободная форма, но рекомендуем эти ключи:",
+      "additionalProperties": true,
+      "properties": {
+        "primary_class": { "type": "string", "enum": ["retrieval", "descriptive", "classifying", "generative", "clarifying", "analytical", "evaluative", "projecting", "reflexive", "meta_generative"] },
+        "answer_form": { "type": "string", "enum": ["list", "description", "classification", "comparison", "evaluation", "idea", "plan", "self_analysis", "yes_no", "choice", "scale"] },
+        "openness": { "type": "string", "enum": ["closed", "semi_open", "open", "radically_open"] },
+        "time_focus": { "type": "string", "enum": ["past", "present", "future", "timeless", "past_to_present", "present_to_future"] }
+      }
+    }
+  }
+}

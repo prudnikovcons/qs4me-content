@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qs4.me/schema/stream.schema.json",
+  "title": "SequentialStream",
+  "description": "Пошаговая практика — фиксированный набор вопросов в фиксированном порядке, с началом и концом.",
+  "type": "object",
+  "required": ["id", "name_ru", "description_ru", "accent_category", "question_ids"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]+$",
+      "description": "Slug. Example: morning-start, before-important, deep-session."
+    },
+    "name_ru": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 36,
+      "description": "Название по-русски. Стиль: 'Утро · запуск дня', 'Перед важным делом'."
+    },
+    "description_ru": {
+      "type": "string",
+      "minLength": 16,
+      "maxLength": 140,
+      "description": "Одно предложение про назначение. Что произойдёт с пользователем после прохождения."
+    },
+    "accent_category": {
+      "type": "string",
+      "enum": [
+        "morning", "memory", "work", "creative", "reflection",
+        "children", "social", "philosophy", "meta", "epistemology",
+        "modelling", "linguistics", "senses", "imagination", "absurd"
+      ],
+      "description": "Какой цветовой акцент использовать для иконки/прогресс-бара/end-of-stream."
+    },
+    "question_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^qtx-[0-9]{4,5}$" },
+      "minItems": 3,
+      "maxItems": 15,
+      "uniqueItems": true,
+      "description": "Public_id'ы вопросов в порядке прохождения. Все должны существовать в общем корпусе questions/."
+    },
+    "estimated_minutes": {
+      "type": "integer",
+      "minimum": 2,
+      "maximum": 60,
+      "description": "Сколько примерно займёт. Если не указан — клиент вычисляет ~1.5 мин на вопрос."
+    },
+    "use_case": {
+      "type": "string",
+      "maxLength": 200,
+      "description": "Optional. Когда этот поток уместен. 'Прямо после кофе', 'Перед важным разговором', и т.д."
+    }
+  }
+}

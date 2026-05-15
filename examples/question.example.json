@@ -1,0 +1,25 @@
+{
+  "public_id": "qtx-0001",
+  "body": "10 событий вчерашнего дня",
+  "target_count": 10,
+  "language": "ru",
+  "category_slug": "memory",
+  "complexity": "basic",
+  "playlist_slugs": ["memory_sparks"],
+  "synonyms": [
+    "Назови 10 вещей, которые случились с тобой вчера",
+    "Вспомни 10 событий из прошедшего дня"
+  ],
+  "hint_seeds_ru": ["до обеда", "разговор", "место, где ты был", "что-то новое"],
+  "frame_hint_ru": "Считай не громкие события, а маленькие переключения внимания.",
+  "editorial_flags": ["practice_ready", "onboarding_safe"],
+  "is_featured": true,
+  "onboarding_safe": true,
+  "team_safe": false,
+  "taxonomy": {
+    "primary_class": "retrieval",
+    "answer_form": "list",
+    "openness": "open",
+    "time_focus": "past"
+  }
+}
