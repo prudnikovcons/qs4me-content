@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-ww2-end",
+  "topic": "events",
+  "title": "Конец Второй мировой",
+  "caption": "2 сентября 1945. Япония подписала капитуляцию на палубе линкора Миссури в Токийском заливе. Война унесла 70-85 миллионов жизней.",
+  "image": "fact-events-ww2-end.webp",
+  "image_width": 1280,
+  "image_height": 1025,
+  "alt": "Подписание капитуляции Японии",
+  "credit": "Army Signal Corps photographer LT. Stephen E. Korpanty; restored by Adam Cuerden",
+  "source": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+  "license": "PD",
+  "year": 1945
+}

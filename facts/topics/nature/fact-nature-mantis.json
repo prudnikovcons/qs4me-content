@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-mantis",
+  "topic": "nature",
+  "title": "Богомол",
+  "caption": "Хищное насекомое. Поворачивает голову на 180° — единственное насекомое с такой способностью. Самка съедает самца после спаривания.",
+  "image": "fact-nature-mantis.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Богомол",
+  "credit": "Mihai C. Popa · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Mantis",
+  "license": "CC-BY-SA",
+  "year": 2024,
+  "meta": {
+    "species": "Mantodea"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-tereshkova",
+  "topic": "events",
+  "title": "Валентина Терешкова",
+  "caption": "16–19 июня 1963. Первая женщина в космосе. Восток-6, 48 витков вокруг Земли за 70,8 часов. До 1982 — единственная женщина-космонавт.",
+  "image": "fact-events-tereshkova.webp",
+  "image_width": 1280,
+  "image_height": 1706,
+  "alt": "Валентина Терешкова",
+  "credit": "This file comes from the website of the President of the Russian Federation and ",
+  "source": "https://en.wikipedia.org/wiki/Valentina_Tereshkova",
+  "license": "CC-BY",
+  "year": 1963
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-pangolin",
+  "topic": "nature",
+  "title": "Панголин",
+  "caption": "Единственное млекопитающее, покрытое чешуёй. Чешуя из кератина — как ногти. Самое контрабандное животное мира — 1 млн особей за 10 лет.",
+  "image": "fact-nature-pangolin.webp",
+  "image_width": 800,
+  "image_height": 1221,
+  "alt": "Панголин",
+  "credit": "derivative work: user:The Explaner · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pangolin",
+  "license": "CC-BY-SA",
+  "year": 2022,
+  "meta": {
+    "species": "Pangolin"
+  }
+}

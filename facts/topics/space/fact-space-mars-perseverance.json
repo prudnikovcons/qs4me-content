@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-mars-perseverance",
+  "topic": "space",
+  "title": "Марсоход Perseverance",
+  "caption": "Посадка 18 февраля 2021 в кратере Езеро (озеро 3,5 млрд лет назад). Ищет древнюю жизнь, собирает образцы для возврата на Землю в 2030-х.",
+  "image": "fact-space-mars-perseverance.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Perseverance на Марсе",
+  "credit": "NASA/JPL-Caltech · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Perseverance_(rover)",
+  "license": "PD",
+  "year": 2021
+}

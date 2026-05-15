@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-laika",
+  "topic": "events",
+  "title": "Лайка",
+  "caption": "Спутник-2, 3 ноября 1957. Первое живое существо на орбите Земли. Лайка погибла через 5–7 часов от жары. Открыла путь людям в космос.",
+  "image": "fact-events-laika.webp",
+  "image_width": 1280,
+  "image_height": 885,
+  "alt": "Памятник Лайке",
+  "credit": "Музей космонавтики / Главархив Москвы · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Laika",
+  "license": "CC-BY",
+  "year": 1957
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-blood-cells",
+  "topic": "infographics",
+  "title": "Клетки крови",
+  "caption": "Эритроциты (5×10⁹/мл, переносят O₂), лейкоциты (7×10⁶/мл, иммунитет), тромбоциты (3×10⁸/мл, свёртывание). В теле — 25 трлн эритроцитов.",
+  "image": "fact-infographics-blood-cells.webp",
+  "image_width": 480,
+  "image_height": 350,
+  "alt": "Клетки крови",
+  "credit": "U.S. Department of Health and Human Services, National Institutes of Health, Nat",
+  "source": "https://en.wikipedia.org/wiki/Blood_cell",
+  "license": "PD",
+  "year": 2003
+}

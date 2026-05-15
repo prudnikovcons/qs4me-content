@@ -1,0 +1,397 @@
+[
+  {
+    "id": "fact-food-ramen",
+    "topic": "food",
+    "title": "Рамэн",
+    "caption": "Японская лапша с бульоном. Завезена из Китая в Иокогаму в 1859. Хит после 1958, когда Момофуку Андо изобрёл быстрорастворимую (Nissin).",
+    "alt": "Рамэн в чашке",
+    "year": 1958,
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ramen"
+  },
+  {
+    "id": "fact-food-paella",
+    "topic": "food",
+    "title": "Паэлья",
+    "caption": "Валенсия, около 1840. Изначально рисовое блюдо крестьян: рис, кролик, бобы, шафран. Готовится в специальной мелкой сковороде paellera, до 6 м диаметром.",
+    "alt": "Паэлья в сковороде",
+    "year": 1840,
+    "meta": { "country_code": "ES" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Paella"
+  },
+  {
+    "id": "fact-food-falafel",
+    "topic": "food",
+    "title": "Фалафель",
+    "caption": "Шарики из нута/бобов. Корни в Египте, около 1000 лет. Базовое блюдо Ближнего Востока. Государственным блюдом считают Израиль, Палестина, Ливан.",
+    "alt": "Фалафель",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Falafel"
+  },
+  {
+    "id": "fact-food-tacos",
+    "topic": "food",
+    "title": "Тако",
+    "caption": "Мексиканская кукурузная лепёшка с начинкой. Эпоха ацтеков, доколумбова Америка. Слово впервые в письменности 1891 г.",
+    "alt": "Тако",
+    "year": 1891,
+    "meta": { "country_code": "MX" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Taco"
+  },
+  {
+    "id": "fact-food-dim-sum",
+    "topic": "food",
+    "title": "Дим-сам",
+    "caption": "Кантонская кухня. «Сердце слегка трогает». Зародилось в чайных Гуанчжоу X века. Завтрак-обед из 30+ мелких блюд на пару.",
+    "alt": "Дим-сам в бамбуковых пароварках",
+    "meta": { "country_code": "CN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dim_sum"
+  },
+  {
+    "id": "fact-food-pho-2",
+    "topic": "food",
+    "title": "Фо",
+    "caption": "Северный Вьетнам, начало XX века. Бульон варят 12 часов из говяжьих костей. Тайнан 30+ ингредиентов специй и трав в каждой тарелке.",
+    "alt": "Фо бо — вьетнамская лапша",
+    "year": 1900,
+    "meta": { "country_code": "VN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pho"
+  },
+  {
+    "id": "fact-food-bao",
+    "topic": "food",
+    "title": "Бао",
+    "caption": "Китайские паровые булочки. По легенде созданы Чжугэ Ляном в III веке. Современная гонконгская «лава баоцзы» — сладкие, с заварным кремом.",
+    "alt": "Бао — китайские булочки",
+    "year": 250,
+    "meta": { "country_code": "CN" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Baozi"
+  },
+  {
+    "id": "fact-food-kebab",
+    "topic": "food",
+    "title": "Кебаб",
+    "caption": "Восточное мясо на вертеле, известно с IX века. Дёнер изобрёл Махмут Айдын в Берлине, 1971 — стал символом турецкой диаспоры в Германии.",
+    "alt": "Кебаб на вертеле",
+    "year": 1971,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kebab"
+  },
+  {
+    "id": "fact-food-feijoada",
+    "topic": "food",
+    "title": "Фейжоада",
+    "caption": "Бразильское рагу из чёрной фасоли и свинины. Возникло в XVII веке из колониальной кухни. Национальное блюдо, едят по средам и субботам.",
+    "alt": "Фейжоада",
+    "meta": { "country_code": "BR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Feijoada"
+  },
+  {
+    "id": "fact-food-couscous",
+    "topic": "food",
+    "title": "Кускус",
+    "caption": "Магрибская манная крупа. История с XII века у берберов. UNESCO нематериальное наследие с 2020 — Алжир, Марокко, Тунис, Мавритания совместно.",
+    "alt": "Кускус с овощами",
+    "year": 2020,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Couscous"
+  },
+  {
+    "id": "fact-food-french-onion-soup",
+    "topic": "food",
+    "title": "Французский луковый суп",
+    "caption": "Известен с XVII века. Классический рецепт устоялся в XIX. Сегодняшняя форма с гренками и сыром — Париж, 1860-е.",
+    "alt": "Французский луковый суп",
+    "year": 1860,
+    "meta": { "country_code": "FR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "French_onion_soup"
+  },
+  {
+    "id": "fact-food-cheesecake",
+    "topic": "food",
+    "title": "Чизкейк",
+    "caption": "Греция, 776 до н.э. — антологии олимпийских атлетов упоминают сырный пирог. Современный нью-йоркский с кремом сыром — Арнольд Рубен, 1929.",
+    "alt": "Чизкейк",
+    "year": -776,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cheesecake"
+  },
+  {
+    "id": "fact-food-baklava",
+    "topic": "food",
+    "title": "Пахлава",
+    "caption": "Слоёное тесто с орехами в сиропе. Османская кухня, XV век. 40 листов фило, 33 слоя ореха в королевской пахлаве — Топкапы.",
+    "alt": "Пахлава",
+    "year": 1500,
+    "meta": { "country_code": "TR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Baklava"
+  },
+  {
+    "id": "fact-food-pelmeni",
+    "topic": "food",
+    "title": "Пельмени",
+    "caption": "Сибирские пельмени — XVI век. От финно-угорского «пельнянь» (хлебное ухо). Замораживали для долгого хранения в дороге.",
+    "alt": "Пельмени со сметаной",
+    "year": 1600,
+    "meta": { "country_code": "RU" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pelmeni"
+  },
+  {
+    "id": "fact-food-mochi",
+    "topic": "food",
+    "title": "Моти",
+    "caption": "Японские рисовые лепёшки. Делаются толчением пропаренного риса киёри. На Новый год японская традиция с VIII века. Заглатывание убивает 9 человек/год.",
+    "alt": "Моти",
+    "meta": { "country_code": "JP" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mochi"
+  },
+  {
+    "id": "fact-food-kimchi-2",
+    "topic": "food",
+    "title": "Кимчи · 김치",
+    "caption": "Корейская ферментированная капуста. 200+ видов. Король кимчи — баёчу-кимчи на основе пекинской капусты с красным перцем кочукару.",
+    "alt": "Кимчи — несколько видов",
+    "meta": { "country_code": "KR" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kimchi"
+  },
+  {
+    "id": "fact-music-rachmaninoff-prelude",
+    "topic": "music",
+    "title": "Прелюдия Рахманинова",
+    "caption": "Прелюдия до-диез минор, op. 3, № 2. Рахманинов написал в 19 лет (1892). 87 страниц нот, исполняют 4 минуты. Самая популярная фортепианная прелюдия XX века.",
+    "alt": "Партитура прелюдии Рахманинова",
+    "year": 1892,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Prelude_in_C-sharp_minor_(Rachmaninoff)"
+  },
+  {
+    "id": "fact-music-tchaikovsky-1812",
+    "topic": "music",
+    "title": "Увертюра 1812",
+    "caption": "Чайковский, 1880. К открытию храма Христа Спасителя. Использует пушечные залпы (16 выстрелов в финале) и хор. 15 минут.",
+    "alt": "Партитура Увертюры 1812",
+    "year": 1880,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "1812_Overture"
+  },
+  {
+    "id": "fact-music-pachelbel",
+    "topic": "music",
+    "title": "Канон Пахельбеля",
+    "caption": "Иоганн Пахельбель, около 1680. Канон D-dur — 28 вариаций на 8-нотный бас. Забыт 250 лет, всплыл в 1968 в записи Жан-Франсуа Пайяра.",
+    "alt": "Канон Пахельбеля — ноты",
+    "year": 1680,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pachelbel's_Canon"
+  },
+  {
+    "id": "fact-music-puccini",
+    "topic": "music",
+    "title": "Джакомо Пуччини",
+    "caption": "1858–1924. Композитор итальянской оперы. «Богема» (1896), «Тоска» (1900), «Мадам Баттерфляй» (1904), «Турандот» (1924, не успел закончить).",
+    "alt": "Портрет Джакомо Пуччини",
+    "year": 1900,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Giacomo_Puccini"
+  },
+  {
+    "id": "fact-music-debussy",
+    "topic": "music",
+    "title": "Клод Дебюсси",
+    "caption": "1862–1918. Отец музыкального импрессионизма. «Лунный свет» (1890), «Море» (1905). Использовал целотонную гамму и ноны — революция в гармонии.",
+    "alt": "Портрет Клода Дебюсси",
+    "year": 1905,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Claude_Debussy"
+  },
+  {
+    "id": "fact-music-ravel-bolero",
+    "topic": "music",
+    "title": "Болеро Равеля",
+    "caption": "Морис Равель, 1928. 15 минут на одной мелодии, повторяющейся 18 раз с нарастающим оркестром. Самый исполняемый оркестровый произведение XX века.",
+    "alt": "Партитура Болеро Равеля",
+    "year": 1928,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Boléro"
+  },
+  {
+    "id": "fact-music-mahler",
+    "topic": "music",
+    "title": "Густав Малер",
+    "caption": "1860–1911. 10 симфоний. 8-я («Симфония тысячи участников», 1906) требует 1000 музыкантов и хора. 90 минут — самая длинная.",
+    "alt": "Портрет Густава Малера",
+    "year": 1906,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Gustav_Mahler"
+  },
+  {
+    "id": "fact-music-prokofiev",
+    "topic": "music",
+    "title": "Сергей Прокофьев",
+    "caption": "1891–1953. 7 симфоний, 11 опер, 7 балетов. «Ромео и Джульетта» (1935). Умер в один день со Сталиным 5 марта 1953 — некрологи задержались.",
+    "alt": "Портрет Сергея Прокофьева",
+    "year": 1953,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sergei_Prokofiev"
+  },
+  {
+    "id": "fact-language-mandarin-2",
+    "topic": "language",
+    "title": "Иероглифика · ханьцзы",
+    "caption": "Старейшая используемая письменность — более 3000 лет. В обиходе 3500 знаков. В словаре Канси (1716) — 47 035 иероглифов.",
+    "alt": "Китайская каллиграфия",
+    "year": 1716,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Chinese_characters"
+  },
+  {
+    "id": "fact-language-grimm-law",
+    "topic": "language",
+    "title": "Закон Гримма",
+    "caption": "Якоб Гримм, 1822. Прагерманские согласные изменились системно: p→f, t→th, k→h. От «pater» (лат.) → «father» (англ.). База сравнительного языкознания.",
+    "alt": "Иллюстрация закона Гримма",
+    "year": 1822,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Grimm's_law"
+  },
+  {
+    "id": "fact-language-indo-european",
+    "topic": "language",
+    "title": "Индоевропейские языки",
+    "caption": "Самая распространённая семья — 46% человечества (3,2 млрд). Включает английский, русский, хинди, испанский, фарси. Прародина — Понтийско-Каспийская степь.",
+    "alt": "Карта индоевропейских языков",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Indo-European_languages"
+  },
+  {
+    "id": "fact-language-tower-of-babel",
+    "topic": "language",
+    "title": "Вавилонская башня",
+    "caption": "Книга Бытия. Объясняла, почему люди говорят на разных языках. Сегодня в мире 7164 живых языка. Половина исчезнет к 2100, прогнозирует UNESCO.",
+    "alt": "Вавилонская башня Брейгеля",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tower_of_Babel"
+  },
+  {
+    "id": "fact-language-pidgin-creole",
+    "topic": "language",
+    "title": "Пиджин и креол",
+    "caption": "Пиджин — упрощённый язык контакта (карибские пираты, торговцы). Креол — пиджин, ставший родным для следующего поколения. 100+ креольских в мире.",
+    "alt": "Распределение креольских языков",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Creole_language"
+  },
+  {
+    "id": "fact-language-extinct",
+    "topic": "language",
+    "title": "Мёртвые языки",
+    "caption": "Каждые 2 недели исчезает один язык. С 1950 умерли 230+. К 2100 ЮНЕСКО прогнозирует исчезновение 50%. Иврит — единственное успешное возрождение.",
+    "alt": "Карта исчезающих языков",
+    "year": 2100,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Endangered_language"
+  },
+  {
+    "id": "fact-terms-philosophical-zombie",
+    "topic": "terms",
+    "title": "Философский зомби",
+    "caption": "Дэвид Чалмерс, 1996. Существо, ведущее себя как человек, но без сознания. Мысленный эксперимент против физикализма в проблеме сознания.",
+    "alt": "Иллюстрация философского зомби",
+    "year": 1996,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Philosophical_zombie"
+  },
+  {
+    "id": "fact-terms-simulation-hypothesis",
+    "topic": "terms",
+    "title": "Гипотеза симуляции",
+    "caption": "Ник Бостром, 2003. Вероятно, мы живём в симуляции. 3 варианта: цивилизации вымирают раньше, не делают симуляций, или мы в одной из них.",
+    "alt": "Иллюстрация гипотезы симуляции",
+    "year": 2003,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Simulation_hypothesis"
+  },
+  {
+    "id": "fact-terms-mary-room",
+    "topic": "terms",
+    "title": "Мария в чёрно-белой комнате",
+    "caption": "Фрэнк Джексон, 1982. Мысленный эксперимент. Мария знает всё о цвете, но никогда не видела цвета. Узнаёт ли что-то новое, выйдя?",
+    "alt": "Иллюстрация мысленного эксперимента Марии",
+    "year": 1982,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Knowledge_argument"
+  },
+  {
+    "id": "fact-terms-chinese-room",
+    "topic": "terms",
+    "title": "Китайская комната",
+    "caption": "Джон Сёрл, 1980. Человек в комнате с инструкциями переводит китайский, не зная языка. Аналогия: компьютер не понимает, лишь манипулирует символами.",
+    "alt": "Схема китайской комнаты",
+    "year": 1980,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Chinese_room"
+  },
+  {
+    "id": "fact-terms-allegory-cave",
+    "topic": "terms",
+    "title": "Пещера Платона",
+    "caption": "Платон, «Государство», ~375 до н.э. Заключённые видят только тени на стене и принимают их за реальность. Метафора иллюзии познания.",
+    "alt": "Аллегория пещеры Платона",
+    "year": -375,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Allegory_of_the_cave"
+  },
+  {
+    "id": "fact-terms-ego-superego-id",
+    "topic": "terms",
+    "title": "Ид, Эго, Супер-Эго",
+    "caption": "Зигмунд Фрейд, 1923. Структурная модель психики: Ид (бессознательные импульсы), Эго (рациональный посредник), Супер-Эго (мораль).",
+    "alt": "Модель психики Фрейда",
+    "year": 1923,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Id,_ego_and_super-ego"
+  },
+  {
+    "id": "fact-terms-jungian-shadow",
+    "topic": "terms",
+    "title": "Тень · Юнг",
+    "caption": "Карл Юнг, 1912. Подавленные, неосознаваемые черты личности. «Всё, что нас раздражает в других, может вести нас к пониманию себя» — Юнг.",
+    "alt": "Иллюстрация Тени Юнга",
+    "year": 1912,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Shadow_(psychology)"
+  },
+  {
+    "id": "fact-terms-archetype",
+    "topic": "terms",
+    "title": "Архетипы Юнга",
+    "caption": "Карл Юнг, 1919. Универсальные модели в коллективном бессознательном: Герой, Мать, Старец, Анима, Тень. Объясняют общность мифов.",
+    "alt": "Архетипы Юнга",
+    "year": 1919,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jungian_archetypes"
+  },
+  {
+    "id": "fact-terms-spiral-dynamics",
+    "topic": "terms",
+    "title": "Спиральная динамика",
+    "caption": "Клэр Грейвз, 1970-е. 8 уровней развития ценностей: от бежевого (выживание) до бирюзового (целостность). Между уровнями — кризисы.",
+    "alt": "Спиральная динамика — 8 уровней",
+    "year": 1974,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Spiral_Dynamics"
+  }
+]

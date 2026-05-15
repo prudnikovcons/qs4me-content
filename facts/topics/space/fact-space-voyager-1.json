@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-voyager-1",
+  "topic": "space",
+  "title": "Voyager-1",
+  "caption": "Запущен 5 сентября 1977. Прошёл Юпитер 1979, Сатурн 1980. В межзвёздном пространстве с 2012. К 2025 — 25 млрд км от Земли, сигнал идёт 23 часа.",
+  "image": "fact-space-voyager-1.webp",
+  "image_width": 1280,
+  "image_height": 928,
+  "alt": "Voyager-1 — иллюстрация NASA",
+  "credit": "National Aeronautics and Space Administration (NASA) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Voyager_1",
+  "license": "PD",
+  "year": 1977
+}

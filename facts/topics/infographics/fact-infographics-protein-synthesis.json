@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-protein-synthesis",
+  "topic": "infographics",
+  "title": "Синтез белка",
+  "caption": "ДНК → мРНК (транскрипция, в ядре) → белок (трансляция в рибосомах). 1 рибосома собирает 200 аминокислот в минуту. Базовый процесс жизни.",
+  "image": "fact-infographics-protein-synthesis.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Транскрипция и трансляция",
+  "credit": "Kep17 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Protein_biosynthesis",
+  "license": "CC-BY-SA",
+  "year": 2020
+}

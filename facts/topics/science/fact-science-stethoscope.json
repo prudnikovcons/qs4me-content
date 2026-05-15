@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-stethoscope",
+  "topic": "science",
+  "title": "Стетоскоп",
+  "caption": "Рене Лаэннек, 1816. Свернул бумагу, чтобы прослушать сердце смущённой пациентки. Через 3 года — деревянный цилиндр, начало кардиологии.",
+  "image": "fact-science-stethoscope.webp",
+  "image_width": 600,
+  "image_height": 519,
+  "alt": "Стетоскоп",
+  "credit": "this version: Sonarpulse. origenal:Huji · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Stethoscope",
+  "license": "PD",
+  "year": 1816
+}

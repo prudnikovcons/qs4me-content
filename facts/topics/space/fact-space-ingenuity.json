@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-ingenuity",
+  "topic": "space",
+  "title": "Ingenuity — вертолёт на Марсе",
+  "caption": "Первый полёт 19 апреля 2021. 1,8 кг, лопасти 1,2 м, вращение 2400 об/мин (в 5 раз быстрее земных вертолётов). Атмосфера Марса в 1% земной.",
+  "image": "fact-space-ingenuity.webp",
+  "image_width": 600,
+  "image_height": 600,
+  "alt": "Вертолёт Ingenuity на Марсе",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Ingenuity_(helicopter)",
+  "license": "PD",
+  "year": 2021
+}

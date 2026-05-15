@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-electromagnet",
+  "topic": "infographics",
+  "title": "Электромагнит",
+  "caption": "Уильям Стёрджон, 1825. Ток через катушку с сердечником из железа создаёт магнитное поле. Базис электромотора, генератора, реле, MRI.",
+  "image": "fact-infographics-electromagnet.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Электромагнит — принцип",
+  "credit": "MikeRun · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Electromagnet",
+  "license": "CC-BY-SA",
+  "year": 1825
+}

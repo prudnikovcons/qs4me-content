@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-wavelength",
+  "topic": "infographics",
+  "title": "Длины волн",
+  "caption": "Гамма 10⁻¹² м. Рентген 10⁻⁹. УФ 10⁻⁷. Видимый 5×10⁻⁷. ИК 10⁻⁵. Микроволны 10⁻². Радио 10. Длинные радио до 10⁵ м.",
+  "image": "fact-infographics-wavelength.webp",
+  "image_width": 1280,
+  "image_height": 896,
+  "alt": "Длины волн ЭМ-спектра",
+  "credit": "Dicklyon (Richard F. Lyon) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Wavelength",
+  "license": "CC-BY-SA",
+  "year": 2009
+}

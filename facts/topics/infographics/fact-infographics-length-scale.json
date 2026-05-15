@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-length-scale",
+  "topic": "infographics",
+  "title": "Шкала длин",
+  "caption": "Планковская длина 10⁻³⁵ м. Атом 10⁻¹⁰. ДНК-двойник 2×10⁻⁹. Клетка 10⁻⁵. Человек 1,7. Эверест 9×10³. Земля 10⁷. Световой год 10¹⁶.",
+  "image": "fact-infographics-length-scale.webp",
+  "image_width": 922,
+  "image_height": 674,
+  "alt": "Шкала длин",
+  "credit": "Olaf Frohn · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Orders_of_magnitude_(length)",
+  "license": "CC-BY-SA",
+  "year": 2017
+}

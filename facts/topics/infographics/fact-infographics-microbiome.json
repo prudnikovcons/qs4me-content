@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-microbiome",
+  "topic": "infographics",
+  "title": "Микробиом кишечника",
+  "caption": "100 триллионов бактерий 1000+ видов. Масса 1,5–2 кг. Влияет на иммунитет, настроение, вес. Геном микробиома в 100 раз больше человеческого.",
+  "image": "fact-infographics-microbiome.webp",
+  "image_width": 1280,
+  "image_height": 1656,
+  "alt": "Микробиом кишечника",
+  "credit": "Darryl Leja, NHGRI · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "license": "PD",
+  "year": 2013
+}

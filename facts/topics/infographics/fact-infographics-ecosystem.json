@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-ecosystem",
+  "topic": "infographics",
+  "title": "Экосистема",
+  "caption": "Биотические + абиотические компоненты. Артур Тэнсли ввёл термин в 1935. Поток энергии (Солнце → растения → животные) + круговорот веществ.",
+  "image": "fact-infographics-ecosystem.webp",
+  "image_width": 1200,
+  "image_height": 1600,
+  "alt": "Структура экосистемы",
+  "credit": "Richard Ling &lt;wikipedia@rling.com&gt; · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Ecosystem",
+  "license": "CC-BY-SA",
+  "year": 1935
+}

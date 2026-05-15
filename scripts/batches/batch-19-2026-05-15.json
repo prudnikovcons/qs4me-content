@@ -1,0 +1,398 @@
+[
+  {
+    "id": "fact-space-hubble-deep-field",
+    "topic": "space",
+    "title": "Хаббл Глубокое поле",
+    "caption": "1995. 10 дней экспозиции в одну точку неба размером с песчинку. На фото 3000 галактик — Вселенная оказалась гуще, чем ждали.",
+    "alt": "Хаббл Глубокое поле",
+    "year": 1995,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hubble_Deep_Field"
+  },
+  {
+    "id": "fact-space-jwst-deep",
+    "topic": "space",
+    "title": "Первое глубокое поле JWST",
+    "caption": "11 июля 2022. Telescope James Webb за 12,5 часов экспозиции показал галактики возрастом 13 миллиардов лет.",
+    "alt": "JWST Deep Field SMACS 0723",
+    "year": 2022,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Webb's_First_Deep_Field"
+  },
+  {
+    "id": "fact-space-pillars-jwst",
+    "topic": "space",
+    "title": "Столпы Творения · JWST",
+    "caption": "Туманность Орла. JWST переснял в 2022 в инфракрасном — сквозь пылевые облака видны молодые звёзды. 6500 световых лет.",
+    "alt": "Столпы Творения снимок JWST",
+    "year": 2022,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pillars_of_Creation"
+  },
+  {
+    "id": "fact-space-apollo-12",
+    "topic": "space",
+    "title": "Аполлон-12",
+    "caption": "Ноябрь 1969. Второй пилотируемый полёт на Луну. Конрад и Бин сели в 200 м от зонда Surveyor 3 — точность 4 месяца после Аполлона-11.",
+    "alt": "Аполлон-12 на Луне",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Apollo_12"
+  },
+  {
+    "id": "fact-space-apollo-13",
+    "topic": "space",
+    "title": "Аполлон-13",
+    "caption": "Апрель 1970. Взрыв кислородного бака на пути к Луне. 4 дня спасения вокруг Луны. «Houston, we've had a problem» — крылатая фраза.",
+    "alt": "Возвращение Аполлона-13",
+    "year": 1970,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Apollo_13"
+  },
+  {
+    "id": "fact-space-voyager-1",
+    "topic": "space",
+    "title": "Voyager-1",
+    "caption": "Запущен 5 сентября 1977. Прошёл Юпитер 1979, Сатурн 1980. В межзвёздном пространстве с 2012. К 2025 — 25 млрд км от Земли, сигнал идёт 23 часа.",
+    "alt": "Voyager-1 — иллюстрация NASA",
+    "year": 1977,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Voyager_1"
+  },
+  {
+    "id": "fact-space-pale-blue-dot",
+    "topic": "space",
+    "title": "Бледно-голубая точка",
+    "caption": "Воджер-1, 14 февраля 1990. Снимок Земли с 6 миллиардов км. Земля занимает 0,12 пикселя. Эссе Карла Сагана о смирении.",
+    "alt": "Pale Blue Dot — Земля издалека",
+    "year": 1990,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pale_Blue_Dot"
+  },
+  {
+    "id": "fact-space-pioneer-plaque",
+    "topic": "space",
+    "title": "Пластинка Пионера",
+    "caption": "1972, 1973. Алюминиевая пластинка с координатами Земли и силуэтами людей на Pioneer 10/11 — сообщение для инопланетной цивилизации.",
+    "alt": "Пластинка Пионера",
+    "year": 1972,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pioneer_plaque"
+  },
+  {
+    "id": "fact-space-new-horizons-pluto",
+    "topic": "space",
+    "title": "New Horizons на Плутоне",
+    "caption": "14 июля 2015. Зонд NASA пролетел в 12 500 км от Плутона. Сердце Плутона — равнина Спутника, азотный лёд, без кратеров (молодая).",
+    "alt": "Плутон, снятый New Horizons",
+    "year": 2015,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "New_Horizons"
+  },
+  {
+    "id": "fact-space-mars-perseverance",
+    "topic": "space",
+    "title": "Марсоход Perseverance",
+    "caption": "Посадка 18 февраля 2021 в кратере Езеро (озеро 3,5 млрд лет назад). Ищет древнюю жизнь, собирает образцы для возврата на Землю в 2030-х.",
+    "alt": "Perseverance на Марсе",
+    "year": 2021,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Perseverance_(rover)"
+  },
+  {
+    "id": "fact-space-ingenuity",
+    "topic": "space",
+    "title": "Ingenuity — вертолёт на Марсе",
+    "caption": "Первый полёт 19 апреля 2021. 1,8 кг, лопасти 1,2 м, вращение 2400 об/мин (в 5 раз быстрее земных вертолётов). Атмосфера Марса в 1% земной.",
+    "alt": "Вертолёт Ingenuity на Марсе",
+    "year": 2021,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ingenuity_(helicopter)"
+  },
+  {
+    "id": "fact-space-cassini-saturn",
+    "topic": "space",
+    "title": "Cassini — Великий финал",
+    "caption": "15 сентября 2017. После 13 лет на орбите Сатурна Cassini сгорел в атмосфере планеты — чтобы не загрязнить спутники с потенциальной жизнью.",
+    "alt": "Cassini над Сатурном",
+    "year": 2017,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cassini–Huygens"
+  },
+  {
+    "id": "fact-space-galileo-jupiter",
+    "topic": "space",
+    "title": "Galileo на Юпитере",
+    "caption": "1989–2003. Орбитальная миссия NASA. Сбросил зонд в атмосферу Юпитера (1995), обнаружил подледный океан на Европе. Финал — сгорание в атмосфере.",
+    "alt": "Galileo на орбите Юпитера",
+    "year": 1995,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Galileo_(spacecraft)"
+  },
+  {
+    "id": "fact-space-iss-orbit",
+    "topic": "space",
+    "title": "Орбита МКС",
+    "caption": "Высота 408 км над Землёй. Скорость 7,66 км/с. Полный оборот — 92 минуты. 15,5 восходов и заходов Солнца в сутки.",
+    "alt": "МКС на орбите Земли",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "International_Space_Station"
+  },
+  {
+    "id": "fact-space-spacex-falcon",
+    "topic": "space",
+    "title": "Falcon 9",
+    "caption": "Первая многоразовая ракета-носитель. Первая посадка 1 ступени — 21 декабря 2015. К 2024 — 320+ полётов, 280+ посадок.",
+    "alt": "Falcon 9 на старте",
+    "year": 2015,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Falcon_9"
+  },
+  {
+    "id": "fact-space-curiosity-selfie",
+    "topic": "space",
+    "title": "Curiosity на Марсе",
+    "caption": "Марсоход NASA с 6 августа 2012. Размер с легковой автомобиль (2,9 м), 899 кг. Изучает кратер Гейл. К 2024 — 13 лет работы, 32 км пройдено.",
+    "alt": "Curiosity на Марсе",
+    "year": 2012,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Curiosity_(rover)"
+  },
+  {
+    "id": "fact-space-solar-eclipse-2017",
+    "topic": "space",
+    "title": "Великое затмение 2017",
+    "caption": "21 августа 2017. Полное солнечное затмение прошло через США от Орегона до Южной Каролины. 215 миллионов наблюдателей.",
+    "alt": "Солнечное затмение 2017",
+    "year": 2017,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Solar_eclipse_of_August_21,_2017"
+  },
+  {
+    "id": "fact-space-supernova-1054",
+    "topic": "space",
+    "title": "Сверхновая 1054",
+    "caption": "Июль 1054 — китайские астрономы зафиксировали «звезду-гостью». Видна 23 дня даже днём. Остаток — Крабовидная туманность (M1).",
+    "alt": "Историческая сверхновая 1054",
+    "year": 1054,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "SN_1054"
+  },
+  {
+    "id": "fact-space-event-horizon-telescope",
+    "topic": "space",
+    "title": "Event Horizon Telescope",
+    "caption": "Сеть из 8 радиотелескопов на 6 континентах. Виртуальная апертура размером с Землю. Первое фото чёрной дыры — M87*, 10 апреля 2019.",
+    "alt": "Событийный горизонт телескопа",
+    "year": 2019,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Event_Horizon_Telescope"
+  },
+  {
+    "id": "fact-space-ligo",
+    "topic": "space",
+    "title": "LIGO",
+    "caption": "Лазерно-интерферометрическая гравитационно-волновая обсерватория. Туннели 4 км в Луизиане и Вашингтоне. Первый сигнал 14 сентября 2015.",
+    "alt": "LIGO в Луизиане",
+    "year": 2015,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "LIGO"
+  },
+  {
+    "id": "fact-space-iss-arms",
+    "topic": "space",
+    "title": "Canadarm2",
+    "caption": "Манипулятор МКС, Канада, 2001. Длина 17,6 м, 7 степеней свободы, 7 камер. Двигается со скоростью 1 м/с. Может ловить грузовики.",
+    "alt": "Canadarm2 на МКС",
+    "year": 2001,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Canadarm2"
+  },
+  {
+    "id": "fact-events-yuri-gagarin",
+    "topic": "events",
+    "title": "Полёт Юрия Гагарина",
+    "caption": "12 апреля 1961, 9:07. Восток-1 поднялся на 327 км, обогнул Землю за 108 минут. Гагарину было 27 лет. Первый человек в космосе.",
+    "alt": "Гагарин в скафандре",
+    "year": 1961,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Yuri_Gagarin"
+  },
+  {
+    "id": "fact-events-tereshkova",
+    "topic": "events",
+    "title": "Валентина Терешкова",
+    "caption": "16–19 июня 1963. Первая женщина в космосе. Восток-6, 48 витков вокруг Земли за 70,8 часов. До 1982 — единственная женщина-космонавт.",
+    "alt": "Валентина Терешкова",
+    "year": 1963,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Valentina_Tereshkova"
+  },
+  {
+    "id": "fact-events-laika",
+    "topic": "events",
+    "title": "Лайка",
+    "caption": "Спутник-2, 3 ноября 1957. Первое живое существо на орбите Земли. Лайка погибла через 5–7 часов от жары. Открыла путь людям в космос.",
+    "alt": "Памятник Лайке",
+    "year": 1957,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Laika"
+  },
+  {
+    "id": "fact-events-ww1-end",
+    "topic": "events",
+    "title": "Конец Первой мировой",
+    "caption": "11 ноября 1918, 11:00 по Парижу. Компьенское перемирие. 4 года, 4 месяца войны. 16 миллионов погибших — самая кровопролитная на тот момент.",
+    "alt": "Подписание Компьенского перемирия",
+    "year": 1918,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Armistice_of_11_November_1918"
+  },
+  {
+    "id": "fact-events-ww2-end",
+    "topic": "events",
+    "title": "Конец Второй мировой",
+    "caption": "2 сентября 1945. Япония подписала капитуляцию на палубе линкора Миссури в Токийском заливе. Война унесла 70-85 миллионов жизней.",
+    "alt": "Подписание капитуляции Японии",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Surrender_of_Japan"
+  },
+  {
+    "id": "fact-events-hiroshima",
+    "topic": "events",
+    "title": "Хиросима",
+    "caption": "6 августа 1945, 8:15. Энола Гей сбросила «Малыш» — 15 килотонн. 80 000 жертв в момент, 140 000 к концу года. Первое боевое применение ядерного оружия.",
+    "alt": "Гриб над Хиросимой",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Atomic_bombings_of_Hiroshima_and_Nagasaki"
+  },
+  {
+    "id": "fact-events-women-suffrage",
+    "topic": "events",
+    "title": "Женское избирательное право",
+    "caption": "Первая в мире: Новая Зеландия, 19 сентября 1893. Австралия 1902, Финляндия 1906, Россия 1917, США 1920, Великобритания (все) 1928, Швейцария 1971.",
+    "alt": "Суфражистки начала XX века",
+    "year": 1893,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Women's_suffrage"
+  },
+  {
+    "id": "fact-events-mlk-march",
+    "topic": "events",
+    "title": "Марш на Вашингтон",
+    "caption": "28 августа 1963. 250 000 человек у Мемориала Линкольна. Мартин Лютер Кинг — речь «У меня есть мечта». Запустил Civil Rights Act 1964.",
+    "alt": "Марш на Вашингтон 1963",
+    "year": 1963,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "March_on_Washington_for_Jobs_and_Freedom"
+  },
+  {
+    "id": "fact-events-woodstock",
+    "topic": "events",
+    "title": "Вудсток",
+    "caption": "15–18 августа 1969, штат Нью-Йорк. Музыкальный фестиваль на ферме. 400 000 человек вместо ожидавшихся 50 000. 32 артиста, Хендрикс закрыл утром 18-го.",
+    "alt": "Толпа на Вудстоке",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Woodstock"
+  },
+  {
+    "id": "fact-events-everest-women",
+    "topic": "events",
+    "title": "Первая женщина на Эвересте",
+    "caption": "Дзюнко Табэи, 16 мая 1975. Японка, 35 лет. 12 дней наверху из лагеря, чуть не погибла под лавиной. Покорила «семь вершин» к 1992.",
+    "alt": "Дзюнко Табэи",
+    "year": 1975,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Junko_Tabei"
+  },
+  {
+    "id": "fact-events-fall-saigon",
+    "topic": "events",
+    "title": "Падение Сайгона",
+    "caption": "30 апреля 1975. Конец Вьетнамской войны. США эвакуировали 1373 человека с крыши посольства за 19 часов. Конец 20-летнего конфликта.",
+    "alt": "Эвакуация с крыши посольства США 1975",
+    "year": 1975,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fall_of_Saigon"
+  },
+  {
+    "id": "fact-events-deep-blue-kasparov",
+    "topic": "events",
+    "title": "Deep Blue vs Каспаров",
+    "caption": "11 мая 1997. IBM Deep Blue (200 млн позиций/сек) обыграл чемпиона мира Гарри Каспарова 3,5:2,5. Первая победа машины над лучшим человеком в шахматах.",
+    "alt": "Каспаров и Deep Blue",
+    "year": 1997,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Deep_Blue_versus_Garry_Kasparov"
+  },
+  {
+    "id": "fact-events-cervantes-shakespeare",
+    "topic": "events",
+    "title": "23 апреля 1616",
+    "caption": "В один день умерли Сервантес (Дон Кихот) и Шекспир. Сервантес 22 апреля, Шекспир 23 — по разным календарям. UNESCO с 1995 — Всемирный день книги.",
+    "alt": "Сервантес и Шекспир",
+    "year": 1616,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "World_Book_Day"
+  },
+  {
+    "id": "fact-infographics-tree-of-life",
+    "topic": "infographics",
+    "title": "Древо жизни",
+    "caption": "3 домена: Bacteria, Archaea, Eukarya. Расходятся от LUCA — последнего общего предка, ~3,8 млрд лет назад. Карл Везе предложил, 1977.",
+    "alt": "Древо жизни — 3 домена",
+    "year": 1977,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tree_of_life_(biology)"
+  },
+  {
+    "id": "fact-infographics-cell-division-types",
+    "topic": "infographics",
+    "title": "Виды деления клеток",
+    "caption": "Бинарное (бактерии, 20 мин/деление), митоз (соматические клетки, ~1 час), мейоз (половые, 2 деления). Скорость митоза кишечника — 24 часа.",
+    "alt": "Виды клеточного деления",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cell_division"
+  },
+  {
+    "id": "fact-infographics-dna-replication",
+    "topic": "infographics",
+    "title": "Репликация ДНК",
+    "caption": "Двойная спираль расплетается, каждая нить — шаблон для новой. Скорость 50 нуклеотидов/сек у человека, точность 1 ошибка на 10 миллиардов.",
+    "alt": "Схема репликации ДНК",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "DNA_replication"
+  },
+  {
+    "id": "fact-infographics-protein-synthesis",
+    "topic": "infographics",
+    "title": "Синтез белка",
+    "caption": "ДНК → мРНК (транскрипция, в ядре) → белок (трансляция в рибосомах). 1 рибосома собирает 200 аминокислот в минуту. Базовый процесс жизни.",
+    "alt": "Транскрипция и трансляция",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Protein_biosynthesis"
+  },
+  {
+    "id": "fact-infographics-ecosystem",
+    "topic": "infographics",
+    "title": "Экосистема",
+    "caption": "Биотические + абиотические компоненты. Артур Тэнсли ввёл термин в 1935. Поток энергии (Солнце → растения → животные) + круговорот веществ.",
+    "alt": "Структура экосистемы",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ecosystem"
+  },
+  {
+    "id": "fact-infographics-electromagnet",
+    "topic": "infographics",
+    "title": "Электромагнит",
+    "caption": "Уильям Стёрджон, 1825. Ток через катушку с сердечником из железа создаёт магнитное поле. Базис электромотора, генератора, реле, MRI.",
+    "alt": "Электромагнит — принцип",
+    "year": 1825,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Electromagnet"
+  }
+]

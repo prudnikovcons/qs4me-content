@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-mammoth",
+  "topic": "nature",
+  "title": "Мамонт",
+  "caption": "Шерстистый мамонт вымер ~4000 лет назад. Последняя популяция жила на острове Врангеля до 2000 до н.э. — пока строили пирамиды.",
+  "image": "fact-nature-mammoth.webp",
+  "image_width": 1157,
+  "image_height": 891,
+  "alt": "Реконструкция мамонта",
+  "credit": "Lou.gruber · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Woolly_mammoth",
+  "license": "PD",
+  "year": -2000
+}

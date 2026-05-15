@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-jwst-deep",
+  "topic": "space",
+  "title": "Первое глубокое поле JWST",
+  "caption": "11 июля 2022. Telescope James Webb за 12,5 часов экспозиции показал галактики возрастом 13 миллиардов лет.",
+  "image": "fact-space-jwst-deep.webp",
+  "image_width": 1280,
+  "image_height": 1306,
+  "alt": "JWST Deep Field SMACS 0723",
+  "credit": "NASA, ESA, CSA, and STScI · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Webb's_First_Deep_Field",
+  "license": "PD",
+  "year": 2022
+}

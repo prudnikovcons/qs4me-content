@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-synapse",
+  "topic": "infographics",
+  "title": "Синапс",
+  "caption": "Сэр Чарльз Шеррингтон ввёл термин в 1897. Соединение двух нейронов через 20-нм щель. В мозге человека — 100 триллионов синапсов.",
+  "image": "fact-infographics-synapse.webp",
+  "image_width": 1280,
+  "image_height": 774,
+  "alt": "Схема синапса",
+  "credit": "Curtis Neveu · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Synapse",
+  "license": "CC-BY-SA",
+  "year": 1897
+}

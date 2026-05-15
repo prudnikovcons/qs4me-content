@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-cas9",
+  "topic": "science",
+  "title": "CRISPR-Cas9 в действии",
+  "caption": "«Молекулярные ножницы». Один белок Cas9 направляется РНК-гидом точно к нужной последовательности ДНК. Используется в 1000+ лабораториях.",
+  "image": "fact-science-cas9.webp",
+  "image_width": 1200,
+  "image_height": 1000,
+  "alt": "Схема CRISPR-Cas9",
+  "credit": "Deposition authors: Nishimasu, H., Ishitani, R., Nureki, O.; Visualization autho",
+  "source": "https://en.wikipedia.org/wiki/Cas9",
+  "license": "CC0",
+  "year": 2023
+}

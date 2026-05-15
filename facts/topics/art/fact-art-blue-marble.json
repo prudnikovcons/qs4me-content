@@ -1,0 +1,14 @@
+{
+  "id": "fact-art-blue-marble",
+  "topic": "art",
+  "title": "Голубой шар",
+  "caption": "Аполлон-17, 7 декабря 1972, 45 000 км от Земли. Полная Земля впервые видна целиком. Самая распространённая фотография в истории.",
+  "image": "fact-art-blue-marble.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Blue Marble — Земля из Аполлона-17",
+  "credit": "Harrison Schmitt / Apollo 17 · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/The_Blue_Marble",
+  "license": "PD",
+  "year": 1972
+}

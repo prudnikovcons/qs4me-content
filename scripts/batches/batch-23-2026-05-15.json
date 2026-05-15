@@ -1,0 +1,369 @@
+[
+  {
+    "id": "fact-infographics-plate-boundaries",
+    "topic": "infographics",
+    "title": "Типы границ плит",
+    "caption": "3 типа: дивергентные (расходятся, океанические хребты), конвергентные (сталкиваются, горные цепи), трансформные (скользят, разломы — Сан-Андреас).",
+    "alt": "Типы тектонических границ",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "List_of_tectonic_plate_interactions"
+  },
+  {
+    "id": "fact-infographics-mountain-formation",
+    "topic": "infographics",
+    "title": "Образование гор",
+    "caption": "Складчатые (Альпы), сбросовые (Урал), вулканические (Анды), купольные. Гималаи поднимаются 5 мм/год — Индия движется к Азии.",
+    "alt": "Виды горообразования",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mountain_formation"
+  },
+  {
+    "id": "fact-infographics-river-discharges",
+    "topic": "infographics",
+    "title": "Реки по водоносности",
+    "caption": "Амазонка — 209 000 м³/с (1-е место, 20% пресной воды в океаны). Конго — 41 000, Янцзы — 30 000, Миссисипи — 16 000, Волга — 8000.",
+    "alt": "Реки по объёму стока",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "List_of_rivers_by_discharge"
+  },
+  {
+    "id": "fact-infographics-lake-sizes",
+    "topic": "infographics",
+    "title": "Крупнейшие озёра",
+    "caption": "Каспий — 371 000 км² (тех. солёное озеро), Верхнее — 82 100, Виктория — 68 800, Гурон — 59 600, Мичиган — 58 000, Байкал — 31 700.",
+    "alt": "Крупнейшие озёра мира",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "List_of_lakes_by_area"
+  },
+  {
+    "id": "fact-infographics-cosmic-distance-ladder",
+    "topic": "infographics",
+    "title": "Космическая лестница расстояний",
+    "caption": "Параллакс (до 10 кпк) → цефеиды (до 100 Мпк) → сверхновые типа Ia (до 1 Гпк) → красное смещение (всё остальное).",
+    "alt": "Космическая лестница расстояний",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cosmic_distance_ladder"
+  },
+  {
+    "id": "fact-infographics-calvin-cycle",
+    "topic": "infographics",
+    "title": "Цикл Кальвина",
+    "caption": "Мелвин Кальвин, 1950, Нобель 1961. Тёмная фаза фотосинтеза. 3 CO₂ → 1 трёхуглеродный сахар через 6 ATP и 6 NADPH.",
+    "alt": "Цикл Кальвина",
+    "year": 1950,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Calvin_cycle"
+  },
+  {
+    "id": "fact-infographics-nitrogen-cycle",
+    "topic": "infographics",
+    "title": "Круговорот азота",
+    "caption": "78% атмосферы — N₂, но его нельзя усвоить. Фиксаторы (Rhizobium, грозовые разряды) → аммиак → нитриты → нитраты → растения → разложение.",
+    "alt": "Круговорот азота",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nitrogen_cycle"
+  },
+  {
+    "id": "fact-infographics-action-potential",
+    "topic": "infographics",
+    "title": "Потенциал действия",
+    "caption": "Электрический импульс в нейроне. От −70 мВ покоя через +40 мВ пика — за 2 мс. Передаётся вдоль аксона со скоростью до 120 м/с.",
+    "alt": "Потенциал действия нейрона",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Action_potential"
+  },
+  {
+    "id": "fact-infographics-synapse",
+    "topic": "infographics",
+    "title": "Синапс",
+    "caption": "Сэр Чарльз Шеррингтон ввёл термин в 1897. Соединение двух нейронов через 20-нм щель. В мозге человека — 100 триллионов синапсов.",
+    "alt": "Схема синапса",
+    "year": 1897,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Synapse"
+  },
+  {
+    "id": "fact-infographics-hemoglobin",
+    "topic": "infographics",
+    "title": "Гемоглобин",
+    "caption": "Белок крови. 4 субъединицы, каждая удерживает 1 атом железа и 1 молекулу O₂. В 1 эритроците — 270 миллионов молекул гемоглобина.",
+    "alt": "Молекула гемоглобина",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hemoglobin"
+  },
+  {
+    "id": "fact-infographics-atp",
+    "topic": "infographics",
+    "title": "Молекула АТФ",
+    "caption": "Аденозинтрифосфат — энергетическая валюта клетки. Человек производит ~70 кг АТФ в сутки, мгновенно перерабатывая. В покое — 50 кг.",
+    "alt": "Молекула АТФ",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Adenosine_triphosphate"
+  },
+  {
+    "id": "fact-infographics-cell-membrane",
+    "topic": "infographics",
+    "title": "Клеточная мембрана",
+    "caption": "Двойной слой фосфолипидов толщиной 7 нм. Сингер и Николсон, 1972 — «жидкая мозаика». Содержит белки-каналы для ионов и веществ.",
+    "alt": "Структура клеточной мембраны",
+    "year": 1972,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cell_membrane"
+  },
+  {
+    "id": "fact-infographics-rna-types",
+    "topic": "infographics",
+    "title": "Типы РНК",
+    "caption": "мРНК (переносит код), тРНК (приносит аминокислоты), рРНК (структура рибосом). Открыли рРНК и тРНК в 1950–60-х. Нобель Альтман+Чех 1989.",
+    "alt": "Типы РНК",
+    "year": 1989,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "RNA"
+  },
+  {
+    "id": "fact-infographics-virus-structure",
+    "topic": "infographics",
+    "title": "Структура вируса",
+    "caption": "Геном (ДНК или РНК) + капсид (белковая оболочка) + иногда мембрана. Размер 20–400 нм. Не считаются живыми — не размножаются сами.",
+    "alt": "Структура вируса",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Virus"
+  },
+  {
+    "id": "fact-infographics-bacteriophage",
+    "topic": "infographics",
+    "title": "Бактериофаг",
+    "caption": "Вирус, заражающий бактерии. Открыт д'Эреллем, 1917. Самая «инопланетная» форма жизни Земли: голова + хвост + ноги. В океане — 10³⁰ фагов.",
+    "alt": "Бактериофаг T4",
+    "year": 1917,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bacteriophage"
+  },
+  {
+    "id": "fact-infographics-blood-cells",
+    "topic": "infographics",
+    "title": "Клетки крови",
+    "caption": "Эритроциты (5×10⁹/мл, переносят O₂), лейкоциты (7×10⁶/мл, иммунитет), тромбоциты (3×10⁸/мл, свёртывание). В теле — 25 трлн эритроцитов.",
+    "alt": "Клетки крови",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Blood_cell"
+  },
+  {
+    "id": "fact-infographics-microbiome",
+    "topic": "infographics",
+    "title": "Микробиом кишечника",
+    "caption": "100 триллионов бактерий 1000+ видов. Масса 1,5–2 кг. Влияет на иммунитет, настроение, вес. Геном микробиома в 100 раз больше человеческого.",
+    "alt": "Микробиом кишечника",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Human_microbiome"
+  },
+  {
+    "id": "fact-infographics-skin-layers",
+    "topic": "infographics",
+    "title": "Слои кожи",
+    "caption": "Эпидермис (0,1 мм) + дерма (1–4 мм) + гиподерма. Полная замена эпидермиса — 4 недели. Площадь кожи взрослого — 2 м², масса 4 кг.",
+    "alt": "Слои кожи",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Skin"
+  },
+  {
+    "id": "fact-infographics-teeth-anatomy",
+    "topic": "infographics",
+    "title": "Анатомия зуба",
+    "caption": "Эмаль (97% минерала, твердейшая ткань тела) → дентин → пульпа (нервы и сосуды). У взрослого 32 зуба, у ребёнка — 20 молочных.",
+    "alt": "Анатомия зуба",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tooth"
+  },
+  {
+    "id": "fact-infographics-muscle-types",
+    "topic": "infographics",
+    "title": "Типы мышц",
+    "caption": "3 типа: скелетные (произвольные), гладкие (стенки органов, непроизвольные), сердечная (исчерченная, непроизвольная). В теле 640 скелетных мышц.",
+    "alt": "Типы мышечной ткани",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Muscle"
+  },
+  {
+    "id": "fact-infographics-cosmic-scale",
+    "topic": "infographics",
+    "title": "Космические масштабы",
+    "caption": "Земля 1,3×10⁴ км → Солнце 1,4×10⁶ → Солнечная 9×10⁹ → ближайшая звезда 4 св. года → Млечный Путь 100 000 св. лет → наблюдаемая Вселенная 93 млрд св. лет.",
+    "alt": "Космические масштабы",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Observable_universe"
+  },
+  {
+    "id": "fact-infographics-temperature-scale",
+    "topic": "infographics",
+    "title": "Шкала температур",
+    "caption": "Абсолютный ноль −273,15 °C. Лёд 0 °C. Тело человека 36,6. Кипение воды 100. Поверхность Солнца 5500. Ядро 15 млн. Кварк-глюонная плазма 5 трлн.",
+    "alt": "Шкала температур",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Temperature"
+  },
+  {
+    "id": "fact-infographics-pressure-scale",
+    "topic": "infographics",
+    "title": "Давление",
+    "caption": "Космос — 0. Атмосфера 101 325 Па. Колесо машины — 200 000. Гидравлический пресс 70 МПа. Ядро Земли 360 ГПа. Алмаз получается при 7 ГПа на 150 км глубины.",
+    "alt": "Шкала давлений",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pressure"
+  },
+  {
+    "id": "fact-infographics-energy-scale",
+    "topic": "infographics",
+    "title": "Шкала энергии",
+    "caption": "Фотон 10⁻¹⁹ Дж. Калория 4,2. Шоколадка 10⁶. Молния 10⁹. Извержение 10¹⁵. Цунами 10¹⁸. Сверхновая 10⁴⁴.",
+    "alt": "Шкала энергии",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Orders_of_magnitude_(energy)"
+  },
+  {
+    "id": "fact-infographics-speed-scale",
+    "topic": "infographics",
+    "title": "Шкала скоростей",
+    "caption": "Улитка 0,001. Пешеход 1,5. Гепард 33. Самолёт 250. Звук в воздухе 343. Земля по орбите 30 000. Свет 300 000 — всё в м/с.",
+    "alt": "Шкала скоростей",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Orders_of_magnitude_(speed)"
+  },
+  {
+    "id": "fact-infographics-mass-scale",
+    "topic": "infographics",
+    "title": "Шкала масс",
+    "caption": "Электрон 9×10⁻³¹ кг. Бактерия 10⁻¹². Муравей 5×10⁻⁶. Человек 70. Слон 5×10³. Луна 7×10²². Земля 6×10²⁴. Солнце 2×10³⁰.",
+    "alt": "Шкала масс",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Orders_of_magnitude_(mass)"
+  },
+  {
+    "id": "fact-infographics-length-scale",
+    "topic": "infographics",
+    "title": "Шкала длин",
+    "caption": "Планковская длина 10⁻³⁵ м. Атом 10⁻¹⁰. ДНК-двойник 2×10⁻⁹. Клетка 10⁻⁵. Человек 1,7. Эверест 9×10³. Земля 10⁷. Световой год 10¹⁶.",
+    "alt": "Шкала длин",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Orders_of_magnitude_(length)"
+  },
+  {
+    "id": "fact-infographics-time-scale",
+    "topic": "infographics",
+    "title": "Шкала времени",
+    "caption": "Планковское время 5×10⁻⁴⁴ с. Период света 10⁻¹⁵. Биение крыла мухи 10⁻³. Час 3600. Год 3×10⁷. Жизнь 3×10⁹. Возраст Вселенной 4×10¹⁷.",
+    "alt": "Шкала времени",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Orders_of_magnitude_(time)"
+  },
+  {
+    "id": "fact-infographics-flop-history",
+    "topic": "infographics",
+    "title": "FLOPS суперкомпьютеров",
+    "caption": "1964 CDC 6600 — 1 MFLOPS. 1997 ASCI Red — 1 TFLOPS. 2008 Roadrunner — 1 PFLOPS. 2022 Frontier — 1 EFLOPS. Рост ×10⁹ за 60 лет.",
+    "alt": "Эволюция мощности суперкомпьютеров",
+    "year": 2022,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "FLOPS"
+  },
+  {
+    "id": "fact-infographics-storage-evolution",
+    "topic": "infographics",
+    "title": "Эволюция носителей",
+    "caption": "Перфокарта 80 байт (1928). Дискета 1,44 МБ (1980). CD 700 МБ (1982). DVD 4,7 ГБ (1995). USB 1 ТБ (2024). 6 порядков за 100 лет.",
+    "alt": "Эволюция носителей информации",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Computer_data_storage"
+  },
+  {
+    "id": "fact-infographics-internet-bandwidth",
+    "topic": "infographics",
+    "title": "Скорость интернета",
+    "caption": "1991 модем 14,4 кбит/с. 2000 ADSL 1 Мбит/с. 2010 FTTH 100. 2020 5G 1 Гбит/с. К 2030 — 6G обещает 1 Тбит/с. Рост ×10⁸ за 30 лет.",
+    "alt": "Эволюция скоростей интернета",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "List_of_Internet_speed_records"
+  },
+  {
+    "id": "fact-infographics-megastructures",
+    "topic": "infographics",
+    "title": "Мегасооружения",
+    "caption": "Великая Китайская стена (21 196 км), Транссиб (9289 км), Большой Барьерный риф (2300 км — биологический), Великий канал Китая (1776 км, с 605 г.).",
+    "alt": "Сравнение мегасооружений",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Megaproject"
+  },
+  {
+    "id": "fact-infographics-deepest-spots",
+    "topic": "infographics",
+    "title": "Глубочайшие точки Земли",
+    "caption": "Марианский желоб −10 994 м (океан). Бентли −2540 м (на суше, под льдом Антарктиды). Кольский супершурф −12 262 м (искусственно).",
+    "alt": "Глубочайшие точки",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Extreme_points_of_Earth"
+  },
+  {
+    "id": "fact-infographics-highest-spots",
+    "topic": "infographics",
+    "title": "Высочайшие точки",
+    "caption": "Эверест 8849 м (вершина суши). Чимборасо 6263 (дальше всего от центра Земли из-за приплюснутости). Олимп Монс на Марсе — 21,9 км.",
+    "alt": "Высочайшие точки Земли и Марса",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "List_of_mountains_by_elevation"
+  },
+  {
+    "id": "fact-infographics-meteor-impact",
+    "topic": "infographics",
+    "title": "Крупнейшие импакты Земли",
+    "caption": "Чиксулуб (66 млн, 180 км, динозавры). Седбери (1,85 млрд, 130 км). Вредефорт (2 млрд, 160 км — крупнейший). Каждые 100 млн лет — 10-км астероид.",
+    "alt": "Крупнейшие кратеры Земли",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "List_of_impact_craters_on_Earth"
+  },
+  {
+    "id": "fact-infographics-energy-density",
+    "topic": "infographics",
+    "title": "Плотность энергии",
+    "caption": "Литий-ион 0,9 МДж/кг. Бензин 46. Уран-235 86 ГДж/кг (×1000 от химии). E=mc² для всей массы — 90 ПДж/кг (×10⁹ от химии).",
+    "alt": "Плотность энергии видов топлива",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Energy_density"
+  },
+  {
+    "id": "fact-infographics-wavelength",
+    "topic": "infographics",
+    "title": "Длины волн",
+    "caption": "Гамма 10⁻¹² м. Рентген 10⁻⁹. УФ 10⁻⁷. Видимый 5×10⁻⁷. ИК 10⁻⁵. Микроволны 10⁻². Радио 10. Длинные радио до 10⁵ м.",
+    "alt": "Длины волн ЭМ-спектра",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wavelength"
+  },
+  {
+    "id": "fact-infographics-frequency",
+    "topic": "infographics",
+    "title": "Частоты",
+    "caption": "Сердце 1 Гц. Голос 100–8000. Слух человека 20–20 000. Ультразвук >20 кГц. AM-радио 10⁶. FM 10⁸. WiFi 5 ГГц. Видимый свет 5×10¹⁴.",
+    "alt": "Шкала частот",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Frequency"
+  },
+  {
+    "id": "fact-infographics-music-frequencies",
+    "topic": "infographics",
+    "title": "Частоты музыкальных нот",
+    "caption": "Ля первой октавы — 440 Гц (стандарт ISO с 1955). До второй — 523. До контр-октавы — 16. Фортепиано охватывает 27,5–4186 Гц.",
+    "alt": "Частоты музыкальных нот",
+    "year": 1955,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "A440_(pitch_standard)"
+  },
+  {
+    "id": "fact-infographics-population-density",
+    "topic": "infographics",
+    "title": "Плотность населения",
+    "caption": "Мир: 60 чел/км². Монако 26 000 (рекорд), Сингапур 8000, Бангладеш 1300, Россия 9, Монголия 2, Намибия 3, Гренландия 0,03.",
+    "alt": "Плотность населения мира",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "List_of_countries_and_dependencies_by_population_density"
+  }
+]

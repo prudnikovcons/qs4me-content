@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-bacteriophage",
+  "topic": "infographics",
+  "title": "Бактериофаг",
+  "caption": "Вирус, заражающий бактерии. Открыт д'Эреллем, 1917. Самая «инопланетная» форма жизни Земли: голова + хвост + ноги. В океане — 10³⁰ фагов.",
+  "image": "fact-infographics-bacteriophage.webp",
+  "image_width": 1280,
+  "image_height": 1144,
+  "alt": "Бактериофаг T4",
+  "credit": "Dr. Victor Padilla-Sanchez, PhD https://www.drvictorpadillasanchez.com · CC-BY-S",
+  "source": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "license": "CC-BY-SA",
+  "year": 1917
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-iss-arms",
+  "topic": "space",
+  "title": "Canadarm2",
+  "caption": "Манипулятор МКС, Канада, 2001. Длина 17,6 м, 7 степеней свободы, 7 камер. Двигается со скоростью 1 м/с. Может ловить грузовики.",
+  "image": "fact-space-iss-arms.webp",
+  "image_width": 1280,
+  "image_height": 844,
+  "alt": "Canadarm2 на МКС",
+  "credit": "NASA · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Canadarm2",
+  "license": "PD",
+  "year": 2001
+}

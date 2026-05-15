@@ -1,0 +1,14 @@
+{
+  "id": "fact-music-pachelbel",
+  "topic": "music",
+  "title": "Канон Пахельбеля",
+  "caption": "Иоганн Пахельбель, около 1680. Канон D-dur — 28 вариаций на 8-нотный бас. Забыт 250 лет, всплыл в 1968 в записи Жан-Франсуа Пайяра.",
+  "image": "fact-music-pachelbel.webp",
+  "image_width": 1280,
+  "image_height": 1061,
+  "alt": "Канон Пахельбеля — ноты",
+  "credit": "Johann Pachelbel (music), Anon. (this manuscript copy), Staatsbibliothek zu Berl",
+  "source": "https://en.wikipedia.org/wiki/Pachelbel's_Canon",
+  "license": "PD",
+  "year": 1680
+}

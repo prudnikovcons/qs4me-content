@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-apollo-12",
+  "topic": "space",
+  "title": "Аполлон-12",
+  "caption": "Ноябрь 1969. Второй пилотируемый полёт на Луну. Конрад и Бин сели в 200 м от зонда Surveyor 3 — точность 4 месяца после Аполлона-11.",
+  "image": "fact-space-apollo-12.webp",
+  "image_width": 1280,
+  "image_height": 1121,
+  "alt": "Аполлон-12 на Луне",
+  "credit": "NASA, Alan L. Bean · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Apollo_12",
+  "license": "PD",
+  "year": 1969
+}

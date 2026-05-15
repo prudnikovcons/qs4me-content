@@ -1,0 +1,14 @@
+{
+  "id": "fact-food-kebab",
+  "topic": "food",
+  "title": "Кебаб",
+  "caption": "Восточное мясо на вертеле, известно с IX века. Дёнер изобрёл Махмут Айдын в Берлине, 1971 — стал символом турецкой диаспоры в Германии.",
+  "image": "fact-food-kebab.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Кебаб на вертеле",
+  "credit": "Lesya Dolyk · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Kebab",
+  "license": "CC-BY-SA",
+  "year": 1971
+}

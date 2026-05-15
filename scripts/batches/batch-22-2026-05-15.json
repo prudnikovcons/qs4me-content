@@ -1,0 +1,308 @@
+[
+  {
+    "id": "fact-nature-monarch-butterfly",
+    "topic": "nature",
+    "title": "Бабочка-монарх",
+    "caption": "Мигрирует 4800 км от Канады до Мексики и обратно. За одну миграцию проходят 4 поколения — пра-правнуки прилетают на родину прапрадедов.",
+    "alt": "Бабочка-монарх",
+    "meta": { "species": "Danaus plexippus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Monarch_butterfly"
+  },
+  {
+    "id": "fact-nature-arctic-tern",
+    "topic": "nature",
+    "title": "Полярная крачка",
+    "caption": "Рекордсмен миграций — 70 000 км в год между Арктикой и Антарктикой. За жизнь (30 лет) пролетает 2,4 млн км — 3 рейса Земля-Луна.",
+    "alt": "Полярная крачка в полёте",
+    "meta": { "species": "Sterna paradisaea" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Arctic_tern"
+  },
+  {
+    "id": "fact-nature-tardigrade",
+    "topic": "nature",
+    "title": "Тихоходка",
+    "caption": "0,5 мм микроживотное. Переживает: −272 до +150 °C, вакуум космоса, давление 6000 атм, радиацию 5700 Гр. Известна с 1773.",
+    "alt": "Тихоходка под микроскопом",
+    "year": 1773,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tardigrade"
+  },
+  {
+    "id": "fact-nature-immortal-jellyfish",
+    "topic": "nature",
+    "title": "Бессмертная медуза",
+    "caption": "Turritopsis dohrnii. После полового размножения может вернуться в стадию полипа и начать жизненный цикл заново. Биологически бессмертна.",
+    "alt": "Бессмертная медуза",
+    "meta": { "species": "Turritopsis dohrnii" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Turritopsis_dohrnii"
+  },
+  {
+    "id": "fact-nature-mantis",
+    "topic": "nature",
+    "title": "Богомол",
+    "caption": "Хищное насекомое. Поворачивает голову на 180° — единственное насекомое с такой способностью. Самка съедает самца после спаривания.",
+    "alt": "Богомол",
+    "meta": { "species": "Mantodea" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mantis"
+  },
+  {
+    "id": "fact-nature-pangolin",
+    "topic": "nature",
+    "title": "Панголин",
+    "caption": "Единственное млекопитающее, покрытое чешуёй. Чешуя из кератина — как ногти. Самое контрабандное животное мира — 1 млн особей за 10 лет.",
+    "alt": "Панголин",
+    "meta": { "species": "Pangolin" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pangolin"
+  },
+  {
+    "id": "fact-nature-narwhal",
+    "topic": "nature",
+    "title": "Нарвал",
+    "caption": "«Морской единорог». Бивень — на самом деле зуб, выросший из верхней челюсти. Длина до 3 м. С 10 миллионами нервных окончаний.",
+    "alt": "Нарвал с бивнем",
+    "meta": { "species": "Monodon monoceros" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Narwhal"
+  },
+  {
+    "id": "fact-nature-axolotl",
+    "topic": "nature",
+    "title": "Аксолотль",
+    "caption": "Мексиканская саламандра. Регенерирует утраченные конечности, органы, даже части сердца. Используется в исследованиях по регенерации тканей.",
+    "alt": "Аксолотль",
+    "meta": { "species": "Ambystoma mexicanum" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Axolotl"
+  },
+  {
+    "id": "fact-nature-mantis-shrimp-2",
+    "topic": "nature",
+    "title": "Рак-богомол · зрение",
+    "caption": "16 типов рецепторов цвета (у человека 3). Видит ультрафиолет и поляризованный свет. Глаза независимо вращаются на 360°.",
+    "alt": "Рак-богомол",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mantis_shrimp"
+  },
+  {
+    "id": "fact-nature-naked-mole-rat",
+    "topic": "nature",
+    "title": "Голый землекоп",
+    "caption": "Африканский грызун. Живёт 30+ лет — рекорд для грызунов. Холоднокровный (как рептилия), не чувствует боли от кислоты, устойчив к раку.",
+    "alt": "Голый землекоп",
+    "meta": { "species": "Heterocephalus glaber" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Naked_mole-rat"
+  },
+  {
+    "id": "fact-nature-shark-greenland",
+    "topic": "nature",
+    "title": "Гренландская акула",
+    "caption": "Долгожитель — 250–500 лет. Половой зрелости достигает в 150 лет. Растёт 1 см в год. В мясе токсичный триметиламин, у эскимосов — деликатес.",
+    "alt": "Гренландская акула",
+    "meta": { "species": "Somniosus microcephalus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Greenland_shark"
+  },
+  {
+    "id": "fact-nature-coelacanth",
+    "topic": "nature",
+    "title": "Целакант",
+    "caption": "«Живое ископаемое». Считался вымершим 65 миллионов лет назад. Найден живым в 1938 у берегов ЮАР. Изменился мало за 400 млн лет.",
+    "alt": "Целакант",
+    "year": 1938,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Coelacanth"
+  },
+  {
+    "id": "fact-nature-elephant-bird",
+    "topic": "nature",
+    "title": "Эпиорнис",
+    "caption": "Самая большая птица в истории. Мадагаскар, вымер ~1200 год. До 3 м роста, 730 кг. Яйцо 30 см, объём 9 литров — 200 куриных.",
+    "alt": "Реконструкция эпиорниса",
+    "year": 1200,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Elephant_bird"
+  },
+  {
+    "id": "fact-nature-moa",
+    "topic": "nature",
+    "title": "Моа",
+    "caption": "Новая Зеландия. 9 видов гигантских нелетающих птиц. Самая высокая — 3,6 м. Истреблены полинезийцами в XV веке за 150 лет после колонизации.",
+    "alt": "Реконструкция моа",
+    "year": 1400,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Moa"
+  },
+  {
+    "id": "fact-nature-mammoth",
+    "topic": "nature",
+    "title": "Мамонт",
+    "caption": "Шерстистый мамонт вымер ~4000 лет назад. Последняя популяция жила на острове Врангеля до 2000 до н.э. — пока строили пирамиды.",
+    "alt": "Реконструкция мамонта",
+    "year": -2000,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Woolly_mammoth"
+  },
+  {
+    "id": "fact-nature-sequoia-grizzly",
+    "topic": "nature",
+    "title": "Гризли Гигант",
+    "caption": "Самый известный после Шермана секвойя в Йосемити. Возраст ~2700 лет. Высота 64 м, диаметр 8 м. Назван в 1859 за «звериный» вид.",
+    "alt": "Секвойя Гризли Гигант",
+    "year": 1859,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Grizzly_Giant"
+  },
+  {
+    "id": "fact-nature-baobab",
+    "topic": "nature",
+    "title": "Баобаб",
+    "caption": "Африканское дерево. Запасает до 120 000 литров воды в стволе. Живёт 1000+ лет, диаметр ствола до 14 м. 8 видов в мире.",
+    "alt": "Баобаб",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Adansonia"
+  },
+  {
+    "id": "fact-nature-corpse-flower",
+    "topic": "nature",
+    "title": "Раффлезия",
+    "caption": "Самый большой цветок мира — до 1 м диаметром и 11 кг. Пахнет как тухлое мясо для привлечения мух-опылителей. Паразит, без листьев.",
+    "alt": "Цветок раффлезии",
+    "meta": { "species": "Rafflesia" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rafflesia"
+  },
+  {
+    "id": "fact-nature-venus-flytrap",
+    "topic": "nature",
+    "title": "Венерина мухоловка",
+    "caption": "Хищное растение. Захлопывает ловушку за 0,1 секунды, если коснулись 2 волоска подряд. Растёт в болотах Каролин (США).",
+    "alt": "Венерина мухоловка",
+    "meta": { "species": "Dionaea muscipula" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Venus_flytrap"
+  },
+  {
+    "id": "fact-nature-mycelium",
+    "topic": "nature",
+    "title": "Мицелий",
+    "caption": "Подземная сеть гриба. Крупнейший организм Земли — Armillaria в Орегоне, 9,6 км² и 2400 лет. Грибы ближе к животным, чем к растениям.",
+    "alt": "Мицелий грибов",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mycelium"
+  },
+  {
+    "id": "fact-science-vaccine-mrna",
+    "topic": "science",
+    "title": "мРНК-вакцина",
+    "caption": "Кариджия Барбара и Каталин Карико, 1990-е. Pfizer-BioNTech и Moderna выпустили COVID-вакцины за 11 месяцев в 2020. Нобель Карико 2023.",
+    "alt": "Принцип мРНК-вакцины",
+    "year": 2020,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "RNA_vaccine"
+  },
+  {
+    "id": "fact-science-cas9",
+    "topic": "science",
+    "title": "CRISPR-Cas9 в действии",
+    "caption": "«Молекулярные ножницы». Один белок Cas9 направляется РНК-гидом точно к нужной последовательности ДНК. Используется в 1000+ лабораториях.",
+    "alt": "Схема CRISPR-Cas9",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cas9"
+  },
+  {
+    "id": "fact-science-pcr",
+    "topic": "science",
+    "title": "ПЦР",
+    "caption": "Кэри Маллис, 1983, Нобель 1993. Полимеразная цепная реакция удваивает ДНК за 1 цикл (30 циклов = миллион копий). Базис диагностики и криминалистики.",
+    "alt": "Принцип ПЦР",
+    "year": 1983,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Polymerase_chain_reaction"
+  },
+  {
+    "id": "fact-science-stethoscope",
+    "topic": "science",
+    "title": "Стетоскоп",
+    "caption": "Рене Лаэннек, 1816. Свернул бумагу, чтобы прослушать сердце смущённой пациентки. Через 3 года — деревянный цилиндр, начало кардиологии.",
+    "alt": "Стетоскоп",
+    "year": 1816,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stethoscope"
+  },
+  {
+    "id": "fact-science-insulin",
+    "topic": "science",
+    "title": "Инсулин",
+    "caption": "Бантинг и Маклеод, 1921. Первый пациент Леонард Томпсон, 14 лет, 1922. Нобель 1923. Сегодня — 537 миллионов диабетиков в мире.",
+    "alt": "Молекула инсулина",
+    "year": 1921,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Insulin"
+  },
+  {
+    "id": "fact-science-aspirin",
+    "topic": "science",
+    "title": "Аспирин",
+    "caption": "Феликс Хоффман, Bayer, 1897. Ацетилсалициловая кислота. К 2024 — 100 миллиардов таблеток в год. Открыл новый класс — НПВП.",
+    "alt": "Молекула аспирина",
+    "year": 1897,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aspirin"
+  },
+  {
+    "id": "fact-science-anesthesia",
+    "topic": "science",
+    "title": "Анестезия",
+    "caption": "Уильям Мортон, 16 октября 1846. Первая публичная операция под эфиром в Массачусетсе. Конец 5000 лет хирургии без обезболивания.",
+    "alt": "Демонстрация эфирной анестезии 1846",
+    "year": 1846,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Anesthesia"
+  },
+  {
+    "id": "fact-science-pacemaker",
+    "topic": "science",
+    "title": "Кардиостимулятор",
+    "caption": "Уилсон Грейтбэтч, 1958. Случайно — поставил не тот резистор в осциллятор. Первая имплантация — Швеция, 8 октября 1958. Пациент дожил до 86 лет.",
+    "alt": "Кардиостимулятор",
+    "year": 1958,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Artificial_cardiac_pacemaker"
+  },
+  {
+    "id": "fact-science-dialysis",
+    "topic": "science",
+    "title": "Гемодиализ",
+    "caption": "Виллем Колфф, Нидерланды, 1943. Первая «искусственная почка» в условиях оккупации. Сегодня — 2 миллиона людей на диализе в мире.",
+    "alt": "Аппарат гемодиализа",
+    "year": 1943,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hemodialysis"
+  },
+  {
+    "id": "fact-science-defibrillator",
+    "topic": "science",
+    "title": "Дефибриллятор",
+    "caption": "Клод Бек, 1947 — первый успешный разряд. Современный портативный AED — 1980-е. На борту самолётов с 1990-х. Каждая минута без разряда — −10% выживаемости.",
+    "alt": "Дефибриллятор",
+    "year": 1947,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Defibrillation"
+  },
+  {
+    "id": "fact-science-cochlear-implant",
+    "topic": "science",
+    "title": "Кохлеарный имплант",
+    "caption": "Заменяет внутреннее ухо. Первый — Уильям Хаус, 1961. Современный конвертирует звук в 22 электрических сигнала на улитку. 1 миллион пользователей.",
+    "alt": "Кохлеарный имплант",
+    "year": 1961,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cochlear_implant"
+  }
+]

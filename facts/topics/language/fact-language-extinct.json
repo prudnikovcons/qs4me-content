@@ -1,0 +1,14 @@
+{
+  "id": "fact-language-extinct",
+  "topic": "language",
+  "title": "Мёртвые языки",
+  "caption": "Каждые 2 недели исчезает один язык. С 1950 умерли 230+. К 2100 ЮНЕСКО прогнозирует исчезновение 50%. Иврит — единственное успешное возрождение.",
+  "image": "fact-language-extinct.webp",
+  "image_width": 1280,
+  "image_height": 695,
+  "alt": "Карта исчезающих языков",
+  "credit": "Vectorization: Alhadis · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Endangered_language",
+  "license": "PD",
+  "year": 2100
+}

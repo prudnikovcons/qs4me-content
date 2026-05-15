@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-cosmic-distance-ladder",
+  "topic": "infographics",
+  "title": "Космическая лестница расстояний",
+  "caption": "Параллакс (до 10 кпк) → цефеиды (до 100 Мпк) → сверхновые типа Ia (до 1 Гпк) → красное смещение (всё остальное).",
+  "image": "fact-infographics-cosmic-distance-ladder.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Космическая лестница расстояний",
+  "credit": "WilliamKF, TilmannR · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Cosmic_distance_ladder",
+  "license": "CC-BY-SA",
+  "year": 2018
+}

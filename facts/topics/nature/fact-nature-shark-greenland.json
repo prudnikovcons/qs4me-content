@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-shark-greenland",
+  "topic": "nature",
+  "title": "Гренландская акула",
+  "caption": "Долгожитель — 250–500 лет. Половой зрелости достигает в 150 лет. Растёт 1 см в год. В мясе токсичный триметиламин, у эскимосов — деликатес.",
+  "image": "fact-nature-shark-greenland.webp",
+  "image_width": 1225,
+  "image_height": 689,
+  "alt": "Гренландская акула",
+  "credit": "NOAA Okeanos Explorer Program · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Greenland_shark",
+  "license": "PD",
+  "year": 2013,
+  "meta": {
+    "species": "Somniosus microcephalus"
+  }
+}

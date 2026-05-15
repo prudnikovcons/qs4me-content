@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-yuri-gagarin",
+  "topic": "events",
+  "title": "Полёт Юрия Гагарина",
+  "caption": "12 апреля 1961, 9:07. Восток-1 поднялся на 327 км, обогнул Землю за 108 минут. Гагарину было 27 лет. Первый человек в космосе.",
+  "image": "fact-events-yuri-gagarin.webp",
+  "image_width": 1280,
+  "image_height": 1707,
+  "alt": "Гагарин в скафандре",
+  "credit": "Александр Моклецов / СовИнформБюро · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+  "license": "CC-BY",
+  "year": 1961
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-dna-replication",
+  "topic": "infographics",
+  "title": "Репликация ДНК",
+  "caption": "Двойная спираль расплетается, каждая нить — шаблон для новой. Скорость 50 нуклеотидов/сек у человека, точность 1 ошибка на 10 миллиардов.",
+  "image": "fact-infographics-dna-replication.webp",
+  "image_width": 1280,
+  "image_height": 2581,
+  "alt": "Схема репликации ДНК",
+  "credit": "Madprime · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/DNA_replication",
+  "license": "CC-BY-SA",
+  "year": 2022
+}

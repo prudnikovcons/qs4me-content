@@ -4,12 +4,15 @@
   "fact-language-cyrillic",
   "fact-language-devanagari",
   "fact-language-esperanto",
+  "fact-language-extinct",
   "fact-language-hangul",
   "fact-language-hebrew",
   "fact-language-japanese-kanji",
   "fact-language-latin",
   "fact-language-mandarin",
+  "fact-language-pidgin-creole",
   "fact-language-runes",
   "fact-language-sanskrit",
-  "fact-language-sign"
+  "fact-language-sign",
+  "fact-language-tower-of-babel"
 ]

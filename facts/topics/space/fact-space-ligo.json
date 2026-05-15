@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-ligo",
+  "topic": "space",
+  "title": "LIGO",
+  "caption": "Лазерно-интерферометрическая гравитационно-волновая обсерватория. Туннели 4 км в Луизиане и Вашингтоне. Первый сигнал 14 сентября 2015.",
+  "image": "fact-space-ligo.webp",
+  "image_width": 1280,
+  "image_height": 566,
+  "alt": "LIGO в Луизиане",
+  "credit": "Amber Stuver · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/LIGO",
+  "license": "CC-BY-SA",
+  "year": 2015
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-piano-museum",
+  "topic": "architecture",
+  "title": "Музей Метрополитен",
+  "caption": "Нью-Йорк, 1880. Крупнейший художественный музей Западного полушария — 200 000 м². 7 млн посетителей/год. 5000+ лет искусства.",
+  "image": "fact-architecture-piano-museum.webp",
+  "image_width": 1280,
+  "image_height": 715,
+  "alt": "Музей Метрополитен в Нью-Йорке",
+  "credit": "Hugo Schneider · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+  "license": "CC-BY-SA",
+  "year": 1880,
+  "meta": {
+    "country_code": "US"
+  }
+}

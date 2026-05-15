@@ -1,0 +1,17 @@
+{
+  "id": "fact-food-kimchi-2",
+  "topic": "food",
+  "title": "Кимчи · 김치",
+  "caption": "Корейская ферментированная капуста. 200+ видов. Король кимчи — баёчу-кимчи на основе пекинской капусты с красным перцем кочукару.",
+  "image": "fact-food-kimchi-2.webp",
+  "image_width": 767,
+  "image_height": 511,
+  "alt": "Кимчи — несколько видов",
+  "credit": "국립국어원 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Kimchi",
+  "license": "CC-BY-SA",
+  "year": 2015,
+  "meta": {
+    "country_code": "KR"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-action-potential",
+  "topic": "infographics",
+  "title": "Потенциал действия",
+  "caption": "Электрический импульс в нейроне. От −70 мВ покоя через +40 мВ пика — за 2 мс. Передаётся вдоль аксона со скоростью до 120 м/с.",
+  "image": "fact-infographics-action-potential.webp",
+  "image_width": 1000,
+  "image_height": 712,
+  "alt": "Потенциал действия нейрона",
+  "credit": "Laurentaylorj · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Action_potential",
+  "license": "CC-BY-SA",
+  "year": 2013
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-naked-mole-rat",
+  "topic": "nature",
+  "title": "Голый землекоп",
+  "caption": "Африканский грызун. Живёт 30+ лет — рекорд для грызунов. Холоднокровный (как рептилия), не чувствует боли от кислоты, устойчив к раку.",
+  "image": "fact-nature-naked-mole-rat.webp",
+  "image_width": 720,
+  "image_height": 560,
+  "alt": "Голый землекоп",
+  "credit": "Kein keen · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Naked_mole-rat",
+  "license": "CC-BY-SA",
+  "year": 2018,
+  "meta": {
+    "species": "Heterocephalus glaber"
+  }
+}

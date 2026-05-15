@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-british-museum",
+  "topic": "architecture",
+  "title": "Британский музей",
+  "caption": "Лондон, 1759. Первый общедоступный национальный музей мира. 8 миллионов экспонатов. Розеттский камень, мрамор Парфенона, мумии.",
+  "image": "fact-architecture-british-museum.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Британский музей",
+  "credit": "Luke Massey &amp; the Greater London National Park City Initiative · CC-BY · Wik",
+  "source": "https://en.wikipedia.org/wiki/British_Museum",
+  "license": "CC-BY",
+  "year": 1759,
+  "meta": {
+    "country_code": "GB"
+  }
+}

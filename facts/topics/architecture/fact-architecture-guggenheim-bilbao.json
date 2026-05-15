@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-guggenheim-bilbao",
+  "topic": "architecture",
+  "title": "Гуггенхайм Бильбао",
+  "caption": "Фрэнк Гери, 1997. Деконструктивизм, фасад из 33 000 листов титана. Регенерировал город — «эффект Бильбао» в урбанистике.",
+  "image": "fact-architecture-guggenheim-bilbao.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Гуггенхайм в Бильбао",
+  "credit": "Naotake Murayama · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao",
+  "license": "CC-BY",
+  "year": 1997,
+  "meta": {
+    "country_code": "ES"
+  }
+}

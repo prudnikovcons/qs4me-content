@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-atp",
+  "topic": "infographics",
+  "title": "Молекула АТФ",
+  "caption": "Аденозинтрифосфат — энергетическая валюта клетки. Человек производит ~70 кг АТФ в сутки, мгновенно перерабатывая. В покое — 50 кг.",
+  "image": "fact-infographics-atp.webp",
+  "image_width": 1280,
+  "image_height": 631,
+  "alt": "Молекула АТФ",
+  "credit": "NEUROtiker · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+  "license": "PD",
+  "year": 2007
+}

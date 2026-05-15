@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-lake-sizes",
+  "topic": "infographics",
+  "title": "Крупнейшие озёра",
+  "caption": "Каспий — 371 000 км² (тех. солёное озеро), Верхнее — 82 100, Виктория — 68 800, Гурон — 59 600, Мичиган — 58 000, Байкал — 31 700.",
+  "image": "fact-infographics-lake-sizes.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Крупнейшие озёра мира",
+  "credit": "cmglee, Justin Kunimune · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/List_of_lakes_by_area",
+  "license": "CC-BY-SA",
+  "year": 2018
+}

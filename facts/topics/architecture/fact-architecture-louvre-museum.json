@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-louvre-museum",
+  "topic": "architecture",
+  "title": "Лувр",
+  "caption": "Париж. Крепость с 1190, дворец, музей с 1793. 73 000 м². Самый посещаемый музей мира — 9 млн человек в год.",
+  "image": "fact-architecture-louvre-museum.webp",
+  "image_width": 1280,
+  "image_height": 538,
+  "alt": "Лувр в Париже",
+  "credit": "Benh LIEU SONG (Flickr) · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Louvre",
+  "license": "CC-BY-SA",
+  "year": 1793,
+  "meta": {
+    "country_code": "FR"
+  }
+}

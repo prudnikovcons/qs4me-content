@@ -1,0 +1,17 @@
+{
+  "id": "fact-food-baklava",
+  "topic": "food",
+  "title": "Пахлава",
+  "caption": "Слоёное тесто с орехами в сиропе. Османская кухня, XV век. 40 листов фило, 33 слоя ореха в королевской пахлаве — Топкапы.",
+  "image": "fact-food-baklava.webp",
+  "image_width": 772,
+  "image_height": 515,
+  "alt": "Пахлава",
+  "credit": "Sakaman · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Baklava",
+  "license": "CC-BY-SA",
+  "year": 1500,
+  "meta": {
+    "country_code": "TR"
+  }
+}

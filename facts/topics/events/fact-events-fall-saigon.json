@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-fall-saigon",
+  "topic": "events",
+  "title": "Падение Сайгона",
+  "caption": "30 апреля 1975. Конец Вьетнамской войны. США эвакуировали 1373 человека с крыши посольства за 19 часов. Конец 20-летнего конфликта.",
+  "image": "fact-events-fall-saigon.webp",
+  "image_width": 600,
+  "image_height": 387,
+  "alt": "Эвакуация с крыши посольства США 1975",
+  "credit": "Hubert van Es · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Fall_of_Saigon",
+  "license": "PD",
+  "year": 1975
+}

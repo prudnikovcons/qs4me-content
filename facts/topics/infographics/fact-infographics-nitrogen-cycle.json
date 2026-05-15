@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-nitrogen-cycle",
+  "topic": "infographics",
+  "title": "Круговорот азота",
+  "caption": "78% атмосферы — N₂, но его нельзя усвоить. Фиксаторы (Rhizobium, грозовые разряды) → аммиак → нитриты → нитраты → растения → разложение.",
+  "image": "fact-infographics-nitrogen-cycle.webp",
+  "image_width": 872,
+  "image_height": 545,
+  "alt": "Круговорот азота",
+  "credit": "M maraviglia · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Nitrogen_cycle",
+  "license": "CC-BY-SA",
+  "year": 2019
+}

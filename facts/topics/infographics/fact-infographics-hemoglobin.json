@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-hemoglobin",
+  "topic": "infographics",
+  "title": "Гемоглобин",
+  "caption": "Белок крови. 4 субъединицы, каждая удерживает 1 атом железа и 1 молекулу O₂. В 1 эритроците — 270 миллионов молекул гемоглобина.",
+  "image": "fact-infographics-hemoglobin.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Молекула гемоглобина",
+  "credit": "Zephyris at English Wikipedia · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Hemoglobin",
+  "license": "CC-BY-SA",
+  "year": 2007
+}

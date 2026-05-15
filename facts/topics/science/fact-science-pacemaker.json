@@ -1,0 +1,14 @@
+{
+  "id": "fact-science-pacemaker",
+  "topic": "science",
+  "title": "Кардиостимулятор",
+  "caption": "Уилсон Грейтбэтч, 1958. Случайно — поставил не тот резистор в осциллятор. Первая имплантация — Швеция, 8 октября 1958. Пациент дожил до 86 лет.",
+  "image": "fact-science-pacemaker.webp",
+  "image_width": 1280,
+  "image_height": 1357,
+  "alt": "Кардиостимулятор",
+  "credit": "Steven Fruitsmaak · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Artificial_cardiac_pacemaker",
+  "license": "CC-BY",
+  "year": 1958
+}

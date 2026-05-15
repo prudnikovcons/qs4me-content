@@ -1,0 +1,17 @@
+{
+  "id": "fact-art-las-meninas-velazquez",
+  "topic": "art",
+  "title": "Менины · Веласкес",
+  "caption": "Диего Веласкес, 1656. 318×276 см. Художник пишет короля и королеву — отражение в зеркале. Сложнейшая метакомпозиция в истории живописи.",
+  "image": "fact-art-las-meninas-velazquez.webp",
+  "image_width": 1280,
+  "image_height": 1473,
+  "alt": "«Менины» Веласкеса",
+  "credit": "Diego Velázquez · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Las_Meninas",
+  "license": "PD",
+  "year": 1656,
+  "meta": {
+    "artist": "Diego Velázquez"
+  }
+}

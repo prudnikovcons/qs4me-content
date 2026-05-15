@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-population-density",
+  "topic": "infographics",
+  "title": "Плотность населения",
+  "caption": "Мир: 60 чел/км². Монако 26 000 (рекорд), Сингапур 8000, Бангладеш 1300, Россия 9, Монголия 2, Намибия 3, Гренландия 0,03.",
+  "image": "fact-infographics-population-density.webp",
+  "image_width": 1280,
+  "image_height": 904,
+  "alt": "Плотность населения мира",
+  "credit": "Our World in Data · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density",
+  "license": "CC-BY",
+  "year": 2023
+}

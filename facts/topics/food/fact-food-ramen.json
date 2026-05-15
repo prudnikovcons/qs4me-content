@@ -1,0 +1,17 @@
+{
+  "id": "fact-food-ramen",
+  "topic": "food",
+  "title": "Рамэн",
+  "caption": "Японская лапша с бульоном. Завезена из Китая в Иокогаму в 1859. Хит после 1958, когда Момофуку Андо изобрёл быстрорастворимую (Nissin).",
+  "image": "fact-food-ramen.webp",
+  "image_width": 1280,
+  "image_height": 960,
+  "alt": "Рамэн в чашке",
+  "credit": "Lombroso · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Ramen",
+  "license": "CC-BY-SA",
+  "year": 1958,
+  "meta": {
+    "country_code": "JP"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-events-mlk-march",
+  "topic": "events",
+  "title": "Марш на Вашингтон",
+  "caption": "28 августа 1963. 250 000 человек у Мемориала Линкольна. Мартин Лютер Кинг — речь «У меня есть мечта». Запустил Civil Rights Act 1964.",
+  "image": "fact-events-mlk-march.webp",
+  "image_width": 1280,
+  "image_height": 1955,
+  "alt": "Марш на Вашингтон 1963",
+  "credit": "This photograph was made by Rowland Scherman at the March on Washington. The neg",
+  "source": "https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom",
+  "license": "PD",
+  "year": 1963
+}

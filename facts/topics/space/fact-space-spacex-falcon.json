@@ -1,0 +1,14 @@
+{
+  "id": "fact-space-spacex-falcon",
+  "topic": "space",
+  "title": "Falcon 9",
+  "caption": "Первая многоразовая ракета-носитель. Первая посадка 1 ступени — 21 декабря 2015. К 2024 — 320+ полётов, 280+ посадок.",
+  "image": "fact-space-spacex-falcon.webp",
+  "image_width": 1280,
+  "image_height": 900,
+  "alt": "Falcon 9 на старте",
+  "credit": "Philip Terry Graham · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Falcon_9",
+  "license": "PD",
+  "year": 2015
+}
