@@ -1,8 +1,12 @@
 [
   "bach-brandenburg-2-1",
   "bach-brandenburg-2-3",
+  "beethoven-moonlight-1-adagio",
+  "beethoven-moonlight-2-allegretto",
+  "beethoven-moonlight-3-presto",
   "chopin-mazurka-30-2",
   "chopin-mazurka-67-2",
+  "chopin-nocturne-9-2",
   "chopin-nocturne-posth-cis",
   "chopin-polonaise-71-2",
   "chopin-waltz-70-1",
@@ -13,5 +17,8 @@
   "mozart-eine-kleine-4-rondo",
   "mozart-rondo-alla-turca",
   "mozart-sonata-11-menuetto",
-  "mozart-sonata-545-allegro"
+  "mozart-sonata-545-allegro",
+  "schubert-moment-3",
+  "schubert-moment-4",
+  "schubert-moment-5"
 ]

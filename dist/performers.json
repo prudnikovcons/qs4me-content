@@ -1,5 +1,20 @@
 [
   {
+    "id": "artur-schnabel",
+    "name_ru": "Артур Шнабель",
+    "name_en": "Artur Schnabel",
+    "birth": 1882,
+    "death": 1951,
+    "kind": "soloist",
+    "instrument": "фортепиано",
+    "summary_ru": "Австро-польский пианист, первый, кто записал все 32 фортепианные сонаты Бетховена (1932–1935 для HMV). Эталонный интерпретатор Бетховена, Шуберта и Моцарта; известен как педагог — среди его учеников Клиффорд Кёрзон и Лили Краус. В 1939 году эмигрировал из нацистской Австрии в США.",
+    "photo": "artur-schnabel.jpg",
+    "photo_credit": "Wikimedia Commons · PD",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Artur_Schnabel",
+    "_photoUrl": "/music/performers/artur-schnabel.jpg"
+  },
+  {
     "id": "maryla-jonas",
     "name_ru": "Марыля Йонас",
     "name_en": "Maryla Jonas",
@@ -13,6 +28,21 @@
     "photo_license": "PD",
     "source": "https://en.wikipedia.org/wiki/Maryla_Jonas",
     "_photoUrl": "/music/performers/maryla-jonas.jpg"
+  },
+  {
+    "id": "sergei-rachmaninoff",
+    "name_ru": "Сергей Рахманинов",
+    "name_en": "Sergei Rachmaninoff",
+    "birth": 1873,
+    "death": 1943,
+    "kind": "soloist",
+    "instrument": "фортепиано",
+    "summary_ru": "Русский композитор и один из крупнейших пианистов первой половины XX века. После 1917 года эмигрировал; в США регулярно записывался для RCA Victor. Записи Шопена, Шумана и Бетховена 1920–1942 — документ позднеромантической манеры исполнения, ушедшей вместе с эпохой.",
+    "photo": "sergei-rachmaninoff.jpg",
+    "photo_credit": "Library of Congress · PD · США",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Sergei_Rachmaninoff",
+    "_photoUrl": "/music/performers/sergei-rachmaninoff.jpg"
   },
   {
     "id": "thomas-beecham",

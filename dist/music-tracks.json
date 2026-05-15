@@ -44,6 +44,73 @@
     "_fileUrl": "/music/tracks/bach-brandenburg-2-3.mp3"
   },
   {
+    "id": "beethoven-moonlight-1-adagio",
+    "file": "beethoven-moonlight-1-adagio.mp3",
+    "title": "Соната № 14 «Лунная» op. 27 № 2, I — Adagio sostenuto",
+    "title_original": "Piano Sonata No. 14 «Moonlight», Op. 27 No. 2, I — Adagio sostenuto",
+    "composer_id": "beethoven",
+    "performer_id": "artur-schnabel",
+    "year_composed": 1801,
+    "year_recorded": 1934,
+    "era": "classical",
+    "style": [
+      "sonata",
+      "piano-solo"
+    ],
+    "duration_sec": 285,
+    "description_md": "Первая часть Сонаты № 14 до-диез минор op. 27 № 2, законченной Бетховеном в 1801 году и посвящённой Джульетте Гвиччарди, ученице. Подзаголовок «Лунная» придуман не Бетховеном — он появился в 1832 году, через пять лет после смерти композитора: критик Людвиг Рельштаб сравнил первую часть с лодкой, плывущей по Фирвальдштетскому озеру при луне. Бетховен называл произведение «Sonata quasi una fantasia» — «соната как бы фантазия».\n\nAdagio sostenuto — медленно, выдержанно. Безостановочные триоли в средней регистре, тихая мелодия наверху, длинные басовые ноты внизу — три слоя, идущих почти ритуально, без эффектных событий. Бетховен сам указал: педаль не снимать всё время, нота на ноту, нарушение академического правила XVIII века. Результат — гипнотический, размытый звук, предвестие романтической фактуры. Артур Шнабель в записи 1934 года читает партитуру буквально: ничего не подгоняет, ничего не подкрашивает, держит трагическое спокойствие до конца.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/licenses/publicdomain/",
+    "source": "https://archive.org/details/BeethovenPianoSonataNo.14moonlight",
+    "credit": "Artur Schnabel · HMV, 1934 · PD",
+    "_fileUrl": "/music/tracks/beethoven-moonlight-1-adagio.mp3"
+  },
+  {
+    "id": "beethoven-moonlight-2-allegretto",
+    "file": "beethoven-moonlight-2-allegretto.mp3",
+    "title": "Соната № 14 «Лунная» op. 27 № 2, II — Allegretto",
+    "title_original": "Piano Sonata No. 14 «Moonlight», Op. 27 No. 2, II — Allegretto",
+    "composer_id": "beethoven",
+    "performer_id": "artur-schnabel",
+    "year_composed": 1801,
+    "year_recorded": 1934,
+    "era": "classical",
+    "style": [
+      "sonata",
+      "piano-solo"
+    ],
+    "duration_sec": 139,
+    "description_md": "Вторая часть — Allegretto, ре-бемоль мажор, в форме менуэта с трио. После статичного Adagio sostenuto эта часть звучит как просвет: лёгкий, танцевальный, в среднем регистре, всего две с лишним минуты. Лист метко назвал её «цветком между двумя пропастями».\n\nФорма каноническая — менуэт (А) с акцентами на сильные доли, трио (В) в одноимённом тоническом миноре с типичным «sforzando на слабые доли», возвращение менуэта. Бетховен сохраняет здесь жанровый каркас классической сонаты — обязательный «танец» как третья часть, — но переставляет его на место второй, потому что вся соната имеет нестандартную медленную-средняя-быстрая структуру. У Шнабеля Allegretto идёт твёрдо, без сентиментальности, как короткое сценическое отступление перед бурным финалом.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/licenses/publicdomain/",
+    "source": "https://archive.org/details/BeethovenPianoSonataNo.14moonlight",
+    "credit": "Artur Schnabel · HMV, 1934 · PD",
+    "_fileUrl": "/music/tracks/beethoven-moonlight-2-allegretto.mp3"
+  },
+  {
+    "id": "beethoven-moonlight-3-presto",
+    "file": "beethoven-moonlight-3-presto.mp3",
+    "title": "Соната № 14 «Лунная» op. 27 № 2, III — Presto agitato",
+    "title_original": "Piano Sonata No. 14 «Moonlight», Op. 27 No. 2, III — Presto agitato",
+    "composer_id": "beethoven",
+    "performer_id": "artur-schnabel",
+    "year_composed": 1801,
+    "year_recorded": 1934,
+    "era": "classical",
+    "style": [
+      "sonata",
+      "piano-solo"
+    ],
+    "duration_sec": 392,
+    "description_md": "Финал Лунной сонаты — Presto agitato, до-диез минор, форма сонатного аллегро. Главное место всей сонаты: после интроспективного Adagio и танцевального Allegretto Бетховен взрывает форму прямой драмой — арпеджио по всей клавиатуре, sforzando-аккорды, безостановочные шестнадцатые в правой руке. Это уже не классический финал, а музыка нового рода — программная по эффекту, романтическая по интенсивности.\n\nГлавная партия — восходящие арпеджио к sforzando-аккорду на верхней ноте, повторяемые во всё более высоких регистрах. Побочная — короткая лирическая линия, тут же тонущая в потоке шестнадцатых. Разработка короткая, реприза — точная; коду Бетховен строит как затухание, после которого внезапные финальные аккорды закрывают пьесу. Шнабель в 1934 году играет финал не как технический показ, а как кульминацию драматического сюжета всей сонаты: жёсткий темп, чёткая артикуляция, без эффектных rubato.",
+    "trivia": "Подзаголовок «Лунная» появился через пять лет после смерти Бетховена — критик Рельштаб сравнил первую часть с лодкой при луне на Фирвальдштетском озере.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/licenses/publicdomain/",
+    "source": "https://archive.org/details/BeethovenPianoSonataNo.14moonlight",
+    "credit": "Artur Schnabel · HMV, 1934 · PD",
+    "_fileUrl": "/music/tracks/beethoven-moonlight-3-presto.mp3"
+  },
+  {
     "id": "chopin-mazurka-30-2",
     "file": "chopin-mazurka-30-2.mp3",
     "title": "Мазурка op. 30 № 2 си-бемоль минор",
@@ -88,6 +155,29 @@
     "source": "https://archive.org/details/PianoMusicOfChopin",
     "credit": "Maryla Jonas · Columbia, 1946–1949 · CC0",
     "_fileUrl": "/music/tracks/chopin-mazurka-67-2.mp3"
+  },
+  {
+    "id": "chopin-nocturne-9-2",
+    "file": "chopin-nocturne-9-2.mp3",
+    "title": "Ноктюрн op. 9 № 2 ми-бемоль мажор",
+    "title_original": "Nocturne in E♭ major, Op. 9 No. 2",
+    "composer_id": "chopin",
+    "performer_id": "sergei-rachmaninoff",
+    "year_composed": 1832,
+    "year_recorded": 1927,
+    "era": "romanticism",
+    "style": [
+      "nocturne",
+      "piano-solo"
+    ],
+    "duration_sec": 289,
+    "description_md": "Самый известный из 21 ноктюрна Шопена — Op. 9 № 2 ми-бемоль мажор, написан в 1832 году и опубликован среди трёх ноктюрнов op. 9, посвящённых Камилле Плейель, жене издателя. Простая итальянская мелодия в правой руке плывёт над покачивающимся арпеджио в левой; в трёх повторах основной темы пианист каждый раз варьирует орнамент — это и есть жанр ноктюрна: одинокая ночная песня.\n\nЭта запись — Сергей Рахманинов, 5 апреля 1927 года, RCA Victor. К моменту записи Рахманинов как пианист на гастролях в США уже шесть лет, и подход к Шопену у него радикально не-салонный: широкая агогика, удлинённые мелодические дуги, тяжёлый бас. Слышен типичный звук 78-оборотной пластинки 20-х — узкая полоса, шипение шеллака — но артикуляция и фразировка проходят сквозь шум: это документ исчезнувшей школы фортепианной игры.",
+    "trivia": "Рахманинов записал этот ноктюрн в 53 года; запись сохранилась только потому, что Bob Varney перенёс её с шеллака на современный носитель.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/licenses/publicdomain/",
+    "source": "https://archive.org/details/NocturneInE-flat",
+    "credit": "Sergei Rachmaninoff · RCA Victor, 1927 · PD",
+    "_fileUrl": "/music/tracks/chopin-nocturne-9-2.mp3"
   },
   {
     "id": "chopin-nocturne-posth-cis",
@@ -333,5 +423,68 @@
     "source": "https://archive.org/details/Sonata.no.16InCMajor",
     "credit": "Mutopia Project · PD",
     "_fileUrl": "/music/tracks/mozart-sonata-545-allegro.mp3"
+  },
+  {
+    "id": "schubert-moment-3",
+    "file": "schubert-moment-3.mp3",
+    "title": "Музыкальный момент op. 94 № 3 фа минор",
+    "title_original": "Moment musical in F minor, D. 780 No. 3, Op. 94 No. 3",
+    "composer_id": "schubert",
+    "performer_id": "artur-schnabel",
+    "year_composed": 1827,
+    "year_recorded": 1937,
+    "era": "romanticism",
+    "style": [
+      "piano-solo"
+    ],
+    "duration_sec": 114,
+    "description_md": "Самая известная из шести «Музыкальных моментов» op. 94 D 780 — № 3 фа минор, опубликована в 1828 году, за несколько месяцев до смерти Шуберта. «Музыкальный момент» как жанр изобретён Шубертом: короткая, замкнутая фортепианная пьеса без программного содержания, ни этюд, ни соната, ни танец — просто музыкальная мысль, доведённая до завершения за полторы-две минуты. После Шуберта этот формат разрабатывают Шуман, Брамс, Рахманинов.\n\nТретий моменто — пьеса в простом маршевом ритме, с характерным «прихрамыванием» на третьей доле, что превращает её скорее в стилизацию народного танца, чем в марш. Минорная окраска, простая фактура, ABA-форма с возвращением. Записанный Артуром Шнабелем в 1937 году для RCA Victor, фрагмент из набора M 684 — одна из самых ранних эталонных интерпретаций цикла на пластинке.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/licenses/publicdomain/",
+    "source": "https://archive.org/details/SchubertMomentsMusicaux1-6",
+    "credit": "Artur Schnabel · RCA Victor, 1937 · PD",
+    "_fileUrl": "/music/tracks/schubert-moment-3.mp3"
+  },
+  {
+    "id": "schubert-moment-4",
+    "file": "schubert-moment-4.mp3",
+    "title": "Музыкальный момент op. 94 № 4 до-диез минор",
+    "title_original": "Moment musical in C♯ minor, D. 780 No. 4, Op. 94 No. 4",
+    "composer_id": "schubert",
+    "performer_id": "artur-schnabel",
+    "year_composed": 1827,
+    "year_recorded": 1937,
+    "era": "romanticism",
+    "style": [
+      "piano-solo"
+    ],
+    "duration_sec": 234,
+    "description_md": "Четвёртый «Музыкальный момент» — до-диез минор, Moderato, форма ABA с трио в одноимённом мажоре. По формальной структуре эта пьеса ближе всего к интермеццо или короткой прелюдии: ровный шестнадцатый поток в правой руке выступает фоном, на котором мелодические интонации мерцают и исчезают.\n\nХарактерная шубертовская черта — обманчивая «простота»: за безмятежной фактурой стоит хроматизированная гармония, постоянные модуляционные сдвиги в среднем разделе, неожиданные тональные просветы. До-диез минор у Шуберта обычно связан с интроспекцией (Impromptu D 899/3, последняя соната D 960 II) — здесь тот же круг. Записан Артуром Шнабелем в 1937 году; перенесён с шеллака 78 rpm и пересжат до 128 kbps.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/licenses/publicdomain/",
+    "source": "https://archive.org/details/SchubertMomentsMusicaux1-6",
+    "credit": "Artur Schnabel · RCA Victor, 1937 · PD",
+    "_fileUrl": "/music/tracks/schubert-moment-4.mp3"
+  },
+  {
+    "id": "schubert-moment-5",
+    "file": "schubert-moment-5.mp3",
+    "title": "Музыкальный момент op. 94 № 5 фа минор",
+    "title_original": "Moment musical in F minor, D. 780 No. 5, Op. 94 No. 5",
+    "composer_id": "schubert",
+    "performer_id": "artur-schnabel",
+    "year_composed": 1827,
+    "year_recorded": 1937,
+    "era": "romanticism",
+    "style": [
+      "piano-solo"
+    ],
+    "duration_sec": 76,
+    "description_md": "Пятый и самый короткий из «Музыкальных моментов» — фа минор, Allegro vivace, чуть больше минуты. Бурный, энергичный, в трёхчастной форме с очень быстрым возвращением основной темы. Шуберт использует здесь характерный пианистический приём: альтернирующая правая и левая рука, фактически создающая иллюзию двух одновременных голосов, спорящих между собой в плотном диалоге.\n\nЭта пьеса чаще всего попадает в учебные сборники — как пример лаконичной двух-минутной концертной миниатюры с законченной драматической дугой. Эталонная интерпретация Артура Шнабеля 1937 года: быстрый темп, чёткая артикуляция, никаких rubato в финале. Минута тринадцать с экспозицией, разработкой и кодой — пример того, как поздний Шуберт работает с временем: ничего лишнего, никакого «дополнительного материала».",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/licenses/publicdomain/",
+    "source": "https://archive.org/details/SchubertMomentsMusicaux1-6",
+    "credit": "Artur Schnabel · RCA Victor, 1937 · PD",
+    "_fileUrl": "/music/tracks/schubert-moment-5.mp3"
   }
 ]
