@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-01",
+  "file": "bach-goldberg-var-01.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 1",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 1 a 1 Clav.",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 115,
+  "description_md": "Первая вариация — энергичная двухголосная инвенция, размер 3/4, темп подразумевается быстрый. Бах помечает её «a 1 Clav.» — для одного мануала клавесина (на современном фортепиано это значит обычная игра без перекрёстных рук). Тема Арии здесь не появляется буквально, но её гармонический скелет узнаваем в нисходящей басовой линии.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

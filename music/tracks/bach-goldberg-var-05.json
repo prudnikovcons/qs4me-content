@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-05",
+  "file": "bach-goldberg-var-05.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 5",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 5 a 1 ovvero 2 Clav.",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 94,
+  "description_md": "Виртуозная вариация — «для одного или двух мануалов» по указанию Баха. На двухмануальном клавесине здесь происходит перекрест рук: одна играет высокую партию, другая — низкую, и они меняются местами; на фортепиано это превращается в сложную координационную задачу. Размер 3/4, темп быстрый.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

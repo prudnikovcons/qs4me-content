@@ -1,0 +1,22 @@
+{
+  "id": "bach-goldberg-aria",
+  "file": "bach-goldberg-aria.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Ария",
+  "title_original": "Goldberg Variations, BWV 988 — Aria",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 299,
+  "description_md": "Открывающая Ария «Гольдберг-вариаций» — сарабанда соль мажор в размере 3/4, тридцать два такта, изумительная мелодия в правой руке над спокойной поступью баса. Эта Ария — не тема, как обычно говорят о вариационных циклах, а БАС: всё гигантское здание тридцати следующих вариаций строится на её басовой линии и гармонической структуре, а не на самой мелодии. Кимико Ишизака записала весь цикл в Тельдекс-Студио в Берлине в марте 2012-го; запись выпущена под CC0 как часть Open Goldberg Project, профинансированного через Kickstarter.",
+  "trivia": "Цикл назван по имени Иоганна Готлиба Гольдберга (1727-1756) — клавесиниста графа Кейзерлинга, который, по преданию Форкеля, играл вариации засыпающему графу.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

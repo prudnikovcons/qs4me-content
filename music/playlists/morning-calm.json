@@ -1,16 +1,15 @@
 {
   "slug": "morning-calm",
   "name_ru": "Утреннее затишье",
-  "description_ru": "Шесть камерных пьес для мягкого старта дня. Без фортиссимо, без драматических кульминаций — серенадная классика конца XVIII и фортепианная миниатюра романтической эпохи. Подходит как фон под чтение, кофе или утренние письма.",
+  "description_ru": "Пять медленных пьес для мягкого старта дня — Aria из Гольдберг-вариаций, лирическая 13-я вариация, Менуэт из сонаты Моцарта KV 331. Без фортиссимо, без драматических кульминаций. Подходит как фон под чтение или утренний кофе.",
   "mood": "calm",
   "best_time": "morning",
   "track_ids": [
-    "mozart-eine-kleine-2-romanze",
-    "schubert-moment-3",
-    "chopin-waltz-70-3",
-    "chopin-mazurka-30-2",
-    "tchaikovsky-nutcracker-overture",
-    "mozart-sonata-545-allegro"
+    "bach-goldberg-aria",
+    "bach-goldberg-var-13",
+    "mozart-sonata-11-menuetto",
+    "bach-goldberg-var-24",
+    "bach-goldberg-aria-da-capo"
   ],
-  "cover_track_id": "mozart-eine-kleine-2-romanze"
+  "cover_track_id": "bach-goldberg-aria"
 }

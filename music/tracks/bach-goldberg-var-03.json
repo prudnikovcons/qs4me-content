@@ -1,0 +1,22 @@
+{
+  "id": "bach-goldberg-var-03",
+  "file": "bach-goldberg-var-03.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 3 (Канон в унисон)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 3 Canone all'Unisuono",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo",
+    "fugue"
+  ],
+  "duration_sec": 116,
+  "description_md": "Первый из девяти канонов в цикле. Бах систематически выстраивает каждую третью вариацию (3, 6, 9, 12, 15, 18, 21, 24, 27) как канон в нарастающем интервале — от унисона до ноны. Здесь два верхних голоса идут в строгом каноне в один и тот же звук, как эхо в комнате, с пунктирной разницей в один такт; внизу — басовая линия Арии.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

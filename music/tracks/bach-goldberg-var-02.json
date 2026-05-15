@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-02",
+  "file": "bach-goldberg-var-02.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 2",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 2 a 1 Clav.",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 123,
+  "description_md": "Трёхголосная инвенция, размер 2/4. Три голоса плетут плотную полифоническую ткань: верхний, средний и басовая линия Арии в виде неизменного скелета. Спокойнее предыдущей; характер — почти разговорный, как краткая беседа трёх собеседников.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "goldberg-canons",
+  "name_ru": "Девять канонов Гольдберг-вариаций",
+  "description_ru": "Каждая третья вариация цикла — канон в нарастающем интервале: от унисона (вариация 3) до ноны (вариация 27). Девять канонов подряд позволяют услышать главный архитектурный принцип всего сборника: Бах систематически усложняет каноническую технику от простейшей имитации к самым широким интервалам.",
+  "mood": "focused",
+  "best_time": "anytime",
+  "track_ids": [
+    "bach-goldberg-var-03",
+    "bach-goldberg-var-06",
+    "bach-goldberg-var-09",
+    "bach-goldberg-var-12",
+    "bach-goldberg-var-15",
+    "bach-goldberg-var-18",
+    "bach-goldberg-var-21",
+    "bach-goldberg-var-24",
+    "bach-goldberg-var-27"
+  ],
+  "cover_track_id": "bach-goldberg-var-15"
+}

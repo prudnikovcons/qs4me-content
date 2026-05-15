@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-19",
+  "file": "bach-goldberg-var-19.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 19",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 19 a 1 Clav.",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 85,
+  "description_md": "Лёгкая, танцевальная вариация на 3/8 — характер пассепье или короткого менуэта. Гомофонная фактура, мягкие синкопы. После виртуозности предыдущих и плотности 18-го канона — намеренная разрядка перед мощной 20-й вариацией.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

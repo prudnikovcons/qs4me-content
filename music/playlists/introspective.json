@@ -1,0 +1,15 @@
+{
+  "slug": "introspective",
+  "name_ru": "Меланхолические минорные вариации",
+  "description_ru": "Четыре минорных эпизода Гольдберг-вариаций — две канонические вариации в соль миноре (15-я и 21-я) и «Чёрная жемчужина» Ванды Ландовской (25-я), обрамлённые открывающей и закрывающей Арией. Самый медитативный срез всего цикла.",
+  "mood": "introspective",
+  "best_time": "evening",
+  "track_ids": [
+    "bach-goldberg-aria",
+    "bach-goldberg-var-15",
+    "bach-goldberg-var-21",
+    "bach-goldberg-var-25",
+    "bach-goldberg-aria-da-capo"
+  ],
+  "cover_track_id": "bach-goldberg-var-25"
+}

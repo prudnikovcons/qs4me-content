@@ -1,0 +1,22 @@
+{
+  "id": "bach-goldberg-var-30",
+  "file": "bach-goldberg-var-30.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 30 (Quodlibet)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 30 Quodlibet",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 121,
+  "description_md": "Финальная вариация перед возвращением Арии — Quodlibet. «Какой угодно» по-латыни: это жанр немецкой бытовой музыки, в котором композитор соединяет в одном произведении несколько народных мелодий. Бах берёт две: «Ich bin so lang nicht bei dir g'west» («Я так долго был не с тобой») и «Kraut und Rüben haben mich vertrieben» («Капуста и репа меня прогнали»).\n\nПо семейному преданию, на семейных встречах Бахов они так и делали — пели каждый свою песню, и получался импровизированный многоголосный коллаж. Бах помещает эту простую крестьянскую песню в самый конец интеллектуально насыщенного цикла как улыбку, как возвращение к домашнему.",
+  "trivia": "Quodlibet — буквально «что угодно»: жанр немецких студенческих и семейных импровизаций, где каждый поёт свою песню одновременно с другими.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

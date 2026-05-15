@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-26",
+  "file": "bach-goldberg-var-26.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 26",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 26 a 2 Clav.",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 122,
+  "description_md": "Двухмануальная вариация уникальной структуры: одна рука играет в размере 18/16 (быстрые шестнадцатые), другая — в 3/4 (медленная сарабандная фактура). Два разных метрических слоя звучат одновременно, создавая характерный «вращательный» эффект. Бах единственный раз в цикле использует такую полиметрию.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bach-goldberg-var-24",
+  "file": "bach-goldberg-var-24.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 24 (Канон в октаву)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 24 a 1 Clav. Canone all'Ottava",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo",
+    "fugue"
+  ],
+  "duration_sec": 165,
+  "description_md": "Восьмой канон — в октаву. Два голоса идут в строгом каноне через октаву, бас держит линию Арии. Спокойный, пасторальный характер; размер 9/8 — в духе тихой жиги. После предыдущей виртуозной вариации — обязательная контрастная разрядка.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

@@ -1,67 +1,94 @@
 [
   {
-    "slug": "before-sleep",
-    "name_ru": "Перед сном",
-    "description_ru": "Шесть медленных пьес с угасающими концовками. Ночные жанры романтиков — ноктюрны Шопена в исполнении Рахманинова и Марыли Йонас, Adagio из Лунной сонаты Бетховена, мазурка предсмертного Шопена 1849 года. Музыка, которая заканчивается тишиной.",
-    "mood": "tender",
-    "best_time": "night",
-    "track_ids": [
-      "chopin-nocturne-9-2",
-      "beethoven-moonlight-1-adagio",
-      "chopin-nocturne-posth-cis",
-      "chopin-mazurka-67-2",
-      "schubert-moment-5",
-      "mozart-eine-kleine-2-romanze"
-    ],
-    "cover_track_id": "chopin-nocturne-9-2"
-  },
-  {
     "slug": "deep-work",
     "name_ru": "Глубокая работа",
-    "description_ru": "Семь треков для тех часов, когда нужно держать внимание долго и без срывов. Полифонический Бах, фортепианные миниатюры Шопена и Шуберта — повторяющиеся структуры и ровная динамика. Никаких резких всплесков, никаких длинных арий — фон, который не претендует на внимание.",
+    "description_ru": "Семь треков для часов сосредоточенной работы — полифоническая ткань Гольдберг-вариаций, Бранденбургские концерты Баха, фугетта и канон. Ровная пульсация, имитационная техника, никаких резких всплесков — фон, не претендующий на внимание, но и не мешающий ему.",
     "mood": "focused",
     "best_time": "work",
     "track_ids": [
+      "bach-goldberg-var-01",
+      "bach-goldberg-var-02",
+      "bach-goldberg-var-10",
+      "bach-goldberg-var-22",
       "bach-brandenburg-2-1",
-      "chopin-mazurka-30-2",
-      "chopin-mazurka-67-2",
-      "chopin-waltz-70-1",
-      "chopin-waltz-70-3",
-      "chopin-nocturne-posth-cis",
-      "schubert-moment-4"
+      "bach-goldberg-var-09",
+      "bach-brandenburg-2-3"
     ],
-    "cover_track_id": "bach-brandenburg-2-1"
+    "cover_track_id": "bach-goldberg-var-10"
+  },
+  {
+    "slug": "goldberg-canons",
+    "name_ru": "Девять канонов Гольдберг-вариаций",
+    "description_ru": "Каждая третья вариация цикла — канон в нарастающем интервале: от унисона (вариация 3) до ноны (вариация 27). Девять канонов подряд позволяют услышать главный архитектурный принцип всего сборника: Бах систематически усложняет каноническую технику от простейшей имитации к самым широким интервалам.",
+    "mood": "focused",
+    "best_time": "anytime",
+    "track_ids": [
+      "bach-goldberg-var-03",
+      "bach-goldberg-var-06",
+      "bach-goldberg-var-09",
+      "bach-goldberg-var-12",
+      "bach-goldberg-var-15",
+      "bach-goldberg-var-18",
+      "bach-goldberg-var-21",
+      "bach-goldberg-var-24",
+      "bach-goldberg-var-27"
+    ],
+    "cover_track_id": "bach-goldberg-var-15"
+  },
+  {
+    "slug": "goldberg-full-cycle",
+    "name_ru": "Гольдберг-вариации — ключевые вариации",
+    "description_ru": "Сокращённый путь по циклу BWV 988 — открывающая Ария, шестнадцать ключевых вариаций в порядке Баха и возвращение Арии. Около 50 минут. Все девять канонов сохранены; вариации между ними — лучшие представители своих типов: фугетта 10-я, кантабиле 13-я, французская увертюра 16-я, «чёрная жемчужина» 25-я, Quodlibet 30-я.",
+    "mood": "focused",
+    "best_time": "anytime",
+    "track_ids": [
+      "bach-goldberg-aria",
+      "bach-goldberg-var-01",
+      "bach-goldberg-var-03",
+      "bach-goldberg-var-07",
+      "bach-goldberg-var-10",
+      "bach-goldberg-var-13",
+      "bach-goldberg-var-15",
+      "bach-goldberg-var-16",
+      "bach-goldberg-var-18",
+      "bach-goldberg-var-21",
+      "bach-goldberg-var-24",
+      "bach-goldberg-var-25",
+      "bach-goldberg-var-27",
+      "bach-goldberg-var-29",
+      "bach-goldberg-var-30",
+      "bach-goldberg-aria-da-capo"
+    ],
+    "cover_track_id": "bach-goldberg-aria"
+  },
+  {
+    "slug": "introspective",
+    "name_ru": "Меланхолические минорные вариации",
+    "description_ru": "Четыре минорных эпизода Гольдберг-вариаций — две канонические вариации в соль миноре (15-я и 21-я) и «Чёрная жемчужина» Ванды Ландовской (25-я), обрамлённые открывающей и закрывающей Арией. Самый медитативный срез всего цикла.",
+    "mood": "introspective",
+    "best_time": "evening",
+    "track_ids": [
+      "bach-goldberg-aria",
+      "bach-goldberg-var-15",
+      "bach-goldberg-var-21",
+      "bach-goldberg-var-25",
+      "bach-goldberg-aria-da-capo"
+    ],
+    "cover_track_id": "bach-goldberg-var-25"
   },
   {
     "slug": "morning-calm",
     "name_ru": "Утреннее затишье",
-    "description_ru": "Шесть камерных пьес для мягкого старта дня. Без фортиссимо, без драматических кульминаций — серенадная классика конца XVIII и фортепианная миниатюра романтической эпохи. Подходит как фон под чтение, кофе или утренние письма.",
+    "description_ru": "Пять медленных пьес для мягкого старта дня — Aria из Гольдберг-вариаций, лирическая 13-я вариация, Менуэт из сонаты Моцарта KV 331. Без фортиссимо, без драматических кульминаций. Подходит как фон под чтение или утренний кофе.",
     "mood": "calm",
     "best_time": "morning",
     "track_ids": [
-      "mozart-eine-kleine-2-romanze",
-      "schubert-moment-3",
-      "chopin-waltz-70-3",
-      "chopin-mazurka-30-2",
-      "tchaikovsky-nutcracker-overture",
-      "mozart-sonata-545-allegro"
+      "bach-goldberg-aria",
+      "bach-goldberg-var-13",
+      "mozart-sonata-11-menuetto",
+      "bach-goldberg-var-24",
+      "bach-goldberg-aria-da-capo"
     ],
-    "cover_track_id": "mozart-eine-kleine-2-romanze"
-  },
-  {
-    "slug": "music-with-history",
-    "name_ru": "Музыка с историей",
-    "description_ru": "Шесть треков, у каждого из которых — отдельный сюжет за рамками самих нот. Финал Баха, отправленный к звёздам на «Вояджере». Шопен, записанный Рахманиновым в 1927-м. Челеста, привезённая Чайковским тайно из Парижа. Поэма Дюка, ставшая частью «Фантазии» Диснея. Турецкий марш Моцарта, родившийся из венского ориентализма после войн с османами.",
-    "mood": "introspective",
-    "best_time": "anytime",
-    "track_ids": [
-      "chopin-nocturne-9-2",
-      "bach-brandenburg-2-3",
-      "tchaikovsky-nutcracker-sugar-plum",
-      "dukas-sorcerers-apprentice",
-      "mozart-rondo-alla-turca",
-      "beethoven-moonlight-3-presto"
-    ],
-    "cover_track_id": "dukas-sorcerers-apprentice"
+    "cover_track_id": "bach-goldberg-aria"
   }
 ]

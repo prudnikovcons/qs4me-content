@@ -1,0 +1,22 @@
+{
+  "id": "bach-goldberg-var-10",
+  "file": "bach-goldberg-var-10.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 10 (Fughetta)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 10 a 1 Clav. Fughetta",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo",
+    "fugue"
+  ],
+  "duration_sec": 105,
+  "description_md": "Фугетта — «маленькая фуга». Бах строит её как полноценную четырёхголосную фугу, но в миниатюрном масштабе: тема короткая, экспозиция компактная, без длинных эпизодов и далёких модуляций. Размер 2/2, alla breve. Это первый явно полифонический жанр в цикле — после преимущественно гомофонных предыдущих вариаций.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

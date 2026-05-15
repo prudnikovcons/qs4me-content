@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-11",
+  "file": "bach-goldberg-var-11.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 11",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 11 a 2 Clav.",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 129,
+  "description_md": "Двухмануальная вариация с переплетёнными гаммами. Размер 12/16, темп быстрый, характер — почти джиговый. Руки перекрещиваются, играют в смежных регистрах с эффектом постоянного «диалога» наверху и внизу. Бах помещает её непосредственно после Фугетты — контраст полифонической плотности и гомофонной лёгкости.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

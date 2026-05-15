@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-14",
+  "file": "bach-goldberg-var-14.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 14",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 14 a 2 Clav.",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 136,
+  "description_md": "Виртуозная двухмануальная вариация — быстрые скачки в обеих руках, форшлаги, перекаты. Размер 3/4. После лирической Вариации 13 — резкий контраст: возвращение к технической стороне цикла. Бах удерживает баланс между интроспективным и виртуозным материалом на протяжении всех тридцати вариаций.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

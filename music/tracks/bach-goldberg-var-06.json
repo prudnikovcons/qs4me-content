@@ -1,0 +1,22 @@
+{
+  "id": "bach-goldberg-var-06",
+  "file": "bach-goldberg-var-06.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 6 (Канон в секунду)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 6 Canone alla Seconda",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo",
+    "fugue"
+  ],
+  "duration_sec": 98,
+  "description_md": "Второй канон цикла — теперь в большую секунду: второй голос вступает на ступень выше через такт. Размер 3/8, темп умеренный. Бас держит линию Арии. Контраст с предыдущей виртуозной вариацией намеренный: каноны Бах ставит как «полки» между более внешне эффектными пьесами.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

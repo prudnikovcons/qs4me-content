@@ -1,0 +1,22 @@
+{
+  "id": "bach-goldberg-var-27",
+  "file": "bach-goldberg-var-27.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 27 (Канон в нону)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 27 a 2 Clav. Canone alla Nona",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo",
+    "fugue"
+  ],
+  "duration_sec": 257,
+  "description_md": "Девятый и последний канон цикла — в нону, через самый широкий интервал из всех. Уникальная особенность: впервые в цикле здесь НЕТ басовой линии Арии — только два канонических голоса в верхнем и среднем регистрах. Бах достигает в этом каноне наибольшей чистоты канонической формы.\n\nВ записи Ишизаки этот трек включает также следующую Вариацию 28 без паузы — так оригинальная партитура и предполагает плавный переход к финальной серии вариаций.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

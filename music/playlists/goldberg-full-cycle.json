@@ -1,0 +1,26 @@
+{
+  "slug": "goldberg-full-cycle",
+  "name_ru": "Гольдберг-вариации — ключевые вариации",
+  "description_ru": "Сокращённый путь по циклу BWV 988 — открывающая Ария, шестнадцать ключевых вариаций в порядке Баха и возвращение Арии. Около 50 минут. Все девять канонов сохранены; вариации между ними — лучшие представители своих типов: фугетта 10-я, кантабиле 13-я, французская увертюра 16-я, «чёрная жемчужина» 25-я, Quodlibet 30-я.",
+  "mood": "focused",
+  "best_time": "anytime",
+  "track_ids": [
+    "bach-goldberg-aria",
+    "bach-goldberg-var-01",
+    "bach-goldberg-var-03",
+    "bach-goldberg-var-07",
+    "bach-goldberg-var-10",
+    "bach-goldberg-var-13",
+    "bach-goldberg-var-15",
+    "bach-goldberg-var-16",
+    "bach-goldberg-var-18",
+    "bach-goldberg-var-21",
+    "bach-goldberg-var-24",
+    "bach-goldberg-var-25",
+    "bach-goldberg-var-27",
+    "bach-goldberg-var-29",
+    "bach-goldberg-var-30",
+    "bach-goldberg-aria-da-capo"
+  ],
+  "cover_track_id": "bach-goldberg-aria"
+}

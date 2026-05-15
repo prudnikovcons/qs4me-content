@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-08",
+  "file": "bach-goldberg-var-08.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 8",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 8 a 2 Clav.",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 116,
+  "description_md": "Виртуозная вариация для двух мануалов — гаммообразные пассажи в правой руке, аккорды в левой. Размер 3/4, темп быстрый. Бах эксплуатирует возможности двухмануального клавесина: руки играют в одинаковом регистре, не мешая друг другу. На фортепиано требует особой техники, чтобы избежать столкновения рук.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bach-goldberg-var-18",
+  "file": "bach-goldberg-var-18.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 18 (Канон в сексту)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 18 Canone alla Sexta",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo",
+    "fugue"
+  ],
+  "duration_sec": 109,
+  "description_md": "Шестой канон цикла — в сексту, с инверсией. Размер 2/2. Голоса идут плотно, без длинных пауз, и каждый раз когда второй голос вступает, первый продолжает: получается непрерывный плотный диалог. Бах достигает здесь максимальной густоты канонической ткани.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-07",
+  "file": "bach-goldberg-var-07.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 7 (al tempo di Giga)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 7 a 1 ovvero 2 Clav. al tempo di Giga",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 132,
+  "description_md": "В первой редакции Бах не указал темпа этой вариации; во второй (предположительно его собственной рукой) добавил пометку «al tempo di Giga» — в темпе жиги, английского быстрого танца на 6/8. Без пометки большинство пианистов играют её сицилианой — медленным, грустным танцем. Современные исполнители идут разными путями; Ишизака выбирает темп ближе к жиге.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-22",
+  "file": "bach-goldberg-var-22.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 22 (Alla breve)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 22 a 1 Clav. Alla breve",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 92,
+  "description_md": "«Alla breve» — на два, в строгом контрапунктическом стиле, отсылающем к старинной итальянской вокальной полифонии стиля Палестрины. Четыре голоса равной важности, плотная имитационная техника. После напряжённой 21-й — намеренное возвращение к ясной, строгой полифонической прозе.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

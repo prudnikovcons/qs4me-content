@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-aria-da-capo",
+  "file": "bach-goldberg-aria-da-capo.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Ария да капо",
+  "title_original": "Goldberg Variations, BWV 988 — Aria da Capo e Fine",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 170,
+  "description_md": "Возвращение Арии, которой цикл открывался. Тот же текст, но звучит после прохождения через тридцать вариаций — слушатель уже не тот, что был час назад. Шарль Розен в книге «Классический стиль» писал: «Когда мы доходим до Aria da capo, мы слышим её другими ушами — это та же мелодия, но окружённая памятью обо всём, что между ней и ней произошло». Бах не меняет ни одной ноты — он рассчитывает на то, что слушатель сам её услышит иначе.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

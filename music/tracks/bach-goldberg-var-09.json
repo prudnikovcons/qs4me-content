@@ -1,0 +1,22 @@
+{
+  "id": "bach-goldberg-var-09",
+  "file": "bach-goldberg-var-09.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 9 (Канон в терцию)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 9 Canone alla Terza",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo",
+    "fugue"
+  ],
+  "duration_sec": 126,
+  "description_md": "Третий канон — в терцию. Два верхних голоса идут в строгой имитации с интервалом в малую или большую терцию через такт; внизу — басовая линия. Бах постепенно усложняет канонический принцип: следующий канон будет на кварту, потом на квинту, и так до ноны (вар. 27).",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

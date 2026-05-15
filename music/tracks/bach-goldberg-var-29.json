@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-29",
+  "file": "bach-goldberg-var-29.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 29",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 29 a 1 ovvero 2 Clav.",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 129,
+  "description_md": "Предпоследняя вариация — мощная, аккордовая, в характере фуги или хорала. Бах помечает её «для одного или двух мануалов»; обе версии возможны на клавесине. На фортепиано звучит как почти оркестровая, плотная, торжественная. Прямое предвестие финального Quodlibet.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

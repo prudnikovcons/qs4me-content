@@ -1,0 +1,22 @@
+{
+  "id": "bach-goldberg-var-12",
+  "file": "bach-goldberg-var-12.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 12 (Канон в кварту)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 12 Canone alla Quarta",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo",
+    "fugue"
+  ],
+  "duration_sec": 135,
+  "description_md": "Четвёртый канон — в кварту, но с особенностью: голоса не просто следуют друг за другом, а идут в инверсии — второй голос звучит зеркально к первому. Это первый канон с инверсией в цикле; следующие три (15, 18, 21) тоже будут инверсные, а 24 и 27 — снова прямые. Размер 3/4.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

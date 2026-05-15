@@ -1,0 +1,22 @@
+{
+  "id": "bach-goldberg-var-15",
+  "file": "bach-goldberg-var-15.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 15 (Канон в квинту, andante)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 15 Canone alla Quinta, andante (G minor)",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo",
+    "fugue"
+  ],
+  "duration_sec": 272,
+  "description_md": "Пятый канон — в квинту, с инверсией. И ВПЕРВЫЕ в цикле — в МИНОРНОЙ тональности (соль минор). Помечена Бахом «andante» — медленно, что для канона необычно. Эта вариация маркирует середину цикла: после неё (вар. 16) — Ouverture, обозначающая «второй вход» в произведение. Меланхолическая, длинная, ставшая одной из самых известных отдельных вариаций цикла.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}

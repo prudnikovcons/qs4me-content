@@ -1,17 +1,17 @@
 {
   "slug": "deep-work",
   "name_ru": "Глубокая работа",
-  "description_ru": "Семь треков для тех часов, когда нужно держать внимание долго и без срывов. Полифонический Бах, фортепианные миниатюры Шопена и Шуберта — повторяющиеся структуры и ровная динамика. Никаких резких всплесков, никаких длинных арий — фон, который не претендует на внимание.",
+  "description_ru": "Семь треков для часов сосредоточенной работы — полифоническая ткань Гольдберг-вариаций, Бранденбургские концерты Баха, фугетта и канон. Ровная пульсация, имитационная техника, никаких резких всплесков — фон, не претендующий на внимание, но и не мешающий ему.",
   "mood": "focused",
   "best_time": "work",
   "track_ids": [
+    "bach-goldberg-var-01",
+    "bach-goldberg-var-02",
+    "bach-goldberg-var-10",
+    "bach-goldberg-var-22",
     "bach-brandenburg-2-1",
-    "chopin-mazurka-30-2",
-    "chopin-mazurka-67-2",
-    "chopin-waltz-70-1",
-    "chopin-waltz-70-3",
-    "chopin-nocturne-posth-cis",
-    "schubert-moment-4"
+    "bach-goldberg-var-09",
+    "bach-brandenburg-2-3"
   ],
-  "cover_track_id": "bach-brandenburg-2-1"
+  "cover_track_id": "bach-goldberg-var-10"
 }

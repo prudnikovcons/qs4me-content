@@ -1,0 +1,21 @@
+{
+  "id": "bach-goldberg-var-16",
+  "file": "bach-goldberg-var-16.mp3",
+  "title": "«Гольдберг-вариации» BWV 988 — Вариация 16 (Французская увертюра)",
+  "title_original": "Goldberg Variations, BWV 988 — Variatio 16 a 1 Clav. Ouverture",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1741,
+  "year_recorded": 2012,
+  "era": "baroque",
+  "style": [
+    "chamber",
+    "piano-solo"
+  ],
+  "duration_sec": 188,
+  "description_md": "Французская увертюра — двухчастная торжественная композиция: медленное вступление с характерным пунктирным ритмом, затем быстрая фугированная часть. Бах помещает её на 16-й вариации, ровно посередине цикла, как «второй пролог», вход во вторую половину. Это единственная вариация в стиле, прямо отсылающем к французской придворной традиции конца XVII века.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/OpenGoldbergVariations",
+  "credit": "Kimiko Ishizaka · 2012 · Open Goldberg Project · CC0"
+}
