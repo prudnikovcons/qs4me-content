@@ -1,0 +1,14 @@
+{
+  "id": "chopin",
+  "full_name_ru": "Фредерик Шопен",
+  "full_name_en": "Frédéric Chopin",
+  "birth": 1810,
+  "death": 1849,
+  "country": "Польша / Франция",
+  "era": "romanticism",
+  "summary_ru": "Польско-французский композитор-романтик, превративший пианизм в искусство интимной поэзии. 39 лет жизни, около 230 произведений — почти все для фортепиано. Болел туберкулёзом, последние годы провёл в Париже, не вернувшись в Польшу после восстания 1831 года.",
+  "photo": "chopin.jpg",
+  "photo_credit": "Louis-Auguste Bisson · 1849 · дагерротип · PD",
+  "photo_license": "PD",
+  "source": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin"
+}

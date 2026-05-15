@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "maryla-jonas",
+    "name_ru": "Марыля Йонас",
+    "name_en": "Maryla Jonas",
+    "birth": 1911,
+    "death": 1959,
+    "kind": "soloist",
+    "instrument": "фортепиано",
+    "summary_ru": "Польская пианистка, ученица Падеревского, пережившая войну и плен в гестапо. Триумфально дебютировала в Карнеги-холле в феврале 1946 — концерт устроил Артур Рубинштейн. В 1946–1949 записала корпус Шопена для Columbia: интимная, не виртуозная манера, противоположная парадным интерпретациям эпохи.",
+    "photo": "maryla-jonas.jpg",
+    "photo_credit": "Narodowe Archiwum Cyfrowe · ~1935 · PD · sign. 1-K-6558",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Maryla_Jonas",
+    "_photoUrl": "/music/performers/maryla-jonas.jpg"
+  }
+]
