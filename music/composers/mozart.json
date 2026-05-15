@@ -1,0 +1,14 @@
+{
+  "id": "mozart",
+  "full_name_ru": "Вольфганг Амадей Моцарт",
+  "full_name_en": "Wolfgang Amadeus Mozart",
+  "birth": 1756,
+  "death": 1791,
+  "country": "Австрия",
+  "era": "classical",
+  "summary_ru": "Австрийский композитор-классицист, написавший более 600 произведений за 35 лет — симфонии, оперы, концерты, камерную и духовную музыку. Чудо-ребёнок: с шести лет ездил с отцом по дворам Европы, в восемь написал первую симфонию. Умер в Вене бедным, не закончив Реквием.",
+  "photo": "mozart.jpg",
+  "photo_credit": "Johann Nepomuk della Croce · ~1780 · масло · PD",
+  "photo_license": "PD",
+  "source": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+}

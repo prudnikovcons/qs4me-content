@@ -1,0 +1,14 @@
+{
+  "id": "bach",
+  "full_name_ru": "Иоганн Себастьян Бах",
+  "full_name_en": "Johann Sebastian Bach",
+  "birth": 1685,
+  "death": 1750,
+  "country": "Германия",
+  "era": "baroque",
+  "summary_ru": "Немецкий композитор позднего барокко, кантор церкви Святого Фомы в Лейпциге. Около 1100 произведений — «Хорошо темперированный клавир», «Бранденбургские концерты», «Страсти». При жизни известен как органист; признание композитором пришло в XIX веке, после исполнения «Страстей по Матфею» Мендельсоном.",
+  "photo": "bach.jpg",
+  "photo_credit": "Elias Gottlob Haussmann · 1748 · масло · PD",
+  "photo_license": "PD",
+  "source": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
+}

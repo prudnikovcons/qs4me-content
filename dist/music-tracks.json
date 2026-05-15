@@ -1,5 +1,49 @@
 [
   {
+    "id": "bach-brandenburg-2-1",
+    "file": "bach-brandenburg-2-1.mp3",
+    "title": "Бранденбургский концерт № 2 BWV 1047, I — Allegro",
+    "title_original": "Brandenburg Concerto No. 2 in F major, BWV 1047, I — Allegro",
+    "composer_id": "bach",
+    "performer_id": null,
+    "year_composed": 1721,
+    "year_recorded": null,
+    "era": "baroque",
+    "style": [
+      "concerto"
+    ],
+    "duration_sec": 309,
+    "description_md": "Первая часть Второго Бранденбургского концерта фа мажор BWV 1047. Шесть Бранденбургских концертов Бах послал в марте 1721 года маркграфу Кристиану Людвигу Бранденбург-Шведтскому — в надежде на придворную должность; ответа не получил, рукопись пролежала в архиве 130 лет и была обнаружена только в 1849-м.\n\nВторой концерт — самый виртуозный из шести: соло-группа из четырёх голосов (труба-кларина в высоком регистре, гобой, продольная флейта, скрипка) ведёт диалог со струнным оркестром и basso continuo. Партия трубы написана так высоко, что в XX веке потребовался специальный инструмент — пикколо-труба — чтобы её сыграть; на барочной кларине это делалось губами, без вентилей. Allegro — концертная форма ритурнеля: оркестр играет короткое вступление-припев, между его повторами — соло-эпизоды, всё движется в безостановочной шестнадцатой пульсации, типичной для итальянского концертного стиля.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/licenses/publicdomain/",
+    "source": "https://archive.org/details/Bach_JS_-_Brandenburg_C_No_2_in_F_Major_1047_mvmt_1_",
+    "credit": "PD recording · IA",
+    "_fileUrl": "/music/tracks/bach-brandenburg-2-1.mp3"
+  },
+  {
+    "id": "bach-brandenburg-2-3",
+    "file": "bach-brandenburg-2-3.mp3",
+    "title": "Бранденбургский концерт № 2 BWV 1047, III — Allegro assai",
+    "title_original": "Brandenburg Concerto No. 2 in F major, BWV 1047, III — Allegro assai",
+    "composer_id": "bach",
+    "performer_id": null,
+    "year_composed": 1721,
+    "year_recorded": null,
+    "era": "baroque",
+    "style": [
+      "concerto",
+      "fugue"
+    ],
+    "duration_sec": 164,
+    "description_md": "Финал Второго Бранденбургского концерта — Allegro assai, очень быстро. После второй части, где труба молчит и звучат только три солирующих инструмента в интимном квартете, здесь возвращается весь ансамбль и тон становится открыто торжественным.\n\nФорма — фугато: труба-кларина начинает тему, после неё в порядке inversion вступают гобой, скрипка, флейта, наконец оркестр. Бах строит партию трубы практически без отдыха — два с половиной минуты на самой верхней ноте регистра, что в XVIII веке требовало выдающихся губ и лёгких. В 1977 году именно этот финал был записан на «Золотой пластинке» космического аппарата «Вояджер» как первая композиция земной музыки, отправленной в межзвёздное пространство.",
+    "trivia": "Финал BWV 1047 — первая дорожка музыкальной части «Золотой пластинки» «Вояджера-1», отправленной в космос в 1977 году.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/licenses/publicdomain/",
+    "source": "https://archive.org/details/Bach__J.S._-_Brandenb_BWV_1047_mvmt_3_",
+    "credit": "PD recording · IA",
+    "_fileUrl": "/music/tracks/bach-brandenburg-2-3.mp3"
+  },
+  {
     "id": "chopin-mazurka-30-2",
     "file": "chopin-mazurka-30-2.mp3",
     "title": "Мазурка op. 30 № 2 си-бемоль минор",
@@ -134,5 +178,71 @@
     "source": "https://archive.org/details/PianoMusicOfChopin",
     "credit": "Maryla Jonas · Columbia, 1946–1949 · CC0",
     "_fileUrl": "/music/tracks/chopin-waltz-70-3.mp3"
+  },
+  {
+    "id": "mozart-rondo-alla-turca",
+    "file": "mozart-rondo-alla-turca.mp3",
+    "title": "«Турецкое рондо» из Сонаты № 11 KV 331",
+    "title_original": "Rondo «Alla Turca» from Piano Sonata No. 11, K. 331",
+    "composer_id": "mozart",
+    "performer_id": null,
+    "year_composed": 1783,
+    "year_recorded": null,
+    "era": "classical",
+    "style": [
+      "sonata",
+      "piano-solo"
+    ],
+    "duration_sec": 181,
+    "description_md": "Третья часть фортепианной сонаты № 11 ля мажор KV 331, написанной около 1783 года — самая известная фортепианная миниатюра XVIII века и одна из самых играемых пьес мирового репертуара. Подзаголовок «Alla turca» отсылает к моде на «турецкое» в Вене конца 1700-х: после двух осад Стамбулом город пережил волну ориентализма, в оркестры добавляли барабан и тарелки, имитируя янычарскую военную музыку.\n\nУ Моцарта все эти эффекты передаются одним фортепиано — характерное маршевое сопровождение в басу, быстрые гаммы в правой руке, акцентированные форшлаги. Форма — рондо с тремя возвращениями основной темы; финал — блестящая кода с аккордовыми «литаврами» в басу. Соната целиком, кстати, нетипична: ни одной части в сонатной форме, а первая — вариации на тему.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://archive.org/details/RondoAllaTurca_201401",
+    "credit": "Mutopia Project · PD",
+    "_fileUrl": "/music/tracks/mozart-rondo-alla-turca.mp3"
+  },
+  {
+    "id": "mozart-sonata-11-menuetto",
+    "file": "mozart-sonata-11-menuetto.mp3",
+    "title": "Менуэт из Сонаты № 11 KV 331",
+    "title_original": "Menuetto from Piano Sonata No. 11, K. 331",
+    "composer_id": "mozart",
+    "performer_id": null,
+    "year_composed": 1783,
+    "year_recorded": null,
+    "era": "classical",
+    "style": [
+      "sonata",
+      "piano-solo"
+    ],
+    "duration_sec": 334,
+    "description_md": "Вторая часть фортепианной сонаты № 11 ля мажор KV 331 — традиционный менуэт с трио, написанный около 1783 года, вероятно в Зальцбурге или Вене. Менуэт — трёхдольный придворный танец, со времён Гайдна обязательная часть классической сонаты или симфонии; у Моцарта здесь — изящный, светский, без драмы, в характере салонной музыки конца XVIII века.\n\nФорма каноническая: основная тема (A), трио в одноимённом миноре или субдоминанте (B), возвращение A. У Моцарта трио в ре мажоре — поярче, в более широких длительностях, словно открытие двери в соседний зал, где играет другое настроение. Возвращение основной темы — без вариаций, точно так же, как в начале. Эта соната знаменита прежде всего третьей частью «Alla turca», но менуэт по форме и тематической экономии — едва ли не более совершенен.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://archive.org/details/PianoSonataNo.11",
+    "credit": "Mutopia Project · PD",
+    "_fileUrl": "/music/tracks/mozart-sonata-11-menuetto.mp3"
+  },
+  {
+    "id": "mozart-sonata-545-allegro",
+    "file": "mozart-sonata-545-allegro.mp3",
+    "title": "Соната № 16 KV 545 до мажор, I — Allegro",
+    "title_original": "Piano Sonata No. 16 in C major, K. 545, I — Allegro",
+    "composer_id": "mozart",
+    "performer_id": null,
+    "year_composed": 1788,
+    "year_recorded": null,
+    "era": "classical",
+    "style": [
+      "sonata",
+      "piano-solo"
+    ],
+    "duration_sec": 133,
+    "description_md": "Первая часть фортепианной сонаты № 16 до мажор KV 545, законченной Моцартом 26 июня 1788 года в Вене. Сам композитор в каталоге записал «kleine Klavier-Sonate für Anfänger» — «маленькая фортепианная соната для начинающих». Парадокс: пьеса, написанная как учебная, стала одной из самых узнаваемых мелодий мировой классики; первые такты слышали все, даже те, кто никогда не слушал Моцарта.\n\nФорма сонатного аллегро — экспозиция с двумя темами, короткая разработка, реприза. Главная тема в правой руке открывается восходящим триадным мотивом, аккомпанемент — «альбертиев бас» из равномерных триадных арпеджио. В разработке Моцарт уводит музыку в g-moll и f-moll — короткое потемнение, после которого реприза возвращается уже в субдоминанте F-dur, что нетипично и даёт пьесе характерную «бочкообразную» форму. 1788-й — год трёх последних симфоний; на фоне той вершины эта «учебная» соната выглядит маленьким экспериментом.",
+    "license": "PD",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://archive.org/details/Sonata.no.16InCMajor",
+    "credit": "Mutopia Project · PD",
+    "_fileUrl": "/music/tracks/mozart-sonata-545-allegro.mp3"
   }
 ]
