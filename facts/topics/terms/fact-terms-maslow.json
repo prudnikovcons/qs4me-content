@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-maslow",
+  "topic": "terms",
+  "title": "Пирамида Маслоу",
+  "caption": "Абрахам Маслоу, 1943. 5 уровней потребностей — от физиологических до самоактуализации. Сам Маслоу пирамиду не рисовал.",
+  "image": "fact-terms-maslow.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Пирамида потребностей Маслоу",
+  "credit": "Hamish.croker · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs",
+  "license": "CC-BY-SA",
+  "year": 1943
+}

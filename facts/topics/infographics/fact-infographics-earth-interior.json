@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-earth-interior",
+  "topic": "infographics",
+  "title": "Внутреннее строение Земли",
+  "caption": "Кора (5–70 км), мантия (2900 км), внешнее ядро (2200 км), внутреннее (1220 км). В центре +5500 °C — как на поверхности Солнца.",
+  "image": "fact-infographics-earth-interior.webp",
+  "image_width": 789,
+  "image_height": 789,
+  "alt": "Схема строения Земли",
+  "credit": "CharlesC · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Structure_of_Earth",
+  "license": "CC-BY-SA",
+  "year": 2009
+}

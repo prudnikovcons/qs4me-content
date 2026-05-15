@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-entropy",
+  "topic": "terms",
+  "title": "Энтропия",
+  "caption": "Мера беспорядка системы. 2-й закон термодинамики (Клаузиус, 1865): в замкнутой системе энтропия только растёт.",
+  "image": "fact-terms-entropy.webp",
+  "image_width": 1280,
+  "image_height": 1275,
+  "alt": "Иллюстрация роста энтропии",
+  "credit": "HirokiSayama · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Entropy",
+  "license": "CC-BY-SA",
+  "year": 1865
+}

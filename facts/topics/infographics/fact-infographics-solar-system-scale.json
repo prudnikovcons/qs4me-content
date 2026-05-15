@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-solar-system-scale",
+  "topic": "infographics",
+  "title": "Масштаб Солнечной системы",
+  "caption": "Если Солнце — баскетбольный мяч (24 см), Земля — горошина за 26 м. Нептун — крошка за 770 м. Альфа Центавра — за 7000 км.",
+  "image": "fact-infographics-solar-system-scale.webp",
+  "image_width": 1280,
+  "image_height": 720,
+  "alt": "Схема масштабов Солнечной системы",
+  "credit": "CactiStaccingCrane · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Solar_System",
+  "license": "CC-BY-SA",
+  "year": 2022
+}

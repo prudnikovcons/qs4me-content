@@ -1,0 +1,14 @@
+{
+  "id": "rubinstein",
+  "name_ru": "Артур Рубинштейн",
+  "name_en": "Arthur Rubinstein",
+  "birth": 1887,
+  "death": 1982,
+  "kind": "soloist",
+  "instrument": "фортепиано",
+  "summary_ru": "Польско-американский пианист, один из крупнейших шопенистов XX века. Сделал шесть студийных циклов всех ноктюрнов. Концертировал до 89 лет.",
+  "photo": "rubinstein.jpg",
+  "photo_credit": "Roger Higgins · 1958 · PD · Library of Congress",
+  "photo_license": "PD",
+  "source": "https://en.wikipedia.org/wiki/Arthur_Rubinstein"
+}

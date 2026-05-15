@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-normal-distribution",
+  "topic": "infographics",
+  "title": "Нормальное распределение",
+  "caption": "Колоколообразная кривая Гаусса. 68% значений в пределах ±1σ, 95% в ±2σ, 99,7% в ±3σ. От IQ до роста.",
+  "image": "fact-infographics-normal-distribution.webp",
+  "image_width": 1280,
+  "image_height": 818,
+  "alt": "Кривая нормального распределения",
+  "credit": "Inductiveload · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Normal_distribution",
+  "license": "PD",
+  "year": 2008
+}

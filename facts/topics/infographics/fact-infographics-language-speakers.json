@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-language-speakers",
+  "topic": "infographics",
+  "title": "Языки по числу носителей",
+  "caption": "Английский — 1,5 млрд (+L2), мандарин — 1,1 млрд, хинди — 600 млн. Всего активных языков мира — 7164 (2023).",
+  "image": "fact-infographics-language-speakers.webp",
+  "image_width": 1280,
+  "image_height": 613,
+  "alt": "Распределение языков мира",
+  "credit": "JFDP13 · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers",
+  "license": "CC-BY-SA",
+  "year": 2023
+}

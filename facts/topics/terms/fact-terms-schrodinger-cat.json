@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-schrodinger-cat",
+  "topic": "terms",
+  "title": "Кот Шрёдингера",
+  "caption": "Эрвин Шрёдингер, 1935. Мысленный эксперимент против копенгагенской интерпретации. Кот одновременно жив и мёртв до открытия коробки.",
+  "image": "fact-terms-schrodinger-cat.webp",
+  "image_width": 1280,
+  "image_height": 681,
+  "alt": "Иллюстрация кота Шрёдингера",
+  "credit": "Dhatfield · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Schr%C3%B6dinger's_cat",
+  "license": "CC-BY-SA",
+  "year": 1935
+}

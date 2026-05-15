@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-atmosphere-layers",
+  "topic": "infographics",
+  "title": "Слои атмосферы",
+  "caption": "Тропосфера (12 км) → стратосфера (50 км) → мезосфера (85 км) → термосфера (600 км) → экзосфера до 10 000 км.",
+  "image": "fact-infographics-atmosphere-layers.webp",
+  "image_width": 1280,
+  "image_height": 850,
+  "alt": "Слои атмосферы Земли",
+  "credit": "NASA Earth Observatory · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Atmosphere_of_Earth",
+  "license": "PD",
+  "year": 2006
+}

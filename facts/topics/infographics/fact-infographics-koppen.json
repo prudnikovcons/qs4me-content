@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-koppen",
+  "topic": "infographics",
+  "title": "Климаты Кёппена",
+  "caption": "5 типов климата (A–E) по Кёппену, 1884. До сих пор стандарт. Карта мира меняется — границы зон смещаются на север со скоростью 4-7 км/год.",
+  "image": "fact-infographics-koppen.webp",
+  "image_width": 1280,
+  "image_height": 847,
+  "alt": "Карта климатов Кёппена",
+  "credit": "Beck, H.E., McVicar, T.R., Vergopolan, N., Alexis, B., Lutsko, N.J., Dufour, A.,",
+  "source": "https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification",
+  "license": "CC-BY",
+  "year": 1884
+}

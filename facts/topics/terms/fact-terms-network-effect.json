@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-network-effect",
+  "topic": "terms",
+  "title": "Закон Меткалфа",
+  "caption": "Роберт Меткалф, 1980. Ценность сети растёт квадратично от числа пользователей (n²). Телефон → факс → Facebook.",
+  "image": "fact-terms-network-effect.webp",
+  "image_width": 1280,
+  "image_height": 2942,
+  "alt": "Диаграмма сетевого эффекта",
+  "credit": "Woody993 at English Wikipedia · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Metcalfe's_law",
+  "license": "CC0",
+  "year": 1980
+}

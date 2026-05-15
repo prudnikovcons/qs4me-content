@@ -1,0 +1,103 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qs4.me/schema/music-track.schema.json",
+  "title": "MusicTrack",
+  "description": "Одна запись классического произведения. Файл (mp3 предпочтительно) лежит рядом с JSON. Композитор и исполнитель — ссылки по id на отдельные сущности в composers/ и performers/.",
+  "type": "object",
+  "required": ["id", "file", "title", "composer_id", "license", "license_url", "source"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]+$",
+      "description": "Стабильный slug. Pattern: {composer}-{work}-{movement?}. Примеры: chopin-nocturne-9-2, bach-bwv1007-prelude, beethoven-symphony-9-finale."
+    },
+    "file": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+\\.(mp3|ogg|m4a)$",
+      "description": "Имя файла рядом в той же папке. Только mp3/ogg/m4a. MP3 предпочтительно — везде работает."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 90,
+      "description": "Название произведения по-русски + (если применимо) часть. Примеры: 'Ноктюрн op. 9 № 2', 'Симфония № 9, IV — Ода к радости', 'Прелюдия из сюиты № 1 BWV 1007'."
+    },
+    "title_original": {
+      "type": "string",
+      "maxLength": 120,
+      "description": "Оригинальное название (en/de/it/fr), если уместно. Не обязательно."
+    },
+    "composer_id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]+$",
+      "description": "Ссылка на сущность в composers/. Например: chopin, bach, mozart, beethoven."
+    },
+    "performer_id": {
+      "type": ["string", "null"],
+      "pattern": "^[a-z][a-z0-9-]+$",
+      "description": "Ссылка на сущность в performers/. null = исполнитель неизвестен или анонимный."
+    },
+    "year_composed": {
+      "type": "integer",
+      "minimum": 1000,
+      "maximum": 2100,
+      "description": "Год сочинения. Для опусов писаных несколько лет — год публикации."
+    },
+    "year_recorded": {
+      "type": ["integer", "null"],
+      "minimum": 1880,
+      "maximum": 2100,
+      "description": "Год аудиозаписи, если известен. Помогает понять стиль исполнения."
+    },
+    "era": {
+      "type": "string",
+      "enum": ["medieval", "renaissance", "baroque", "classical", "romanticism", "late-romanticism", "early-modern", "modern", "minimalism", "contemporary"],
+      "description": "Эпоха сочинения. Используется для авто-плейлистов 'эпоха X'. См. taxonomy/eras.json для описаний."
+    },
+    "style": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z][a-z0-9-]+$" },
+      "uniqueItems": true,
+      "maxItems": 6,
+      "description": "Жанровые теги. Один трек может иметь несколько. См. taxonomy/styles.json. Примеры: nocturne, sonata, prelude, fugue, symphony, concerto, etude, lied, requiem, chamber, piano-solo, string-quartet, choral, organ."
+    },
+    "duration_sec": {
+      "type": "integer",
+      "minimum": 10,
+      "maximum": 7200,
+      "description": "Длительность в секундах. Длинные опусы (>15 мин) лучше разрезать на части."
+    },
+    "description_md": {
+      "type": "string",
+      "minLength": 80,
+      "maxLength": 1200,
+      "description": "Описание композиции по-русски, 2-3 абзаца (~80-200 слов). Markdown допустим: *курсив*, **жирный**, переносы строк. О чём писать: контекст создания, отличительные черты, известные интерпретации. Без пафоса, без 'удивительный шедевр'. Только конкретика."
+    },
+    "trivia": {
+      "type": "string",
+      "maxLength": 200,
+      "description": "Одна неожиданная деталь, факт-якорь. Опционально. Примеры: 'Шопен написал это произведение в 19 лет.', 'Бах считал, что играть в кофейне — недостойно.'"
+    },
+    "license": {
+      "type": "string",
+      "enum": ["PD", "CC0", "CC-BY", "CC-BY-SA"],
+      "description": "Лицензия конкретной записи. Только PD/CC0/CC-BY/CC-BY-SA. Композиция может быть PD, но конкретная запись — нет; проверяй обязательно."
+    },
+    "license_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL текста лицензии. Например creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "source": {
+      "type": "string",
+      "format": "uri",
+      "description": "Откуда взяли запись. Примеры: страница Musopen, archive.org item, Wikimedia Commons file."
+    },
+    "credit": {
+      "type": "string",
+      "maxLength": 120,
+      "description": "Краткая атрибуция. Формат: 'Исполнитель · год · лицензия'. Если исполнитель не известен — 'PD recording · Musopen'."
+    }
+  }
+}

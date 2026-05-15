@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-brownian-motion",
+  "topic": "terms",
+  "title": "Броуновское движение",
+  "caption": "Роберт Броун, 1827. Хаотичное движение частиц в жидкости. Эйнштейн объяснил в 1905 — доказательство атомной теории.",
+  "image": "fact-terms-brownian-motion.webp",
+  "image_width": 606,
+  "image_height": 442,
+  "alt": "Траектория броуновского движения",
+  "credit": "Toshiyouri · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Brownian_motion",
+  "license": "CC-BY-SA",
+  "year": 1905
+}

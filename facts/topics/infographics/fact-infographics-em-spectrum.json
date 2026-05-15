@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-em-spectrum",
+  "topic": "infographics",
+  "title": "Электромагнитный спектр",
+  "caption": "От гамма-лучей (10⁻¹² м) до радиоволн (10⁵ м). Видимый свет — узкая полоса 380–750 нм. Шкала длины — 17 порядков.",
+  "image": "fact-infographics-em-spectrum.webp",
+  "image_width": 1280,
+  "image_height": 759,
+  "alt": "Электромагнитный спектр",
+  "credit": "Inductiveload, NASA · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Electromagnetic_spectrum",
+  "license": "CC-BY-SA",
+  "year": 2007
+}

@@ -1,0 +1,483 @@
+[
+  {
+    "id": "fact-infographics-world-population",
+    "topic": "infographics",
+    "title": "Население Земли",
+    "caption": "От 1 миллиарда в 1804 до 8 миллиардов в 2022. На последние 4 млрд ушло всего 50 лет — рекордный рост в истории человечества.",
+    "alt": "График роста населения Земли",
+    "year": 2022,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "World_population"
+  },
+  {
+    "id": "fact-infographics-moores-law",
+    "topic": "infographics",
+    "title": "Закон Мура",
+    "caption": "Число транзисторов на чипе удваивается каждые 2 года. Сформулирован Гордоном Муром в 1965 — действовал 60 лет.",
+    "alt": "График закона Мура",
+    "year": 1965,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Moore's_law"
+  },
+  {
+    "id": "fact-infographics-keeling-curve",
+    "topic": "infographics",
+    "title": "Кривая Килинга",
+    "caption": "Концентрация CO₂ в атмосфере: 315 ppm в 1958 — 420 ppm в 2024. Чарлз Килинг измеряет на Мауна-Лоа непрерывно с 1958.",
+    "alt": "Кривая Килинга — рост CO2",
+    "year": 1958,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Keeling_Curve"
+  },
+  {
+    "id": "fact-infographics-temperature",
+    "topic": "infographics",
+    "title": "Температурный рекорд",
+    "caption": "Глобальная средняя температура выросла на 1,2 °C с 1880. Последние 10 лет — 10 самых тёплых за всю историю наблюдений.",
+    "alt": "График потепления климата",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Instrumental_temperature_record"
+  },
+  {
+    "id": "fact-infographics-geologic-time",
+    "topic": "infographics",
+    "title": "Геохронологическая шкала",
+    "caption": "4,54 млрд лет истории Земли. Человек — последние 0,007%. Динозавры исчезли 66 млн лет назад, цианобактерии — 2,5 млрд.",
+    "alt": "Геохронологическая шкала",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Geologic_time_scale"
+  },
+  {
+    "id": "fact-infographics-life-expectancy",
+    "topic": "infographics",
+    "title": "Продолжительность жизни",
+    "caption": "Средняя продолжительность жизни в мире выросла с 32 лет в 1900 до 73 в 2024. В Японии — 84,7, в Чаде — 53.",
+    "alt": "Продолжительность жизни по странам",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Life_expectancy"
+  },
+  {
+    "id": "fact-infographics-plate-tectonics",
+    "topic": "infographics",
+    "title": "Тектонические плиты",
+    "caption": "Литосфера Земли — 15+ плит, движущихся 2–10 см/год. Гипотеза дрейфа Вегенера 1912, теория плит подтверждена в 1960-х.",
+    "alt": "Карта тектонических плит",
+    "year": 1960,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Plate_tectonics"
+  },
+  {
+    "id": "fact-infographics-koppen",
+    "topic": "infographics",
+    "title": "Климаты Кёппена",
+    "caption": "5 типов климата (A–E) по Кёппену, 1884. До сих пор стандарт. Карта мира меняется — границы зон смещаются на север со скоростью 4-7 км/год.",
+    "alt": "Карта климатов Кёппена",
+    "year": 1884,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Köppen_climate_classification"
+  },
+  {
+    "id": "fact-infographics-atmosphere-layers",
+    "topic": "infographics",
+    "title": "Слои атмосферы",
+    "caption": "Тропосфера (12 км) → стратосфера (50 км) → мезосфера (85 км) → термосфера (600 км) → экзосфера до 10 000 км.",
+    "alt": "Слои атмосферы Земли",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Atmosphere_of_Earth"
+  },
+  {
+    "id": "fact-infographics-language-speakers",
+    "topic": "infographics",
+    "title": "Языки по числу носителей",
+    "caption": "Английский — 1,5 млрд (+L2), мандарин — 1,1 млрд, хинди — 600 млн. Всего активных языков мира — 7164 (2023).",
+    "alt": "Распределение языков мира",
+    "year": 2023,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "List_of_languages_by_total_number_of_speakers"
+  },
+  {
+    "id": "fact-infographics-lorenz-curve",
+    "topic": "infographics",
+    "title": "Кривая Лоренца",
+    "caption": "Макс Лоренц, 1905. Графически показывает неравенство доходов. Чем больше изгиб от диагонали — тем сильнее неравенство.",
+    "alt": "Кривая Лоренца с коэффициентом Джини",
+    "year": 1905,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lorenz_curve"
+  },
+  {
+    "id": "fact-infographics-world-energy",
+    "topic": "infographics",
+    "title": "Мировое потребление энергии",
+    "caption": "В 2023 — 620 экзаджоулей. 80% — ископаемое топливо (уголь, нефть, газ). Возобновляемые — 18%, ядерная — 4%.",
+    "alt": "Структура мирового энергопотребления",
+    "year": 2023,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "World_energy_supply_and_consumption"
+  },
+  {
+    "id": "fact-infographics-ocean-zones",
+    "topic": "infographics",
+    "title": "Зоны океана",
+    "caption": "5 зон по глубине: эпипелагиаль (0–200 м), мезо (200–1000), батиаль (1000–4000), абиссаль (4000–6000), хадаль (6000–11 000).",
+    "alt": "Зоны океана по глубине",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pelagic_zone"
+  },
+  {
+    "id": "fact-infographics-em-spectrum",
+    "topic": "infographics",
+    "title": "Электромагнитный спектр",
+    "caption": "От гамма-лучей (10⁻¹² м) до радиоволн (10⁵ м). Видимый свет — узкая полоса 380–750 нм. Шкала длины — 17 порядков.",
+    "alt": "Электромагнитный спектр",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Electromagnetic_spectrum"
+  },
+  {
+    "id": "fact-infographics-water-cycle",
+    "topic": "infographics",
+    "title": "Круговорот воды",
+    "caption": "Океан испаряет 425 000 км³/год, на сушу с осадками возвращается 111 000 км³. Молекула воды в круговороте — 9 дней.",
+    "alt": "Круговорот воды в природе",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Water_cycle"
+  },
+  {
+    "id": "fact-infographics-carbon-cycle",
+    "topic": "infographics",
+    "title": "Углеродный цикл",
+    "caption": "Круговорот углерода между атмосферой, океаном, биосферой. Человек добавил 1,5 трлн тонн CO₂ с 1850. Океан поглощает ~30%.",
+    "alt": "Углеродный цикл",
+    "year": 1850,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Carbon_cycle"
+  },
+  {
+    "id": "fact-infographics-solar-system-scale",
+    "topic": "infographics",
+    "title": "Масштаб Солнечной системы",
+    "caption": "Если Солнце — баскетбольный мяч (24 см), Земля — горошина за 26 м. Нептун — крошка за 770 м. Альфа Центавра — за 7000 км.",
+    "alt": "Схема масштабов Солнечной системы",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Solar_System"
+  },
+  {
+    "id": "fact-infographics-internet-users",
+    "topic": "infographics",
+    "title": "Пользователи интернета",
+    "caption": "1995 — 16 миллионов (0,4% населения). 2024 — 5,4 миллиарда (67%). Каждую секунду подключаются 11 новых пользователей.",
+    "alt": "Рост пользователей интернета",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Global_Internet_usage"
+  },
+  {
+    "id": "fact-infographics-megafauna-extinct",
+    "topic": "infographics",
+    "title": "Вымирание мегафауны",
+    "caption": "За 50 000 лет вымерло 178 видов крупных животных (>44 кг). Совпадает с расселением человека по континентам.",
+    "alt": "Вымершая мегафауна",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quaternary_extinction_event"
+  },
+  {
+    "id": "fact-infographics-dna-comparison",
+    "topic": "infographics",
+    "title": "Размер генома",
+    "caption": "Человек — 3,2 млрд пар оснований. Шимпанзе — 3,1. Курица — 1,2. Бактерия E. coli — 4,6 млн. Самый большой — у моллюска: 22 млрд.",
+    "alt": "Сравнение размеров геномов",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Genome_size"
+  },
+  {
+    "id": "fact-terms-entropy",
+    "topic": "terms",
+    "title": "Энтропия",
+    "caption": "Мера беспорядка системы. 2-й закон термодинамики (Клаузиус, 1865): в замкнутой системе энтропия только растёт.",
+    "alt": "Иллюстрация роста энтропии",
+    "year": 1865,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Entropy"
+  },
+  {
+    "id": "fact-terms-pareto",
+    "topic": "terms",
+    "title": "Принцип Парето · 80/20",
+    "caption": "Вильфредо Парето, 1896: 80% результата приходит от 20% усилий. 80% земли в Италии принадлежало 20% жителей.",
+    "alt": "Диаграмма Парето 80/20",
+    "year": 1896,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pareto_principle"
+  },
+  {
+    "id": "fact-terms-cognitive-dissonance",
+    "topic": "terms",
+    "title": "Когнитивный диссонанс",
+    "caption": "Леон Фестингер, 1957. Психический дискомфорт от 2 противоречивых установок. Мозг меняет одну из них, чтобы избавиться.",
+    "alt": "Схема когнитивного диссонанса",
+    "year": 1957,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cognitive_dissonance"
+  },
+  {
+    "id": "fact-terms-dunning-kruger",
+    "topic": "terms",
+    "title": "Эффект Даннинга-Крюгера",
+    "caption": "Корнелл, 1999. Некомпетентные переоценивают свои знания, эксперты — недооценивают. Пик ложной уверенности — на 10% знаний.",
+    "alt": "Кривая Даннинга-Крюгера",
+    "year": 1999,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dunning–Kruger_effect"
+  },
+  {
+    "id": "fact-terms-schrodinger-cat",
+    "topic": "terms",
+    "title": "Кот Шрёдингера",
+    "caption": "Эрвин Шрёдингер, 1935. Мысленный эксперимент против копенгагенской интерпретации. Кот одновременно жив и мёртв до открытия коробки.",
+    "alt": "Иллюстрация кота Шрёдингера",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Schrödinger's_cat"
+  },
+  {
+    "id": "fact-terms-butterfly-effect",
+    "topic": "terms",
+    "title": "Эффект бабочки",
+    "caption": "Эдвард Лоренц, 1972. Малое изменение в нелинейной системе ведёт к большим последствиям. Метафора — взмах крыльев и ураган.",
+    "alt": "Аттрактор Лоренца",
+    "year": 1972,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Butterfly_effect"
+  },
+  {
+    "id": "fact-terms-occams-razor",
+    "topic": "terms",
+    "title": "Бритва Оккама",
+    "caption": "Уильям Оккам, XIV век. «Не умножай сущности без необходимости». Из 2 объяснений выбирай простое — оно чаще верно.",
+    "alt": "Иллюстрация бритвы Оккама",
+    "year": 1320,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Occam's_razor"
+  },
+  {
+    "id": "fact-terms-black-swan",
+    "topic": "terms",
+    "title": "Чёрный лебедь",
+    "caption": "Нассим Талеб, 2007. Маловероятное событие с огромными последствиями, которое в ретроспективе кажется ожидаемым.",
+    "alt": "Иллюстрация чёрного лебедя",
+    "year": 2007,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Black_swan_theory"
+  },
+  {
+    "id": "fact-terms-ship-of-theseus",
+    "topic": "terms",
+    "title": "Корабль Тесея",
+    "caption": "Плутарх, ~100 н.э. Если все доски корабля заменили — это тот же корабль? Базовый парадокс идентичности 2000 лет.",
+    "alt": "Корабль Тесея — реконструкция",
+    "year": 100,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ship_of_Theseus"
+  },
+  {
+    "id": "fact-terms-heisenberg-uncertainty",
+    "topic": "terms",
+    "title": "Принцип неопределённости",
+    "caption": "Вернер Гейзенберг, 1927. Нельзя одновременно точно знать координату и импульс частицы. Δx·Δp ≥ ℏ/2.",
+    "alt": "Принцип неопределённости — формула",
+    "year": 1927,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Uncertainty_principle"
+  },
+  {
+    "id": "fact-terms-confirmation-bias",
+    "topic": "terms",
+    "title": "Подтверждающее искажение",
+    "caption": "Тенденция искать информацию, подтверждающую существующие убеждения. Описан Фрэнсисом Бэконом в 1620 — «человеческий разум».",
+    "alt": "Схема подтверждающего искажения",
+    "year": 1620,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Confirmation_bias"
+  },
+  {
+    "id": "fact-terms-survivorship-bias",
+    "topic": "terms",
+    "title": "Ошибка выжившего",
+    "caption": "Абрахам Вальд, 1943. Усиливал броню бомбардировщиков ТАМ, где НЕТ пробоин у вернувшихся — туда стреляли по сбитым.",
+    "alt": "Схема ошибки выжившего — самолёт Вальда",
+    "year": 1943,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Survivorship_bias"
+  },
+  {
+    "id": "fact-terms-placebo",
+    "topic": "terms",
+    "title": "Эффект плацебо",
+    "caption": "Улучшение от лекарства, не содержащего активного вещества. Срабатывает у 30–40% людей. Усиливается цветом таблетки и брендом.",
+    "alt": "Таблетка-плацебо",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Placebo"
+  },
+  {
+    "id": "fact-terms-stockholm-syndrome",
+    "topic": "terms",
+    "title": "Стокгольмский синдром",
+    "caption": "Психическая реакция заложника на похитителя. Назван по ограблению банка в Стокгольме 23 августа 1973 — 4 заложника, 6 дней.",
+    "alt": "Здание банка в Стокгольме",
+    "year": 1973,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stockholm_syndrome"
+  },
+  {
+    "id": "fact-terms-maslow",
+    "topic": "terms",
+    "title": "Пирамида Маслоу",
+    "caption": "Абрахам Маслоу, 1943. 5 уровней потребностей — от физиологических до самоактуализации. Сам Маслоу пирамиду не рисовал.",
+    "alt": "Пирамида потребностей Маслоу",
+    "year": 1943,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Maslow's_hierarchy_of_needs"
+  },
+  {
+    "id": "fact-terms-pavlov",
+    "topic": "terms",
+    "title": "Условный рефлекс Павлова",
+    "caption": "Иван Павлов, 1897. Собаки начинают слюну выделять на звонок, ассоциированный с едой. Нобель 1904, основа бихевиоризма.",
+    "alt": "Эксперимент Павлова",
+    "year": 1897,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Classical_conditioning"
+  },
+  {
+    "id": "fact-terms-prisoners-dilemma",
+    "topic": "terms",
+    "title": "Дилемма заключённого",
+    "caption": "Меррилл Флад и Мелвин Дрешер, 1950. Базовая задача теории игр: 2 рациональных игрока выбирают вариант, оба проигрывают.",
+    "alt": "Матрица дилеммы заключённого",
+    "year": 1950,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Prisoner's_dilemma"
+  },
+  {
+    "id": "fact-terms-tragedy-commons",
+    "topic": "terms",
+    "title": "Трагедия общин",
+    "caption": "Гаррет Хардин, 1968. Когда ресурс общий, каждый рациональный пользователь его истощает. Применимо к рыбе, лесам, климату.",
+    "alt": "Овцы на общинном пастбище",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tragedy_of_the_commons"
+  },
+  {
+    "id": "fact-terms-streisand-effect",
+    "topic": "terms",
+    "title": "Эффект Стрейзанд",
+    "caption": "Попытка скрыть информацию приводит к её распространению. Назван по делу Барбры Стрейзанд 2003 — пыталась скрыть фото своего дома.",
+    "alt": "Барбра Стрейзанд — пресс-фото",
+    "year": 2003,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Streisand_effect"
+  },
+  {
+    "id": "fact-terms-network-effect",
+    "topic": "terms",
+    "title": "Закон Меткалфа",
+    "caption": "Роберт Меткалф, 1980. Ценность сети растёт квадратично от числа пользователей (n²). Телефон → факс → Facebook.",
+    "alt": "Диаграмма сетевого эффекта",
+    "year": 1980,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Metcalfe's_law"
+  },
+  {
+    "id": "fact-terms-long-tail",
+    "topic": "terms",
+    "title": "Длинный хвост",
+    "caption": "Крис Андерсон, 2004. Распределение спроса: 80% продаж — из малого числа хитов, остальное — из тысяч «нишевых» позиций.",
+    "alt": "Кривая длинного хвоста",
+    "year": 2004,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Long_tail"
+  },
+  {
+    "id": "fact-terms-quantum-entanglement",
+    "topic": "terms",
+    "title": "Квантовая запутанность",
+    "caption": "Состояние двух частиц коррелировано, даже если они разделены на огромные расстояния. Эйнштейн назвал «жуткое действие на расстоянии», 1935.",
+    "alt": "Иллюстрация квантовой запутанности",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Quantum_entanglement"
+  },
+  {
+    "id": "fact-terms-wave-particle",
+    "topic": "terms",
+    "title": "Корпускулярно-волновой дуализм",
+    "caption": "Свет и электроны ведут себя и как волна, и как частица. Эксперимент с двумя щелями (1801, Юнг) — даже одиночные электроны.",
+    "alt": "Эксперимент с двумя щелями",
+    "year": 1801,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wave–particle_duality"
+  },
+  {
+    "id": "fact-terms-doppler",
+    "topic": "terms",
+    "title": "Эффект Доплера",
+    "caption": "Кристиан Доплер, 1842. Изменение частоты при движении источника. Слышен в сирене, виден в красном смещении галактик.",
+    "alt": "Иллюстрация эффекта Доплера",
+    "year": 1842,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Doppler_effect"
+  },
+  {
+    "id": "fact-terms-brownian-motion",
+    "topic": "terms",
+    "title": "Броуновское движение",
+    "caption": "Роберт Броун, 1827. Хаотичное движение частиц в жидкости. Эйнштейн объяснил в 1905 — доказательство атомной теории.",
+    "alt": "Траектория броуновского движения",
+    "year": 1905,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Brownian_motion"
+  },
+  {
+    "id": "fact-terms-trolley",
+    "topic": "terms",
+    "title": "Проблема вагонетки",
+    "caption": "Филиппа Фут, 1967. Этическая дилемма: убить одного, чтобы спасти пятерых? Тест на утилитаризм vs деонтологию.",
+    "alt": "Иллюстрация проблемы вагонетки",
+    "year": 1967,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Trolley_problem"
+  },
+  {
+    "id": "fact-terms-hedonic-treadmill",
+    "topic": "terms",
+    "title": "Гедонистическая беговая дорожка",
+    "caption": "Брикман и Кэмпбелл, 1971. Уровень счастья возвращается к базовой точке независимо от событий — лотерейные выигрыши, травмы.",
+    "alt": "Иллюстрация гедонистической адаптации",
+    "year": 1971,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hedonic_treadmill"
+  },
+  {
+    "id": "fact-terms-anchoring",
+    "topic": "terms",
+    "title": "Эффект якоря",
+    "caption": "Канеман и Тверски, 1974. Первая цифра, услышанная в задаче, искажает оценку. Цена «$100, скидка до $39» работает по якорю.",
+    "alt": "Иллюстрация эффекта якоря",
+    "year": 1974,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Anchoring_(cognitive_bias)"
+  },
+  {
+    "id": "fact-terms-overton-window",
+    "topic": "terms",
+    "title": "Окно Овертона",
+    "caption": "Джозеф Овертон, 1990-е. Диапазон идей, приемлемых для общественного обсуждения. Со временем смещается — что было табу, становится нормой.",
+    "alt": "Схема окна Овертона",
+    "year": 1995,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Overton_window"
+  }
+]

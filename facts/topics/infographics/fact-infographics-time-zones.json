@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-time-zones",
+  "topic": "infographics",
+  "title": "Часовые пояса",
+  "caption": "24 базовых пояса по 15° долготы. Введены в 1884 на Международной меридианной конференции в Вашингтоне. Гринвич — нулевой.",
+  "image": "fact-infographics-time-zones.webp",
+  "image_width": 1280,
+  "image_height": 695,
+  "alt": "Карта часовых поясов",
+  "credit": "Heitordp · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Time_zone",
+  "license": "PD",
+  "year": 1884
+}

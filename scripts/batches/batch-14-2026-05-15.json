@@ -1,0 +1,385 @@
+[
+  {
+    "id": "fact-infographics-continental-drift",
+    "topic": "infographics",
+    "title": "Дрейф континентов",
+    "caption": "Альфред Вегенер, 1912. 250 млн лет назад была Пангея. К 2026 континенты разъехались, скорость 2–7 см в год.",
+    "alt": "Анимация дрейфа континентов",
+    "year": 1912,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Continental_drift"
+  },
+  {
+    "id": "fact-infographics-normal-distribution",
+    "topic": "infographics",
+    "title": "Нормальное распределение",
+    "caption": "Колоколообразная кривая Гаусса. 68% значений в пределах ±1σ, 95% в ±2σ, 99,7% в ±3σ. От IQ до роста.",
+    "alt": "Кривая нормального распределения",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Normal_distribution"
+  },
+  {
+    "id": "fact-infographics-greenhouse-effect",
+    "topic": "infographics",
+    "title": "Парниковый эффект",
+    "caption": "Описан Жозефом Фурье в 1824. Без парниковых газов средняя температура Земли была бы −18 °C вместо +14 °C.",
+    "alt": "Схема парникового эффекта",
+    "year": 1824,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Greenhouse_effect"
+  },
+  {
+    "id": "fact-infographics-earth-interior",
+    "topic": "infographics",
+    "title": "Внутреннее строение Земли",
+    "caption": "Кора (5–70 км), мантия (2900 км), внешнее ядро (2200 км), внутреннее (1220 км). В центре +5500 °C — как на поверхности Солнца.",
+    "alt": "Схема строения Земли",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Structure_of_Earth"
+  },
+  {
+    "id": "fact-infographics-ocean-currents",
+    "topic": "infographics",
+    "title": "Океанические течения",
+    "caption": "Глобальный конвейер: Гольфстрим, Куросио, Лабрадор. Полный оборот воды через все океаны — 1000 лет.",
+    "alt": "Карта океанических течений",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ocean_current"
+  },
+  {
+    "id": "fact-infographics-hr-diagram",
+    "topic": "infographics",
+    "title": "Диаграмма Герцшпрунга-Рассела",
+    "caption": "Эйнар Герцшпрунг и Генри Рассел, ~1910. Связь светимости и температуры звёзд. 90% звёзд на главной последовательности.",
+    "alt": "Диаграмма Герцшпрунга-Рассела",
+    "year": 1910,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hertzsprung–Russell_diagram"
+  },
+  {
+    "id": "fact-infographics-population-pyramid",
+    "topic": "infographics",
+    "title": "Половозрастная пирамида",
+    "caption": "Распределение населения по полу и возрасту. У Нигера — треугольник (молодая страна), у Японии — обратная (стареющая).",
+    "alt": "Половозрастные пирамиды стран",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Population_pyramid"
+  },
+  {
+    "id": "fact-infographics-mercator",
+    "topic": "infographics",
+    "title": "Проекция Меркатора",
+    "caption": "Герард Меркатор, 1569. Картографическая проекция для навигации. Гренландия выглядит размером с Африку, хотя в 14 раз меньше.",
+    "alt": "Карта мира в проекции Меркатора",
+    "year": 1569,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mercator_projection"
+  },
+  {
+    "id": "fact-infographics-time-zones",
+    "topic": "infographics",
+    "title": "Часовые пояса",
+    "caption": "24 базовых пояса по 15° долготы. Введены в 1884 на Международной меридианной конференции в Вашингтоне. Гринвич — нулевой.",
+    "alt": "Карта часовых поясов",
+    "year": 1884,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Time_zone"
+  },
+  {
+    "id": "fact-infographics-aurora-mechanism",
+    "topic": "infographics",
+    "title": "Механизм северного сияния",
+    "caption": "Заряженные частицы солнечного ветра захватываются магнитным полем Земли и сталкиваются с атомами на 100–300 км высоты.",
+    "alt": "Схема возникновения северного сияния",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aurora"
+  },
+  {
+    "id": "fact-infographics-galaxy-types",
+    "topic": "infographics",
+    "title": "Классификация Хаббла",
+    "caption": "Эдвин Хаббл, 1926. Камертонная схема: эллиптические, спиральные, спирали с перемычкой, неправильные. Млечный Путь — Sb/SBc.",
+    "alt": "Камертонная классификация галактик",
+    "year": 1926,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hubble_sequence"
+  },
+  {
+    "id": "fact-infographics-richter-scale",
+    "topic": "infographics",
+    "title": "Шкала Рихтера",
+    "caption": "Чарлз Рихтер, 1935. Логарифмическая: каждый балл = в 10 раз сильнее. Чили 1960 — 9,5 балла, рекорд за всё время измерений.",
+    "alt": "Шкала Рихтера",
+    "year": 1935,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Richter_scale"
+  },
+  {
+    "id": "fact-infographics-saffir-simpson",
+    "topic": "infographics",
+    "title": "Шкала Саффира-Симпсона",
+    "caption": "Ураганы по силе ветра, 5 категорий. Категория 5 — >252 км/ч. Ураган Камилла 1969 — 305 км/ч, один из 4 в истории США.",
+    "alt": "Шкала ураганов",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Saffir–Simpson_scale"
+  },
+  {
+    "id": "fact-infographics-beaufort-scale",
+    "topic": "infographics",
+    "title": "Шкала Бофорта",
+    "caption": "Френсис Бофорт, 1805. 12 баллов (от штиля до урагана) по визуальным признакам ветра на море. Без приборов.",
+    "alt": "Шкала Бофорта",
+    "year": 1805,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Beaufort_scale"
+  },
+  {
+    "id": "fact-infographics-mohs",
+    "topic": "infographics",
+    "title": "Шкала Мооса",
+    "caption": "Фридрих Моос, 1812. 10 баллов твёрдости минералов: тальк (1) → алмаз (10). Между алмазом и корундом (9) — в 4 раза разница.",
+    "alt": "Шкала твёрдости Мооса",
+    "year": 1812,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mohs_scale_of_mineral_hardness"
+  },
+  {
+    "id": "fact-terms-halo-effect",
+    "topic": "terms",
+    "title": "Эффект ореола",
+    "caption": "Эдвард Торндайк, 1920. Одна положительная черта (внешность, IQ) распространяется на оценку всей личности. Красивым приписывают доброту.",
+    "alt": "Иллюстрация эффекта ореола",
+    "year": 1920,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Halo_effect"
+  },
+  {
+    "id": "fact-terms-hindsight-bias",
+    "topic": "terms",
+    "title": "Эффект знал-заранее",
+    "caption": "Барух Фишхофф, 1975. После события человек верит, что он его предсказывал. «Это было очевидно» — иллюзия задним числом.",
+    "alt": "Иллюстрация эффекта знал-заранее",
+    "year": 1975,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hindsight_bias"
+  },
+  {
+    "id": "fact-terms-bystander-effect",
+    "topic": "terms",
+    "title": "Эффект свидетеля",
+    "caption": "Дарли и Латане, 1968. Чем больше свидетелей, тем меньше каждый помогает. Эксперимент после убийства Китти Дженовезе в 1964.",
+    "alt": "Иллюстрация эффекта свидетеля",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bystander_effect"
+  },
+  {
+    "id": "fact-terms-bayes-theorem",
+    "topic": "terms",
+    "title": "Теорема Байеса",
+    "caption": "Томас Байес, 1763 (посмертно). Как обновлять вероятность гипотезы при появлении новых данных. Основа машинного обучения и медицины.",
+    "alt": "Формула Байеса",
+    "year": 1763,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bayes'_theorem"
+  },
+  {
+    "id": "fact-terms-hubble-law",
+    "topic": "terms",
+    "title": "Закон Хаббла",
+    "caption": "Эдвин Хаббл, 1929. Скорость удаления галактик пропорциональна расстоянию: v = H₀·d. Подтверждает расширение Вселенной.",
+    "alt": "График закона Хаббла",
+    "year": 1929,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hubble's_law"
+  },
+  {
+    "id": "fact-terms-drake-equation",
+    "topic": "terms",
+    "title": "Уравнение Дрейка",
+    "caption": "Фрэнк Дрейк, 1961. Оценка числа разумных цивилизаций в Млечном Пути. По разным оценкам — от 1 до 10 миллионов.",
+    "alt": "Уравнение Дрейка",
+    "year": 1961,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Drake_equation"
+  },
+  {
+    "id": "fact-terms-fermi-paradox",
+    "topic": "terms",
+    "title": "Парадокс Ферми",
+    "caption": "Энрико Ферми, 1950. «Где все?» Млечный Путь — 100 млрд звёзд, 13 млрд лет, но следов цивилизаций нет. Тишина — сама загадка.",
+    "alt": "Иллюстрация парадокса Ферми",
+    "year": 1950,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fermi_paradox"
+  },
+  {
+    "id": "fact-terms-habitable-zone",
+    "topic": "terms",
+    "title": "Зона обитаемости",
+    "caption": "«Зона Златовласки» — расстояние от звезды, где возможна жидкая вода. У Солнца — 0,95–1,67 а.е. Земля прямо в середине.",
+    "alt": "Зона обитаемости Солнечной системы",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Circumstellar_habitable_zone"
+  },
+  {
+    "id": "fact-terms-spaghettification",
+    "topic": "terms",
+    "title": "Спагеттификация",
+    "caption": "Термин Стивена Хокинга, 1988. У горизонта чёрной дыры приливные силы растягивают объект в нить — голова и ноги по-разному.",
+    "alt": "Иллюстрация спагеттификации",
+    "year": 1988,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Spaghettification"
+  },
+  {
+    "id": "fact-terms-hawking-radiation",
+    "topic": "terms",
+    "title": "Излучение Хокинга",
+    "caption": "Стивен Хокинг, 1974. Чёрные дыры медленно испаряются. Дыра массой Солнца — за 10^67 лет. Меньше — быстрее.",
+    "alt": "Иллюстрация излучения Хокинга",
+    "year": 1974,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hawking_radiation"
+  },
+  {
+    "id": "fact-terms-anthropic-principle",
+    "topic": "terms",
+    "title": "Антропный принцип",
+    "caption": "Брэндон Картер, 1973. Константы Вселенной такие, какие они есть, потому что иначе не было бы наблюдателей.",
+    "alt": "Иллюстрация антропного принципа",
+    "year": 1973,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Anthropic_principle"
+  },
+  {
+    "id": "fact-terms-conservation-energy",
+    "topic": "terms",
+    "title": "Закон сохранения энергии",
+    "caption": "1-й закон термодинамики. Энергия не создаётся и не уничтожается, только превращается. Сформулирован Майером и Гельмгольцем в 1842–1847.",
+    "alt": "Иллюстрация сохранения энергии",
+    "year": 1847,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Conservation_of_energy"
+  },
+  {
+    "id": "fact-terms-russells-paradox",
+    "topic": "terms",
+    "title": "Парадокс Рассела",
+    "caption": "Бертран Рассел, 1901. Множество всех множеств, не содержащих себя — содержит ли оно само себя? Похоронило наивную теорию множеств.",
+    "alt": "Иллюстрация парадокса Рассела",
+    "year": 1901,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Russell's_paradox"
+  },
+  {
+    "id": "fact-terms-banach-tarski",
+    "topic": "terms",
+    "title": "Парадокс Банаха-Тарского",
+    "caption": "Стефан Банах и Альфред Тарский, 1924. Шар можно разбить на 5 частей и сложить из них 2 шара того же размера. Только в теории.",
+    "alt": "Иллюстрация парадокса Банаха-Тарского",
+    "year": 1924,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Banach–Tarski_paradox"
+  },
+  {
+    "id": "fact-terms-sorites",
+    "topic": "terms",
+    "title": "Парадокс кучи",
+    "caption": "Евбулид, IV в. до н.э. Зерно — не куча. Два зерна — не куча. Когда становится кучей? Парадокс расплывчатых границ.",
+    "alt": "Иллюстрация парадокса кучи",
+    "year": -350,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sorites_paradox"
+  },
+  {
+    "id": "fact-terms-liar",
+    "topic": "terms",
+    "title": "Парадокс лжеца",
+    "caption": "«Это утверждение ложно». Если истинно — то ложно, если ложно — то истинно. Известен с Эпименида VI в. до н.э.",
+    "alt": "Парадокс лжеца — символ",
+    "year": -550,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Liar_paradox"
+  },
+  {
+    "id": "fact-terms-zeno-paradox",
+    "topic": "terms",
+    "title": "Парадокс Зенона",
+    "caption": "Зенон Элейский, V в. до н.э. Ахиллес не догонит черепаху — пока добежит, она ещё чуть-чуть проползёт. Разрешён матанализом.",
+    "alt": "Иллюстрация парадокса Зенона",
+    "year": -450,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Zeno's_paradoxes"
+  },
+  {
+    "id": "fact-terms-monty-hall",
+    "topic": "terms",
+    "title": "Парадокс Монти Холла",
+    "caption": "Сценарий из шоу 1990-х. За 3 дверьми — авто и 2 козы. Меняя выбор после подсказки, вероятность выигрыша растёт с 1/3 до 2/3.",
+    "alt": "Схема парадокса Монти Холла",
+    "year": 1990,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Monty_Hall_problem"
+  },
+  {
+    "id": "fact-terms-broken-window",
+    "topic": "terms",
+    "title": "Теория разбитых окон",
+    "caption": "Уилсон и Келлинг, 1982. Мелкие нарушения провоцируют большие. NYC применил с 1990-х — Рудольф Джулиани снизил преступность.",
+    "alt": "Граффити на стене",
+    "year": 1982,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Broken_windows_theory"
+  },
+  {
+    "id": "fact-terms-cargo-cult",
+    "topic": "terms",
+    "title": "Карго-культ",
+    "caption": "Тихоокеанские племена после Второй мировой строили деревянные «самолёты», надеясь призвать груз. Метафора форма без содержания.",
+    "alt": "Деревянный «самолёт» культа карго",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cargo_cult"
+  },
+  {
+    "id": "fact-terms-uncanny-valley",
+    "topic": "terms",
+    "title": "Зловещая долина",
+    "caption": "Масахиро Мори, 1970. Робот, почти похожий на человека, вызывает большее отторжение, чем явный робот. График — провал.",
+    "alt": "График зловещей долины",
+    "year": 1970,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Uncanny_valley"
+  },
+  {
+    "id": "fact-terms-godwin-law",
+    "topic": "terms",
+    "title": "Закон Годвина",
+    "caption": "Майк Годвин, 1990. Чем дольше идёт онлайн-дискуссия, тем выше вероятность сравнения с Гитлером. Стремится к 1.",
+    "alt": "Иллюстрация закона Годвина",
+    "year": 1990,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Godwin's_law"
+  },
+  {
+    "id": "fact-terms-peter-principle",
+    "topic": "terms",
+    "title": "Принцип Питера",
+    "caption": "Лоренс Питер, 1969. В иерархии работника повышают, пока он не достигнет уровня некомпетентности — и там он застревает.",
+    "alt": "Иллюстрация принципа Питера",
+    "year": 1969,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Peter_principle"
+  },
+  {
+    "id": "fact-terms-parkinsons-law",
+    "topic": "terms",
+    "title": "Закон Паркинсона",
+    "caption": "Сирил Норткот Паркинсон, 1955. Работа заполняет всё время, отведённое на неё. Дедлайн через час — сделаешь за час, через месяц — за месяц.",
+    "alt": "Иллюстрация закона Паркинсона",
+    "year": 1955,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Parkinson's_law"
+  }
+]

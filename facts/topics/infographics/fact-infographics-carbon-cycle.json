@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-carbon-cycle",
+  "topic": "infographics",
+  "title": "Углеродный цикл",
+  "caption": "Круговорот углерода между атмосферой, океаном, биосферой. Человек добавил 1,5 трлн тонн CO₂ с 1850. Океан поглощает ~30%.",
+  "image": "fact-infographics-carbon-cycle.webp",
+  "image_width": 1280,
+  "image_height": 1079,
+  "alt": "Углеродный цикл",
+  "credit": "Diagram adapted from U.S. DOE, Biological and Environmental Research Information",
+  "source": "https://en.wikipedia.org/wiki/Carbon_cycle",
+  "license": "PD",
+  "year": 1850
+}

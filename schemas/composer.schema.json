@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qs4.me/schema/composer.schema.json",
+  "title": "Composer",
+  "description": "Один композитор. Используется как self-описание плейлиста по композитору в приложении. Фото обязательно (нужно показывать с описанием).",
+  "type": "object",
+  "required": ["id", "full_name_ru", "birth", "summary_ru", "photo", "photo_credit", "source"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]+$",
+      "description": "Slug. Примеры: chopin, bach, mozart, beethoven, rachmaninoff, scriabin."
+    },
+    "full_name_ru": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 60,
+      "description": "Полное имя по-русски. 'Фредерик Шопен', 'Иоганн Себастьян Бах'."
+    },
+    "full_name_en": { "type": "string", "maxLength": 60 },
+    "birth": { "type": "integer", "minimum": 800, "maximum": 2100 },
+    "death": { "type": ["integer", "null"], "minimum": 800, "maximum": 2100, "description": "null — ещё жив." },
+    "country": {
+      "type": "string",
+      "maxLength": 40,
+      "description": "Основная страна или регион работы. Может быть несколько через ' / ': 'Польша / Франция'."
+    },
+    "era": {
+      "type": "string",
+      "enum": ["medieval", "renaissance", "baroque", "classical", "romanticism", "late-romanticism", "early-modern", "modern", "minimalism", "contemporary"],
+      "description": "Основная эпоха. Композитор может пересекать эпохи — указываем доминирующую."
+    },
+    "summary_ru": {
+      "type": "string",
+      "minLength": 60,
+      "maxLength": 320,
+      "description": "2-3 коротких предложения. Кто, чем известен, ключевая деталь. Без 'великий гений' — конкретика. Пример: 'Польско-французский композитор-романтик, превративший пианизм в искусство интимной поэзии. 39 лет жизни, около 230 произведений, почти все для фортепиано.'"
+    },
+    "photo": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+\\.(jpg|jpeg|png|webp)$",
+      "description": "Имя файла портрета рядом в той же папке. Стандарт: квадратный crop, ≥600px, ≤200 KB."
+    },
+    "photo_credit": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 100,
+      "description": "Атрибуция фото. 'Maria Wodzińska · 1835 · PD' или 'Wikimedia · CC-BY-SA · Author Name'."
+    },
+    "photo_license": {
+      "type": "string",
+      "enum": ["PD", "CC0", "CC-BY", "CC-BY-SA"]
+    },
+    "source": {
+      "type": "string",
+      "format": "uri",
+      "description": "Wikipedia URL — для бэклинка и аудита."
+    }
+  }
+}

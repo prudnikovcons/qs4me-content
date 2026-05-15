@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-heisenberg-uncertainty",
+  "topic": "terms",
+  "title": "Принцип неопределённости",
+  "caption": "Вернер Гейзенберг, 1927. Нельзя одновременно точно знать координату и импульс частицы. Δx·Δp ≥ ℏ/2.",
+  "image": "fact-terms-heisenberg-uncertainty.webp",
+  "image_width": 497,
+  "image_height": 789,
+  "alt": "Принцип неопределённости — формула",
+  "credit": "Unknown authorUnknown author · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Uncertainty_principle",
+  "license": "CC-BY-SA",
+  "year": 1927
+}

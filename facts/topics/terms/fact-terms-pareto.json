@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-pareto",
+  "topic": "terms",
+  "title": "Принцип Парето · 80/20",
+  "caption": "Вильфредо Парето, 1896: 80% результата приходит от 20% усилий. 80% земли в Италии принадлежало 20% жителей.",
+  "image": "fact-terms-pareto.webp",
+  "image_width": 539,
+  "image_height": 560,
+  "alt": "Диаграмма Парето 80/20",
+  "credit": "Lord Belbury · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pareto_principle",
+  "license": "CC-BY-SA",
+  "year": 1896
+}

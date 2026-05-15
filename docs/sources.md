@@ -156,10 +156,17 @@ https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
 
 ## Future sources (не реализовано)
 
-- **Wikiquote** — для quotes (текст цитаты), сейчас обходимся Wikipedia bio + ручной caption.
-- **Met Open Access API** — `https://collectionapi.metmuseum.org/public/collection/v1/` — для art, все CC0.
-- **Rijksstudio API** — Rijksmuseum, CC0 high-res.
-- **Smithsonian Open Access** — `https://api.si.edu/openaccess/api/v1.0` — CC0 для events/history.
-- **Europeana** — `https://api.europeana.eu/` — европейские музеи, mixed licenses.
+Все эти источники потребуют extension в `collect.mjs` для не-Commons URL — отдельный код-путь с явной декларацией лицензии в манифесте.
 
-Добавлять по мере роста корпуса.
+- **Our World in Data** — `https://ourworldindata.org/grapher/{slug}.png` или `.svg`. Все CC-BY 4.0. Источник №1 для топика `infographics` (демография, климат, экономика). Атрибуция обязательна.
+- **NASA Image and Video Library** — `https://images-api.nasa.gov/` — search + asset endpoints. Все PD (исключая branded NASA logo).
+- **NOAA Photo Library** — `https://photolib.noaa.gov/` — PD (наука об океане, погоде, климате).
+- **USGS Image Gallery** — `https://www.usgs.gov/media/galleries` — PD (геология, тектоника, экосистемы).
+- **Met Open Access** — `https://collectionapi.metmuseum.org/public/collection/v1/` — для art, всё CC0. 500K+ объектов.
+- **Rijksstudio API** — Rijksmuseum, CC0 high-res. Рембрандт, Вермеер.
+- **Smithsonian Open Access** — `https://api.si.edu/openaccess/api/v1.0` — CC0 для events/history (4 млн объектов).
+- **Library of Congress** — `https://www.loc.gov/photos/` — большая доля PD (фотохроника США).
+- **Wikiquote** — для текстов цитат к топику `quote` (сейчас bio из Wikipedia + ручной caption).
+- **Europeana** — `https://api.europeana.eu/` — европейские музеи, лицензии смешанные.
+
+Большая часть Met / Rijks / Smithsonian уже дублируется на Commons (волонтёры заливают), так что для пилотных партий проще искать через Commons. Прямой доступ к API источника стоит подключать, когда понадобится массовый специализированный сбор (например, 100+ NASA climate-инфографик для топика `infographics`).

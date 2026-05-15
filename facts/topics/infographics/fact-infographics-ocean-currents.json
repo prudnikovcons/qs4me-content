@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-ocean-currents",
+  "topic": "infographics",
+  "title": "Океанические течения",
+  "caption": "Глобальный конвейер: Гольфстрим, Куросио, Лабрадор. Полный оборот воды через все океаны — 1000 лет.",
+  "image": "fact-infographics-ocean-currents.webp",
+  "image_width": 1000,
+  "image_height": 522,
+  "alt": "Карта океанических течений",
+  "credit": "Dr. Michael Pidwirny (see http://www.physicalgeography.net) · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Ocean_current",
+  "license": "PD",
+  "year": 2007
+}

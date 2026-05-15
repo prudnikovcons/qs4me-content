@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-keeling-curve",
+  "topic": "infographics",
+  "title": "Кривая Килинга",
+  "caption": "Концентрация CO₂ в атмосфере: 315 ppm в 1958 — 420 ppm в 2024. Чарлз Килинг измеряет на Мауна-Лоа непрерывно с 1958.",
+  "image": "fact-infographics-keeling-curve.webp",
+  "image_width": 1280,
+  "image_height": 1280,
+  "alt": "Кривая Килинга — рост CO2",
+  "credit": "Oeneis · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Keeling_Curve",
+  "license": "CC-BY-SA",
+  "year": 1958
+}

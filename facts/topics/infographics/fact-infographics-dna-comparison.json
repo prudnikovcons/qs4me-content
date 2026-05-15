@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-dna-comparison",
+  "topic": "infographics",
+  "title": "Размер генома",
+  "caption": "Человек — 3,2 млрд пар оснований. Шимпанзе — 3,1. Курица — 1,2. Бактерия E. coli — 4,6 млн. Самый большой — у моллюска: 22 млрд.",
+  "image": "fact-infographics-dna-comparison.webp",
+  "image_width": 1280,
+  "image_height": 905,
+  "alt": "Сравнение размеров геномов",
+  "credit": "Abizar at English Wikipedia · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Genome_size",
+  "license": "CC-BY-SA",
+  "year": 2010
+}

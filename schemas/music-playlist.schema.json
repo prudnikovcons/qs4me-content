@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qs4.me/schema/music-playlist.schema.json",
+  "title": "MusicPlaylist",
+  "description": "Курируемый тематический музыкальный плейлист. Имеет описание и порядок треков. Плейлисты по композитору/эпохе/стилю/десятилетию приложение генерит АВТОМАТИЧЕСКИ из tracks — их сюда писать НЕ нужно. Здесь — только продуманные подборки с авторским сюжетом.",
+  "type": "object",
+  "required": ["slug", "name_ru", "description_ru", "track_ids"],
+  "additionalProperties": false,
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]+$",
+      "description": "Slug. Примеры: morning-calm, deep-work, before-sleep, 19th-century-melancholy."
+    },
+    "name_ru": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 40,
+      "description": "Имя плейлиста по-русски."
+    },
+    "description_ru": {
+      "type": "string",
+      "minLength": 40,
+      "maxLength": 400,
+      "description": "Описание плейлиста на 2-3 предложения. Что объединяет треки, в каком порядке слушать, какое настроение. Пример: 'Семь камерных пьес для мягкого старта дня. Барокко и ранний романтизм, нет фортиссимо, нет драмы. Можно как фон под чтение.'"
+    },
+    "track_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z][a-z0-9-]+$" },
+      "minItems": 3,
+      "maxItems": 25,
+      "uniqueItems": true,
+      "description": "Список track id в порядке проигрывания. 3-25 треков. У приложения может быть shuffle поверх — но порядок здесь — base."
+    },
+    "mood": {
+      "type": "string",
+      "enum": ["calm", "energetic", "melancholic", "uplifting", "focused", "festive", "introspective", "dramatic", "tender"],
+      "description": "Доминирующее настроение — для иконографии и фильтров."
+    },
+    "best_time": {
+      "type": "string",
+      "enum": ["morning", "day", "work", "evening", "night", "anytime"],
+      "description": "Контекст когда плейлист уместен."
+    },
+    "cover_track_id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]+$",
+      "description": "Какой трек использовать как 'обложку' (название/композитор показывается в тизере плейлиста)."
+    },
+    "duration_total_sec": {
+      "type": "integer",
+      "description": "Сумма duration всех треков. Можно автогенерить."
+    }
+  }
+}

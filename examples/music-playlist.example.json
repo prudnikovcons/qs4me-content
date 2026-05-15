@@ -1,0 +1,17 @@
+{
+  "slug": "morning-calm",
+  "name_ru": "Утреннее затишье",
+  "description_ru": "Семь камерных пьес для мягкого старта дня. Барокко и ранний романтизм, нет фортиссимо, нет драмы. Можно как фон под чтение или утренний кофе.",
+  "mood": "calm",
+  "best_time": "morning",
+  "track_ids": [
+    "bach-air-on-g",
+    "satie-gymnopedie-1",
+    "debussy-clair-de-lune",
+    "chopin-nocturne-9-2",
+    "pachelbel-canon",
+    "schubert-impromptu-3",
+    "faure-pavane"
+  ],
+  "cover_track_id": "satie-gymnopedie-1"
+}

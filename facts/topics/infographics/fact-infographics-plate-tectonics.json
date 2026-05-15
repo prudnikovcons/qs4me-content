@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-plate-tectonics",
+  "topic": "infographics",
+  "title": "Тектонические плиты",
+  "caption": "Литосфера Земли — 15+ плит, движущихся 2–10 см/год. Гипотеза дрейфа Вегенера 1912, теория плит подтверждена в 1960-х.",
+  "image": "fact-infographics-plate-tectonics.webp",
+  "image_width": 1280,
+  "image_height": 650,
+  "alt": "Карта тектонических плит",
+  "credit": "M.Bitton · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Plate_tectonics",
+  "license": "CC-BY-SA",
+  "year": 1960
+}

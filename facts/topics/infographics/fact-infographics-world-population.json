@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-world-population",
+  "topic": "infographics",
+  "title": "Население Земли",
+  "caption": "От 1 миллиарда в 1804 до 8 миллиардов в 2022. На последние 4 млрд ушло всего 50 лет — рекордный рост в истории человечества.",
+  "image": "fact-infographics-world-population.webp",
+  "image_width": 1280,
+  "image_height": 962,
+  "alt": "График роста населения Земли",
+  "credit": "United Nations, DESA, Population Division · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/World_population",
+  "license": "CC-BY",
+  "year": 2022
+}

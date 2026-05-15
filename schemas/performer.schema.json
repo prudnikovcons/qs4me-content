@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qs4.me/schema/performer.schema.json",
+  "title": "Performer",
+  "description": "Исполнитель (пианист, дирижёр, оркестр, ансамбль). Может быть и не известен — тогда трек ссылается на performer_id = null.",
+  "type": "object",
+  "required": ["id", "name_ru", "summary_ru"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z][a-z0-9-]+$" },
+    "name_ru": { "type": "string", "minLength": 3, "maxLength": 80 },
+    "name_en": { "type": "string", "maxLength": 80 },
+    "birth": { "type": ["integer", "null"], "minimum": 1800, "maximum": 2100 },
+    "death": { "type": ["integer", "null"], "minimum": 1800, "maximum": 2100 },
+    "kind": {
+      "type": "string",
+      "enum": ["soloist", "conductor", "ensemble", "orchestra", "duo", "trio", "quartet", "choir"],
+      "description": "Тип исполнителя — для UI отображения и фильтров."
+    },
+    "instrument": {
+      "type": "string",
+      "maxLength": 40,
+      "description": "Для солиста. 'фортепиано', 'скрипка', 'виолончель', 'клавесин', 'орган'."
+    },
+    "summary_ru": {
+      "type": "string",
+      "minLength": 40,
+      "maxLength": 300,
+      "description": "1-2 предложения. Кто, чем известен, что особенного в этом исполнении. Пример: 'Польско-американский пианист, один из крупнейших шопенистов XX века. Сделал шесть студийных циклов всех ноктюрнов — этот из последнего, 1965 года.'"
+    },
+    "photo": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+\\.(jpg|jpeg|png|webp)$"
+    },
+    "photo_credit": { "type": "string", "maxLength": 100 },
+    "photo_license": { "type": "string", "enum": ["PD", "CC0", "CC-BY", "CC-BY-SA"] },
+    "source": { "type": "string", "format": "uri" }
+  }
+}

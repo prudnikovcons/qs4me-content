@@ -189,6 +189,26 @@ questions/playlists/{playlist-slug}.json
 
 ---
 
+## 3.5. Музыкальная подсистема (music/)
+
+Отдельный поддом контента — классическая музыка в общественном достоянии. Курируется отдельным чатом (см. `docs/MUSIC_PROMPT.md`).
+
+Пять связанных сущностей:
+
+- **music-track** (`schemas/music-track.schema.json`) — запись произведения. Файл mp3 рядом с JSON в `music/tracks/`. Содержит `description_md` — авторское описание композиции на 2-3 абзаца.
+- **composer** (`schemas/composer.schema.json`) — биография композитора (одна на множество треков). Фото обязательно. В `music/composers/`.
+- **performer** (`schemas/performer.schema.json`) — биография исполнителя (опционально; может быть null). Фото опционально. В `music/performers/`.
+- **music-playlist** (`schemas/music-playlist.schema.json`) — курируемая тематическая подборка с сюжетом и описанием. В `music/playlists/`.
+- **music-taxonomy** (`schemas/music-taxonomy.schema.json`) — описания осей: эпохи / стили / десятилетия. Лежат массивами в `music/taxonomy/{eras,styles,decades}.json`.
+
+**Авто-плейлисты** (по композитору, эпохе, стилю, десятилетию) приложение строит само из tracks. Куратор их **не пишет** — пишет только описания осей через taxonomy и тематические сборники через playlists.
+
+**Лицензии**: только PD / CC0 / CC-BY / CC-BY-SA — для записи, для портретов и для всего. CC-BY-NC и fair-use отклоняются. Композиция в PD ≠ запись в PD — проверять каждую запись отдельно.
+
+**Формат файлов**: mp3, 128+ kbps, ≤ 8 MB на трек. OGG отклоняется (плохая совместимость со старым iOS Safari).
+
+---
+
 ## 4. Версионирование
 
 | Что | Как |

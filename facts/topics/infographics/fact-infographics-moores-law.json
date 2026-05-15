@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-moores-law",
+  "topic": "infographics",
+  "title": "Закон Мура",
+  "caption": "Число транзисторов на чипе удваивается каждые 2 года. Сформулирован Гордоном Муром в 1965 — действовал 60 лет.",
+  "image": "fact-infographics-moores-law.webp",
+  "image_width": 1280,
+  "image_height": 947,
+  "alt": "График закона Мура",
+  "credit": "Max Roser, Hannah Ritchie · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Moore's_law",
+  "license": "CC-BY",
+  "year": 1965
+}

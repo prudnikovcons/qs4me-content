@@ -123,43 +123,61 @@ async function fetchCommonsMeta(filename) {
 async function collectOne(entry) {
   // 1. Manifest sanity
   const errs = [];
-  for (const f of ["id", "topic", "title", "caption", "wikipedia_lang", "wikipedia_title"]) {
+  const isDirect = !!entry.direct_image_url;
+  const required = isDirect
+    ? ["id", "topic", "title", "caption", "direct_image_url", "direct_license", "direct_credit", "source"]
+    : ["id", "topic", "title", "caption", "wikipedia_lang", "wikipedia_title"];
+  for (const f of required) {
     if (!entry[f]) errs.push(`missing ${f}`);
   }
   if (entry.id && !entry.id.startsWith(`fact-${entry.topic}-`)) errs.push(`id "${entry.id}" doesn't match topic`);
   if (entry.title && [...entry.title].length > 36) errs.push(`title >36 chars (${[...entry.title].length})`);
   if (entry.caption && [...entry.caption].length > 145) errs.push(`caption >145 chars (${[...entry.caption].length})`);
   if (entry.caption && !/\d/.test(entry.caption)) errs.push("caption has no digit");
+  if (isDirect && entry.direct_license && !ALLOWED_LICENSES.has(entry.direct_license)) {
+    errs.push(`direct_license "${entry.direct_license}" not in allowed enum`);
+  }
   if (errs.length) return { ok: false, id: entry.id, reasons: errs };
 
-  // 2. Resolve image filename — from Wikipedia summary or override
-  let filename = entry.image_filename_override;
-  if (filename && filename.startsWith("File:")) filename = filename.slice(5);
-  if (!filename) {
-    const summaryUrl = `https://${entry.wikipedia_lang}.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(entry.wikipedia_title)}`;
-    const res = await fetchWithRetry(summaryUrl);
-    const data = await res.json();
-    const imageUrl = data?.originalimage?.source ?? data?.thumbnail?.source;
-    if (!imageUrl) return { ok: false, id: entry.id, reasons: [`no image in summary for ${entry.wikipedia_title} (set image_filename_override)`] };
-    filename = filenameFromCommonsUrl(imageUrl);
+  let cm = null;
+  let buf = null;
+  let displaySource = null;
+
+  if (isDirect) {
+    // DIRECT mode: bypass Commons, trust manifest license/credit. Pull image straight from URL.
+    console.log(`  · ${entry.id} ← [direct] ${entry.direct_image_url.split("/").pop()} (${entry.direct_license})`);
+    const imgRes = await fetchWithRetry(entry.direct_image_url, { accept: "image/*" });
+    buf = Buffer.from(await imgRes.arrayBuffer());
     await sleep(REQ_SLEEP);
+    cm = { license: entry.direct_license, artist: entry.direct_credit };
+    displaySource = entry.source;
+  } else {
+    // COMMONS mode: resolve via Wikipedia summary, verify via Commons API.
+    let filename = entry.image_filename_override;
+    if (filename && filename.startsWith("File:")) filename = filename.slice(5);
+    if (!filename) {
+      const summaryUrl = `https://${entry.wikipedia_lang}.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(entry.wikipedia_title)}`;
+      const res = await fetchWithRetry(summaryUrl);
+      const data = await res.json();
+      const imageUrl = data?.originalimage?.source ?? data?.thumbnail?.source;
+      if (!imageUrl) return { ok: false, id: entry.id, reasons: [`no image in summary for ${entry.wikipedia_title} (set image_filename_override)`] };
+      filename = filenameFromCommonsUrl(imageUrl);
+      await sleep(REQ_SLEEP);
+    }
+    cm = await fetchCommonsMeta(filename);
+    await sleep(REQ_SLEEP);
+    if (!cm.license) return { ok: false, id: entry.id, reasons: [`unknown license "${cm.licenseShort}" for ${filename}`] };
+    if (!ALLOWED_LICENSES.has(cm.license)) return { ok: false, id: entry.id, reasons: [`license ${cm.license} (${cm.licenseShort}) not allowed`] };
+    if (entry.license_expected && Array.isArray(entry.license_expected) && !entry.license_expected.includes(cm.license)) {
+      return { ok: false, id: entry.id, reasons: [`license ${cm.license} not in expected ${entry.license_expected.join("/")}`] };
+    }
+    const dlUrl = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(filename)}?width=1600`;
+    console.log(`  · ${entry.id} ← ${filename} (${cm.license})`);
+    const imgRes = await fetchWithRetry(dlUrl, { accept: "image/*" });
+    buf = Buffer.from(await imgRes.arrayBuffer());
+    await sleep(REQ_SLEEP);
+    displaySource = `https://${entry.wikipedia_lang}.wikipedia.org/wiki/${encodeURI(entry.wikipedia_title)}`;
   }
-
-  // 3. Commons metadata (license, author)
-  const cm = await fetchCommonsMeta(filename);
-  await sleep(REQ_SLEEP);
-  if (!cm.license) return { ok: false, id: entry.id, reasons: [`unknown license "${cm.licenseShort}" for ${filename}`] };
-  if (!ALLOWED_LICENSES.has(cm.license)) return { ok: false, id: entry.id, reasons: [`license ${cm.license} (${cm.licenseShort}) not allowed`] };
-  if (entry.license_expected && Array.isArray(entry.license_expected) && !entry.license_expected.includes(cm.license)) {
-    return { ok: false, id: entry.id, reasons: [`license ${cm.license} not in expected ${entry.license_expected.join("/")}`] };
-  }
-
-  // 4. Download image
-  const dlUrl = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(filename)}?width=1600`;
-  console.log(`  · ${entry.id} ← ${filename} (${cm.license})`);
-  const imgRes = await fetchWithRetry(dlUrl, { accept: "image/*" });
-  const buf = Buffer.from(await imgRes.arrayBuffer());
-  await sleep(REQ_SLEEP);
 
   // 5. sharp pipeline: ≤1280w webp, walk quality down until ≤400KB
   let webpBuf = null;
@@ -187,8 +205,8 @@ async function collectOne(entry) {
     image_width: meta.width,
     image_height: meta.height,
     ...(entry.alt ? { alt: entry.alt } : {}),
-    credit: `${cm.artist} · ${cm.license} · Wikimedia`.slice(0, 80),
-    source: `https://${entry.wikipedia_lang}.wikipedia.org/wiki/${encodeURI(entry.wikipedia_title)}`,
+    credit: (isDirect ? `${cm.artist} · ${cm.license}` : `${cm.artist} · ${cm.license} · Wikimedia`).slice(0, 80),
+    source: displaySource,
     license: cm.license,
     ...(year != null ? { year } : {}),
     ...(entry.meta ? { meta: entry.meta } : {}),

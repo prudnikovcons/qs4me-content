@@ -40,4 +40,10 @@ indexDir(path.join(ROOT, "questions"), "public_id");
 indexDir(path.join(ROOT, "questions/streams"), "id");
 indexDir(path.join(ROOT, "questions/playlists"), "slug");
 
+// Music sub-system
+indexDir(path.join(ROOT, "music/tracks"), "id");
+indexDir(path.join(ROOT, "music/composers"), "id");
+indexDir(path.join(ROOT, "music/performers"), "id");
+indexDir(path.join(ROOT, "music/playlists"), "slug");
+
 console.log("✓ All _index.json files written");

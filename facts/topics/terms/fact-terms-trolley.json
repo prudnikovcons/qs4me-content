@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-trolley",
+  "topic": "terms",
+  "title": "Проблема вагонетки",
+  "caption": "Филиппа Фут, 1967. Этическая дилемма: убить одного, чтобы спасти пятерых? Тест на утилитаризм vs деонтологию.",
+  "image": "fact-terms-trolley.webp",
+  "image_width": 1280,
+  "image_height": 437,
+  "alt": "Иллюстрация проблемы вагонетки",
+  "credit": "Original: McGeddon Vector: Zapyon · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Trolley_problem",
+  "license": "CC-BY-SA",
+  "year": 1967
+}

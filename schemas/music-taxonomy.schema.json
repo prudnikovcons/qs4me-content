@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qs4.me/schema/music-taxonomy.schema.json",
+  "title": "MusicTaxonomyItem",
+  "description": "Описание одной оси таксономии: эпохи (era), стиля (style), десятилетия (decade). Используется как описание автогенерируемых плейлистов 'все треки эпохи X' и т.д. Файлы лежат в music/taxonomy/eras.json, styles.json, decades.json — каждый файл — массив объектов этого типа.",
+  "type": "object",
+  "required": ["key", "name_ru", "summary_ru"],
+  "additionalProperties": false,
+  "properties": {
+    "key": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$",
+      "description": "Значение из enum в music-track.schema. Например: baroque (для eras), nocturne (для styles), 1820s (для decades)."
+    },
+    "name_ru": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 40
+    },
+    "year_start": { "type": "integer", "description": "Начало диапазона. Для era/decade обязательно." },
+    "year_end": { "type": "integer", "description": "Конец диапазона. Для era/decade обязательно." },
+    "summary_ru": {
+      "type": "string",
+      "minLength": 60,
+      "maxLength": 400,
+      "description": "Описание эпохи / стиля / десятилетия на 2-3 предложения. Что характерно для музыки этого времени или формы. Без пафоса. Пример для барокко: 'Эпоха с ~1600 до 1750. Контрапункт, бассо континуо, развитие сонаты и концерта. Бах, Гендель, Вивальди, Скарлатти. Музыка строится как архитектура — слой над слоем, по правилам.'"
+    },
+    "cover_composer_id": {
+      "type": "string",
+      "description": "Какого композитора использовать как 'обложку' этой оси. Например для baroque — bach."
+    }
+  }
+}

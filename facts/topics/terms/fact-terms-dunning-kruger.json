@@ -1,0 +1,14 @@
+{
+  "id": "fact-terms-dunning-kruger",
+  "topic": "terms",
+  "title": "Эффект Даннинга-Крюгера",
+  "caption": "Корнелл, 1999. Некомпетентные переоценивают свои знания, эксперты — недооценивают. Пик ложной уверенности — на 10% знаний.",
+  "image": "fact-terms-dunning-kruger.webp",
+  "image_width": 1280,
+  "image_height": 1065,
+  "alt": "Кривая Даннинга-Крюгера",
+  "credit": "https://commons.wikimedia.org/w/index.php?title=User:Diego_Moya · CC-BY-SA · Wik",
+  "source": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
+  "license": "CC-BY-SA",
+  "year": 1999
+}

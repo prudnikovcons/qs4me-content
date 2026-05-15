@@ -1,0 +1,14 @@
+{
+  "id": "fact-infographics-hr-diagram",
+  "topic": "infographics",
+  "title": "Диаграмма Герцшпрунга-Рассела",
+  "caption": "Эйнар Герцшпрунг и Генри Рассел, ~1910. Связь светимости и температуры звёзд. 90% звёзд на главной последовательности.",
+  "image": "fact-infographics-hr-diagram.webp",
+  "image_width": 720,
+  "image_height": 820,
+  "alt": "Диаграмма Герцшпрунга-Рассела",
+  "credit": "Richard Powell · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram",
+  "license": "CC-BY-SA",
+  "year": 1910
+}

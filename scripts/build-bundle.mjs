@@ -52,12 +52,48 @@ fs.writeFileSync(path.join(DIST, "questions.json"), JSON.stringify(questions, nu
 const streams = walk(path.join(ROOT, "questions/streams")).map(readJson);
 fs.writeFileSync(path.join(DIST, "streams.json"), JSON.stringify(streams, null, 2));
 
-// 4. Playlists
+// 4. Playlists (questions)
 const playlists = walk(path.join(ROOT, "questions/playlists")).map(readJson);
 fs.writeFileSync(path.join(DIST, "playlists.json"), JSON.stringify(playlists, null, 2));
+
+// 5. Music sub-system
+const musicTracks = walk(path.join(ROOT, "music/tracks")).map(readJson).map(t => ({
+  ...t,
+  _fileUrl: `/music/tracks/${t.file}`,
+}));
+const composers = walk(path.join(ROOT, "music/composers")).map(readJson).map(c => ({
+  ...c,
+  _photoUrl: c.photo ? `/music/composers/${c.photo}` : null,
+}));
+const performers = walk(path.join(ROOT, "music/performers")).map(readJson).map(p => ({
+  ...p,
+  _photoUrl: p.photo ? `/music/performers/${p.photo}` : null,
+}));
+const musicPlaylists = walk(path.join(ROOT, "music/playlists")).map(readJson);
+// Taxonomy files are arrays — keep keyed by filename without extension
+const taxonomy = {};
+const taxRoot = path.join(ROOT, "music/taxonomy");
+if (fs.existsSync(taxRoot)) {
+  for (const e of fs.readdirSync(taxRoot, { withFileTypes: true })) {
+    if (!e.isFile() || !e.name.endsWith(".json") || e.name.startsWith("_")) continue;
+    const key = e.name.replace(/\.json$/, "");
+    taxonomy[key] = readJson(path.join(taxRoot, e.name));
+  }
+}
+
+fs.writeFileSync(path.join(DIST, "music-tracks.json"), JSON.stringify(musicTracks, null, 2));
+fs.writeFileSync(path.join(DIST, "composers.json"), JSON.stringify(composers, null, 2));
+fs.writeFileSync(path.join(DIST, "performers.json"), JSON.stringify(performers, null, 2));
+fs.writeFileSync(path.join(DIST, "music-playlists.json"), JSON.stringify(musicPlaylists, null, 2));
+fs.writeFileSync(path.join(DIST, "music-taxonomy.json"), JSON.stringify(taxonomy, null, 2));
 
 console.log(`📦 Bundle written → dist/`);
 console.log(`   facts: ${facts.length}`);
 console.log(`   questions: ${questions.length}`);
 console.log(`   streams: ${streams.length}`);
 console.log(`   playlists: ${playlists.length}`);
+console.log(`   music-tracks: ${musicTracks.length}`);
+console.log(`   composers: ${composers.length}`);
+console.log(`   performers: ${performers.length}`);
+console.log(`   music-playlists: ${musicPlaylists.length}`);
+console.log(`   music-taxonomy keys: ${Object.keys(taxonomy).join(", ") || "(none)"}`);
