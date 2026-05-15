@@ -1,0 +1,18 @@
+{
+  "id": "tchaikovsky-nutcracker-trepak",
+  "file": "tchaikovsky-nutcracker-trepak.mp3",
+  "title": "«Щелкунчик», сюита op. 71a — Трепак (Русский танец)",
+  "title_original": "The Nutcracker Suite, Op. 71a — Trepak (Russian Dance)",
+  "composer_id": "tchaikovsky",
+  "performer_id": "leopold-stokowski",
+  "year_composed": 1892,
+  "year_recorded": null,
+  "era": "late-romanticism",
+  "style": ["ballet"],
+  "duration_sec": 58,
+  "description_md": "Самый короткий номер сюиты — Трепак, всего около минуты. Трепак — традиционный казацкий и украинский танец с резкими прыжками и приседаниями; в балете он сопровождает выход «русских» сладостей в волшебном царстве Драже.\n\nЧайковский строит номер на одной короткой теме, которую оркестр повторяет четыре раза в нарастающем темпе и плотности. Это типичный приём финального «бис»-номера: предельное ускорение к концу, громкая кода с тарелками и литаврами. У Стоковского темп уже изначально быстрый — почти стремительный — и финальные такты звучат как победный взрыв. Меньше минуты, но запоминается на годы; именно этот номер обычно играют как «лицо» Чайковского на любом концерте лёгкой классики.",
+  "license": "CC-BY",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "source": "https://archive.org/details/TchaikovskyTheNutcrackerSuite",
+  "credit": "Leopold Stokowski · Philadelphia Orchestra · CC-BY"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tchaikovsky-nutcracker-overture",
+  "file": "tchaikovsky-nutcracker-overture.mp3",
+  "title": "«Щелкунчик», сюита op. 71a — Миниатюрная увертюра",
+  "title_original": "The Nutcracker Suite, Op. 71a — Miniature Overture",
+  "composer_id": "tchaikovsky",
+  "performer_id": "leopold-stokowski",
+  "year_composed": 1892,
+  "year_recorded": null,
+  "era": "late-romanticism",
+  "style": ["ballet"],
+  "duration_sec": 284,
+  "description_md": "Открывающая часть концертной сюиты из балета «Щелкунчик», составленной Чайковским в 1892 году, ещё до премьеры самого балета — он хотел сначала проверить материал в концертном зале. Миниатюрная увертюра — короткий разогрев, типично балетный «занавес»: без литавр и низких медных, только верхние струнные, флейты, кларнеты. Камерный звук, почти как у симфониетты.\n\nФорма — сонатное аллегро в сильно укороченном виде: главная партия, побочная в доминанте, минимальная разработка, реприза, кода. Чайковский нарочно держит лёгкий, не-героический тон — это вступление к сказке, а не к симфонии. Леопольд Стоковский записал сюиту с Филадельфийским оркестром: эталонное «филадельфийское» звучание — широкая струнная масса, мягкая атака, длинные кантиленные линии.",
+  "license": "CC-BY",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "source": "https://archive.org/details/TchaikovskyTheNutcrackerSuite",
+  "credit": "Leopold Stokowski · Philadelphia Orchestra · CC-BY"
+}

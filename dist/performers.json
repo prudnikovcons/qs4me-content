@@ -15,6 +15,34 @@
     "_photoUrl": "/music/performers/artur-schnabel.jpg"
   },
   {
+    "id": "dimitri-mitropoulos",
+    "name_ru": "Димитрий Митропулос",
+    "name_en": "Dimitri Mitropoulos",
+    "birth": 1896,
+    "death": 1960,
+    "kind": "conductor",
+    "summary_ru": "Греко-американский дирижёр, шеф Миннеаполисского симфонического (1937–1949) и Нью-Йоркского филармонического (1949–1958). Дирижировал наизусть; первым в США исполнял Малера, Шёнберга, Шостаковича. Умер у пульта Ла Скала, репетируя Малера.",
+    "photo": "dimitri-mitropoulos.jpg",
+    "photo_credit": "Wikimedia Commons · 1944 · PD",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Dimitri_Mitropoulos",
+    "_photoUrl": "/music/performers/dimitri-mitropoulos.jpg"
+  },
+  {
+    "id": "leopold-stokowski",
+    "name_ru": "Леопольд Стоковский",
+    "name_en": "Leopold Stokowski",
+    "birth": 1882,
+    "death": 1977,
+    "kind": "conductor",
+    "summary_ru": "Британо-американский дирижёр, более 25 лет (1912–1938) руководивший Филадельфийским оркестром. Сформировал «филадельфийский звук» — насыщенный, кантиленный, с особым вниманием к струнным. Активно сотрудничал с Disney: Бах, Чайковский, Стравинский в его обработках звучат в «Фантазии» 1940 года.",
+    "photo": "leopold-stokowski.jpg",
+    "photo_credit": "Library of Congress · PD",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Leopold_Stokowski",
+    "_photoUrl": "/music/performers/leopold-stokowski.jpg"
+  },
+  {
     "id": "maryla-jonas",
     "name_ru": "Марыля Йонас",
     "name_en": "Maryla Jonas",

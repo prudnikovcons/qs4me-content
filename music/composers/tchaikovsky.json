@@ -1,0 +1,14 @@
+{
+  "id": "tchaikovsky",
+  "full_name_ru": "Пётр Ильич Чайковский",
+  "full_name_en": "Pyotr Ilyich Tchaikovsky",
+  "birth": 1840,
+  "death": 1893,
+  "country": "Россия",
+  "era": "late-romanticism",
+  "summary_ru": "Русский композитор позднего романтизма, первый русский композитор с устойчивой международной репутацией. Симфонии (6), балеты («Лебединое озеро», «Спящая красавица», «Щелкунчик»), оперы («Евгений Онегин», «Пиковая дама»), концерты, романсы. Поднял балет от прикладного жанра до симфонического.",
+  "photo": "tchaikovsky.jpg",
+  "photo_credit": "Charles Reutlinger · ~1888 · фотография · PD",
+  "photo_license": "PD",
+  "source": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
+}

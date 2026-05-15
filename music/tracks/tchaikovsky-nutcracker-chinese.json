@@ -1,0 +1,18 @@
+{
+  "id": "tchaikovsky-nutcracker-chinese",
+  "file": "tchaikovsky-nutcracker-chinese.mp3",
+  "title": "«Щелкунчик», сюита op. 71a — Китайский танец",
+  "title_original": "The Nutcracker Suite, Op. 71a — Chinese Dance",
+  "composer_id": "tchaikovsky",
+  "performer_id": "leopold-stokowski",
+  "year_composed": 1892,
+  "year_recorded": null,
+  "era": "late-romanticism",
+  "style": ["ballet"],
+  "duration_sec": 42,
+  "description_md": "Самый короткий номер сюиты — Китайский танец, около сорока секунд. В сюжете балета — пара китайских кукол выходит из шкатулки и танцует. Чайковский даёт музыку, никак не связанную с реальной китайской традицией: это европейское представление о «китайскости» конца XIX века, основанное больше на иллюстрациях, чем на этнографии.\n\nПриём элементарный, но эффективный: над постоянным повторяющимся басом фаготов — фигура трёх повторяющихся нот, — флейта-пикколо играет короткую щебечущую мелодию в высоком регистре. Контраст низкого и высокого, отсутствие средних голосов, моноритмичность — создаёт ощущение игрушечности, тех самых заводных кукол. Сорок секунд хватает Чайковскому, чтобы создать законченный образ; в балете эту сцену так и играют — короткий, точный выход и уход персонажей.",
+  "license": "CC-BY",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "source": "https://archive.org/details/TchaikovskyTheNutcrackerSuite",
+  "credit": "Leopold Stokowski · Philadelphia Orchestra · CC-BY"
+}

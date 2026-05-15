@@ -45,6 +45,21 @@
     "_photoUrl": "/music/composers/chopin.jpg"
   },
   {
+    "id": "dukas",
+    "full_name_ru": "Поль Дюка",
+    "full_name_en": "Paul Dukas",
+    "birth": 1865,
+    "death": 1935,
+    "country": "Франция",
+    "era": "early-modern",
+    "summary_ru": "Французский композитор, критик и педагог, современник Дебюсси и Равеля. Известен почти исключительно одним произведением — «Учеником чародея» (1897), популярным после диснеевской «Фантазии» 1940 года. Был перфекционистом: значительную часть собственных работ уничтожил. Также — опера «Ариана и Синяя Борода».",
+    "photo": "dukas.jpg",
+    "photo_credit": "Wikimedia Commons · PD",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Paul_Dukas",
+    "_photoUrl": "/music/composers/dukas.jpg"
+  },
+  {
     "id": "mozart",
     "full_name_ru": "Вольфганг Амадей Моцарт",
     "full_name_en": "Wolfgang Amadeus Mozart",
@@ -73,5 +88,20 @@
     "photo_license": "PD",
     "source": "https://en.wikipedia.org/wiki/Franz_Schubert",
     "_photoUrl": "/music/composers/schubert.jpg"
+  },
+  {
+    "id": "tchaikovsky",
+    "full_name_ru": "Пётр Ильич Чайковский",
+    "full_name_en": "Pyotr Ilyich Tchaikovsky",
+    "birth": 1840,
+    "death": 1893,
+    "country": "Россия",
+    "era": "late-romanticism",
+    "summary_ru": "Русский композитор позднего романтизма, первый русский композитор с устойчивой международной репутацией. Симфонии (6), балеты («Лебединое озеро», «Спящая красавица», «Щелкунчик»), оперы («Евгений Онегин», «Пиковая дама»), концерты, романсы. Поднял балет от прикладного жанра до симфонического.",
+    "photo": "tchaikovsky.jpg",
+    "photo_credit": "Charles Reutlinger · ~1888 · фотография · PD",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+    "_photoUrl": "/music/composers/tchaikovsky.jpg"
   }
 ]

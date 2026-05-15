@@ -270,6 +270,28 @@
     "_fileUrl": "/music/tracks/chopin-waltz-70-3.mp3"
   },
   {
+    "id": "dukas-sorcerers-apprentice",
+    "file": "dukas-sorcerers-apprentice.mp3",
+    "title": "«Ученик чародея», симфоническая поэма",
+    "title_original": "L'apprenti sorcier, symphonic poem",
+    "composer_id": "dukas",
+    "performer_id": "dimitri-mitropoulos",
+    "year_composed": 1897,
+    "year_recorded": 1941,
+    "era": "early-modern",
+    "style": [
+      "tone-poem"
+    ],
+    "duration_sec": 582,
+    "description_md": "Симфоническая поэма «Ученик чародея» Поля Дюка, написана в 1897 году по балладе Гёте 1797 года. Сюжет: ученик старого чародея, оставшись один, заколдовывает метлу, чтобы та носила воду; не зная отменяющего заклинания, не может остановить процесс — метла превращает дом в потоп. Тип «слушать-как-рассказ» — каждая музыкальная тема привязана к персонажу: основная фигура метлы (виолы и фаготы стаккато), беспорядочный поток воды (струнные), мощный голос чародея в финале (медь).\n\nДюка строит партитуру по принципу нарастания — от тишины через хаос к финальному катарсису. После премьеры пьеса стала визитной карточкой Дюка; он сам уничтожил большую часть других своих оркестровых сочинений как «недостаточно совершенных». Запись 1941 года — Димитрий Митропулос с Миннеаполисским симфоническим оркестром, transferred с Columbia LP. До «Фантазии» Диснея осталось ещё пять лет — после фильма пьеса станет частью массовой культуры навсегда.",
+    "trivia": "В диснеевской «Фантазии» 1940 года роль ученика чародея сыграл Микки Маус — пьеса с тех пор у миллионов людей ассоциируется с его силуэтом.",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://archive.org/details/SorcerersApprentice",
+    "credit": "Dimitri Mitropoulos · Minneapolis Symphony · 1941 · CC0",
+    "_fileUrl": "/music/tracks/dukas-sorcerers-apprentice.mp3"
+  },
+  {
     "id": "mozart-eine-kleine-1-allegro",
     "file": "mozart-eine-kleine-1-allegro.mp3",
     "title": "«Маленькая ночная серенада» KV 525, I — Allegro",
@@ -486,5 +508,132 @@
     "source": "https://archive.org/details/SchubertMomentsMusicaux1-6",
     "credit": "Artur Schnabel · RCA Victor, 1937 · PD",
     "_fileUrl": "/music/tracks/schubert-moment-5.mp3"
+  },
+  {
+    "id": "tchaikovsky-nutcracker-arabian",
+    "file": "tchaikovsky-nutcracker-arabian.mp3",
+    "title": "«Щелкунчик», сюита op. 71a — Арабский танец",
+    "title_original": "The Nutcracker Suite, Op. 71a — Arabian Dance",
+    "composer_id": "tchaikovsky",
+    "performer_id": "leopold-stokowski",
+    "year_composed": 1892,
+    "year_recorded": null,
+    "era": "late-romanticism",
+    "style": [
+      "ballet"
+    ],
+    "duration_sec": 126,
+    "description_md": "Арабский танец — пятый номер сюиты, изображающий «кофе» в волшебном царстве сладостей (каждый из четырёх национальных танцев представляет лакомство: испанский — шоколад, арабский — кофе, китайский — чай, русский — тростниковые палочки). Чайковский написал эту часть, используя реальную грузинскую колыбельную, которую он услышал от Михаила Ипполитова-Иванова — мелодия записана в характерном восточном ладу с пониженной второй ступенью.\n\nТемп Allegretto, размер 3/8. Аккомпанемент строится на двух нотах, переходящих друг в друга — имитация одного только инструмента, что-то вроде восточного барабана. Поверх — кларнет ведёт медлительную мелодию, иногда меняясь с английским рожком. Это самая «медитативная» часть всей сюиты — почти эмбиент по структуре, минимум событий за две минуты.",
+    "license": "CC-BY",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://archive.org/details/TchaikovskyTheNutcrackerSuite",
+    "credit": "Leopold Stokowski · Philadelphia Orchestra · CC-BY",
+    "_fileUrl": "/music/tracks/tchaikovsky-nutcracker-arabian.mp3"
+  },
+  {
+    "id": "tchaikovsky-nutcracker-chinese",
+    "file": "tchaikovsky-nutcracker-chinese.mp3",
+    "title": "«Щелкунчик», сюита op. 71a — Китайский танец",
+    "title_original": "The Nutcracker Suite, Op. 71a — Chinese Dance",
+    "composer_id": "tchaikovsky",
+    "performer_id": "leopold-stokowski",
+    "year_composed": 1892,
+    "year_recorded": null,
+    "era": "late-romanticism",
+    "style": [
+      "ballet"
+    ],
+    "duration_sec": 42,
+    "description_md": "Самый короткий номер сюиты — Китайский танец, около сорока секунд. В сюжете балета — пара китайских кукол выходит из шкатулки и танцует. Чайковский даёт музыку, никак не связанную с реальной китайской традицией: это европейское представление о «китайскости» конца XIX века, основанное больше на иллюстрациях, чем на этнографии.\n\nПриём элементарный, но эффективный: над постоянным повторяющимся басом фаготов — фигура трёх повторяющихся нот, — флейта-пикколо играет короткую щебечущую мелодию в высоком регистре. Контраст низкого и высокого, отсутствие средних голосов, моноритмичность — создаёт ощущение игрушечности, тех самых заводных кукол. Сорок секунд хватает Чайковскому, чтобы создать законченный образ; в балете эту сцену так и играют — короткий, точный выход и уход персонажей.",
+    "license": "CC-BY",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://archive.org/details/TchaikovskyTheNutcrackerSuite",
+    "credit": "Leopold Stokowski · Philadelphia Orchestra · CC-BY",
+    "_fileUrl": "/music/tracks/tchaikovsky-nutcracker-chinese.mp3"
+  },
+  {
+    "id": "tchaikovsky-nutcracker-march",
+    "file": "tchaikovsky-nutcracker-march.mp3",
+    "title": "«Щелкунчик», сюита op. 71a — Марш",
+    "title_original": "The Nutcracker Suite, Op. 71a — March",
+    "composer_id": "tchaikovsky",
+    "performer_id": "leopold-stokowski",
+    "year_composed": 1892,
+    "year_recorded": null,
+    "era": "late-romanticism",
+    "style": [
+      "ballet"
+    ],
+    "duration_sec": 192,
+    "description_md": "Второй номер сюиты — Марш детей на рождественской вечеринке у Штальбаумов. Тема построена на типичной для маршей пунктирной фигуре «таа-та-таа», но Чайковский поручает её не медным, а пиккало и кларнетам — что превращает торжественный марш в игрушечный, чуть-чуть кукольный.\n\nСередина — короткий мажорный эпизод в виолончелях, после которого возвращается основная тема. Чайковский писал «Щелкунчика» в 1891–1892 годах, между Пятой симфонией и работой над Шестой; здесь он работает в особенно лёгком, прозрачном оркестровом письме. У Стоковского марш звучит подчёркнуто чётко, с акцентом на каждую сильную долю — почти как в строевом порядке, что усиливает контраст с последующими, более сказочными номерами.",
+    "license": "CC-BY",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://archive.org/details/TchaikovskyTheNutcrackerSuite",
+    "credit": "Leopold Stokowski · Philadelphia Orchestra · CC-BY",
+    "_fileUrl": "/music/tracks/tchaikovsky-nutcracker-march.mp3"
+  },
+  {
+    "id": "tchaikovsky-nutcracker-overture",
+    "file": "tchaikovsky-nutcracker-overture.mp3",
+    "title": "«Щелкунчик», сюита op. 71a — Миниатюрная увертюра",
+    "title_original": "The Nutcracker Suite, Op. 71a — Miniature Overture",
+    "composer_id": "tchaikovsky",
+    "performer_id": "leopold-stokowski",
+    "year_composed": 1892,
+    "year_recorded": null,
+    "era": "late-romanticism",
+    "style": [
+      "ballet"
+    ],
+    "duration_sec": 284,
+    "description_md": "Открывающая часть концертной сюиты из балета «Щелкунчик», составленной Чайковским в 1892 году, ещё до премьеры самого балета — он хотел сначала проверить материал в концертном зале. Миниатюрная увертюра — короткий разогрев, типично балетный «занавес»: без литавр и низких медных, только верхние струнные, флейты, кларнеты. Камерный звук, почти как у симфониетты.\n\nФорма — сонатное аллегро в сильно укороченном виде: главная партия, побочная в доминанте, минимальная разработка, реприза, кода. Чайковский нарочно держит лёгкий, не-героический тон — это вступление к сказке, а не к симфонии. Леопольд Стоковский записал сюиту с Филадельфийским оркестром: эталонное «филадельфийское» звучание — широкая струнная масса, мягкая атака, длинные кантиленные линии.",
+    "license": "CC-BY",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://archive.org/details/TchaikovskyTheNutcrackerSuite",
+    "credit": "Leopold Stokowski · Philadelphia Orchestra · CC-BY",
+    "_fileUrl": "/music/tracks/tchaikovsky-nutcracker-overture.mp3"
+  },
+  {
+    "id": "tchaikovsky-nutcracker-sugar-plum",
+    "file": "tchaikovsky-nutcracker-sugar-plum.mp3",
+    "title": "«Щелкунчик», сюита op. 71a — Танец феи Драже",
+    "title_original": "The Nutcracker Suite, Op. 71a — Dance of the Sugar Plum Fairy",
+    "composer_id": "tchaikovsky",
+    "performer_id": "leopold-stokowski",
+    "year_composed": 1892,
+    "year_recorded": null,
+    "era": "late-romanticism",
+    "style": [
+      "ballet"
+    ],
+    "duration_sec": 221,
+    "description_md": "Танец феи Драже — самый узнаваемый номер всего балета. Чайковский написал его в 1892 году, после того как привёз из Парижа неизвестный в России инструмент — челесту, изобретённую Огюстом Мюстелем в 1886-м. Челеста даёт хрустальный, лёгкий звон фортепиано — Чайковский поручает ей основную мелодию танца, и слушатель XIX века был уверен, что слышит что-то совершенно новое.\n\nФорма ABA с короткой кодой. Аккомпанемент — пиццикато струнных, имитирующее звон сахарных капель. Тема — нисходящие фразы челесты, технически несложные, но требующие особой чистоты атаки. До «Щелкунчика» русские композиторы не использовали челесту вообще; после «Щелкунчика» она стала стандартным инструментом большого оркестра. Эта тема — одна из самых цитируемых в массовой культуре XX века: от мультфильмов до рекламы шоколада.",
+    "trivia": "Чайковский держал заказ челесты для премьеры «Щелкунчика» в строгом секрете — боялся, что Римский-Корсаков или Глазунов используют новый инструмент первыми.",
+    "license": "CC-BY",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://archive.org/details/TchaikovskyTheNutcrackerSuite",
+    "credit": "Leopold Stokowski · Philadelphia Orchestra · CC-BY",
+    "_fileUrl": "/music/tracks/tchaikovsky-nutcracker-sugar-plum.mp3"
+  },
+  {
+    "id": "tchaikovsky-nutcracker-trepak",
+    "file": "tchaikovsky-nutcracker-trepak.mp3",
+    "title": "«Щелкунчик», сюита op. 71a — Трепак (Русский танец)",
+    "title_original": "The Nutcracker Suite, Op. 71a — Trepak (Russian Dance)",
+    "composer_id": "tchaikovsky",
+    "performer_id": "leopold-stokowski",
+    "year_composed": 1892,
+    "year_recorded": null,
+    "era": "late-romanticism",
+    "style": [
+      "ballet"
+    ],
+    "duration_sec": 58,
+    "description_md": "Самый короткий номер сюиты — Трепак, всего около минуты. Трепак — традиционный казацкий и украинский танец с резкими прыжками и приседаниями; в балете он сопровождает выход «русских» сладостей в волшебном царстве Драже.\n\nЧайковский строит номер на одной короткой теме, которую оркестр повторяет четыре раза в нарастающем темпе и плотности. Это типичный приём финального «бис»-номера: предельное ускорение к концу, громкая кода с тарелками и литаврами. У Стоковского темп уже изначально быстрый — почти стремительный — и финальные такты звучат как победный взрыв. Меньше минуты, но запоминается на годы; именно этот номер обычно играют как «лицо» Чайковского на любом концерте лёгкой классики.",
+    "license": "CC-BY",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://archive.org/details/TchaikovskyTheNutcrackerSuite",
+    "credit": "Leopold Stokowski · Philadelphia Orchestra · CC-BY",
+    "_fileUrl": "/music/tracks/tchaikovsky-nutcracker-trepak.mp3"
   }
 ]
