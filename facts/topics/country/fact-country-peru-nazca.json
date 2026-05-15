@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-peru-nazca",
+  "topic": "country",
+  "title": "Перу · Линии Наски",
+  "caption": "Геоглифы 500 до н.э. – 500 н.э. на плато Наска. Колибри 96 м, кондор 134 м, обезьяна 93 м. Видны только с воздуха. Назначение спорят 100 лет.",
+  "image": "fact-country-peru-nazca.webp",
+  "image_width": 1280,
+  "image_height": 851,
+  "alt": "Линии Наски",
+  "credit": "Diego Delso · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Nazca_Lines",
+  "license": "CC-BY-SA",
+  "year": -500,
+  "meta": {
+    "country_code": "PE"
+  }
+}

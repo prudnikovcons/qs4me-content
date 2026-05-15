@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-westminster-bridge",
+  "topic": "architecture",
+  "title": "Вестминстерский мост",
+  "caption": "Лондон, 1862. 252 м длиной. Зелёный (как кожаные сиденья в Палате общин). С него лучший вид на Биг-Бен — сюжет иконы лондонских открыток.",
+  "image": "fact-architecture-westminster-bridge.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Вестминстерский мост",
+  "credit": "Martin Dunst · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Westminster_Bridge",
+  "license": "CC-BY-SA",
+  "year": 1862,
+  "meta": {
+    "country_code": "GB"
+  }
+}

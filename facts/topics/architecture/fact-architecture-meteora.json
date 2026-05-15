@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-meteora",
+  "topic": "architecture",
+  "title": "Метеоры",
+  "caption": "Греция. 6 православных монастырей на вершинах скал-столбов 400 м высотой. Построены в XIV веке для защиты от турок. UNESCO с 1988.",
+  "image": "fact-architecture-meteora.webp",
+  "image_width": 1280,
+  "image_height": 854,
+  "alt": "Монастыри Метеоры",
+  "credit": "Stathis floros · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Meteora",
+  "license": "CC-BY-SA",
+  "year": 1350,
+  "meta": {
+    "country_code": "GR"
+  }
+}

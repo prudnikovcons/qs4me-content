@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-acropolis-temples",
+  "topic": "architecture",
+  "title": "Эрехтейон",
+  "caption": "Афинский Акрополь, 421–406 до н.э. Храм Афины и Посейдона. 6 кариатид (колонн в форме женщин) — иконическая черта. Оригиналы в Музее Акрополя.",
+  "image": "fact-architecture-acropolis-temples.webp",
+  "image_width": 1280,
+  "image_height": 852,
+  "alt": "Эрехтейон",
+  "credit": "Jebulon · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Erechtheion",
+  "license": "CC0",
+  "year": -406,
+  "meta": {
+    "country_code": "GR"
+  }
+}

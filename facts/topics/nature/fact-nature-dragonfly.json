@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-dragonfly",
+  "topic": "nature",
+  "title": "Стрекоза",
+  "caption": "Скорость до 56 км/ч. 30 000 фасеток в каждом глазу — почти 360° зрение. Ловит добычу с точностью 95% — рекорд среди хищников.",
+  "image": "fact-nature-dragonfly.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Стрекоза",
+  "credit": "Charles J. Sharp · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Dragonfly",
+  "license": "CC-BY-SA",
+  "year": 2022
+}

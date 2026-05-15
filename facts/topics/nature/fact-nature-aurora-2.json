@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-aurora-2",
+  "topic": "nature",
+  "title": "Полярное сияние",
+  "caption": "Заряженные частицы солнечного ветра возбуждают атомы атмосферы на 100-300 км. Зелёный — кислород, фиолетовый/синий — азот. Видны от 60° широты.",
+  "image": "fact-nature-aurora-2.webp",
+  "image_width": 1280,
+  "image_height": 834,
+  "alt": "Полярное сияние",
+  "credit": "United States Air Force photo by Senior Airman Joshua Strang · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Aurora",
+  "license": "PD",
+  "year": 2005
+}

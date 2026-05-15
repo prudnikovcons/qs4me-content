@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-todaiji",
+  "topic": "architecture",
+  "title": "Тодай-дзи",
+  "caption": "Нара, 743 г. Крупнейшая деревянная конструкция мира до 1998. Внутри — Будда Вайрочана 15 м из бронзы, отлит 749. UNESCO с 1998.",
+  "image": "fact-architecture-todaiji.webp",
+  "image_width": 1280,
+  "image_height": 1024,
+  "alt": "Тодай-дзи",
+  "credit": "Wiiii · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/T%C5%8Ddai-ji",
+  "license": "CC-BY-SA",
+  "year": 743,
+  "meta": {
+    "country_code": "JP"
+  }
+}

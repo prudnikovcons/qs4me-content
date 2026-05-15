@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-cousteau",
+  "topic": "quote",
+  "title": "Жак-Ив Кусто",
+  "caption": "1910–1997. Сооизобретатель акваланга 1943. «Калипсо» — корабль-лаборатория. 120+ фильмов о подводном мире. Изменил восприятие океана.",
+  "image": "fact-quote-cousteau.webp",
+  "image_width": 755,
+  "image_height": 1060,
+  "alt": "Жак-Ив Кусто",
+  "credit": "Hans Peters for Anefo . · CC0 · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Jacques_Cousteau",
+  "license": "CC0",
+  "year": 1943
+}

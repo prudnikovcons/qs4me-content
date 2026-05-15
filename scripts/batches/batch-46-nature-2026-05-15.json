@@ -1,0 +1,547 @@
+[
+  {
+    "id": "fact-nature-lion",
+    "topic": "nature",
+    "title": "Лев",
+    "caption": "Африка и Гирский лес Индии. Самцы 250 кг, самки 180 кг. Единственная социальная кошка — прайды до 30 особей. Грива привлекает самок.",
+    "alt": "Лев",
+    "meta": { "species": "Panthera leo" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Lion"
+  },
+  {
+    "id": "fact-nature-leopard",
+    "topic": "nature",
+    "title": "Леопард",
+    "caption": "Самая широко распространённая большая кошка — Африка и Азия. Утаскивает добычу на дерево. Может прыгнуть на 6 м в высоту, 12 м в длину.",
+    "alt": "Леопард",
+    "meta": { "species": "Panthera pardus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Leopard"
+  },
+  {
+    "id": "fact-nature-jaguar",
+    "topic": "nature",
+    "title": "Ягуар",
+    "caption": "Крупнейшая кошка Америк. Сила укуса 1500 фунтов — пробивает череп жертвы. Любит воду — отличный пловец. Чёрный ягуар (пантера) — меланист.",
+    "alt": "Ягуар",
+    "meta": { "species": "Panthera onca" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jaguar"
+  },
+  {
+    "id": "fact-nature-snow-leopard",
+    "topic": "nature",
+    "title": "Снежный барс",
+    "caption": "Высокогорье Центральной Азии. Хвост 1 м — почти как тело — используется для баланса и согревания морды во сне. Не рычит. Осталось 4000–6500 в дикой природе.",
+    "alt": "Снежный барс",
+    "meta": { "species": "Panthera uncia" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Snow_leopard"
+  },
+  {
+    "id": "fact-nature-grizzly",
+    "topic": "nature",
+    "title": "Гризли",
+    "caption": "Подвид бурого медведя в Северной Америке. Самцы до 360 кг. Скорость до 56 км/ч. Помнит каждый лосось, которого ел — лосось возвращается на нерест в то же место.",
+    "alt": "Гризли",
+    "meta": { "species": "Ursus arctos horribilis" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Grizzly_bear"
+  },
+  {
+    "id": "fact-nature-giant-panda",
+    "topic": "nature",
+    "title": "Большая панда",
+    "caption": "Эндемик Сычуани, Китай. 99% диеты — бамбук, ест 14 кг в день. Кишечник как у плотоядного — переваривает только 17% бамбука. 1864 особи в дикой природе.",
+    "alt": "Большая панда",
+    "meta": { "species": "Ailuropoda melanoleuca" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Giant_panda"
+  },
+  {
+    "id": "fact-nature-king-cobra",
+    "topic": "nature",
+    "title": "Королевская кобра",
+    "caption": "Длиннейшая ядовитая змея — до 5,5 м. Единственная змея, строящая гнездо для яиц. Яд на одного укуса хватит на 20 человек. Питается другими змеями.",
+    "alt": "Королевская кобра",
+    "meta": { "species": "Ophiophagus hannah" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "King_cobra"
+  },
+  {
+    "id": "fact-nature-rattlesnake",
+    "topic": "nature",
+    "title": "Гремучая змея",
+    "caption": "Северная и Южная Америка. Погремушка на хвосте — из ороговевших чешуек, добавляется каждую линьку. Звук слышен на 18 м. Без воды живёт 2 года.",
+    "alt": "Гремучая змея",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rattlesnake"
+  },
+  {
+    "id": "fact-nature-chameleon",
+    "topic": "nature",
+    "title": "Хамелеон",
+    "caption": "Меняет цвет не для маскировки — для общения и терморегуляции. Глаза вращаются независимо. Язык в 2 раза длиннее тела, скорость 25 км/ч.",
+    "alt": "Хамелеон",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Chameleon"
+  },
+  {
+    "id": "fact-nature-sea-turtle",
+    "topic": "nature",
+    "title": "Морская черепаха",
+    "caption": "Возраст до 100 лет. 7 видов. Используют магнитное поле Земли для навигации. Самки возвращаются на тот же пляж, где родились, через 30+ лет.",
+    "alt": "Морская черепаха",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sea_turtle"
+  },
+  {
+    "id": "fact-nature-orca",
+    "topic": "nature",
+    "title": "Косатка",
+    "caption": "До 9 м, 5,5 тонн. Социальная — живёт семьями (matriarchal pods). 90% диалектов криков уникальны для каждой стаи. Топ-хищник океана.",
+    "alt": "Косатка",
+    "meta": { "species": "Orcinus orca" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Orca"
+  },
+  {
+    "id": "fact-nature-bottlenose-dolphin",
+    "topic": "nature",
+    "title": "Афалина",
+    "caption": "Эхолокация — частоты 100 кГц для охоты. Узнают себя в зеркале. 25 разных свистов для общения. Живут до 60 лет в дикой природе.",
+    "alt": "Афалина",
+    "meta": { "species": "Tursiops truncatus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Common_bottlenose_dolphin"
+  },
+  {
+    "id": "fact-nature-walrus",
+    "topic": "nature",
+    "title": "Морж",
+    "caption": "До 2 тонн. Бивни до 1 м — у самцов и самок. Используют для вытаскивания из воды и драк. Чувствительные усы — каждый волосок имеет 1000 нервных окончаний.",
+    "alt": "Морж",
+    "meta": { "species": "Odobenus rosmarus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Walrus"
+  },
+  {
+    "id": "fact-nature-sea-otter",
+    "topic": "nature",
+    "title": "Калан",
+    "caption": "Тихоокеанский морской бобр. Густейшая шерсть всех животных — 1 млн волосков на см². Спит на воде, держась за лапы партнёра. Использует камни как инструмент.",
+    "alt": "Калан",
+    "meta": { "species": "Enhydra lutris" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sea_otter"
+  },
+  {
+    "id": "fact-nature-beaver",
+    "topic": "nature",
+    "title": "Бобр",
+    "caption": "Крупнейший грызун Северной Америки — до 30 кг. Зубы растут всю жизнь. Плотина бобров — рекорд в Альберте, 850 м, видна из космоса.",
+    "alt": "Бобр",
+    "meta": { "species": "Castor canadensis" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Beaver"
+  },
+  {
+    "id": "fact-nature-capybara",
+    "topic": "nature",
+    "title": "Капибара",
+    "caption": "Крупнейший грызун мира — до 80 кг. Полуводный, Южная Америка. Знаменит дружелюбием — все животные с ним мирные. Интернет-мем 2020-х.",
+    "alt": "Капибара",
+    "meta": { "species": "Hydrochoerus hydrochaeris" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Capybara"
+  },
+  {
+    "id": "fact-nature-platypus-2",
+    "topic": "nature",
+    "title": "Утконос",
+    "caption": "Утка-бобёр. Несёт яйца (как пресмыкающиеся), кормит молоком (как млекопитающее). Электрорецепторы в клюве. Шпоры самца — ядовитые.",
+    "alt": "Утконос",
+    "meta": { "species": "Ornithorhynchus anatinus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Platypus"
+  },
+  {
+    "id": "fact-nature-koala",
+    "topic": "nature",
+    "title": "Коала",
+    "caption": "Австралия. Не медведь — сумчатый. Спит 22 часа в сутки. Ест 1 кг эвкалиптовых листьев в день. После пожаров 2019-2020 — на грани исчезновения.",
+    "alt": "Коала",
+    "meta": { "species": "Phascolarctos cinereus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Koala"
+  },
+  {
+    "id": "fact-nature-albatross",
+    "topic": "nature",
+    "title": "Странствующий альбатрос",
+    "caption": "Самый широкий размах крыльев среди птиц — 3,7 м. Облетает Землю за 46 дней. Парит часами без взмахов. Не приземляется неделями.",
+    "alt": "Странствующий альбатрос",
+    "meta": { "species": "Diomedea exulans" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Wandering_albatross"
+  },
+  {
+    "id": "fact-nature-kiwi",
+    "topic": "nature",
+    "title": "Киви",
+    "caption": "Новая Зеландия. Нелетающая, ночная. Размером с курицу — несёт яйцо весом 25% массы тела (рекорд). Слабое зрение, отличный нюх (редкость для птиц).",
+    "alt": "Киви птица",
+    "meta": { "species": "Apteryx" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kiwi"
+  },
+  {
+    "id": "fact-nature-ostrich",
+    "topic": "nature",
+    "title": "Страус",
+    "caption": "Самая большая птица — до 2,7 м, 156 кг. Бежит 70 км/ч. Яйцо 1,5 кг — для крутого нужно 90 минут. Прячет голову в песок — миф.",
+    "alt": "Страус",
+    "meta": { "species": "Struthio camelus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Common_ostrich"
+  },
+  {
+    "id": "fact-nature-peacock",
+    "topic": "nature",
+    "title": "Павлин",
+    "caption": "Самец индийского павлина. 200 «глаз» на хвосте 1,5-2 м. Развёртывает веером для самок. Дарвин — пример эстетического полового отбора.",
+    "alt": "Павлин с раскрытым хвостом",
+    "meta": { "species": "Pavo cristatus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Peafowl"
+  },
+  {
+    "id": "fact-nature-owl",
+    "topic": "nature",
+    "title": "Сова",
+    "caption": "Поворачивает голову на 270°. Слышит мышь под 60 см снега. Глаза — не яблоки, а трубки, не двигаются. 200+ видов сов мира.",
+    "alt": "Полярная сова",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Owl"
+  },
+  {
+    "id": "fact-nature-kingfisher",
+    "topic": "nature",
+    "title": "Зимородок",
+    "caption": "Ныряет за рыбой со скорости 25 км/ч. Клюв инженеры скопировали для японского сверхбыстрого поезда Синкансэн (с 1997) — снизили шум туннеля.",
+    "alt": "Зимородок",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Kingfisher"
+  },
+  {
+    "id": "fact-nature-flamingo",
+    "topic": "nature",
+    "title": "Фламинго",
+    "caption": "Розовый цвет — от каротиноидов в рачках и водорослях. Стоит на одной ноге для терморегуляции. Колонии до 1 миллиона птиц (Кенийское озеро Накуру).",
+    "alt": "Фламинго",
+    "meta": { "species": "Phoenicopterus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Flamingo"
+  },
+  {
+    "id": "fact-nature-poison-frog",
+    "topic": "nature",
+    "title": "Древолазы",
+    "caption": "Южная Америка. Самая ядовитая — золотой древолаз. 1 мкг яда убивает человека. Индейцы натирали стрелы. В неволе теряют яд — он от диеты муравьями.",
+    "alt": "Древолаз",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Poison_dart_frog"
+  },
+  {
+    "id": "fact-nature-giant-squid",
+    "topic": "nature",
+    "title": "Гигантский кальмар",
+    "caption": "До 13 м, 275 кг. Самые большие глаза в животном мире — диаметр 27 см. Живой кальмар впервые снят 30 сентября 2004 у Японии.",
+    "alt": "Гигантский кальмар",
+    "meta": { "species": "Architeuthis dux" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Giant_squid"
+  },
+  {
+    "id": "fact-nature-manta-ray",
+    "topic": "nature",
+    "title": "Манта",
+    "caption": "Самый крупный скат — до 7 м размах. Самый «умный» мозг среди рыб — больше относительно тела, чем у акул. Узнаёт себя в зеркале (тест зеркала).",
+    "alt": "Манта",
+    "meta": { "species": "Mobula birostris" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Giant_oceanic_manta_ray"
+  },
+  {
+    "id": "fact-nature-seahorse",
+    "topic": "nature",
+    "title": "Морской конёк",
+    "caption": "Уникум — самец вынашивает потомство. От 100 до 2000 икринок в брюшной сумке 2-4 недели. 46 видов. Часть смертна — 20 в одной семье.",
+    "alt": "Морской конёк",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Seahorse"
+  },
+  {
+    "id": "fact-nature-starfish",
+    "topic": "nature",
+    "title": "Морская звезда",
+    "caption": "1900 видов. Регенерирует — отрезанный луч даёт целую звезду. У некоторых видов глаза на концах лучей. Не рыбы — иглокожие.",
+    "alt": "Морская звезда",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Starfish"
+  },
+  {
+    "id": "fact-nature-jellyfish-immortal",
+    "topic": "nature",
+    "title": "Медузы",
+    "caption": "Без сердца, мозга, костей. 95% воды. Существуют 500 миллионов лет — старше динозавров. 1 вид (Turritopsis) технически бессмертен.",
+    "alt": "Медуза",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jellyfish"
+  },
+  {
+    "id": "fact-nature-coral-reef-2",
+    "topic": "nature",
+    "title": "Коралловый риф",
+    "caption": "Подводный город. 25% морских видов живут в рифах при том, что они занимают 0,1% морского дна. С 1950 потеряно 50% кораллов.",
+    "alt": "Коралловый риф",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Coral_reef"
+  },
+  {
+    "id": "fact-nature-honey-bee-colony",
+    "topic": "nature",
+    "title": "Колония пчёл",
+    "caption": "50 000 пчёл. 1 матка живёт 4-5 лет, откладывает 2000 яиц в день. Рабочие живут 6 недель. Танец пчелы открыт Карлом фон Фришем (Нобель 1973).",
+    "alt": "Улей пчёл",
+    "year": 1973,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Beehive"
+  },
+  {
+    "id": "fact-nature-ant-colony",
+    "topic": "nature",
+    "title": "Муравьиная колония",
+    "caption": "До 30 миллионов муравьёв в одной семье (африканские дриловые). Биомасса всех муравьёв планеты ~12 миллионов тонн — превышает биомассу всех птиц.",
+    "alt": "Муравьиная колония",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ant_colony"
+  },
+  {
+    "id": "fact-nature-dragonfly",
+    "topic": "nature",
+    "title": "Стрекоза",
+    "caption": "Скорость до 56 км/ч. 30 000 фасеток в каждом глазу — почти 360° зрение. Ловит добычу с точностью 95% — рекорд среди хищников.",
+    "alt": "Стрекоза",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dragonfly"
+  },
+  {
+    "id": "fact-nature-cicada",
+    "topic": "nature",
+    "title": "Цикады",
+    "caption": "17-летние цикады в США выходят только раз в 17 лет, синхронно. 2024 — 2 выводка одновременно (XIII и XIX), последний раз в 1803. Звук 100 дБ.",
+    "alt": "Цикада",
+    "year": 2024,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Cicada"
+  },
+  {
+    "id": "fact-nature-scorpion",
+    "topic": "nature",
+    "title": "Скорпион",
+    "caption": "Светится в УФ — флюоресцентные белки в кутикуле. Живёт без еды до 1 года. Существует 430 миллионов лет — старше деревьев.",
+    "alt": "Скорпион в УФ",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Scorpion"
+  },
+  {
+    "id": "fact-nature-tarantula",
+    "topic": "nature",
+    "title": "Тарантул",
+    "caption": "Семейство пауков-птицеедов. Самки живут до 30 лет, самцы — 7. У некоторых видов размах ног до 30 см. Яд слабый — обычно не опаснее пчелы.",
+    "alt": "Тарантул",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tarantula"
+  },
+  {
+    "id": "fact-nature-mosquito",
+    "topic": "nature",
+    "title": "Комар",
+    "caption": "Самое смертоносное животное мира — 1 миллион смертей в год через малярию, денге и др. Только самки пьют кровь. Чувствуют CO₂ за 50 м.",
+    "alt": "Комар",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mosquito"
+  },
+  {
+    "id": "fact-nature-ginkgo",
+    "topic": "nature",
+    "title": "Гинкго билоба",
+    "caption": "«Живое ископаемое». 270 миллионов лет существования. Считалась вымершей в дикой природе. Найдена в Китае в XVIII в. Дерево-памятник Хиросимы — пережила атомный взрыв.",
+    "alt": "Гинкго билоба",
+    "meta": { "species": "Ginkgo biloba" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ginkgo_biloba"
+  },
+  {
+    "id": "fact-nature-banyan",
+    "topic": "nature",
+    "title": "Баньян",
+    "caption": "Индийское дерево с воздушными корнями, которые становятся стволами. Великий Баньян в Калькутте — 1 дерево покрывает 1,5 га, 3700 опор-стволов.",
+    "alt": "Баньян",
+    "meta": { "species": "Ficus benghalensis" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Banyan"
+  },
+  {
+    "id": "fact-nature-bristlecone",
+    "topic": "nature",
+    "title": "Сосна остистая",
+    "caption": "Самые долгоживущие деревья мира. «Мафусаил» в Калифорнии — 4856 лет (2024). Проросла в 2832 до н.э. — старше пирамид и Стоунхенджа.",
+    "alt": "Сосна остистая",
+    "meta": { "species": "Pinus longaeva" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pinus_longaeva"
+  },
+  {
+    "id": "fact-nature-rose",
+    "topic": "nature",
+    "title": "Роза",
+    "caption": "Окультурена 5000 лет назад в Китае. 30 000 сортов. Главная роза любви — гибрид Peace, выпущен в США 29 апреля 1945 (день освобождения Германии).",
+    "alt": "Роза",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Rose"
+  },
+  {
+    "id": "fact-nature-tulip",
+    "topic": "nature",
+    "title": "Тюльпан",
+    "caption": "Турецкое происхождение, привезён в Европу в XVI в. Тюльпановая лихорадка в Голландии 1634-1637 — луковица Semper Augustus стоила 10 годовых зарплат.",
+    "alt": "Тюльпаны",
+    "year": 1637,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Tulip"
+  },
+  {
+    "id": "fact-nature-cherry-blossom",
+    "topic": "nature",
+    "title": "Сакура",
+    "caption": "Японская вишня. Ханами — традиция любования цветением, с VIII века. Полное цветение 1 неделя. Япония следит официально с прогнозом фронта цветения.",
+    "alt": "Сакура в цвету",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hanami"
+  },
+  {
+    "id": "fact-nature-sunflower",
+    "topic": "nature",
+    "title": "Подсолнух",
+    "caption": "Hеliotropism — поворот к Солнцу. Северная Америка, одомашнен 4500 до н.э. На Украине — национальный символ. Семечки расположены по золотому сечению.",
+    "alt": "Подсолнух",
+    "meta": { "species": "Helianthus annuus" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sunflower"
+  },
+  {
+    "id": "fact-nature-orchid",
+    "topic": "nature",
+    "title": "Орхидеи",
+    "caption": "Семейство орхидных — 28 000 видов. Каждый 4-й цветковый вид мира. Ваниль — единственная орхидея с пищевой ценностью. Адаптировались к каждому континенту кроме Антарктиды.",
+    "alt": "Орхидеи",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Orchidaceae"
+  },
+  {
+    "id": "fact-nature-lotus",
+    "topic": "nature",
+    "title": "Лотос",
+    "caption": "Священный цветок в Индии, Египте, Китае. Эффект лотоса — листья самоочищаются. Семена прорастают через 1000+ лет — найден живой 1300-летний.",
+    "alt": "Цветок лотоса",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Nelumbo_nucifera"
+  },
+  {
+    "id": "fact-nature-redwood",
+    "topic": "nature",
+    "title": "Секвойя вечнозелёная",
+    "caption": "Калифорния, прибрежная. Гиперион — 115,9 м, самое высокое дерево мира (найдено в 2006). Может жить 2500+ лет. Кора 30 см толщиной, устойчива к огню.",
+    "alt": "Секвойя",
+    "meta": { "species": "Sequoia sempervirens" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sequoia_sempervirens"
+  },
+  {
+    "id": "fact-nature-baobab-tree",
+    "topic": "nature",
+    "title": "Баобаб",
+    "caption": "Африка, Мадагаскар, Австралия. 8 видов. Запасает до 120 000 литров воды в стволе. Живёт 1000+ лет. Австралийский борьба — последний в мире.",
+    "alt": "Баобаб",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Adansonia"
+  },
+  {
+    "id": "fact-nature-rainbow-eucalyptus",
+    "topic": "nature",
+    "title": "Радужный эвкалипт",
+    "caption": "Eucalyptus deglupta. Кора отслаивается, обнажая зелёные, синие, оранжевые, фиолетовые слои — каждый возрастной слой имеет свой цвет. Филиппины, Папуа.",
+    "alt": "Радужный эвкалипт",
+    "meta": { "species": "Eucalyptus deglupta" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Eucalyptus_deglupta"
+  },
+  {
+    "id": "fact-nature-fjord",
+    "topic": "nature",
+    "title": "Фьорд",
+    "caption": "Глубокие узкие морские заливы, прорезанные ледниками. Норвегия — 1190 фьордов. Согне-фьорд самый длинный в мире — 205 км, глубина до 1308 м.",
+    "alt": "Фьорд в Норвегии",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Fjord"
+  },
+  {
+    "id": "fact-nature-geyser",
+    "topic": "nature",
+    "title": "Гейзер",
+    "caption": "Источник, периодически выбрасывающий горячую воду и пар. ~1000 гейзеров мира — половина в Йеллоустоне (США), часть в Исландии. Старый Служака извергается каждые 90 минут.",
+    "alt": "Гейзер извергается",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Geyser"
+  },
+  {
+    "id": "fact-nature-aurora-2",
+    "topic": "nature",
+    "title": "Полярное сияние",
+    "caption": "Заряженные частицы солнечного ветра возбуждают атомы атмосферы на 100-300 км. Зелёный — кислород, фиолетовый/синий — азот. Видны от 60° широты.",
+    "alt": "Полярное сияние",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Aurora"
+  },
+  {
+    "id": "fact-nature-sand-dune",
+    "topic": "nature",
+    "title": "Песчаные дюны",
+    "caption": "Сахара, Намиб, Гоби. Самые высокие — в Намибии (388 м, Big Daddy). Движутся 10-50 м/год. Звуковые дюны издают «пение» при движении песка.",
+    "alt": "Песчаные дюны",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Dune"
+  },
+  {
+    "id": "fact-nature-cave-pearl",
+    "topic": "nature",
+    "title": "Сталактит и сталагмит",
+    "caption": "Карбонат кальция, оседающий из капель воды в пещерах. Растут 0,1-3 мм в год. Самый длинный сталактит мира — 8,2 м, в Полигнотовых пещерах Бразилии.",
+    "alt": "Сталактиты в пещере",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stalactite"
+  },
+  {
+    "id": "fact-nature-bioluminescent-bay",
+    "topic": "nature",
+    "title": "Биолюминесцентные заливы",
+    "caption": "Море Москито в Пуэрто-Рико. Динофлагелляты Pyrodinium bahamense светятся при движении воды. 720 000 микроорганизмов на литр. Виден на 50 м.",
+    "alt": "Биолюминесцентная вода",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bioluminescence"
+  }
+]

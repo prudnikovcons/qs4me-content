@@ -1,0 +1,17 @@
+{
+  "id": "fact-art-oath-horatii",
+  "topic": "art",
+  "title": "Клятва Горациев",
+  "caption": "Жак-Луи Давид, 1784. 330×425 см. Икона неоклассицизма. Сюжет — клятва трёх братьев римлян пойти на смерть за родину. Лувр.",
+  "image": "fact-art-oath-horatii.webp",
+  "image_width": 1280,
+  "image_height": 993,
+  "alt": "Клятва Горациев",
+  "credit": "Jacques-Louis David · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Oath_of_the_Horatii",
+  "license": "PD",
+  "year": 1784,
+  "meta": {
+    "artist": "Jacques-Louis David"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-koala",
+  "topic": "nature",
+  "title": "Коала",
+  "caption": "Австралия. Не медведь — сумчатый. Спит 22 часа в сутки. Ест 1 кг эвкалиптовых листьев в день. После пожаров 2019-2020 — на грани исчезновения.",
+  "image": "fact-nature-koala.webp",
+  "image_width": 1132,
+  "image_height": 1113,
+  "alt": "Коала",
+  "credit": "Diliff · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Koala",
+  "license": "CC-BY-SA",
+  "year": 2004,
+  "meta": {
+    "species": "Phascolarctos cinereus"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-castel-sant-angelo",
+  "topic": "architecture",
+  "title": "Замок Святого Ангела",
+  "caption": "Рим, 139 г. н.э. Мавзолей Адриана. Стал крепостью пап, тюрьмой, музеем. Соединён крытым переходом с Ватиканом — папы прятались тут в осадах.",
+  "image": "fact-architecture-castel-sant-angelo.webp",
+  "image_width": 1280,
+  "image_height": 853,
+  "alt": "Замок Святого Ангела",
+  "credit": "Lysandre Galiano · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo",
+  "license": "CC-BY-SA",
+  "year": 139,
+  "meta": {
+    "country_code": "IT"
+  }
+}

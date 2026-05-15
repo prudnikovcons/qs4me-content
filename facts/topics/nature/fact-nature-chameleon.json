@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-chameleon",
+  "topic": "nature",
+  "title": "Хамелеон",
+  "caption": "Меняет цвет не для маскировки — для общения и терморегуляции. Глаза вращаются независимо. Язык в 2 раза длиннее тела, скорость 25 км/ч.",
+  "image": "fact-nature-chameleon.webp",
+  "image_width": 1280,
+  "image_height": 799,
+  "alt": "Хамелеон",
+  "credit": "Rod Waddington · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Chameleon",
+  "license": "CC-BY-SA",
+  "year": 2017
+}

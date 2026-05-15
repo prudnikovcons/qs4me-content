@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-pont-neuf",
+  "topic": "architecture",
+  "title": "Новый мост · Pont Neuf",
+  "caption": "Париж, 1607. Иронично — старейший каменный мост города. Заказан Генрихом IV. Без зданий — революция: до этого мосты были застроены домами.",
+  "image": "fact-architecture-pont-neuf.webp",
+  "image_width": 1280,
+  "image_height": 711,
+  "alt": "Pont Neuf",
+  "credit": "Rmrfstar · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Pont_Neuf",
+  "license": "CC-BY-SA",
+  "year": 1607,
+  "meta": {
+    "country_code": "FR"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-walt-disney",
+  "topic": "quote",
+  "title": "Уолт Дисней",
+  "caption": "1901–1966. Сооснователь Disney в 1923. «Микки-Маус» (1928), «Белоснежка» (1937) — первый цветной полный мультфильм. 22 Оскара — рекорд.",
+  "image": "fact-quote-walt-disney.webp",
+  "image_width": 450,
+  "image_height": 600,
+  "alt": "Уолт Дисней",
+  "credit": "Boy Scouts of America · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Walt_Disney",
+  "license": "PD",
+  "year": 1928
+}

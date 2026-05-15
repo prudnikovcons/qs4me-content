@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-beaver",
+  "topic": "nature",
+  "title": "Бобр",
+  "caption": "Крупнейший грызун Северной Америки — до 30 кг. Зубы растут всю жизнь. Плотина бобров — рекорд в Альберте, 850 м, видна из космоса.",
+  "image": "fact-nature-beaver.webp",
+  "image_width": 714,
+  "image_height": 715,
+  "alt": "Бобр",
+  "credit": "Steve from Washington, DC, USA · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Beaver",
+  "license": "CC-BY-SA",
+  "year": 2008,
+  "meta": {
+    "species": "Castor canadensis"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fact-quote-asimov",
+  "topic": "quote",
+  "title": "Айзек Азимов",
+  "caption": "1920–1992. Эмигрант из Петровичей. Биохимик, профессор. 500+ книг. «Основание», «Я, робот». Создал «3 закона робототехники» в 1942.",
+  "image": "fact-quote-asimov.webp",
+  "image_width": 1280,
+  "image_height": 1857,
+  "alt": "Айзек Азимов",
+  "credit": "Phillip Leonian [1] from New York World-Telegram &amp; Sun.[2] · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Isaac_Asimov",
+  "license": "PD",
+  "year": 1942
+}

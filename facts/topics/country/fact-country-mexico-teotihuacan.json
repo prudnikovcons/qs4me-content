@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-mexico-teotihuacan",
+  "topic": "country",
+  "title": "Мексика · Теотиуакан",
+  "caption": "Мезоамериканский город, 100 до н.э. – 750 н.э. На пике — 200 000 жителей. Пирамида Солнца — 65 м высоты, 222×220 м основание.",
+  "image": "fact-country-mexico-teotihuacan.webp",
+  "image_width": 1280,
+  "image_height": 923,
+  "alt": "Теотиуакан · Пирамида Солнца",
+  "credit": "Ricardo David Sánchez · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Teotihuacan",
+  "license": "CC-BY-SA",
+  "year": 100,
+  "meta": {
+    "country_code": "MX"
+  }
+}

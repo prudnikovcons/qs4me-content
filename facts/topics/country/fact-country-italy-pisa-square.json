@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-italy-pisa-square",
+  "topic": "country",
+  "title": "Италия · Поле Чудес",
+  "caption": "Пиза. Piazza dei Miracoli — собор (XI в.), баптистерий (XII), кампанила (Падающая башня), кладбище. UNESCO с 1987.",
+  "image": "fact-country-italy-pisa-square.webp",
+  "image_width": 1280,
+  "image_height": 849,
+  "alt": "Поле Чудес в Пизе",
+  "credit": "Gerd Eichmann · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Piazza_dei_Miracoli",
+  "license": "CC-BY-SA",
+  "year": 1987,
+  "meta": {
+    "country_code": "IT"
+  }
+}

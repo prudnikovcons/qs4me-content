@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-tarantula",
+  "topic": "nature",
+  "title": "Тарантул",
+  "caption": "Семейство пауков-птицеедов. Самки живут до 30 лет, самцы — 7. У некоторых видов размах ног до 30 см. Яд слабый — обычно не опаснее пчелы.",
+  "image": "fact-nature-tarantula.webp",
+  "image_width": 1280,
+  "image_height": 909,
+  "alt": "Тарантул",
+  "credit": "Carlos Valenzuela · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Tarantula",
+  "license": "CC-BY-SA",
+  "year": 2017
+}

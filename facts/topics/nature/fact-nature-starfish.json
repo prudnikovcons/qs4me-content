@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-starfish",
+  "topic": "nature",
+  "title": "Морская звезда",
+  "caption": "1900 видов. Регенерирует — отрезанный луч даёт целую звезду. У некоторых видов глаза на концах лучей. Не рыбы — иглокожие.",
+  "image": "fact-nature-starfish.webp",
+  "image_width": 1280,
+  "image_height": 1003,
+  "alt": "Морская звезда",
+  "credit": "Top left: Klaus Rassinger (Museum Wiesbaden) Top right: Katie Ahlfeld Bottom rig",
+  "source": "https://en.wikipedia.org/wiki/Starfish",
+  "license": "CC-BY-SA",
+  "year": 2025
+}

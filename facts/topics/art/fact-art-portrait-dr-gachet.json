@@ -1,0 +1,17 @@
+{
+  "id": "fact-art-portrait-dr-gachet",
+  "topic": "art",
+  "title": "Портрет доктора Гаше",
+  "caption": "Винсент Ван Гог, июнь 1890. За 6 недель до смерти. Гаше — его врач в Овер-сюр-Уаз. Продан за $82,5 млн в 1990 — рекорд для картины на 19 лет.",
+  "image": "fact-art-portrait-dr-gachet.webp",
+  "image_width": 819,
+  "image_height": 1008,
+  "alt": "Портрет доктора Гаше",
+  "credit": "Vincent van Gogh · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Portrait_of_Dr._Gachet",
+  "license": "PD",
+  "year": 1890,
+  "meta": {
+    "artist": "Vincent van Gogh"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-vatican-museums",
+  "topic": "country",
+  "title": "Ватикан · Музеи",
+  "caption": "Музеи Ватикана. Папа Юлий II начал коллекцию в 1506. 70 000 экспонатов, 7 км галерей. Сикстинская капелла — крайняя точка маршрута.",
+  "image": "fact-country-vatican-museums.webp",
+  "image_width": 1280,
+  "image_height": 695,
+  "alt": "Музеи Ватикана",
+  "credit": "Original: Fabio Mochi Vector: Kaidor · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Vatican_Museums",
+  "license": "CC-BY",
+  "year": 1506,
+  "meta": {
+    "country_code": "VA"
+  }
+}

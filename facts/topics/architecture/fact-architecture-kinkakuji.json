@@ -1,0 +1,17 @@
+{
+  "id": "fact-architecture-kinkakuji",
+  "topic": "architecture",
+  "title": "Кинкаку-дзи · Золотой павильон",
+  "caption": "Киото, 1397. Дзен-буддистский храм. Верхние 2 этажа покрыты золотыми листами. Сожжён монахом-шизофреником в 1950, восстановлен 1955.",
+  "image": "fact-architecture-kinkakuji.webp",
+  "image_width": 1280,
+  "image_height": 1920,
+  "alt": "Кинкаку-дзи",
+  "credit": "Nacaru · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Kinkaku-ji",
+  "license": "CC-BY-SA",
+  "year": 1397,
+  "meta": {
+    "country_code": "JP"
+  }
+}

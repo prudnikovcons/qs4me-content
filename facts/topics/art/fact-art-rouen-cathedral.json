@@ -1,0 +1,17 @@
+{
+  "id": "fact-art-rouen-cathedral",
+  "topic": "art",
+  "title": "Руанский собор · Моне",
+  "caption": "Серия Клода Моне, 1892–1894. 30 картин одного фасада в разное время суток и погоду. Революция в восприятии света. Икона импрессионизма.",
+  "image": "fact-art-rouen-cathedral.webp",
+  "image_width": 559,
+  "image_height": 874,
+  "alt": "Руанский собор Моне",
+  "credit": "Claude Monet · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series)",
+  "license": "PD",
+  "year": 1894,
+  "meta": {
+    "artist": "Claude Monet"
+  }
+}

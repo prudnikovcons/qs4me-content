@@ -1,0 +1,14 @@
+{
+  "id": "fact-nature-rose",
+  "topic": "nature",
+  "title": "Роза",
+  "caption": "Окультурена 5000 лет назад в Китае. 30 000 сортов. Главная роза любви — гибрид Peace, выпущен в США 29 апреля 1945 (день освобождения Германии).",
+  "image": "fact-nature-rose.webp",
+  "image_width": 1280,
+  "image_height": 1188,
+  "alt": "Роза",
+  "credit": "Stan Shebs · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Rose",
+  "license": "CC-BY-SA",
+  "year": 1945
+}

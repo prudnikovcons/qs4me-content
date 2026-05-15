@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-manta-ray",
+  "topic": "nature",
+  "title": "Манта",
+  "caption": "Самый крупный скат — до 7 м размах. Самый «умный» мозг среди рыб — больше относительно тела, чем у акул. Узнаёт себя в зеркале (тест зеркала).",
+  "image": "fact-nature-manta-ray.webp",
+  "image_width": 800,
+  "image_height": 600,
+  "alt": "Манта",
+  "credit": "jon hanson from london, UK · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Giant_oceanic_manta_ray",
+  "license": "CC-BY-SA",
+  "year": 2005,
+  "meta": {
+    "species": "Mobula birostris"
+  }
+}

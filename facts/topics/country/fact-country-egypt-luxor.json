@@ -1,0 +1,17 @@
+{
+  "id": "fact-country-egypt-luxor",
+  "topic": "country",
+  "title": "Египет · Луксор",
+  "caption": "Древние Фивы. Долина царей — 63 гробницы фараонов Нового царства (1539–1075 до н.э.). Гробница Тутанхамона (KV62) открыта Картером 4 ноября 1922.",
+  "image": "fact-country-egypt-luxor.webp",
+  "image_width": 800,
+  "image_height": 530,
+  "alt": "Долина царей в Луксоре",
+  "credit": "Roland Unger · CC-BY-SA · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Luxor",
+  "license": "CC-BY-SA",
+  "year": -1500,
+  "meta": {
+    "country_code": "EG"
+  }
+}

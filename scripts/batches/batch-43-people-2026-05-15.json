@@ -1,0 +1,547 @@
+[
+  {
+    "id": "fact-quote-tolkien",
+    "topic": "quote",
+    "title": "Дж. Р. Р. Толкин",
+    "caption": "1892–1973. Профессор англосаксонского в Оксфорде. «Хоббит» (1937) и «Властелин колец» (1954-1955) перевернули фэнтези. Создал 15+ языков.",
+    "alt": "Дж. Р. Р. Толкин",
+    "year": 1954,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "J._R._R._Tolkien"
+  },
+  {
+    "id": "fact-quote-hemingway",
+    "topic": "quote",
+    "title": "Эрнест Хемингуэй",
+    "caption": "1899–1961. Журналист-репортёр 5 войн. Нобель по литературе 1954. «Старик и море», «По ком звонит колокол». Покончил с собой 2 июля 1961.",
+    "alt": "Эрнест Хемингуэй",
+    "year": 1954,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ernest_Hemingway"
+  },
+  {
+    "id": "fact-quote-kafka",
+    "topic": "quote",
+    "title": "Франц Кафка",
+    "caption": "1883–1924. Прага. «Превращение» (1915), «Процесс» (1925, посмертно). Завещал сжечь все работы — друг Брод нарушил, опубликовал. Кафкианство — стиль.",
+    "alt": "Франц Кафка",
+    "year": 1924,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Franz_Kafka"
+  },
+  {
+    "id": "fact-quote-joyce",
+    "topic": "quote",
+    "title": "Джеймс Джойс",
+    "caption": "1882–1941. Ирландец. «Улисс» (1922) — 730 страниц, действие 1 дня в Дублине. «Finnegans Wake» (1939) — 17 лет писал. Сложнейшие романы XX века.",
+    "alt": "Джеймс Джойс",
+    "year": 1922,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "James_Joyce"
+  },
+  {
+    "id": "fact-quote-proust",
+    "topic": "quote",
+    "title": "Марсель Пруст",
+    "caption": "1871–1922. «В поисках утраченного времени» — 7 томов, 3000 страниц, писал 13 лет. Известная сцена с мадленкой запустила психологию памяти.",
+    "alt": "Марсель Пруст",
+    "year": 1913,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Marcel_Proust"
+  },
+  {
+    "id": "fact-quote-wilde",
+    "topic": "quote",
+    "title": "Оскар Уайльд",
+    "caption": "1854–1900. «Портрет Дориана Грея» (1890). Суд 1895 за гомосексуализм — 2 года каторги. Умер в нищете в Париже. «Бывают только нравственные книги, и безнравственные.»",
+    "alt": "Оскар Уайльд",
+    "year": 1895,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Oscar_Wilde"
+  },
+  {
+    "id": "fact-quote-hugo",
+    "topic": "quote",
+    "title": "Виктор Гюго",
+    "caption": "1802–1885. «Собор Парижской Богоматери» (1831), «Отверженные» (1862). 19 лет писал «Отверженных». Изгнан Наполеоном III, жил на Гернси 19 лет.",
+    "alt": "Виктор Гюго",
+    "year": 1862,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Victor_Hugo"
+  },
+  {
+    "id": "fact-quote-borges",
+    "topic": "quote",
+    "title": "Хорхе Луис Борхес",
+    "caption": "1899–1986. Аргентинский писатель. «Алеф», «Сад расходящихся тропок». Слепой с 1955, диктовал. Не получил Нобеля — критика политики Пиночета.",
+    "alt": "Хорхе Луис Борхес",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jorge_Luis_Borges"
+  },
+  {
+    "id": "fact-quote-dickens",
+    "topic": "quote",
+    "title": "Чарлз Диккенс",
+    "caption": "1812–1870. «Оливер Твист», «Дэвид Копперфильд», «Большие надежды». Публиковал серийно — почти все его 15 романов выходили выпусками в журналах.",
+    "alt": "Чарлз Диккенс",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Charles_Dickens"
+  },
+  {
+    "id": "fact-quote-mark-twain-2",
+    "topic": "quote",
+    "title": "Марк Твен",
+    "caption": "1835–1910. «Том Сойер» (1876), «Гекльберри Финн» (1884). Псевдоним — крик лоцманов «mark twain!» (2 сажени). Родился в год кометы Галлея, умер при следующем прилёте.",
+    "alt": "Марк Твен",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Mark_Twain"
+  },
+  {
+    "id": "fact-quote-fitzgerald",
+    "topic": "quote",
+    "title": "Скотт Фицджеральд",
+    "caption": "1896–1940. «Великий Гэтсби» (1925). Голос потерянного поколения. Умер в безвестности в Голливуде в 44. Книга стала классикой в 1950-х.",
+    "alt": "Скотт Фицджеральд",
+    "year": 1925,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "F._Scott_Fitzgerald"
+  },
+  {
+    "id": "fact-quote-faulkner",
+    "topic": "quote",
+    "title": "Уильям Фолкнер",
+    "caption": "1897–1962. Нобель 1949. Юг США как мифологическая земля. «Шум и ярость» (1929), «Свет в августе» (1932). Поток сознания, изобретение Йокнапатофы.",
+    "alt": "Уильям Фолкнер",
+    "year": 1949,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "William_Faulkner"
+  },
+  {
+    "id": "fact-quote-melville",
+    "topic": "quote",
+    "title": "Герман Мелвилл",
+    "caption": "1819–1891. «Моби Дик» (1851). При жизни провалился, признан через 50 лет. Был моряком 3 года на китобое. Список «Великий американский роман».",
+    "alt": "Герман Мелвилл",
+    "year": 1851,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Herman_Melville"
+  },
+  {
+    "id": "fact-quote-asimov",
+    "topic": "quote",
+    "title": "Айзек Азимов",
+    "caption": "1920–1992. Эмигрант из Петровичей. Биохимик, профессор. 500+ книг. «Основание», «Я, робот». Создал «3 закона робототехники» в 1942.",
+    "alt": "Айзек Азимов",
+    "year": 1942,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Isaac_Asimov"
+  },
+  {
+    "id": "fact-quote-orwell",
+    "topic": "quote",
+    "title": "Джордж Оруэлл",
+    "caption": "1903–1950. «Скотный двор» (1945), «1984» (1949). «Большой Брат», «двоемыслие» — его слова. Воевал в Испании, ранен в горло, попал в чёрные списки.",
+    "alt": "Джордж Оруэлл",
+    "year": 1949,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "George_Orwell"
+  },
+  {
+    "id": "fact-quote-camus",
+    "topic": "quote",
+    "title": "Альбер Камю",
+    "caption": "1913–1960. «Чужой» (1942), «Чума» (1947), «Миф о Сизифе». Нобель 1957 — самый молодой после Киплинга. Погиб в автокатастрофе в 46 лет.",
+    "alt": "Альбер Камю",
+    "year": 1957,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Albert_Camus"
+  },
+  {
+    "id": "fact-quote-sartre",
+    "topic": "quote",
+    "title": "Жан-Поль Сартр",
+    "caption": "1905–1980. «Бытие и ничто» (1943), «Тошнота» (1938). Главный экзистенциалист. Отказался от Нобеля 1964 — «писатель не должен превращаться в институт».",
+    "alt": "Жан-Поль Сартр",
+    "year": 1964,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jean-Paul_Sartre"
+  },
+  {
+    "id": "fact-quote-descartes",
+    "topic": "quote",
+    "title": "Рене Декарт",
+    "caption": "1596–1650. «Cogito, ergo sum» (1637). Декартова система координат. Дуализм души и тела. Умер в Стокгольме от пневмонии — королева Кристина требовала уроки в 5 утра.",
+    "alt": "Рене Декарт",
+    "year": 1637,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "René_Descartes"
+  },
+  {
+    "id": "fact-quote-nietzsche",
+    "topic": "quote",
+    "title": "Фридрих Ницше",
+    "caption": "1844–1900. «Так говорил Заратустра» (1883), «По ту сторону добра и зла» (1886). «Бог мёртв». Сошёл с ума в Турине 1889, увидев избиение лошади.",
+    "alt": "Фридрих Ницше",
+    "year": 1889,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Friedrich_Nietzsche"
+  },
+  {
+    "id": "fact-quote-spinoza",
+    "topic": "quote",
+    "title": "Бенедикт Спиноза",
+    "caption": "1632–1677. «Этика» (1677, посмертно). Пантеизм: Бог = природа. Отлучён от еврейской общины в 23 года. Зарабатывал шлифовкой линз — умер от стекольной пыли.",
+    "alt": "Бенедикт Спиноза",
+    "year": 1677,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Baruch_Spinoza"
+  },
+  {
+    "id": "fact-quote-hume",
+    "topic": "quote",
+    "title": "Дэвид Юм",
+    "caption": "1711–1776. Шотландский эмпирик. «Трактат о человеческой природе» (1739–1740). Проблема индукции, скептицизм. Разбудил Канта от догматического сна.",
+    "alt": "Дэвид Юм",
+    "year": 1740,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "David_Hume"
+  },
+  {
+    "id": "fact-quote-locke",
+    "topic": "quote",
+    "title": "Джон Локк",
+    "caption": "1632–1704. «Tabula rasa» — разум при рождении чистый. Основатель либерализма. Идея разделения властей повлияла на Конституцию США через Монтескьё.",
+    "alt": "Джон Локк",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "John_Locke"
+  },
+  {
+    "id": "fact-quote-schopenhauer",
+    "topic": "quote",
+    "title": "Артур Шопенгауэр",
+    "caption": "1788–1860. «Мир как воля и представление» (1818). Пессимизм, идеи восточной философии в западной — первый. Любил пуделей, ненавидел Гегеля.",
+    "alt": "Артур Шопенгауэр",
+    "year": 1818,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Arthur_Schopenhauer"
+  },
+  {
+    "id": "fact-quote-heidegger",
+    "topic": "quote",
+    "title": "Мартин Хайдеггер",
+    "caption": "1889–1976. «Бытие и время» (1927). Главный философ XX века. Скандал — поддержал нацистов 1933. Запрещён преподавать 1945–1951.",
+    "alt": "Мартин Хайдеггер",
+    "year": 1927,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Martin_Heidegger"
+  },
+  {
+    "id": "fact-quote-wittgenstein",
+    "topic": "quote",
+    "title": "Людвиг Витгенштейн",
+    "caption": "1889–1951. Австриец. «Логико-философский трактат» (1921) — решил все проблемы философии. Потом написал «Философские исследования» — опроверг сам себя.",
+    "alt": "Людвиг Витгенштейн",
+    "year": 1921,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ludwig_Wittgenstein"
+  },
+  {
+    "id": "fact-quote-russell",
+    "topic": "quote",
+    "title": "Бертран Рассел",
+    "caption": "1872–1970. Математик и философ. «Principia Mathematica» (1910-1913, 3 тома) с Уайтхедом. Нобель по литературе 1950. Антивоенный активист до 97 лет.",
+    "alt": "Бертран Рассел",
+    "year": 1950,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Bertrand_Russell"
+  },
+  {
+    "id": "fact-quote-foucault",
+    "topic": "quote",
+    "title": "Мишель Фуко",
+    "caption": "1926–1984. «Надзирать и наказывать» (1975), «История безумия». Главный постструктуралист. Умер от СПИДа в 57. Идеи власти-знания изменили гуманитарные науки.",
+    "alt": "Мишель Фуко",
+    "year": 1975,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Michel_Foucault"
+  },
+  {
+    "id": "fact-quote-arendt",
+    "topic": "quote",
+    "title": "Ханна Арендт",
+    "caption": "1906–1975. Немецко-американский философ. «Истоки тоталитаризма» (1951), «Банальность зла» (1963) о процессе Эйхмана. Бежала от нацистов 1941.",
+    "alt": "Ханна Арендт",
+    "year": 1963,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Hannah_Arendt"
+  },
+  {
+    "id": "fact-quote-de-beauvoir",
+    "topic": "quote",
+    "title": "Симона де Бовуар",
+    "caption": "1908–1986. «Второй пол» (1949) — основа феминизма второй волны. «Женщиной не рождаются, ею становятся». Спутница Сартра, открытые отношения 51 год.",
+    "alt": "Симона де Бовуар",
+    "year": 1949,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Simone_de_Beauvoir"
+  },
+  {
+    "id": "fact-quote-fermi",
+    "topic": "quote",
+    "title": "Энрико Ферми",
+    "caption": "1901–1954. Итальянец, нобелиат 1938. Сразу после премии не вернулся в фашистскую Италию — поехал в США. Запустил первый ядерный реактор Chicago Pile-1 (1942).",
+    "alt": "Энрико Ферми",
+    "year": 1942,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Enrico_Fermi"
+  },
+  {
+    "id": "fact-quote-oppenheimer",
+    "topic": "quote",
+    "title": "Роберт Оппенгеймер",
+    "caption": "1904–1967. Научный руководитель Манхэттенского проекта. После Тринити процитировал Бхагавад-Гиту: «Я стал смертью, разрушителем миров.» Лишён допуска в 1954.",
+    "alt": "Роберт Оппенгеймер",
+    "year": 1945,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "J._Robert_Oppenheimer"
+  },
+  {
+    "id": "fact-quote-dirac",
+    "topic": "quote",
+    "title": "Поль Дирак",
+    "caption": "1902–1984. Нобель 1933 (с Шрёдингером). Уравнение Дирака предсказало антиматерию. Известен молчаливостью — «единица Дирака» = 1 слово в час.",
+    "alt": "Поль Дирак",
+    "year": 1933,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Paul_Dirac"
+  },
+  {
+    "id": "fact-quote-schrodinger-physicist",
+    "topic": "quote",
+    "title": "Эрвин Шрёдингер",
+    "caption": "1887–1961. Австриец. Нобель 1933. Уравнение Шрёдингера — основа квантовой механики. Мысленный эксперимент «кот Шрёдингера» (1935) против Копенгагена.",
+    "alt": "Эрвин Шрёдингер",
+    "year": 1933,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Erwin_Schrödinger"
+  },
+  {
+    "id": "fact-quote-heisenberg-physicist",
+    "topic": "quote",
+    "title": "Вернер Гейзенберг",
+    "caption": "1901–1976. Нобель 1932. Принцип неопределённости (1927). Возглавил немецкую ядерную программу в WWII — провалил, возможно намеренно.",
+    "alt": "Вернер Гейзенберг",
+    "year": 1932,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Werner_Heisenberg"
+  },
+  {
+    "id": "fact-quote-sagan",
+    "topic": "quote",
+    "title": "Карл Саган",
+    "caption": "1934–1996. Астроном-популяризатор. «Космос» (1980) — 500 млн зрителей. «Pale Blue Dot» эссе. Идея «Voyager Golden Record» — послание инопланетянам.",
+    "alt": "Карл Саган",
+    "year": 1980,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Carl_Sagan"
+  },
+  {
+    "id": "fact-quote-leakey",
+    "topic": "quote",
+    "title": "Луи Лики",
+    "caption": "1903–1972. Кенийский палеоантрополог. Открыл Homo habilis в Олдувайском ущелье 1960. Поощрял Гудолл, Фосси, Галдикас — «ангелы Лики» в приматологии.",
+    "alt": "Луи Лики",
+    "year": 1960,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Louis_Leakey"
+  },
+  {
+    "id": "fact-quote-goodall",
+    "topic": "quote",
+    "title": "Джейн Гудолл",
+    "caption": "Род. 1934. С 1960 в национальном парке Гомбе изучает шимпанзе. Открыла: они делают орудия. Развенчала миф «человек — единственный инструментоделатель».",
+    "alt": "Джейн Гудолл",
+    "year": 1960,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jane_Goodall"
+  },
+  {
+    "id": "fact-quote-attenborough",
+    "topic": "quote",
+    "title": "Дэвид Аттенборо",
+    "caption": "Род. 1926. 70 лет на BBC. «Жизнь на Земле» (1979), «Планета Земля» (2006), «Замёрзшая планета». Голос природы для 3 поколений зрителей.",
+    "alt": "Дэвид Аттенборо",
+    "year": 1979,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "David_Attenborough"
+  },
+  {
+    "id": "fact-quote-cousteau",
+    "topic": "quote",
+    "title": "Жак-Ив Кусто",
+    "caption": "1910–1997. Сооизобретатель акваланга 1943. «Калипсо» — корабль-лаборатория. 120+ фильмов о подводном мире. Изменил восприятие океана.",
+    "alt": "Жак-Ив Кусто",
+    "year": 1943,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Jacques_Cousteau"
+  },
+  {
+    "id": "fact-quote-walt-disney",
+    "topic": "quote",
+    "title": "Уолт Дисней",
+    "caption": "1901–1966. Сооснователь Disney в 1923. «Микки-Маус» (1928), «Белоснежка» (1937) — первый цветной полный мультфильм. 22 Оскара — рекорд.",
+    "alt": "Уолт Дисней",
+    "year": 1928,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Walt_Disney"
+  },
+  {
+    "id": "fact-quote-kubrick",
+    "topic": "quote",
+    "title": "Стэнли Кубрик",
+    "caption": "1928–1999. «2001: Космическая одиссея» (1968), «Сияние» (1980), «Заводной апельсин» (1971). Перфекционист — 127 дублей сцены с Шелли Дюваль.",
+    "alt": "Стэнли Кубрик",
+    "year": 1968,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Stanley_Kubrick"
+  },
+  {
+    "id": "fact-quote-spielberg",
+    "topic": "quote",
+    "title": "Стивен Спилберг",
+    "caption": "Род. 1946. «Челюсти» (1975), «E.T.» (1982), «Список Шиндлера» (1993), «Парк юрского периода» (1993). Изобрёл blockbuster-формат. $10 млрд кассовых сборов.",
+    "alt": "Стивен Спилберг",
+    "year": 1975,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Steven_Spielberg"
+  },
+  {
+    "id": "fact-quote-hitchcock",
+    "topic": "quote",
+    "title": "Альфред Хичкок",
+    "caption": "1899–1980. «Психо» (1960), «Птицы» (1963), «Головокружение» (1958). Мастер саспенса. Появлялся cameo в 39 своих фильмах. Никогда не получил Оскара за режиссуру.",
+    "alt": "Альфред Хичкок",
+    "year": 1960,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Alfred_Hitchcock"
+  },
+  {
+    "id": "fact-quote-bergman",
+    "topic": "quote",
+    "title": "Ингмар Бергман",
+    "caption": "1918–2007. Швед. «Седьмая печать» (1957), «Земляничная поляна» (1957), «Персона» (1966). 60 фильмов. Главный режиссёр-философ XX века.",
+    "alt": "Ингмар Бергман",
+    "year": 1957,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Ingmar_Bergman"
+  },
+  {
+    "id": "fact-quote-fellini",
+    "topic": "quote",
+    "title": "Федерико Феллини",
+    "caption": "1920–1993. «Сладкая жизнь» (1960), «8½» (1963), «Амаркорд» (1973). Изобрёл слово paparazzi. 5 Оскаров — рекорд для итальянского режиссёра.",
+    "alt": "Федерико Феллини",
+    "year": 1963,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Federico_Fellini"
+  },
+  {
+    "id": "fact-quote-tarkovsky",
+    "topic": "quote",
+    "title": "Андрей Тарковский",
+    "caption": "1932–1986. «Иваново детство» (1962), «Андрей Рублёв» (1966), «Солярис» (1972), «Сталкер» (1979). Эмигрировал 1984. Длинные планы — фирменный стиль.",
+    "alt": "Андрей Тарковский",
+    "year": 1979,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Andrei_Tarkovsky"
+  },
+  {
+    "id": "fact-quote-kurosawa",
+    "topic": "quote",
+    "title": "Акира Куросава",
+    "caption": "1910–1998. «Расёмон» (1950) — открыл Японию для Запада. «Семь самураев» (1954) — оригинал «Великолепной семёрки». 30 фильмов, последний в 83 года.",
+    "alt": "Акира Куросава",
+    "year": 1954,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Akira_Kurosawa"
+  },
+  {
+    "id": "fact-quote-eisenstein",
+    "topic": "quote",
+    "title": "Сергей Эйзенштейн",
+    "caption": "1898–1948. «Броненосец Потёмкин» (1925) — революция в монтаже. Сцена на Одесской лестнице цитируется 100 лет. Сталин любил «Александра Невского».",
+    "alt": "Сергей Эйзенштейн",
+    "year": 1925,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Sergei_Eisenstein"
+  },
+  {
+    "id": "fact-quote-chaplin",
+    "topic": "quote",
+    "title": "Чарли Чаплин",
+    "caption": "1889–1977. «Бродяга» с 1914 — иконический образ. «Огни большого города» (1931), «Великий диктатор» (1940) — сатира на Гитлера. Выгнан из США в 1952 при маккартизме.",
+    "alt": "Чарли Чаплин",
+    "year": 1940,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Charlie_Chaplin"
+  },
+  {
+    "id": "fact-quote-monroe",
+    "topic": "quote",
+    "title": "Мэрилин Монро",
+    "caption": "1926–1962. «Зуд седьмого года» (1955), «В джазе только девушки» (1959). 30 фильмов, $200 млн заработала. Умерла в 36 от передозировки барбитуратов.",
+    "alt": "Мэрилин Монро",
+    "year": 1955,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Marilyn_Monroe"
+  },
+  {
+    "id": "fact-quote-bardot",
+    "topic": "quote",
+    "title": "Брижит Бардо",
+    "caption": "Род. 1934. «И Бог создал женщину» (1956) Роже Вадима — революция эротики в кино. С 1973 — защита животных. 45 фильмов за 21 год карьеры.",
+    "alt": "Брижит Бардо",
+    "year": 1956,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Brigitte_Bardot"
+  },
+  {
+    "id": "fact-quote-pelé",
+    "topic": "quote",
+    "title": "Пеле",
+    "caption": "1940–2022. Бразильский футболист. 1283 гола за карьеру. Единственный 3-кратный чемпион мира (1958, 1962, 1970). Король футбола.",
+    "alt": "Пеле",
+    "year": 1970,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Pelé"
+  },
+  {
+    "id": "fact-quote-maradona",
+    "topic": "quote",
+    "title": "Диего Марадона",
+    "caption": "1960–2020. Чемпион мира 1986 с Аргентиной. «Рука Бога» и «Гол века» в одном матче против Англии. Один из 2 величайших футболистов XX века (с Пеле).",
+    "alt": "Диего Марадона",
+    "year": 1986,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Diego_Maradona"
+  },
+  {
+    "id": "fact-quote-jordan",
+    "topic": "quote",
+    "title": "Майкл Джордан",
+    "caption": "Род. 1963. Chicago Bulls 1984-1998. 6 чемпионатов NBA, 5 MVP. Air Jordan — единственная обувь с собственным брендом ($5 млрд оборот в год).",
+    "alt": "Майкл Джордан",
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Michael_Jordan"
+  },
+  {
+    "id": "fact-quote-ali",
+    "topic": "quote",
+    "title": "Мохаммед Али",
+    "caption": "1942–2016. Чемпион мира в супертяжёлом весе. «Я величайший». Отказался идти во Вьетнам — лишился титула на 3 года. «Грохот в джунглях» 1974 — нокаут Формана.",
+    "alt": "Мохаммед Али",
+    "year": 1974,
+    "wikipedia_lang": "en",
+    "wikipedia_title": "Muhammad_Ali"
+  }
+]

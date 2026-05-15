@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-giant-squid",
+  "topic": "nature",
+  "title": "Гигантский кальмар",
+  "caption": "До 13 м, 275 кг. Самые большие глаза в животном мире — диаметр 27 см. Живой кальмар впервые снят 30 сентября 2004 у Японии.",
+  "image": "fact-nature-giant-squid.webp",
+  "image_width": 1161,
+  "image_height": 1742,
+  "alt": "Гигантский кальмар",
+  "credit": "NTNU Vitenskapsmuseet · CC-BY · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Giant_squid",
+  "license": "CC-BY",
+  "year": 1954,
+  "meta": {
+    "species": "Architeuthis dux"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fact-nature-jaguar",
+  "topic": "nature",
+  "title": "Ягуар",
+  "caption": "Крупнейшая кошка Америк. Сила укуса 1500 фунтов — пробивает череп жертвы. Любит воду — отличный пловец. Чёрный ягуар (пантера) — меланист.",
+  "image": "fact-nature-jaguar.webp",
+  "image_width": 727,
+  "image_height": 501,
+  "alt": "Ягуар",
+  "credit": "USFWS · PD · Wikimedia",
+  "source": "https://en.wikipedia.org/wiki/Jaguar",
+  "license": "PD",
+  "year": 2004,
+  "meta": {
+    "species": "Panthera onca"
+  }
+}
