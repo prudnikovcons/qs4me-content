@@ -103,6 +103,24 @@
     "cover_track_id": "bach-goldberg-var-25"
   },
   {
+    "slug": "meditation",
+    "name_ru": "Медитация",
+    "description_ru": "Восемь треков для медитативной практики: григорианский хорал, буддийские мантры (Маха Паритта, Ом 108, сборник для ума), бинауральная theta для глубокого расслабления и природные звуки сверчков и грозы как фон.",
+    "mood": "introspective",
+    "best_time": "anytime",
+    "track_ids": [
+      "om-108",
+      "gregorian-mass-2",
+      "mantras-buddhist",
+      "maha-piritha",
+      "binaural-theta-4hz",
+      "nature-crickets",
+      "gregorian-mass-5",
+      "nature-thunder"
+    ],
+    "cover_track_id": "om-108"
+  },
+  {
     "slug": "morning-calm",
     "name_ru": "Утреннее затишье",
     "description_ru": "Семь медленных пьес для мягкого старта дня — «Утро» Грига из «Пер Гюнта», лирическая Aria из Гольдберг-вариаций, певучее Adagio из «Жаворонка» Гайдна, Andante Сорок симфонии Моцарта. Без фортиссимо, без драматических кульминаций. Подходит как фон под чтение или утренний кофе.",

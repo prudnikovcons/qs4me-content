@@ -1,0 +1,21 @@
+{
+  "id": "bach-wtc1-prelude-g-minor",
+  "file": "bach-wtc1-prelude-g-minor.mp3",
+  "title": "Прелюдия соль минор ХТК I, BWV 861",
+  "title_original": "Prelude in G minor, BWV 861, from The Well-Tempered Clavier, Book 1",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1722,
+  "year_recorded": 2018,
+  "era": "baroque",
+  "style": [
+    "prelude",
+    "piano-solo"
+  ],
+  "duration_sec": 134,
+  "description_md": "Прелюдия из «Хорошо темперированного клавира», книга 1, BWV 861, в тональности соль минор. Цикл из 24 пар прелюдий и фуг, законченный Бахом в 1722 году, — один из основных текстов западной музыки. Бах писал ХТК как педагогическое пособие и одновременно как энциклопедию тональностей.\n\nЗапись Кимико Ишизака 2018 года, Bösendorfer 280, студия Teldex Berlin, продолжение проекта Open Goldberg, CC0.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+  "credit": "Kimiko Ishizaka · 2018 · Open Well-Tempered Clavier · CC0"
+}

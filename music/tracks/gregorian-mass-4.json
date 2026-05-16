@@ -1,0 +1,21 @@
+{
+  "id": "gregorian-mass-4",
+  "file": "gregorian-mass-4.mp3",
+  "title": "Григорианская месса — Track 4",
+  "title_original": "Gregorian Chant Mass — Track 4",
+  "composer_id": "mantra-traditional",
+  "performer_id": null,
+  "year_composed": 1000,
+  "year_recorded": null,
+  "era": "medieval",
+  "style": [
+    "chant",
+    "choral"
+  ],
+  "duration_sec": 284,
+  "description_md": "Второй из подобранных треков григорианского хорала. Слово «григорианский» — дань папе Григорию Великому (590–604), которому приписывают систематизацию литургического пения, хотя реальная систематизация произошла на двести лет позже при Карле Великом. Чистая модальная вокальная музыка без инструментального сопровождения.\n\nCC PD-mark.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/licenses/publicdomain/",
+  "source": "https://archive.org/details/GregorianChantMass",
+  "credit": "Anonymous chant ensemble · PD"
+}

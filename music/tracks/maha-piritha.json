@@ -1,0 +1,20 @@
+{
+  "id": "maha-piritha",
+  "file": "maha-piritha.mp3",
+  "title": "Маха Паритта — цейлонские буддийские распевы",
+  "title_original": "Maha Piritha (Paritta) — Sri Lankan Buddhist chant",
+  "composer_id": "mantra-traditional",
+  "performer_id": null,
+  "year_composed": 1000,
+  "year_recorded": null,
+  "era": "medieval",
+  "style": [
+    "chant"
+  ],
+  "duration_sec": 264,
+  "description_md": "Маха Паритта (Great Paritta) — корпус из около 30 защитных распевов на палийском языке, который читают цейлонские буддийские монахи традиции Тхеравада. Считается, что повторение паритт уберегает от опасностей и приносит благоденствие. Полная Маха Паритта длится около 8 часов и читается в особых ситуациях (новоселье, болезнь, праздники).\n\nЗдесь — первые 10 минут полной записи, обрезано через ffmpeg. CC0.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/MahaPrethaMP35",
+  "credit": "Anonymous Sri Lankan Buddhist monks · CC0"
+}

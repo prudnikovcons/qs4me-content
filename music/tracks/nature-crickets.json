@@ -1,0 +1,21 @@
+{
+  "id": "nature-crickets",
+  "file": "nature-crickets.mp3",
+  "title": "Сверчки и ночь",
+  "title_original": "Crickets and Nocturnal Sounds",
+  "composer_id": "field-recording",
+  "performer_id": null,
+  "year_composed": 2000,
+  "year_recorded": null,
+  "era": "contemporary",
+  "style": [
+    "nature",
+    "ambient"
+  ],
+  "duration_sec": 264,
+  "description_md": "Полевая запись ночных сверчков и других ночных звуков, записана Иваном Гильомом Козенцей в L'Antico Cerro (Сан-Стефано-ди-Магра, Лигурия, Италия). Сверчки звучат на частотах 3–9 кГц с характерной пульсацией, зависящей от температуры воздуха — есть «правило Долбера», по которому температуру в фаренгейтах можно вычислить из частоты стрекота.\n\nЗдесь — первые 10 минут из 71-минутной записи. CC PD-mark.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "source": "https://archive.org/details/CricketsAndNocturnalSounds",
+  "credit": "Ivan Guillaume Cosenza · Liguria · PD"
+}

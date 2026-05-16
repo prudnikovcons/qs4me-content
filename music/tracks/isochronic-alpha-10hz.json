@@ -1,0 +1,20 @@
+{
+  "id": "isochronic-alpha-10hz",
+  "file": "isochronic-alpha-10hz.mp3",
+  "title": "Изохронные тоны Alpha 10 Hz",
+  "title_original": "Isochronic Tones Alpha 10 Hz",
+  "composer_id": "tone-generator",
+  "performer_id": null,
+  "year_composed": 2026,
+  "year_recorded": 2026,
+  "era": "contemporary",
+  "style": [
+    "isochronic"
+  ],
+  "duration_sec": 600,
+  "description_md": "Изохронные тоны в диапазоне альфа-волн (10 Hz). В отличие от бинауральных ритмов изохронные тоны — это один тон, прерывисто пульсирующий с заданной частотой. Не требуют наушников: работают через любые динамики, потому что пульсация возникает напрямую в звуке, а не как разность двух тонов в мозге.\n\nЗдесь — несущая 200 Hz, амплитудная модуляция 10 Hz через ffmpeg tremolo-фильтр, depth=1.0 (полное on/off). Десять минут моно. CC0.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://qs4.me/",
+  "credit": "ffmpeg tremolo · CC0"
+}

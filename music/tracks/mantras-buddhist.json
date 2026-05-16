@@ -1,0 +1,20 @@
+{
+  "id": "mantras-buddhist",
+  "file": "mantras-buddhist.mp3",
+  "title": "Буддийские мантры для ума",
+  "title_original": "Mantras For The Mind",
+  "composer_id": "mantra-traditional",
+  "performer_id": null,
+  "year_composed": 1500,
+  "year_recorded": null,
+  "era": "medieval",
+  "style": [
+    "chant"
+  ],
+  "duration_sec": 397,
+  "description_md": "Сборник буддийских мантр от группы «The Dhammafarers», выпущенный под общественным достоянием. Мантра в буддийской традиции — короткая священная формула, обычно на санскрите или пали, повторяемая для концентрации ума и накопления заслуг. Один из самых известных образцов — «Ом мани падме хум», мантра сострадания.\n\nCC PD-mark.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/licenses/publicdomain/",
+  "source": "https://archive.org/details/MantrasForTheMind",
+  "credit": "The Dhammafarers · PD"
+}

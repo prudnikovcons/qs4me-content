@@ -1,0 +1,21 @@
+{
+  "id": "gregorian-mass-2",
+  "file": "gregorian-mass-2.mp3",
+  "title": "Григорианская месса — Track 2 (Sacred Polyphony)",
+  "title_original": "Gregorian Chant Mass — Track 2",
+  "composer_id": "mantra-traditional",
+  "performer_id": null,
+  "year_composed": 1000,
+  "year_recorded": null,
+  "era": "medieval",
+  "style": [
+    "chant",
+    "choral"
+  ],
+  "duration_sec": 407,
+  "description_md": "Один из четырёх треков сборника григорианского хорала (Sacred Polyphony). Григорианский распев — литургическая монодия католической церкви, формализованная в VIII–IX веках во время каролингской реформы. Унисонное пение мужских голосов в латинских церковных модах (Dorian, Phrygian, Lydian, Mixolydian); ритм свободный, подчинённый тексту. На сегодня — самая ранняя нотированная музыка западной традиции.\n\nЗапись неизвестного хора, выпущена под CC PD-mark.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/licenses/publicdomain/",
+  "source": "https://archive.org/details/GregorianChantMass",
+  "credit": "Anonymous chant ensemble · PD"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bach-wtc1-fugue-d-major",
+  "file": "bach-wtc1-fugue-d-major.mp3",
+  "title": "Фуга ре мажор ХТК I, BWV 850",
+  "title_original": "Fugue in D major, BWV 850, from The Well-Tempered Clavier, Book 1",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1722,
+  "year_recorded": 2018,
+  "era": "baroque",
+  "style": [
+    "fugue",
+    "piano-solo"
+  ],
+  "duration_sec": 108,
+  "description_md": "Фуга из «Хорошо темперированного клавира», книга 1, BWV 850, в тональности ре мажор. Прелюдия в свободной impromptu-манере с пассажными элементами, фуга — на ярко-маршевую тему. Светлая, праздничная пара.\n\nЗапись Кимико Ишизака 2018 года на рояле Bösendorfer 280 в студии Teldex Berlin — продолжение проекта Open Goldberg Variations, выпущенного в общественное достояние под CC0.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+  "credit": "Kimiko Ishizaka · 2018 · Open Well-Tempered Clavier · CC0"
+}

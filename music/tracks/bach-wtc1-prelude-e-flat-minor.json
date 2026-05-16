@@ -1,0 +1,21 @@
+{
+  "id": "bach-wtc1-prelude-e-flat-minor",
+  "file": "bach-wtc1-prelude-e-flat-minor.mp3",
+  "title": "Прелюдия ми-бемоль минор ХТК I, BWV 853",
+  "title_original": "Prelude in E-flat minor, BWV 853, from The Well-Tempered Clavier, Book 1",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1722,
+  "year_recorded": 2018,
+  "era": "baroque",
+  "style": [
+    "prelude",
+    "piano-solo"
+  ],
+  "duration_sec": 238,
+  "description_md": "Прелюдия из «Хорошо темперированного клавира», книга 1, BWV 853, в тональности ми-бемоль минор. Меланхолическая ми-бемоль минорная пара. Прелюдия имеет почти оперный характер арии, фуга — медленная, контрапунктическая медитация. Одна из самых трагических пар цикла.\n\nЗапись Кимико Ишизака 2018 года на рояле Bösendorfer 280 в студии Teldex Berlin — продолжение проекта Open Goldberg Variations, выпущенного в общественное достояние под CC0.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+  "credit": "Kimiko Ishizaka · 2018 · Open Well-Tempered Clavier · CC0"
+}

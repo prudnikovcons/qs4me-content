@@ -1,0 +1,21 @@
+{
+  "id": "bach-wtc1-fugue-c-sharp-minor",
+  "file": "bach-wtc1-fugue-c-sharp-minor.mp3",
+  "title": "Фуга до-диез минор ХТК I, BWV 849",
+  "title_original": "Fugue in C-sharp minor, BWV 849, from The Well-Tempered Clavier, Book 1",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1722,
+  "year_recorded": 2018,
+  "era": "baroque",
+  "style": [
+    "fugue",
+    "piano-solo"
+  ],
+  "duration_sec": 160,
+  "description_md": "Фуга из «Хорошо темперированного клавира», книга 1, BWV 849, в тональности до-диез минор. Пара до-диез минор — одна из самых интенсивных в цикле. Фуга — пятиголосная (одна из двух пятиголосных в Book 1), на хроматическую тему. Хроматизмы тут отсылают к страстям Баха.\n\nЗапись Кимико Ишизака 2018 года на рояле Bösendorfer 280 в студии Teldex Berlin — продолжение проекта Open Goldberg Variations, выпущенного в общественное достояние под CC0.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+  "credit": "Kimiko Ishizaka · 2018 · Open Well-Tempered Clavier · CC0"
+}

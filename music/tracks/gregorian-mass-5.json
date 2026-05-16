@@ -1,0 +1,21 @@
+{
+  "id": "gregorian-mass-5",
+  "file": "gregorian-mass-5.mp3",
+  "title": "Григорианская месса — Track 5",
+  "title_original": "Gregorian Chant Mass — Track 5",
+  "composer_id": "mantra-traditional",
+  "performer_id": null,
+  "year_composed": 1000,
+  "year_recorded": null,
+  "era": "medieval",
+  "style": [
+    "chant",
+    "choral"
+  ],
+  "duration_sec": 249,
+  "description_md": "Третий трек цикла григорианской мессы. Месса как форма складывается из пяти неизменных частей (Ordinarium Missae): Kyrie, Gloria, Credo, Sanctus, Agnus Dei. Каждая исполнялась на свой характерный распев, передававшийся устной традицией и затем записанный в средневековых градуалах (книгах распевов).\n\nCC PD-mark.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/licenses/publicdomain/",
+  "source": "https://archive.org/details/GregorianChantMass",
+  "credit": "Anonymous chant ensemble · PD"
+}

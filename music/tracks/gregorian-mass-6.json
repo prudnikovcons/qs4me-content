@@ -1,0 +1,21 @@
+{
+  "id": "gregorian-mass-6",
+  "file": "gregorian-mass-6.mp3",
+  "title": "Григорианская месса — Track 6",
+  "title_original": "Gregorian Chant Mass — Track 6",
+  "composer_id": "mantra-traditional",
+  "performer_id": null,
+  "year_composed": 1000,
+  "year_recorded": null,
+  "era": "medieval",
+  "style": [
+    "chant",
+    "choral"
+  ],
+  "duration_sec": 328,
+  "description_md": "Четвёртый трек подборки. Григорианский распев в XX веке пережил несколько ренессансов: монахи бенедиктинского аббатства Солем (Франция) в конце XIX века возродили строгую исполнительскую традицию; в 1990-х альбом Бенедиктинцев из Санто-Доминго де Силос «Chant» неожиданно стал мировым бестселлером.\n\nCC PD-mark.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/licenses/publicdomain/",
+  "source": "https://archive.org/details/GregorianChantMass",
+  "credit": "Anonymous chant ensemble · PD"
+}

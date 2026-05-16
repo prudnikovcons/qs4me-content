@@ -1,0 +1,20 @@
+{
+  "id": "binaural-alpha-10hz",
+  "file": "binaural-alpha-10hz.mp3",
+  "title": "Бинауральный ритм Alpha 10 Hz",
+  "title_original": "Binaural Beats Alpha 10 Hz",
+  "composer_id": "tone-generator",
+  "performer_id": null,
+  "year_composed": 2026,
+  "year_recorded": 2026,
+  "era": "contemporary",
+  "style": [
+    "binaural"
+  ],
+  "duration_sec": 600,
+  "description_md": "Бинауральный ритм в диапазоне альфа-волн (8–13 Hz), специфическая частота 10 Hz. Альфа-волны связывают с состоянием расслабленного бодрствования, спокойной концентрации, медитации с открытыми глазами. Доминируют в ЭЭГ человека в состоянии бодрствования при закрытых глазах без активной мыслительной нагрузки.\n\nРаботает только в наушниках. В левое ухо подаётся чистый тон 200 Hz, в правое — 210 Hz; мозг воспринимает разностную частоту 10 Hz как пульсацию. Десять минут синусоиды, сгенерировано ffmpeg. CC0.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://qs4.me/",
+  "credit": "ffmpeg sine generator · CC0"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bach-wtc1-prelude-a-major",
+  "file": "bach-wtc1-prelude-a-major.mp3",
+  "title": "Прелюдия ля мажор ХТК I, BWV 864",
+  "title_original": "Prelude in A major, BWV 864, from The Well-Tempered Clavier, Book 1",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1722,
+  "year_recorded": 2018,
+  "era": "baroque",
+  "style": [
+    "prelude",
+    "piano-solo"
+  ],
+  "duration_sec": 91,
+  "description_md": "Прелюдия из «Хорошо темперированного клавира», книга 1, BWV 864, в тональности ля мажор. Цикл из 24 пар прелюдий и фуг, законченный Бахом в 1722 году, — один из основных текстов западной музыки. Бах писал ХТК как педагогическое пособие и одновременно как энциклопедию тональностей.\n\nЗапись Кимико Ишизака 2018 года, Bösendorfer 280, студия Teldex Berlin, продолжение проекта Open Goldberg, CC0.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+  "credit": "Kimiko Ishizaka · 2018 · Open Well-Tempered Clavier · CC0"
+}

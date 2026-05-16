@@ -1,0 +1,21 @@
+{
+  "id": "nature-thunder",
+  "file": "nature-thunder.mp3",
+  "title": "Гроза",
+  "title_original": "Thunder Storm",
+  "composer_id": "field-recording",
+  "performer_id": null,
+  "year_composed": 2010,
+  "year_recorded": null,
+  "era": "contemporary",
+  "style": [
+    "nature",
+    "ambient"
+  ],
+  "duration_sec": 600,
+  "description_md": "Полевая запись грозы — нарастающий дождь, отдалённые раскаты грома, постепенное усиление и затихание. Гроза как фоновый звук работает по принципу маскировки: широкий частотный спектр и хаотическая ритмика дождя глушат отвлекающие звуки окружения, не привлекая к себе внимания.\n\nЗапись Chillachella с CC PD-mark. Обрезано до 10 минут из 34-минутной полной версии.",
+  "license": "PD",
+  "license_url": "https://creativecommons.org/licenses/publicdomain/",
+  "source": "https://archive.org/details/ThunderStorm_943",
+  "credit": "Chillachella · field recording · PD"
+}

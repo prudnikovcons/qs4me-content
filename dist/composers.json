@@ -120,6 +120,21 @@
     "_photoUrl": "/music/composers/haydn.jpg"
   },
   {
+    "id": "mantra-traditional",
+    "full_name_ru": "Традиционная мантра",
+    "full_name_en": "Traditional Chant",
+    "birth": 800,
+    "death": null,
+    "country": "Индия / Тибет / Шри-Ланка / Европа",
+    "era": "medieval",
+    "summary_ru": "Сводная категория для традиционной литургической и медитативной музыки без конкретного автора: григорианский хорал, буддийские мантры (тибетские, индийские, цейлонские), индуистские дхуны, ведические распевы. Передавалась устной традицией веками; конкретные мелодические форма́ часто восходят к VIII–XII векам.",
+    "photo": "mantra-traditional.jpg",
+    "photo_credit": "Гал Вихара · XII век · Шри-Ланка · фото Wikimedia Commons PD",
+    "photo_license": "PD",
+    "source": "https://en.wikipedia.org/wiki/Gal_Vihara",
+    "_photoUrl": "/music/composers/mantra-traditional.jpg"
+  },
+  {
     "id": "mendelssohn",
     "full_name_ru": "Феликс Мендельсон",
     "full_name_en": "Felix Mendelssohn",

@@ -1,0 +1,21 @@
+{
+  "id": "bach-wtc1-prelude-b-minor",
+  "file": "bach-wtc1-prelude-b-minor.mp3",
+  "title": "Прелюдия си минор ХТК I, BWV 869",
+  "title_original": "Prelude in B minor, BWV 869, from The Well-Tempered Clavier, Book 1",
+  "composer_id": "bach",
+  "performer_id": "kimiko-ishizaka",
+  "year_composed": 1722,
+  "year_recorded": 2018,
+  "era": "baroque",
+  "style": [
+    "prelude",
+    "piano-solo"
+  ],
+  "duration_sec": 148,
+  "description_md": "Прелюдия из «Хорошо темперированного клавира», книга 1, BWV 869, в тональности си минор. Финальная пара цикла. Прелюдия — широкая лирическая сцена, фуга — на длинную хроматическую тему с пятью контрапозициями. Завершает «энциклопедию тональностей» эпическим возвращением к простоте.\n\nЗапись Кимико Ишизака 2018 года на рояле Bösendorfer 280 в студии Teldex Berlin — продолжение проекта Open Goldberg Variations, выпущенного в общественное достояние под CC0.",
+  "license": "CC0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://archive.org/details/bach-well-tempered-clavier-book-1",
+  "credit": "Kimiko Ishizaka · 2018 · Open Well-Tempered Clavier · CC0"
+}
