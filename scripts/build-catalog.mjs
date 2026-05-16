@@ -141,10 +141,16 @@ const html = `<!DOCTYPE html>
   .card { background:#161b22; border:1px solid #222a35; border-radius:8px; overflow:hidden; display:flex; flex-direction:column; transition:border-color 0.1s; cursor:pointer; }
   .card:hover { border-color:#3b82f6; }
   .card .img { aspect-ratio:1.3; background:#0a0d12; overflow:hidden; display:flex; align-items:center; justify-content:center; }
-  .card .img img { width:100%; height:100%; object-fit:cover; display:block; }
+  .card .img img { width:100%; height:100%; object-fit:contain; display:block; background:#0a0d12; }
   .card .del-btn { position:absolute; top:4px; right:4px; width:24px; height:24px; border:none; border-radius:50%; background:rgba(236,68,68,0.85); color:white; font-size:14px; cursor:pointer; display:none; align-items:center; justify-content:center; line-height:0; padding:0; }
-  .card:hover .del-btn { display:flex; }
+  .card .keep-btn { position:absolute; top:4px; right:32px; width:24px; height:24px; border:none; border-radius:50%; background:rgba(60,224,107,0.85); color:white; font-size:14px; cursor:pointer; display:none; align-items:center; justify-content:center; line-height:0; padding:0; }
+  .card:hover .del-btn, .card:hover .keep-btn { display:flex; }
   .card .del-btn:hover { background:rgba(220,38,38,1); transform:scale(1.1); }
+  .card .keep-btn:hover { background:rgba(34,197,94,1); transform:scale(1.1); }
+  .card.reviewed { display:none !important; }
+  #progress { color:#3ce06b; font-size:13px; margin-left:12px; }
+  #reset-review { background:#1c2129; color:#cdd0d5; border:1px solid #2a323c; border-radius:6px; padding:6px 12px; font-size:12px; cursor:pointer; margin-left:12px; }
+  #reset-review:hover { border-color:#ec4444; color:#ec4444; }
   .card { position:relative; }
   .card.deleting { opacity:0.5; pointer-events:none; }
   .card.deleted { display:none !important; }
@@ -189,6 +195,8 @@ const html = `<!DOCTYPE html>
   </div>
   <div id="search-wrap">
     <input id="search" placeholder="Фильтр по title / caption / id… (Ctrl+F)" autocomplete="off">
+    <span id="progress">Ревью: <span id="reviewed-n">0</span>/${totalFacts}</span>
+    <button id="reset-review" onclick="resetReview()">Сбросить ревью</button>
   </div>
 </header>
 <main>
@@ -204,7 +212,7 @@ ${data.map((d) => `
     <div class="grid">
       ${d.facts.map((f) => `
         <div class="card" data-id="${escapeHtml(f.id)}" data-title="${escapeHtml(f.title.toLowerCase())}" data-caption="${escapeHtml(f.caption.toLowerCase())}" data-source="${escapeHtml(f.source_type)}" onclick="openModal(event, this)">
-          <div class="img">${f.exists ? `<img src="${f.image}" alt="${escapeHtml(f.title)}" loading="lazy">` : `<span style="color:#666">no image</span>`}<button class="del-btn" onclick="deleteFact(event, this)" title="Удалить из репо">×</button></div>
+          <div class="img">${f.exists ? `<img src="${f.image}" alt="${escapeHtml(f.title)}" loading="lazy">` : `<span style="color:#666">no image</span>`}<button class="keep-btn" onclick="keepFact(event, this)" title="Оставить (скрыть из ленты ревью)">✓</button><button class="del-btn" onclick="deleteFact(event, this)" title="Удалить из репо">×</button></div>
           <div class="body">
             <div class="title">${escapeHtml(f.title)}</div>
             <div class="caption">${escapeHtml(f.caption)}</div>
@@ -298,6 +306,48 @@ ${data.map((d) => `
     if (e && e.target.tagName === "IMG") return;
     document.getElementById("modal").classList.remove("open");
   }
+  const REVIEW_KEY = "qs4me-reviewed-v1";
+  function getReviewed() {
+    try { return new Set(JSON.parse(localStorage.getItem(REVIEW_KEY) || "[]")); }
+    catch { return new Set(); }
+  }
+  function setReviewed(set) {
+    localStorage.setItem(REVIEW_KEY, JSON.stringify([...set]));
+    document.getElementById("reviewed-n").textContent = set.size;
+  }
+  function applyReviewed() {
+    const reviewed = getReviewed();
+    document.querySelectorAll(".card").forEach(c => {
+      if (reviewed.has(c.dataset.id)) c.classList.add("reviewed");
+    });
+    document.getElementById("reviewed-n").textContent = reviewed.size;
+  }
+  function keepFact(e, btn) {
+    e.stopPropagation();
+    const card = btn.closest(".card");
+    const reviewed = getReviewed();
+    reviewed.add(card.dataset.id);
+    setReviewed(reviewed);
+    card.classList.add("reviewed");
+  }
+  function resetReview() {
+    if (!confirm("Сбросить весь прогресс ревью? Все скрытые карточки покажутся снова.")) return;
+    localStorage.removeItem(REVIEW_KEY);
+    document.querySelectorAll(".card.reviewed").forEach(c => c.classList.remove("reviewed"));
+    document.getElementById("reviewed-n").textContent = 0;
+  }
+  // Auto-mark deleted as reviewed too
+  const origDelete = deleteFact;
+  deleteFact = async function(e, btn) {
+    const card = btn.closest(".card");
+    await origDelete(e, btn);
+    if (card.classList.contains("deleted")) {
+      const reviewed = getReviewed();
+      reviewed.add(card.dataset.id);
+      setReviewed(reviewed);
+    }
+  };
+  applyReviewed();
 </script>
 </body>
 </html>

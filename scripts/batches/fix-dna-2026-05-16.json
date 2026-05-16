@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fact-science-dna",
+    "topic": "science",
+    "title": "ДНК · двойная спираль",
+    "caption": "Двойная спираль шириной 2 нм. Уотсон и Крик опубликовали структуру в Nature 25 апреля 1953 — статья на 900 слов.",
+    "alt": "Двойная спираль ДНК · 3D",
+    "year": 1953,
+    "meta": { "discovered_by": "Watson, Crick, Franklin, Wilkins" },
+    "wikipedia_lang": "en",
+    "wikipedia_title": "DNA",
+    "image_filename_override": "DNA_Structure+Key+Labelled.pn_NoBB.png"
+  }
+]
